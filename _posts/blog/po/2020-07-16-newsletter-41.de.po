@@ -1,0 +1,1403 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-09 16:35+0200\n"
+"PO-Revision-Date: 2021-03-14 23:08+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: German <http://translate.organise.earth/projects/blog-posts/"
+"2020-07-16-newsletter-41/de/>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'Global Newsletter #41: Please Proceed to Emergency Exits'\n"
+"slug: newsletter-41\n"
+"date: '2020-07-16 14:21'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/17.jpg\n"
+"seoImage: /assets/uploads/17.jpg\n"
+msgstr ""
+"lang: de\n"
+"title: 'Globaler Newsletter #41: Please Proceed to Emergency Exits'\n"
+"slug: newsletter-41\n"
+"date: '2020-07-16 14:21'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/17.jpg\n"
+"seoImage: /assets/uploads/17.jpg\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:13
+msgid "![Swedish rebel gluing herself to a plane](/assets/uploads/17.jpg)"
+msgstr ""
+"![Schwedische Rebellin klebt sich an ein Flugzeug](/assets/uploads/17.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:15
+msgid "Dear rebels,"
+msgstr "Liebe Rebell*innen,"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:17
+msgid ""
+"Exciting times on the frontlines of change. XRUK has announced the [next UK "
+"Rebellion](https://rebellion.earth/uk-rebellion-2020/). For further details, "
+"or to see how you can get involved, check out the [Rebellion "
+"FAQ](https://rebellion.earth/uk-rebellion-2020/faqs/)."
+msgstr ""
+"Es tut sich was an vorderster Front. XRUK hat die [nächste UK-"
+"Rebellion](https://rebellion.earth/uk-rebellion-2020/)angekündigt. Weitere "
+"Einzelheitn und Möglichkeiten, mitzumachen, sind auf [Rebellion "
+"FAQ](https://rebellion.earth/uk-rebellion-2020/faqs/)zu finden."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:19
+msgid ""
+"Also this month, France sees the results of its first [Citizens’ Climate "
+"Assembly](https://www.franceinter.fr/environnement/les-150-propositions-de-la-convention-citoyenne-sur-le-climat), "
+"aimed at drastically reducing greenhouse gases while addressing climate and "
+"social justice. This is a massive step in the right direction for those of "
+"us fighting for the future of humanity and the planet."
+msgstr ""
+"Außerdem kommen diesen Monat die ersten Ergebnisse von der französischen "
+"[Klima-Bürgerversammlung](https://www.franceinter.fr/environnement/les-150"
+"-propositions-de-la-convention-citoyenne-sur-le-climat), die darauf abzielt, "
+"die Treibhausgase drastisch zu reduzieren und mehr Klima- und soziale "
+"Gerechtigkeit zu erreichen. Das ist ein gewaltiger Schritt in die richtige "
+"Richtung für die Zukunft der Menschheit und des Planeten."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:21
+msgid ""
+"[Citizens’ Assemblies](https://xrcitizensassembly.uk/) are a fair and "
+"sustainable way to find solutions to the Climate and Ecological Crisis. They "
+"focus on bringing the choices directly to the people - without lobbying of "
+"fossil fuel firms and interference of party politics. In order to further "
+"[understand their nuance and "
+"importance](https://xrcitizensassembly.uk/why-is-xr-asking-for-a-ca/), we’ve "
+"put together a juicy selection of articles in our Must Reads section."
+msgstr ""
+"[Bürgerversammlungen](https://xrcitizensassembly.uk/) sind eine gerechte und "
+"nachhaltige Art, Lösungen für die Klima- und Umweltkrise zu finden. Sie "
+"konzentrieren sich daauf, die Menschen direkt vor die Wahl zu stellen - ohne "
+"Lobbyarbeit von Fossilbrennstoffherstellern und parteipolitische "
+"Ablenkungen. Um das Verständnis für Feinheiten und ihre Bedeutung [zu "
+"vertiefen ](https://xrcitizensassembly.uk/why-is-xr-asking-for-a-ca/), haben "
+"wir eine anregende Sammlung von Artikeln in unserer Must-Read-Abteilung "
+"zusammengestellt."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:23
+msgid "![Extinction Rebellion Poster Artwork](/assets/uploads/4.png)"
+msgstr "![Extinction Rebellion Poster Artwork](/assets/uploads/4.png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:25
+msgid ""
+"We bring you news of a[ glorious wave of "
+"protest](https://subscribe.organise.earth/archive/VOsxeuq2q/94Beob9D/Asln9ADL?locale=en-USlocale=en-US) "
+"across Europe. Multiple creative actions and many dozens of arrests have "
+"helped alert the public and the government to the urgency of the "
+"situation. See highlights below and check out our "
+"[Unchained](https://rebellion.global/blog/2020/07/16/xr-unchained-16/) for a "
+"full rundown."
+msgstr ""
+"Wir bringen euch Nachrichten von [einer herrlichen "
+"Protestwelle](https://subscribe.organise.earth/archive/VOsxeuq2q/94Beob9D/"
+"Asln9ADL?locale=en-USlocale=en-US) in ganz Europa. Viele kreative Aktionen "
+"und viele Dutzend Festnahmen haben dazu beigetragen, die Öffentlichkeit und "
+"die Regierung auf die Dringlichkeit der Lage aufmerksam zu machen. Unten "
+"sind die Höhepunkte zusammengefasst, und auf [Unchained](https://rebellion."
+"global/blog/2020/07/16/xr-unchained-16/) gibt es einen vollständigen "
+"Überblick zu lesen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:27
+msgid ""
+"Also, we hear the latest from Australia, where rebels were getting hot under "
+"the collar in response to the government's drive toward a ‘gas-led "
+"recovery’. And in Hong Kong, just days before the controversial national "
+"security legislation, rebels staged a graveyard action to highlight the "
+"daily deaths from toxic air pollution."
+msgstr ""
+"Wir erfahren auch das Neueste aus Australien, wo die Rebell\\*innen ins "
+"Schwitzen gerieten in Reaktion auf Pläne der Regierung, eine gasgeführte "
+"wirtschaftliche Erholung einzuleiten. Und in Hongkong inszenierten Rebell\\*"
+"innen nur wenige Tage vor Inkrafttreten der umstrittenen "
+"Sicherheitsgesetzgebung eine Friedhofsaktion, um auf die täglichen "
+"Todesfälle durch giftige Luftverschmutzung hinzuweisen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:29
+msgid ""
+"Be sure to read our Upcoming section for a [powerful new global "
+"action](https://bit.ly/3evmeUV) highlighting the courage and plight of "
+"Indigenous communities in Brazil. And in line with the topic of assemblies, "
+"be sure to tune in this weekend for the [Global Assembly for the "
+"Amazon](https://www.facebook.com/ExtinctionRebellion/photos/a.240475659901883/634114683871310/?type=3&theater)."
+msgstr ""
+"Lest unbedingt unseren Demnächst-Abschnitt [zu starken neuen Aktionen in "
+"aller Welt](https://bit.ly/3evmeUV), wo der Mut und die Bedrängnis indigener "
+"Gemeinschaften in Brasilien beleuchtet wird. Und im Zusammenhang mit den "
+"Bürgerversammlungen verfolgt ihr am besten dies Wochenende die [Globale "
+"Versammlung für das Amazonasgebiet](https://www.facebook.com/"
+"ExtinctionRebellion/photos/a.240475659901883/634114683871310/"
+"?type=3&theater)."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:31
+msgid ""
+"Finally, we introduce this outstanding broadcast from [XR Africa News "
+"Online](https://www.youtube.com/watch?v=_zrsr-OCRmg&feature=youtu.be)."
+msgstr ""
+"Zum Schluss stellen wir diese hervorragende Sendung von [XR Africa News "
+"Online](https://www.youtube.com/watch?v=_zrsr-OCRmg&feature=youtu.be) vor."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:33
+#, no-wrap
+msgid ""
+"*If you’d like to help, please check out our[ "
+"website](https://rebellion.global) and [learn more about "
+"XR.](https://rebellion.global/about-us/)*\n"
+msgstr ""
+"*Wenn ihr helfen möchtet, schaut auf unserer [Website "
+"vorbei](https://rebellion.global) and [learn more about "
+"XR.](https://rebellion.global/about-us/)*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:35
+#, no-wrap
+msgid ""
+"*To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your "
+"own!](https://cloud.organise.earth/s/jGSWEoJ9PW65xLc)*\n"
+msgstr ""
+"*Wenn ihr euch mit Rebell\\*innen in eurer Region in Verbindung setzen "
+"wollt, meldet euch bei [eurer nächsten XR Gruppe](https://rebellion.global/"
+"branches/) Sollte es in deiner Region keine aktive Gruppe geben, [könnt ihr "
+"eine aufmachen](https://cloud.organise.earth/s/jGSWEoJ9PW65xLc)*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:37
+#, no-wrap
+msgid ""
+"*If you’d like to see previous newsletter issues, you can find them "
+"[here](https://rebellion.global/blog/).*\n"
+msgstr ""
+"*Wenn du frühere Newsletter-Ausgaben anschauen willst, findest du sie "
+"[hier](https://rebellion.global/blog/).*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:39
+#, no-wrap
+msgid ""
+"**This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)**.\n"
+msgstr ""
+"**Die Rebellion braucht Deine Unterstützung. Wenn Du keine Zeit zur "
+"Verfügung stellen kannst, überlege bitte, ob Du [Geld "
+"spenden](https://chuffed.org/project/xrinternational) kannst**.\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:41
+msgid ""
+"[Support the "
+"Rebellion](https://chuffed.org/project/xrinternational){.xr-button}"
+msgstr ""
+"[Unterstützt die Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+
+#. type: Title #
+#: 2020-07-16-newsletter-41.md:42
+#, no-wrap
+msgid "Contents"
+msgstr "Inhalt"
+
+#. type: Title #
+#: 2020-07-16-newsletter-41.md:49 2020-07-16-newsletter-41.md:50
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Aktionshöhepunkte"
+
+#. type: Title #
+#: 2020-07-16-newsletter-41.md:49 2020-07-16-newsletter-41.md:154
+#, no-wrap
+msgid "XR Unchained"
+msgstr "XR Unchained"
+
+#. type: Title #
+#: 2020-07-16-newsletter-41.md:49 2020-07-16-newsletter-41.md:180
+#, no-wrap
+msgid "Upcoming"
+msgstr "Demnächst"
+
+#. type: Title #
+#: 2020-07-16-newsletter-41.md:49 2020-07-16-newsletter-41.md:230
+#, no-wrap
+msgid "Announcements"
+msgstr "Ankündigungen"
+
+#. type: Title #
+#: 2020-07-16-newsletter-41.md:49 2020-07-16-newsletter-41.md:304
+#, no-wrap
+msgid "Must Reads"
+msgstr "Lesenswert"
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:54
+#, no-wrap
+msgid "Stop Ecocide. Major Citizens’ Assembly in France"
+msgstr "Stoppt den Ökozid. Bürgerhauptversammlung in Frankreich"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:57
+#, no-wrap
+msgid "**18 JUN | France**\n"
+msgstr "**18. JUNI | France**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:59
+msgid ""
+"Buried in Coronavirus news over the past few months, **hugely exciting "
+"things** have been [happening in "
+"France.](https://www.franceinter.fr/environnement/les-150-propositions-de-la-convention-citoyenne-sur-le-climat)"
+msgstr ""
+"In den letzten Monaten ist unter den Coronavirus-Nachrichten untergegangen, "
+"dass **äußerst spannende Dinge** [in Frankreich passiert "
+"sind.](https://www.franceinter.fr/environnement/les-150-propositions-de-la-"
+"convention-citoyenne-sur-le-climat)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:61
+msgid ""
+"The world's first major citizens' climate assembly has been hard at work "
+"since October 2019. On 18 June they presented their **proposals for "
+"addressing the climate emergency.**"
+msgstr ""
+"Die erste Klima-Bürgeversammlung der Welt ist seit Oktober 2019 fleißig bei "
+"der Arbeit. Am 18. Junie legte sie ihre **Vorschläge zur Bewältigung der "
+"Klimakatastrophe**vor."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:63
+msgid ""
+"The Convention Citoyenne pour le Climat (CCC) is an independent committee of "
+"150 French citizens drawn by lot to reflect French diversity, with a mandate "
+"to reduce French greenhouse gas emissions by at least 40% by 2030 while "
+"advancing social justice."
+msgstr ""
+"Die Convention Citoyenne pour le Climat (CCC) ist ein unabhängiger Ausschuss "
+"von 150 französisachen Staatsbürger, die ausgelost wurden, um die Diversität "
+"Frankreichs widerzuspiegeln. Sie hat den Auftrag, die französischen "
+"Treibhausgasemissionen bis 2030 um mindestens 40% zu senken und gleichzeitig "
+"soziale Gerechtigkeit zu fördern."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:65
+msgid ""
+"![French rebels and Youth For Climate activists show their support for the "
+"CCC’s action plan.](/assets/uploads/10.jpg)"
+msgstr ""
+"![Französische Rebellen und Aktivisten von Youth For Climate zeigen ihre "
+"Unterstützung für den CCC-Aktionsplan.](/assets/uploads/10.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:67
+msgid ""
+"Convention members were divided into working groups to tackle a range of "
+"social and economic issues and worked closely with climatologists and "
+"economists, as well as economic and social organisations."
+msgstr ""
+"Die Konventsmitglieder wurden in Arbeitsgruppen aufgeteilt, um eine Reihe "
+"von sozialen und wirtschaftlichen Fragen zu behandeln, und arbeiteten eng "
+"mit Klimatologen und Ökonomen sowie mit wirtschaftlichen und sozialen "
+"Organisationen zusammen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:69
+msgid ""
+"The CCC has "
+"[submitted](https://www.lemonde.fr/planete/article/2020/06/21/la-convention-citoyenne-pour-le-climat-doit-rendre-ses-propositions-cet-apres-midi_6043625_3244.html) "
+"149 proposals to Macron, "
+"[including](https://propositions.conventioncitoyennepourleclimat.fr/): "
+"measures addressing transport, energy, agriculture, and construction; "
+"constitutional amendments to prioritise biodiversity; the creation of a new "
+"body responsible for enforcing planetary limits; and a strong **call to make "
+"ecocide a crime** by national referendum."
+msgstr ""
+"Die CCC [hat Macron 149 Vorschläge unterbreitet](https://www.lemonde.fr/"
+"planete/article/2020/06/21/la-convention-citoyenne-pour-le-climat-doit-"
+"rendre-ses-propositions-cet-apres-midi_6043625_3244.html), [unter anderem "
+"Maßnahmen](https://propositions.conventioncitoyennepourleclimat.fr/) zum "
+"Verkehr, zur Energie, zur Landwirtschaft und zur Bauwirtschaft, Ergänzungen "
+"zur Verfassung, die der biologischen Vielfalt Vorrang einräumen sollen; die "
+"Schaffung eines neuen Gremiums, das für die Einhaltung planetarischer "
+"Grenzen verantwortlich ist; und ein nachdrücklicher **Aufruf, Ökozid in "
+"einer nationalen Volksabstimmung zum Verbrechen** zu erklären."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:71
+msgid ""
+"Organisers from the [Stop Ecocide](https://www.stopecocide.earth/) campaign "
+"have [praised the "
+"outcome](https://www.stopecocide.earth/press-releases-summary/french-citizens-assembly-votes-to-make-ecocide-a-crime-) "
+"as phenomenal news."
+msgstr ""
+"Die Organisatoren der [Stop Ecocide](https://www.stopecocide.earth/)Kampagne "
+"haben [das Ergebnis](https://www.stopecocide.earth/press-releases-summary/"
+"french-citizens-assembly-votes-to-make-ecocide-a-crime-) als phänomenale "
+"Neuigkeit bezeichnet."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:74
+#, no-wrap
+msgid "Brussels Rebrands Finance to Resilience"
+msgstr "Brüssel ersetzt Finanz durch Resilienz"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:77
+#, no-wrap
+msgid "**27 JUN | Brussels, Belgium**\n"
+msgstr "**27. JUNI | Brüssel, Belgien**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:79
+msgid "![Resilience Tower in Brussels.](/assets/uploads/12-min(1).png)"
+msgstr "![Resilience Tower in Brussels.](/assets/uploads/12-min(1).png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:81
+#, no-wrap
+msgid ""
+"*Resilience Tower in "
+"Brussels. "
+"Photo:[@XR_Belgium](https://twitter.com/XR_Belgium?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)*\n"
+msgstr ""
+"*Der Resilienz-Turm in Brüssel, Foto:[@XR_Belgium](https://twitter.com/"
+"XR_Belgium?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:83
+#, no-wrap
+msgid ""
+"**60 brave Belgian rebels were arrested** in Brussels while carrying out a "
+"symbolic baptism of the city’s Finance Tower.\n"
+msgstr ""
+"**60 tapfere belgische Rebellen wurden in Brüssel verhaftet**, als sie den "
+"Finanzturm der Stadt symbolisch umtauften.\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:85
+msgid ""
+"The tower had its name removed and was re-christened the Resilience "
+"Tower. Each rebel carried a sign highlighting elements of our current "
+"society that we need to leave behind and those we need to strengthen. Police "
+"blocked rebels' attempts to continue their protest outside the Prime "
+"Minister's office and arrested 60 of their number."
+msgstr ""
+"Dem Turm wurde der Name entfernt, und er wurde in Resilienz-Turm umgetauft. "
+"Jeder der Rebell\\*innen trug ein Schild, das Elemente unserer gegenwärtigen "
+"Gesellschaft hervorhob, die wir hinter uns lassen müssen, und andere, die "
+"wir stärken müssen. Die Polizei Die Polizei blockierte die Versuche der "
+"Rebell\\*innen, ihren Protest vor dem Büro des Premierministers "
+"fortzusetzen, und verhaftete 60 von ihnen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:87
+msgid ""
+"It was the culmination of [14 days of "
+"actions](https://www.extinctionrebellion.be/en/june-action) across Belgium, "
+"**stopping a ‘return to business as normal’** and calling for reflection on "
+"the needs of society."
+msgstr ""
+"Es war der Höhepunkt von [14 Aktionstagen](https://www.extinctionrebellion."
+"be/en/june-action) in ganz Belgien, **mit denen eine ‘Rückkehr zum "
+"Normalbetrieb’** verhindert werden und eine Rückbesinnung auf die "
+"Bedürfnisse der Gesellschaft erreicht werden sollte."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:89
+msgid ""
+"One rebel said: “We need to pause and think about what our needs are for the "
+"future. Do we want to return to a system based on fossil fuels, industrial "
+"agriculture, human exploitation and structural racism? Or work towards a "
+"resilient society that recognises the urgency of the crises that await us?”"
+msgstr ""
+"Ein Rebell sagte: \"Wir müssen innehalten und darüber nachdenken, was für "
+"Bedürfnisse wir für die Zukunft haben. Wollen wir zu einem System "
+"zurückkehren, das auf fossilen Brennstoffen, Ausbeutung von Menschen und "
+"strukturellem Rassismus fußt? Oder wollen wir auf eine resiliente "
+"Gesellschaft hinarbeiten, die die Dringlichkeit der Krisen anerkennt, die "
+"auf uns zu kommen?\""
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:92
+#, no-wrap
+msgid "Cooking Up a Protest Down Under"
+msgstr "Es brodelt von Protesten Down Under"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:95
+#, no-wrap
+msgid "**7 JUL | Goulburn, Australia**\n"
+msgstr "**7. JULI | Goulburn, Australien**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:97
+msgid ""
+"![Rebels staging the action outside the constituency "
+"office](/assets/uploads/21.jpg)"
+msgstr ""
+"![Rebell*innen beim Protest vor dem Wahlkreisbüro ](/assets/uploads/21.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:99
+msgid ""
+"Rebels staged[ a dramatic ‘Now we’re Cooking the Planet with Gas’ "
+"action](https://www.facebook.com/xrnsw/videos/883650308795319/) outside the "
+"constituency office of the Energy Minister in Goulburn, New South Wales."
+msgstr ""
+"Die Rebell*innen inszenierten[ eine dramatische Aktion unter dem Titel "
+"'Jetzt kochen wir den Planeten mit Gas'](https://www.facebook.com/xrnsw/"
+"videos/883650308795319/) vor dem Wahlkreisbüro des Energieministers "
+"Goulburn, New South Wales."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:101
+msgid ""
+"They were protesting the government-appointed National Covid-19 Coordination "
+"Commission’s **push for a ‘gas-led recovery’.** The NCCC is headed by and "
+"stacked with gas industry executives."
+msgstr ""
+"Sie protestierten gegen den Vorstoß der von der Regierung ernannten National "
+"Covid-19 Coordination Commission für eine **gasgeführte Erholung*** Der NCCC "
+"wird von Führungskräften der Gasindustrie geleitet und ist mit ihnen besetzt."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:103
+msgid ""
+"Natural gas consists mostly of methane, the second most significant "
+"greenhouse gas after carbon dioxide and a key driver of the climate crisis."
+msgstr ""
+"Erdgas besteht zum größten Teil aus Methan, dem zweitwichtigsten "
+"Treibhausgas nach Kohlendioxid und einer der Hauptverursacher der Klimakrise."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:106
+#, no-wrap
+msgid "Hong Kong Demands Clean Air and Fair Rights"
+msgstr "Hongkong fordert saubere Luft und faire Rechte"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:109
+#, no-wrap
+msgid "**28 JUN | Hong Kong**\n"
+msgstr "**28 .JUNI | Hongkong**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:111
+msgid "![Photograph of graveyard action.](/assets/uploads/11.jpg)"
+msgstr "![Foto von der Friedhofsaktion.](/assets/uploads/11.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:113
+msgid ""
+"XR Hong Kong [staged a graveyard "
+"action](https://hongkongfp.com/2020/06/29/in-pictures-extinction-rebellion-stage-graveyard-die-in-to-raise-awareness-of-hong-kong-pollution-deaths/) "
+"to protest the destruction caused by air pollution."
+msgstr ""
+"XR Hongkong [inszenierte eine Friedhofsaktion](https://hongkongfp.com/2020/"
+"06/29/in-pictures-extinction-rebellion-stage-graveyard-die-in-to-raise-awaren"
+"ess-of-hong-kong-pollution-deaths/), um gegen die durch die "
+"Luftverschmutzung verursachte Zerstörung zu protestieren."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:115
+msgid ""
+"35 pairs of shoes were laid out to symbolize the 35 people who lose their "
+"life from toxic air every week in Hong Kong. The city’s air pollutants "
+"[consistently exceed "
+"guidelines](https://hongkongfp.com/2019/09/08/clean-air-network-hong-kong-air-pollution-ngo-urges-govt-prioritise-public-health/) "
+"set by the World Health Organization."
+msgstr ""
+"35 Paar Schuhe wurden ausgelegt, um die 35 Menschen zu symbolisieren, die "
+"jede Woche in Hongkong durch die giftige Luft ihr Leben verlieren. Die "
+"Luftschadstoffe der Stadt [überschreiten durchweg die von der "
+"Weltgesundheitsorganisation festgelegten Richtlinien](https://hongkongfp.com/"
+"2019/09/08/clean-air-network-hong-kong-air-pollution-ngo-urges-govt-prioritis"
+"e-public-health/)."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:117
+msgid ""
+"Worldwide, outdoor [air pollution kills more "
+"people](https://academic.oup.com/cardiovascres/article/doi/10.1093/cvr/cvaa025/5770885) "
+"than tobacco smoking. As one rebel put it: “Pollution kills not only humans "
+"but all forms of life. The inaction of leaders is unacceptable.”"
+msgstr ""
+"Weltweit werden mehr Menschen im Freien durch [Luftverschmutzung "
+"getötet](https://academic.oup.com/cardiovascres/article/doi/10.1093/cvr/"
+"cvaa025/5770885) als durch Tabakrauch. Wie ein Rebell es ausdrückte: \""
+"Luftverschmutzung tötet nicht nur Menschen, sondern alle Formen des Lebens. "
+"Die Tatenlosigkeit der politisch Verantwortlichen ist inakzeptabel.\""
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:119
+msgid ""
+"Two days later, Beijing’s [controversial national security "
+"law](https://www.npr.org/2020/07/01/885900989/5-takeaways-from-chinas-hong-kong-national-security-law) "
+"came into force. Thus curtailing the right to protest and risking the safety "
+"of activists in Hong Kong."
+msgstr ""
+"Zwei Tage später trat das [umstrittene nationale Sicherheitsgesetz "
+"Pekings](https://www.npr.org/2020/07/01/885900989/5-takeaways-from-chinas-"
+"hong-kong-national-security-law) in Kraft. Damit wurde das Recht auf "
+"Proteste beschnitten und die Sicherheit von Aktivisten in Hongkong aufs "
+"Spiel gesetzt."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:121
+#, no-wrap
+msgid ""
+"**“XR Hong Kong unwaveringly supports the fight of the Hong Kong people,”** "
+"[the group "
+"said](https://www.facebook.com/extinctionrebellionhk/photos/a.383584525640098/568669410464941/). "
+"“Protecting human rights is protecting human lives.”\n"
+msgstr ""
+"**\"Der XR Hongkong unterstützt unerschütterlich den Kampf der Menschen in "
+"Hongkong, \"** [so die Gruppe](https://www.facebook.com/"
+"extinctionrebellionhk/photos/a.383584525640098/568669410464941/). \""
+"Menschenrechte schützen heißt Menschenleben retten.\".\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:123
+msgid ""
+"People worldwide have shown their support for the people of Hong Kong. In "
+"the UK, rebels [blocked access to an arms "
+"factory](https://hongkongfp.com/2020/07/14/in-pictures-uk-activists-block-access-to-tear-gas-factory-in-solidarity-with-hong-kong-and-us-protests/) "
+"to oppose exports of UK-manufactured rubber bullets and tear gas used to "
+"suppress demonstrations in Hong Kong."
+msgstr ""
+"Menschen in aller Welt haben ihre Unterstützung für die Menschen in Hongkong "
+"gezeigt. Im UK haben Rebell*innen [den Zugang zu einer Waffenfabrik "
+"blockiert](https://hongkongfp.com/2020/07/14/in-pictures-uk-activists-block-a"
+"ccess-to-tear-gas-factory-in-solidarity-with-hong-kong-and-us-protests/), um "
+"sich dem Export von im UK hergestellten Gummigeschossen und Tränengas zu "
+"entgegenzustellen, die zur Unterdrückung der Demonstrationen in Hongkong "
+"eingesetzt werden."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:126
+#, no-wrap
+msgid "There Are No Emergency Exits"
+msgstr "Es gibt keine Notausgänge"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:129
+#, no-wrap
+msgid "**29 JUN | Ängelholm–Helsingborg Airport, Sweden**\n"
+msgstr "**29. JUNI | Flughafen Ängelholm-Helsingborg, Schweden**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:131
+msgid ""
+"![Photograph of action with rebels holding banner \"Save the world OR "
+"aviation.\"](/assets/uploads/3.jpg)"
+msgstr ""
+"![Photograph of action with rebels holding banner \"Save the world OR "
+"aviation.\"](/assets/uploads/3.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:133
+#, no-wrap
+msgid "*‘Save the World or Aviation’. Photo: XR Sverige.*\n"
+msgstr "* 'Rettet die Welt oder die Luftfahrt'. Foto: XR Schweden.*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:135
+msgid ""
+"A SAS domestic flight was delayed for an hour at Ängelholm–Helsingborg "
+"Airport, when a brave [XRSweden](https://twitter.com/ExtinctionR_SV) rebel "
+"‘superhero’ "
+"[glued](https://www.facebook.com/extinctionrebellionsverige/videos/988024691658664/) "
+"**herself to the plane.**"
+msgstr ""
+"Ein Inlandsflug der SAS verzögerte sich auf dem Flughafen Ängelholm-"
+"Helsingborg um eine Stunde, als eine mutige Rebellin von [XR "
+"Schweden](https://twitter.com/ExtinctionR_SV) **sich an das Flugzeug**[ "
+"klebte](https://www.facebook.com/extinctionrebellionsverige/videos/"
+"988024691658664/)."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:137
+msgid ""
+"On the day Swedish airports reopened, rebels protested government bailouts "
+"of the aviation industry as part of its Covid-19 recovery."
+msgstr ""
+"Am Tag der Wiedereröffnung schwedischer Flughäfen protestierten Rebell*inen "
+"gegen die staatlichen Rettungsaktionen der Regierung für die "
+"Luftfahrtindustrie als Teil der Erholung von Covid-19."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:139
+msgid ""
+"The rebels called on Sweden to stop funding polluters and use public money "
+"to invest in green jobs and design a sustainable economy. They said: “Our "
+"action was not directed at airline workers or individual passengers. **This "
+"is about the need to change the whole system.”**"
+msgstr ""
+"Die Rebell*innen forderten Schweden auf, die Finanzierung von "
+"Umweltverschmutzern einzustellen und öffentliche Gelder für Investitionen in "
+"grüne Arbeitsplätze und die Gestaltung einer nachhaltigen Wirtschaft zu "
+"verwenden. Sie sagten: \"Unsere Aktion richtete sich nicht gegen "
+"Beschäftigte von Fluggesellschaften oder einzelne Passagiere. **Hier geht es "
+"um die Notwendigkeit, das gesamte System zu verändern.\"**"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:141
+msgid ""
+"The non-violent protest was part of Extinction Rebellion Europe’s Bail Out "
+"The Planet action wave. 5 rebels were briefly detained by the police."
+msgstr ""
+"Der gewaltlose Protest war Teil der Aktionswelle von Extinction Rebellion "
+"Europa Bail Out The Planet. 5 Rebellen wurden kurzzeitig von der Polizei "
+"festgenommen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:143
+msgid "![Photograph of victorious Swedish rebels.](/assets/uploads/19.jpg)"
+msgstr "![Photograph of victorious Swedish rebels.](/assets/uploads/19.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:145
+#, no-wrap
+msgid "*Photo: XR Sverige.*\n"
+msgstr "*Foto: XR Schweden.*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:147
+msgid ""
+"In a second action on 29 June rebels delayed a SAS flight from Gothenburg to "
+"Stockholm by [refusing to sit "
+"down.](https://www.facebook.com/extinctionrebellionsverige/videos/3010068952552974/)"
+msgstr ""
+"In einer zweiten Aktion am 29. Juni verzögerten Rebellen einen SAS-Flug von "
+"Göteborg nach Stockholm, indem sie [sich weigerten, sich "
+"hinzusetzen](https://www.facebook.com/extinctionrebellionsverige/videos/"
+"3010068952552974/)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:149
+msgid ""
+"Rebels stated ‘These subsidies mean that Sweden cannot live up to the Paris "
+"Agreement and its own climate goals (...) Just as I would break a car window "
+"on a hot day to save a child or a dog, I sound an alarm because we are in a "
+"planetary emergency.’"
+msgstr ""
+"Die Rebellen erklärten: \"Diese Subventionen bedeuten, dass Schweden das "
+"Pariser Abkommen und seine eigenen Klimaziele nicht einhalten kann (...) So "
+"wie ich an einem heißen Tag eine Autoscheibe einschlagen würde, um ein Kind "
+"oder einen Hund zu retten, schlage ich Alarm, weil wir uns in einer "
+"planetarischen Notlage befinden.'"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:151
+msgid "The rebels now face fines and **up to 6 months in jail.**"
+msgstr ""
+"Den Rebell*innen drohen nun Geldstrafen und **bis zu 6 Monate Gefängnis.**"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:157
+#, no-wrap
+msgid ""
+"*Once again we have too many actions for one newsletter. To catch up on all "
+"the actions that have been happening around the world - and especially "
+"during Europe's week-long wave of actions - you’ll have to [read XR "
+"Unchained.](https://rebellion.global/blog/2020/07/16/xr-unchained-16/) It’s "
+"choc full of beauty, courage, and inspiration.*\n"
+msgstr ""
+"*Wieder einmal haben wir zu viele Aktionen für einen Newsletter. Um all die "
+"Aktionen nachzulesen, die auf der ganzen Welt - und insbesondere während der "
+"einwöchigen Aktionswelle in Europa - stattgefunden haben, müsst ihr [XR "
+"Unchained lesen.](https://rebellion.global/blog/2020/07/16/xr-unchained-16/) "
+"Es ist randvoll lmit Aktionen von Schönheit, Mut und Inspiration.*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:159
+#, no-wrap
+msgid "**30 JUN | Khartoum, Sudan**\n"
+msgstr "**30. JUNI | Khartum, Sudan**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:161
+msgid "![Rebels from XR Sudan demonstrate in Khartoum.](/assets/uploads/1.jpg)"
+msgstr "![Rebels from XR Sudan demonstrate in Khartoum.](/assets/uploads/1.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:163
+msgid "Rebels from XR Sudan demonstrate in Khartoum."
+msgstr "Rebell*innen von XR Sudan demonstrieren in Khartum."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:165
+#, no-wrap
+msgid "**9 JUL | Canterbury, New Zealand**\n"
+msgstr "**9 JULI | Canterbury, Neuseeland**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:167
+msgid ""
+"![Photograph of action, with banner \"Cows Against "
+"Coal.\"](/assets/uploads/9.jpg)"
+msgstr ""
+"![Photograph of action, with banner \"Cows Against Coal.\"](/assets/uploads/"
+"9.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:169
+msgid ""
+"The giant global dairy corporation Fonterra was greeted with [drums, cow "
+"costumes, placards and a pile of "
+"coal](https://www.facebook.com/XR.Chch/videos/1468110950055597/), as XR "
+"Ōtautahi (Christchurch) asked the question: Why are Fonterra still using "
+"coal in a climate emergency?"
+msgstr ""
+"Der riesige globale Molkereikonzern Fonterra wurde mit [Trommeln, "
+"Kuhkostümen, Plakaten und einem Haufen Kohle](https://www.facebook.com/XR."
+"Chch/videos/1468110950055597/) begrüßt, als XR Ōtautahi (Christchurch) die "
+"Frage stellte: Warum verwendet Fonterra in einer Klima-Notlage immer noch "
+"Kohle?"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:171
+#, no-wrap
+msgid "**3 JUL | Ibiza, Spain**\n"
+msgstr "**3 JULI | Ibiza, Spanien**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:173
+msgid ""
+"![Photograph of action, rebels with their heads in the "
+"sand.](/assets/uploads/5.jpg)"
+msgstr ""
+"![Photograph of action, rebels with their heads in the sand.](/assets/"
+"uploads/5.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:175
+msgid ""
+"XR Ibiza put their heads in the sand at Playa d’en Bossa “to alert citizens "
+"and request urgent media and institutional action in the face of the Climate "
+"Emergency.”"
+msgstr ""
+"XR Ibiza steckte an der Playa d'en Bossa den Kopf in den Sand, \"um die "
+"Bürger zu warnen und die Medien und die Institutionen angesichts des "
+"Klimanotstands dringend zum Handeln aufzufordern.\""
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:177
+msgid ""
+"[Read full Unchained "
+"here.](https://rebellion.global/blog/2020/07/16/xr-unchained-16/)"
+msgstr ""
+"Lies unseren vollständigen Unchained-Bericht [hier](https://rebellion.global/"
+"blog/2020/06/18/xr-unchained-15)"
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:182
+#, no-wrap
+msgid "UK. The Rebellion Returns"
+msgstr "GROßBRITANNIEN. Die Rebellion kehrt zurück"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:185
+#, no-wrap
+msgid "**28 AUG & 01 SEP | London, Wales (TBC)**\n"
+msgstr "**28. AUG & 01 SEP | London, Wales (TBC)**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:187
+msgid "![XR pink graphic, \"We Want To Live.\"](/assets/uploads/8.png)"
+msgstr "![XR pink graphic, \"We Want To Live.\"](/assets/uploads/8.png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:189
+#, no-wrap
+msgid ""
+"**From September 1st we will peacefully blockade the UK Parliamen**t in "
+"London and Cardiff until they promise that the first thing they'll do is "
+"pass our 3 demands into law. We’ll keep the blockade going for as long as it "
+"takes, so take two weeks off starting from the 1st.\n"
+msgstr ""
+"**Ab dem 1. September werden wir das britische Parlament** in London und "
+"Cardiff friedlich blockieren, bis sie versprechen, dass sie als erstes "
+"unsere drei Forderungen in ein Gesetz verankern werden. Wir werden die "
+"Blockade so lange aufrechterhalten, wie sie dauert, also nehmt euch ab dem "
+"1. September zwei Wochen frei.\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:191
+msgid ""
+"In order to build pressure towards the blockade, there will be a **Countdown "
+"to Rebellion starting 28th August** with local groups around the country "
+"invited to cause **high impact disruption** in their own regions, to gather "
+"and galvanise rebels in readiness for action and to warn the Government that "
+"the **Rebellion is coming!**"
+msgstr ""
+"Um schon vor der Blockade den Druck aufzubauen, wird es ab dem 28. August** "
+"einen **Countdown zur Rebellion geben, wobei lokale Gruppen im ganzen Land "
+"dazu eingeladen werden, in ihren eigenen Regionen **hochwirksame Störungen** "
+"zu verursachen, um die Rebell*innen in Handlungsbereitschaft "
+"zusammenzuschmieden und die Regierung zu warnen, dass die **Rebellion "
+"kommt!**"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:193
+msgid ""
+"If we stand a chance of making this historic Rebellion successful we need to "
+"grow the movement bigger than before. This Rebellion belongs to all of us, "
+"so if you haven’t already, [join a local "
+"group](https://rebellion.earth/act-now/local-groups/) and start using our "
+"[mobilisation "
+"methods](https://rebellion.earth/act-now/resources/communities/mass-mobilisation/) "
+"to help grow the movement."
+msgstr ""
+"Wenn wir eine Chance haben wollen, diese historische Rebellion zum Erfolg zu "
+"führen, müssen wir die Bewegung größer als bisher machen. Diese Rebellion "
+"gehört uns allen, also falls du es bisher noch nicht getan hast, [schließe "
+"dich sich einer lokalen Gruppe an](https://rebellion.earth/act-now/"
+"local-groups/) und fang an, unsere "
+"[Mobilisierungsmethoden](https://rebellion.earth/act-now/resources/"
+"communities/mass-mobilisation/) umzusetzen, damit die Bewegung wächst."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:195
+msgid ""
+"Find out more about the plans for both of these on the website "
+"[here](http://rebellion.earth/uk-rebellion-2020/), [sign up "
+"here](https://www.facebook.com/events/901209047010625) and invite all your "
+"friends."
+msgstr ""
+"Mehr über die Pläne zu beidem findest du auf der Website "
+"[here](http://rebellion.earth/uk-rebellion-2020/), [sign up "
+"here](https://www.facebook.com/events/901209047010625) und lade deine "
+"Freunde ein."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:197
+msgid "Together we are powerful. **Crisis does not have to mean collapse.**"
+msgstr ""
+"Zusammen sind wir stark. **Die Krise muss nicht Zusammenbruch bedeuten**"
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:200
+#, no-wrap
+msgid "Indigenous Emergency"
+msgstr "Notstand bei indigenen Völkern"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:203
+#, no-wrap
+msgid "**9 AUG | Global**\n"
+msgstr "**9. AUG | Global**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:205
+msgid "![Poster for \"Indigenous Emergency.\"](/assets/uploads/13.jpg)"
+msgstr "![Poster for \"Indigenous Emergency.\"](/assets/uploads/13.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:207
+#, no-wrap
+msgid ""
+"**Indigenous people in Brazil are facing unprecedented threats:** on top of "
+"attacks from government-sanctioned racism and land grabbing, the Covid-19 "
+"mortality rate is much higher among Indigenous people.\n"
+msgstr ""
+"**Indigene Menschen in Brasilien sehen sich nie dagewesenen Bedrohungen "
+"ausgesetzt.** Zusätzlich zu den Angriffen durch staatlich sanktionierten "
+"Rassismus und Landraub ist die Sterblichkeitsrate der Covid-19 unter den "
+"Indigenen viel höher.\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:209
+msgid ""
+"Without much-needed medical help, many lives will be lost. **These are the "
+"people on the front line of our fragile ecosystem.** Guarding the lungs of "
+"the planet from big business and deforestation."
+msgstr ""
+"Ohne dringend benötigte medizinische Hilfe werden viele Menschenleben "
+"verloren gehen. **Dies sind die Menschen an der vordersten Front unseres "
+"zerbrechlichen Ökosystems. ** Sie schützen die Lungen des Planeten vor dem "
+"Großkapital und der Abholzung."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:211
+msgid ""
+"Join this urgent call for global decentralised action by Indigenous leaders "
+"in Brazil on **Sunday 9th of August.**"
+msgstr ""
+"Schließe dich am **Sonntag, dem 9. August ** diesem dringenden Aufruf zu "
+"globalen dezentralisierten Aktionen indigener Führer in Brasilien an."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:213
+#, no-wrap
+msgid ""
+"*\"It's not just a number. Each indigenous body holds an ancestral "
+"enchantment. For each indigenous person who dies, part of our collective "
+"history dies too\" Celia Xakriaba*\n"
+msgstr ""
+"*\"Es ist nicht nur einfach eine Zahl. Jeder Körper eines iIndigenen "
+"Menschen ist von seinen Ahnen beseelt. Für jede indigene Person, die stirbt, "
+"stirbt auch ein Teil unserer kollektiven Geschichte\" Celia Xakriaba*\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:215
+msgid ""
+"Donate [here](http://apib.info/donate/?lang=en) and [find our "
+"more](https://bit.ly/3evmeUV). Join the [Telegram Public "
+"Chat](https://t.me/joinchat/Kj0Y-1hnTkLdZTgyv9lHpg) & [Telegram "
+"Broadcast](https://t.me/joinchat/AAAAAEgVVXRH5nIwDBW7Qw)."
+msgstr ""
+"Spende [hier](http://apib.info/donate/?lang=en) und [finden Sie unser "
+"Mehr](https://bit.ly/3evmeUV). Nimm am [Telegram Public Chat](https://t.me/"
+"joinchat/Kj0Y-1hnTkLdZTgyv9lHpg) & [Telegram Broadcast](https://t.me/"
+"joinchat/AAAAAEgVVXRH5nIwDBW7Qw) teil."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:218
+#, no-wrap
+msgid "Global Assembly for the Amazon"
+msgstr "Globale Versammlung für den Amazonas"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:221
+#, no-wrap
+msgid "**18-19 JUL | Global**\n"
+msgstr "**18-19 JUL | Global**\n"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:223
+msgid "![Poster for \"Global Assembly for the Amazon.\"](/assets/uploads/7.png)"
+msgstr ""
+"![Poster for \"Global Assembly for the Amazon.\"](/assets/uploads/7.png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:225
+msgid ""
+"Tune in on **18th and 19th July for the Global Assembly for the Amazon,** "
+"giving voice to the plight and courage of Indegenous peoples in this time of "
+"unprecedented change."
+msgstr ""
+"Schalte dich am**18. und 19. Juli zur Globalen Versammlung für das "
+"Amazonasgebiet zu,** um der Not und dem Mut der indigenen Völker in dieser "
+"Zeit des beispiellosen Wandels eine Stimme zu verleihen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:227
+msgid ""
+"Hosted "
+"[here](https://www.facebook.com/XRColombia/?__tn__=K-R&eid=ARBCj5H8yDeJFpv2jldATHpYHoFTK437MmPxmYEshGFPuLCXwsIlJob9-pk-37wCTNC_1OpG0HoSXuam&fref=mentions&__xts__%5B0%5D=68.ARAAv-k1n_FrtyN9jK8FZypzCJqGHzIZCAafkG6coukqmUobiIiyVH-m3cgiqkOlp2w0TagkX5ks51TD_O1VblaJik9WV0IyQRp96ExWXk9Sbusw9tYA4Da4HHtNbdbKVuDU3s_sYM6jNezWs5GImc0dRBNo4ObS4-XPfvRJzRzxqJYlECX9JRMVy8CZaX9O_kR7YWAJry4wc8-IFNgPF-YrTHB2efZnpEdAQOwJ_i_GdthaXj2PzKB9GmKcx-o_WwzLL335Bfz41p2LNgUxM6UYS1vt8eMeAIbGiNcK8QNRa0wb5rijrzfKLb67W7vJue5G5Jza8zc9O2oyBqSC9eA)."
+msgstr ""
+"Host-Seite [hier](https://www.facebook.com/XRColombia/"
+"?__tn__=K-R&eid=ARBCj5H8yDeJFpv2jldATHpYHoFTK437MmPxmYEshGFPuLCXwsIlJob9-pk-"
+"37wCTNC_1OpG0HoSXuam&fref=mentions&__xts__%5B0%5D=68.ARAAv-"
+"k1n_FrtyN9jK8FZypzCJqGHzIZCAafkG6coukqmUobiIiyVH-m3cgiqkOlp2w0TagkX5ks51TD_O1"
+"VblaJik9WV0IyQRp96ExWXk9Sbusw9tYA4Da4HHtNbdbKVuDU3s_sYM6jNezWs5GImc0dRBNo4ObS"
+"4-XPfvRJzRzxqJYlECX9JRMVy8CZaX9O_kR7YWAJry4wc8-IFNgPF-"
+"YrTHB2efZnpEdAQOwJ_i_GdthaXj2PzKB9GmKcx-o_WwzLL335Bfz41p2LNgUxM6UYS1vt8eMeAIb"
+"GiNcK8QNRa0wb5rijrzfKLb67W7vJue5G5Jza8zc9O2oyBqSC9eA)."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:232
+#, no-wrap
+msgid "XR Africa News"
+msgstr "XR Afrika Nachrichten"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:235
+msgid "![Image of XR Africa Youtube broadcast.](/assets/uploads/15.png)"
+msgstr "![Image of XR Africa Youtube broadcast.](/assets/uploads/15.png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:237
+msgid ""
+"Have you seen the brilliant XR Africa News Online? With updates from XR "
+"groups in Africa & Global South, and also exciting content from a blend of "
+"other environmental campaigners. Looking for help from content writers and "
+"editors in order to efficiently feature news from various XR groups across "
+"Africa."
+msgstr ""
+"Hast du die brillanten XR Africa News Online gesehen? Mit dem Neuesten von "
+"XR-Gruppen in Afrika & und der Südhäfte der Erde und spannenden Inhalten von "
+"einer Vielzahl anderer Umweltaktivisten. Wir suchen noch nach Inhaltsautoren "
+"und Redakteuren, um Nachrichten von verschiedenen XR-Gruppen aus ganz Afrika "
+"effizient zu veröffentlichen."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:239
+msgid ""
+"Watch the broadcast "
+"[here](https://www.youtube.com/watch?v=_zrsr-OCRmg&feature=youtu.be)."
+msgstr ""
+"Schau dir die Sendung [hier an](https://www.youtube.com/watch?v=_zrsr-"
+"OCRmg&feature=youtu.be)."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:240
+#, no-wrap
+msgid "XR: An Umbrella Canopy? - Part 2"
+msgstr "XR: Eine schützende Baumkrone? - Teil 2"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:243
+msgid "![XR graphic.](/assets/uploads/6.png)"
+msgstr "![XR graphic.](/assets/uploads/6.png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:245
+msgid ""
+"UBUNTUDUNIA TV & [XR Internationalist Solidarity "
+"Network](https://www.facebook.com/XRIntSol/?__tn__=KH-R&eid=ARAbQ9ZDV7eXxVLZl-212Ik5v96wsaKmYMOfUvJBOrlpHe1jqagTNIXCZFzikWw0GPxdlaAusB85bLE9&fref=mentions&__xts__%5B0%5D=68.ARAU2mMpubP-yJDA8meGYYDN6AV-t92Bb3AyevT_69lN1htUYgBTpw0tv-m6Otxn0m4tO6qWFCowXVYoKBM8nAmnUqUVrRwkzUiL1YIyueWEs6552byWln5ZGAOonVNVRnRDTpMH_wEk_ytPjewmUysdD6xKghRoUqmlQspOwRLg-s-9HzsA1tbrAFs02g4MttjnbppBSTFFAxTMv9GCYzH8MH4kLONdo0MD34aKxSKCFVwEoZ-lTeVPXi1BexZ2EUzhz8O5iVFy6R4UQAEjarybuOMqMnk5uQQxSBDhCyfDaRImlU0yagYsSFo935MNTP90p34D8GGyFTQK-X90-rQYREuHwQEGRn2lSxhrWNIqaom6OkaiaJ99MYzCRhAodQc9lFdQTtsTrPg4Qm6w9s6SSEw7n9KTbSSD8bc1AniTmWs1IUVqjpe-8DpvzFF6v_XHfFnI78kXlQobmy9ktn-HpxfIKKIWF1hp_sPuFhuLgnM0l9c) "
+"present: XR: An Umbrella Canopy? - Part 2."
+msgstr ""
+"UBUNTUDUNIA TV & [XR Internationalist Solidarity "
+"Network](https://www.facebook.com/XRIntSol/?__tn__=KH-R&eid"
+"=ARAbQ9ZDV7eXxVLZl-212Ik5v96wsaKmYMOfUvJBOrlpHe1jqagTNIXCZFzikWw0GPxdlaAusB85"
+"bLE9&fref=mentions&__xts__%5B0%5D=68.ARAU2mMpubP-yJDA8meGYYDN6AV-"
+"t92Bb3AyevT_69lN1htUYgBTpw0tv-m6Otxn0m4tO6qWFCowXVYoKBM8nAmnUqUVrRwkzUiL1YIyu"
+"eWEs6552byWln5ZGAOonVNVRnRDTpMH_wEk_ytPjewmUysdD6xKghRoUqmlQspOwRLg-s"
+"-9HzsA1tbrAFs02g4MttjnbppBSTFFAxTMv9GCYzH8MH4kLONdo0MD34aKxSKCFVwEoZ-lTeVPXi1"
+"BexZ2EUzhz8O5iVFy6R4UQAEjarybuOMqMnk5uQQxSBDhCyfDaRImlU0yagYsSFo935MNTP90p34D"
+"8GGyFTQK-X90-rQYREuHwQEGRn2lSxhrWNIqaom6OkaiaJ99MYzCRhAodQc9lFdQTtsTrPg4Qm6w9"
+"s6SSEw7n9KTbSSD8bc1AniTmWs1IUVqjpe-8DpvzFF6v_XHfFnI78kXlQobmy9ktn-"
+"HpxfIKKIWF1hp_sPuFhuLgnM0l9c) present: XR:Eine schützende Baumkrone? - Teil "
+"2."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:247
+msgid ""
+"This video explores the character of Extinction Rebellion featuring XRISN "
+"Joint Coordinator Kofi Mawuli Klu and XRISN Media & Communications Team "
+"Coordinator [Esther "
+"Stanford-Xosei](https://www.facebook.com/StanfordXosei/?__tn__=KH-R&eid=ARBAfqAWrGuBvOn223xo7MdVEXE5wikNtO0d40YV6ZIfpWuZjvIstfoP0PQqsM9ynIhMqnDvFF7WoakL&fref=mentions&__xts__%5B0%5D=68.ARAU2mMpubP-yJDA8meGYYDN6AV-t92Bb3AyevT_69lN1htUYgBTpw0tv-m6Otxn0m4tO6qWFCowXVYoKBM8nAmnUqUVrRwkzUiL1YIyueWEs6552byWln5ZGAOonVNVRnRDTpMH_wEk_ytPjewmUysdD6xKghRoUqmlQspOwRLg-s-9HzsA1tbrAFs02g4MttjnbppBSTFFAxTMv9GCYzH8MH4kLONdo0MD34aKxSKCFVwEoZ-lTeVPXi1BexZ2EUzhz8O5iVFy6R4UQAEjarybuOMqMnk5uQQxSBDhCyfDaRImlU0yagYsSFo935MNTP90p34D8GGyFTQK-X90-rQYREuHwQEGRn2lSxhrWNIqaom6OkaiaJ99MYzCRhAodQc9lFdQTtsTrPg4Qm6w9s6SSEw7n9KTbSSD8bc1AniTmWs1IUVqjpe-8DpvzFF6v_XHfFnI78kXlQobmy9ktn-HpxfIKKIWF1hp_sPuFhuLgnM0l9c)"
+msgstr ""
+"Dies Video erforscht den Charakter von Extinction Rebvellion mit dem XRISN-"
+"gemeinsamen Koordinator Kofi Mawuli Klu und der XRISN-Koordinatorin des "
+"Medien- und Kommunikationsteams [Esther Stanford-Xosei](https://www.facebook."
+"com/StanfordXosei/?__tn__=KH-R&eid=ARBAfqAWrGuBvOn223xo7MdVEXE5wikNtO0d40YV6Z"
+"IfpWuZjvIstfoP0PQqsM9ynIhMqnDvFF7WoakL&fref=mentions&__xts__%5B0%5D=68"
+".ARAU2mMpubP-yJDA8meGYYDN6AV-t92Bb3AyevT_69lN1htUYgBTpw0tv-m6Otxn0m4tO6qWFCow"
+"XVYoKBM8nAmnUqUVrRwkzUiL1YIyueWEs6552byWln5ZGAOonVNVRnRDTpMH_wEk_ytPjewmUysdD"
+"6xKghRoUqmlQspOwRLg-s"
+"-9HzsA1tbrAFs02g4MttjnbppBSTFFAxTMv9GCYzH8MH4kLONdo0MD34aKxSKCFVwEoZ-lTeVPXi1"
+"BexZ2EUzhz8O5iVFy6R4UQAEjarybuOMqMnk5uQQxSBDhCyfDaRImlU0yagYsSFo935MNTP90p34D"
+"8GGyFTQK-X90-rQYREuHwQEGRn2lSxhrWNIqaom6OkaiaJ99MYzCRhAodQc9lFdQTtsTrPg4Qm6w9"
+"s6SSEw7n9KTbSSD8bc1AniTmWs1IUVqjpe-8DpvzFF6v_XHfFnI78kXlQobmy9ktn-"
+"HpxfIKKIWF1hp_sPuFhuLgnM0l9c)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:249
+msgid ""
+"See the video "
+"[here](https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FUrir-Y9rNPk%3Ffbclid%3DIwAR1NvbkvG12WdGD7Rmdoq6iSEgRa0-KUVnfAgRQrXWOtCg3I_BDGew866bE&h=AT3iMr0dWsK7kIWFRzfupSydhS3BBH_i-hx7yl8uY1rgjjs9m_puTLcOgc8FSnUiZbewJjlLPFA_q_0mAqrQ4pj8Z7O3W52g-qpqt9K6qMiy6iOvkFA532NNBnKprL6mpQdYCXovYfuLxB98QAY9F_7TRRmQoRyhNdnu9McA_6PCRdqe87E3XCTX_4b3_HI218glCOt3lwVaKlNaLCSO4qE38aywzkBgEtU73Ebz1O5eP2GiKIuxPgfEY6U5DdLJWrcjcFDHrjMuPDI_37S91IjQUm_mJluBrDM1YzFihCwVvkLphK8VJBThtreLyoryazKLtrkN4-iDCX3wj-m6x8_YHDU3aVANnxc0Br0tJa44Cqbm9OOQRG3z6GMMqxYCq-04HhkYQZUM_Z5TJCDTk8pXogQ7HvpW-sK3Yb7pdqtJo803cOxzosggykjYNgxktW4uyJDKeEKusFQZ51M5HJ-MC7L0fPuaJLOhe-nJMcCLQawQCEUO2k6NUre2KO4q_yCHPbLdV1hmPA8ZZ02vmIdYYTFMKvIid7ddYZg6qPEBbujbOmuURF-RGFO93_zRR1Kw0mQR7nRwzhurEtSXRxks3pruMpos7r5eRCbvXZAYKzSk_h2cIWMEerSIKywnK2T_DeLPmRdLSnilQzD1XNNNkS0b8I3Rc9N_4FV3ydIUOTZV9TOQXjFHosACk3I_Sz8wSf8m1JyhT03z4r467Ux238ULvEHouB92lPlyvul1x59lTvtJ2r3aUOyrrYi2ltS219Q4CZpI7YEDNdIxrYsIin3hj_2paceH9L82yEkzjiRCl8fA0T60qm9_8AwYjvY-7qjELd6k4r6eJRax)."
+msgstr ""
+"Schau das Video [hier an](https://l.facebook.com/"
+"l.php?u=https%3A%2F%2Fyoutu.be%2FUrir-Y9rNPk%3Ffbclid%3DIwAR1NvbkvG12WdGD7Rmd"
+"oq6iSEgRa0-KUVnfAgRQrXWOtCg3I_BDGew866bE&h=AT3iMr0dWsK7kIWFRzfupSydhS3BBH_i-"
+"hx7yl8uY1rgjjs9m_puTLcOgc8FSnUiZbewJjlLPFA_q_0mAqrQ4pj8Z7O3W52g-qpqt9K6qMiy6i"
+"OvkFA532NNBnKprL6mpQdYCXovYfuLxB98QAY9F_7TRRmQoRyhNdnu9McA_6PCRdqe87E3XCTX_4b"
+"3_HI218glCOt3lwVaKlNaLCSO4qE38aywzkBgEtU73Ebz1O5eP2GiKIuxPgfEY6U5DdLJWrcjcFDH"
+"rjMuPDI_37S91IjQUm_mJluBrDM1YzFihCwVvkLphK8VJBThtreLyoryazKLtrkN4-iDCX3wj-"
+"m6x8_YHDU3aVANnxc0Br0tJa44Cqbm9OOQRG3z6GMMqxYCq-"
+"04HhkYQZUM_Z5TJCDTk8pXogQ7HvpW-"
+"sK3Yb7pdqtJo803cOxzosggykjYNgxktW4uyJDKeEKusFQZ51M5HJ-MC7L0fPuaJLOhe-nJMcCLQa"
+"wQCEUO2k6NUre2KO4q_yCHPbLdV1hmPA8ZZ02vmIdYYTFMKvIid7ddYZg6qPEBbujbOmuURF-RGFO"
+"93_zRR1Kw0mQR7nRwzhurEtSXRxks3pruMpos7r5eRCbvXZAYKzSk_h2cIWMEerSIKywnK2T_DeLP"
+"mRdLSnilQzD1XNNNkS0b8I3Rc9N_4FV3ydIUOTZV9TOQXjFHosACk3I_Sz8wSf8m1JyhT03z4r467"
+"Ux238ULvEHouB92lPlyvul1x59lTvtJ2r3aUOyrrYi2ltS219Q4CZpI7YEDNdIxrYsIin3hj_2pac"
+"eH9L82yEkzjiRCl8fA0T60qm9_8AwYjvY-7qjELd6k4r6eJRax)."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:252
+#, no-wrap
+msgid "Join Global Support"
+msgstr "Mitglied werden bei Global Support"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:255
+msgid "![XR Global Support graphic.](/assets/uploads/2.png)"
+msgstr "![XR Global Support graphic.](/assets/uploads/2.png)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:257
+msgid ""
+"Global Support is a support body facilitating the flow of resources and "
+"content between groups all across the world. Offering trainings, funding, IT "
+"support, storytelling, and more."
+msgstr ""
+"Global Support ist ein Unterstützungsgremium, das den Fluss von Ressourcen "
+"und Inhalten zwischen Gruppen auf der ganzen Welt erleichtert. Es bietet "
+"Schulungen, Finanzierung, IT-Unterstützung, Geschichtenerzählen und mehr."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:259
+msgid ""
+"There are a range of roles available, including Arts, Systems Development, "
+"Events, Tech, SOS, Finance and Fundraising, Participative Democracy and "
+"Partnerships. Crucially, the Media & Messaging team, who work on the "
+"movement’s global communications strategy, is also looking for new rebels."
+msgstr ""
+"Es gibt eine Reihe von Funktionen, darunter Kunst, Systementwicklung, "
+"Events, Technik, SOS, Finanzen und Fundraising, partizipative Demokratie und "
+"Partnerschaften. Vor allem aber sucht das Media & Messaging-Team, das an der "
+"globalen Kommunikationsstrategie der Bewegung arbeitet, auch nach neuen "
+"Rebell*innen ."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:261
+msgid ""
+"If you would like to join the M&M team, fill out [this "
+"form](https://forms.organise.earth/index.php?r=survey/index&sid=855325&lang=en). "
+"For all other roles, go "
+"[here](https://forms.organise.earth/index.php?r=survey/index&sid=433164&lang=en), "
+"or email "
+"[XRint-onboarding@protonmail.com](mailto:XRint-onboarding@protonmail.com)"
+msgstr ""
+"Wer sich dem M/M-Team anschließen will, möge bitte [dieses "
+"Formular](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=855325&lang=en). For all other roles, go "
+"[here](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=433164&lang=en), or email [XRint-onboarding@protonmail.com](mailto"
+":XRint-onboarding@protonmail.com)"
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:264
+#, no-wrap
+msgid "Global Media Library Training"
+msgstr "Globale Medienbibliothek Ausbildung"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:267
+msgid "![XR Global Media Library graphic. ](/assets/uploads/14.jpg)"
+msgstr "![XR Global Media Library graphic. ](/assets/uploads/14.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:269
+msgid ""
+"Hello rebels around the world! The XR Global Media Library keeps on growing! "
+"Add your images to the gallery and let your story be told. [Catch a training "
+"session here](https://xrb.link/o3m6N1) (now also in Spanish). And check out "
+"the [quick guide with the upload logins.](https://xrb.link/g96O5CTR0)"
+msgstr ""
+"Hallo Rebell*innen auf der ganzen Welt! Die XR Global Media Library wächst "
+"weiter! Fügt eure Bilder zur Galerie hinzu und sorgt dafür, dass eure "
+"Geschichte erzählt wird. [Hier gibt es ein Anleitungsvideo](https://xrb.link/"
+"o3m6N1) (jetzt auch auf Spanisch). Und seht euch die [Kurzanleitung mit den "
+"Upload-Logins an](https://xrb.link/g96O5CTR0)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:271
+msgid ""
+"[Let’s make it "
+"global.](https://show.pics.io/xr-global-media-resources-public)"
+msgstr ""
+"[Machen wir es global.](https://show.pics.io/xr-global-media-resources-"
+"public)"
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:274
+#, no-wrap
+msgid "Writers Rebel"
+msgstr "Schriftsteller rebellieren"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:277
+msgid "![XR Writers Rebel graphic.](/assets/uploads/16.jpg)"
+msgstr "![XR Writers Rebel graphic.](/assets/uploads/16.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:279
+msgid ""
+"Catch the latest from Writer’s Rebel. Acclaimed poet & environmentalist "
+"Homero Aridjis writing from Mexico where the populist President is pushing "
+"forward with his Mayan Train railway that threatens to devastate the "
+"precious eco-systems of the Calakmul Biosphere Reserve."
+msgstr ""
+"Lest das Neueste von Schriftsteller rebellieren. Der gefeierte Dichter und "
+"Umweltschützer Homero Aridjis schreibt aus Mexiko, wo der populistische "
+"Präsident seine Maya-Eisenbahn vorantreibt, die die kostbaren Ökosysteme des "
+"Biosphärenreservats Calakmul zu zerstören droht."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:281
+msgid ""
+"Read "
+"[here](https://writersrebel.com/the-ditch/?fbclid=IwAR2tcWNQ4MGLAN0Y69L__fpO-HQSaxhUc2zFWwShGB-Rio_8yU3JCkBUGVs)."
+msgstr ""
+"Lest [hier nach](https://writersrebel.com/the-ditch/?fbclid"
+"=IwAR2tcWNQ4MGLAN0Y69L__fpO-HQSaxhUc2zFWwShGB-Rio_8yU3JCkBUGVs)."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:284
+#, no-wrap
+msgid "XR Podcast"
+msgstr "XR-Podcast"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:287
+msgid "![XR Podcast graphic.](/assets/uploads/20.jpg)"
+msgstr "![XR Podcast graphic.](/assets/uploads/20.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:289
+msgid ""
+"Check out the latest from XR Podcast. This week's podcast includes a Swedish "
+"activist Helena who watched Ladakh in India being taken over by global "
+"forces and realized nothing good was coming out of it and a woman farmer "
+"whose Indian grandmother taught her about seeds and local varieties. So "
+"there is quite an international flavour to the pod."
+msgstr ""
+"Seht euch das Neueste vom XR-Podcast an. Der Podcast dieser Woche berichtet "
+"von einer schwedischen Aktivistin, Helena, die miterlebte, wie Ladakh in "
+"Indien von globalen Playern übernommen wurde und feststellte, dass nichts "
+"Gutes dabei herauskam, sowie von einer Bäuerin, deren indische Großmutter "
+"ihr Wissen über Saatgut und lokale Sorten vermittelte. Der Podcast hat also "
+"einen recht internationalen Charakter."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:291
+msgid ""
+"Listen "
+"[here](https://rebellion.earth/2020/07/10/future-is-local-helena-norberg-hodge-jyoti-fernandes/?fbclid=IwAR3EKWo5yz0Lz6cMEfBCOO7RwpTvZMEFW3zPD5PR9QhYLkQqxMeeKqDgRqM)."
+msgstr ""
+"Hprt mal [herein](https://rebellion.earth/2020/07/10/"
+"future-is-local-helena-norberg-hodge-jyoti-fernandes/"
+"?fbclid=IwAR3EKWo5yz0Lz6cMEfBCOO7RwpTvZMEFW3zPD5PR9QhYLkQqxMeeKqDgRqM)."
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:294
+#, no-wrap
+msgid "XR Visual Generator"
+msgstr "XR Visual Generator"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:297
+msgid "![XR Visuals Generator graphic.](/assets/uploads/18.jpg)"
+msgstr "![XR Visuals Generator graphic.](/assets/uploads/18.jpg)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:299
+msgid ""
+"Need some quick banners, symbols, backgrounds? Check out the XR Visual "
+"Generator. Make your own custom XR artwork in moments. Perfect for the busy "
+"rebel on the move."
+msgstr ""
+"Braucht ihr schnell ein paar Banner, Symbole, Hintergründe? Schaut euch den "
+"XR Visual Generator an. in wenigen Augenblicken erstellt ihr euer eigenes "
+"benutzerdefiniertes XR-Kunstwerk. Perfekt für vielbeschäftigte Rebell*innen "
+"unterwegs ."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:301
+msgid "[Let’s get generating.](https://extinctionrebellion.fr/vizgen/)"
+msgstr "[Hier geht's los.](https://extinctionrebellion.fr/vizgen/)"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:307
+msgid ""
+"This issue, we explore our third demand and why we need a Citizens’ Assembly "
+"on the Climate and Ecological Emergency with a triple video offer, happy "
+"watching!"
+msgstr ""
+"In dieser Ausgabe untersuchen wir unsere dritte Forderung und warum wir eine "
+"Bürgerversammlung zu Klima- und Umweltnotstand brauchen und bieten ein "
+"dreifache Videoangebot, viel Spaß beim Zuschauen!"
+
+#. type: Bullet: '* '
+#: 2020-07-16-newsletter-41.md:312
+msgid ""
+"[What is a Citizens’ "
+"Assembly?](https://www.youtube.com/watch?v=BdLHZqhyCT8&feature=emb_logo)"
+msgstr ""
+"[Was ist eine Bürgerversammlung?](https://www.youtube.com/"
+"watch?v=BdLHZqhyCT8&feature=emb_logo)"
+
+#. type: Bullet: '* '
+#: 2020-07-16-newsletter-41.md:312
+msgid ""
+"[Why do we need a Citizens’ Assembly on the Climate and Ecological "
+"Emergency?](https://vimeo.com/357909084)"
+msgstr ""
+"[Warum brauchen wir eine Bürgerversammlung zu Klima- und "
+"Umweltnotstand?](https://vimeo.com/357909084)"
+
+#. type: Bullet: '* '
+#: 2020-07-16-newsletter-41.md:312
+msgid ""
+"[How a Citizen’s Assembly in Ireland broke the political deadlock around "
+"abortion rights](https://vimeo.com/246689508)"
+msgstr ""
+"[Wie eine Bürgerversammlung in Irland aus der politischen Sackgasse "
+"hinsichtlich der Abtreibungsrechte führte](https://vimeo.com/246689508)"
+
+#. type: Bullet: '* '
+#: 2020-07-16-newsletter-41.md:312
+msgid ""
+"[XR’s Citizens’ Assembly "
+"page](https://rebellion.earth/act-now/resources/citizens-assembly/)"
+msgstr ""
+"[XR’s Website zu Bürgerversammlungen](https://rebellion.earth/act-now/"
+"resources/citizens-assembly/)"
+
+#. type: Title ##
+#: 2020-07-16-newsletter-41.md:315
+#, no-wrap
+msgid "Thank you"
+msgstr "Vielen Dank"
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:318
+msgid ""
+"Thank you for reading. Even in lockdown, there’s so much exciting stuff "
+"going on in the movement that we barely have time to write this "
+"sign-off. Keep up the good work! If you have any questions or queries, "
+"please get in touch at "
+"[xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"Vielen Dank fürs Lesen. Momentan passieren so viele aufregende Dinge in "
+"unserer Bewegung, dass wir kaum Zeit haben, einige Schlusssätze zu "
+"schreiben.Weiter so! Und wenn Ihr irgendwelche Fragen oder Kommentare habt, "
+"dann schreibt uns an [xr-newsletter@protonmail.com](mailto:xr-"
+"newsletter@protonmail.com)."
+
+#. type: Plain text
+#: 2020-07-16-newsletter-41.md:319
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can "
+"[give](https://chuffed.org/project/xrinternational) is appreciated."
+msgstr ""
+"Wir sind in einer kritischen Phase der Geschichte der Menschheit, und unsere "
+"Rebellion braucht Geld, um sich Gehör zu verschaffen. Alles, was du ["
+"beitragen kannst](https://chuffed.org/project/xrinternational), wird sehr "
+"geschätzt."

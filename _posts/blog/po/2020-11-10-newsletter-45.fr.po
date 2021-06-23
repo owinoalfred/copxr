@@ -1,0 +1,1567 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-10 12:19+0800\n"
+"PO-Revision-Date: 2021-03-13 08:57+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-11-10-newsletter-45/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:12
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Global Newsletter #45: Our Lungs Won't Last\"\n"
+"slug: newsletter-45\n"
+"date: 2020-11-12 16:27\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/41516d9e-c017-4270-8aac-b47e5aea50b9.jpg\n"
+"seoDescription: Politics may feel renewed - but in every corner of the world our\n"
+"  forests are under attack. And when they’re gone, so are we.\n"
+msgstr ""
+"lang: fr\n"
+"title: \"Newsletter internationale #45 : Nos poumons étouffent\"\n"
+"slug: newsletter-45\n"
+"date: 2020-11-10 14:23\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/41516d9e-c017-4270-8aac-b47e5aea50b9.jpg\n"
+"seoDescription: Malgré de certains changements politiques, nos forêts sont menacées dans tous les recoins du monde, et quand elles\n"
+"   auront été anéanties, nous le serons aussi.\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:14
+msgid "![](/assets/uploads/41516d9e-c017-4270-8aac-b47e5aea50b9.jpg)"
+msgstr "![](/assets/uploads/41516d9e-c017-4270-8aac-b47e5aea50b9.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:16
+msgid ""
+"(Sign up to the newsletter [here](https://actionnetwork.org/forms/newsletter-"
+"sign-up-17).)"
+msgstr ""
+"(Pour souscrire à la newsletter, [c'est par ici !](https://actionnetwork.org/"
+"forms/newsletter-sign-up-17).)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:17
+#, no-wrap
+msgid "Dear rebels,  \n"
+msgstr "Chers rebelles,  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:19
+#, no-wrap
+msgid "It took four agonising days to hear them, but the American people have spoken. They have rejected four more years of fossil fuel promotion and climate science denial. They have elected someone who will rejoin the Paris Agreement and has promised a [Clean Energy Revolution](https://joebiden.com/climate-plan/). In doing so, they have given all of us something precious: hope.  \n"
+msgstr "Il a fallu attendre quatre jours pour avoir les résultats de l'élection présidentielle aux États-Unis. Les votants se sont exprimés, et ont élu un président qui n'est pas climatosceptique, qui s'est engagé à rejoindre à nouveau l'Accord de Paris, et qui promet une [transition énergétique _verte_](https://joebiden.com/climate-plan/). De quoi faire luire un semblant d'espoir à l'horizon...  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:22
+msgid ""
+"Asian politics has also given us reasons to smile. Both [Japan](https://uk."
+"reuters.com/article/japan-politics-suga/update-1-japan-aims-for-zero-"
+"emissions-carbon-neutral-society-by-2050-pm-idUKL4N2HH1AC?utm_campaign=Carbon"
+"%20Brief%20Daily"
+"%20Briefing&utm_content=20201026&utm_medium=email&utm_source=Revue%20Daily) "
+"and [South Korea](https://www.theguardian.com/world/2020/oct/28/south-korea-"
+"vows-to-go-carbon-neutral-by-2050-to-fight-climate-emergency?"
+"utm_campaign=Carbon%20Brief%20Daily"
+"%20Briefing&utm_content=20201028&utm_medium=email&utm_source=Revue%20Daily) "
+"have pledged to reach “carbon neutrality” by 2050, following on from "
+"[China’s](https://www.bbc.co.uk/news/science-environment-54256826) pledge to "
+"do the same before 2060."
+msgstr ""
+"Du côté du continent asiatique, le [Japon](https://uk.reuters.com/article/"
+"japan-politics-suga/update-1-japan-aims-for-zero-emissions-carbon-neutral-"
+"society-by-2050-pm-idUKL4N2HH1AC?utm_campaign=Carbon%20Brief%20Daily"
+"%20Briefing&utm_content=20201026&utm_medium=email&utm_source=Revue%20Daily) "
+"et [la Corée du Sud](https://www.theguardian.com/world/2020/oct/28/south-"
+"korea-vows-to-go-carbon-neutral-by-2050-to-fight-climate-emergency?"
+"utm_campaign=Carbon%20Brief%20Daily"
+"%20Briefing&utm_content=20201028&utm_medium=email&utm_source=Revue%20Daily) "
+"se sont engagés à atteindre la neutralité carbone d'ici 2050, suite à "
+"l'annonce de la [Chine](https://www.bbc.co.uk/news/science-"
+"environment-54256826) qui elle a déclaré s'engager à atteindre cet objectif "
+"d'ici 2060."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:24
+msgid ""
+"Of course, the climate crisis is destroying lives today. It’s too easy for "
+"politicians to set distant targets and draw ambitious roadmaps, when climate "
+"science and lived experience shows action is needed now. And however unified "
+"and well-meaning the pledges of governments appear, they offer little "
+"comfort when environmental destruction continues with such ferocity on the "
+"ground."
+msgstr ""
+"En attendant, les bouleversements écologiques et climatiques continuent de "
+"ravir des vies au quotidien, et il est facile pour les politiciens "
+"d'élaborer d'ambitieuses feuilles de route, et de viser des objectifs bien "
+"trop lointains, quand la réalité vécue, et les scientifiques prouvent que "
+"c'est maintenant qu'il faut agir. Aussi uniformisées et empreintes des "
+"meilleures intentions soient-elles, les promesses des gouvernements ne sont "
+"que guère rassurantes, étant donné l'ampleur manifeste des ravages en cours."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:26
+msgid ""
+"![The Red Brigade mourn a forest being cleared for a motorway in Germany. ](/"
+"assets/uploads/002ae9ef-6309-48ba-951e-1f6f4a1d47b6.jpg)"
+msgstr ""
+"![_The Red Brigade_ en deuil suite à l'abbatage d'une forêt en Allemagne "
+"pour construire une autoroute. ](/assets/"
+"uploads/002ae9ef-6309-48ba-951e-1f6f4a1d47b6.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:27
+#, no-wrap
+msgid "*The Red Brigade mourn a forest being cleared for a motorway in Germany.*  \n"
+msgstr "*_The Red Brigade_ pleure la mort d'une forêt abattue en Allemagne pour faire place à une autoroute.*  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:29
+#, no-wrap
+msgid "In this issue, we have stories of forests being destroyed on every continent of the world. Even when we know how vital these habitats are to our collective survival, both in their ability to absorb carbon and contain disease, still their global devastation continues. How long can we prize industry, infrastructure, or even just recreation, above life itself?  \n"
+msgstr "Dans cette édition, nous avons compilé des récits de forêts dévastées sur tous les continents du monde. Bien que nous sachions à quel point ces habitats sont essentiels à la survie de toutes et tous, tant par leur capacité à absorber le CO2, que par leur capacité à faire rempart contre les maladies, leur destruction se poursuit à l'échelle mondiale. Pendant combien de temps encore pourrons-nous faire passer l'industrie, les infrastructures, voire nos loisirs, avant le Vivant ?  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:32
+msgid ""
+"Also in this issue, we cover the rolling rebellions that launched in four "
+"major capitals across Europe, a sign that despite the pandemic, our movement "
+"continues to fight for real political progress on the climate, and real "
+"protection of our precious habitats."
+msgstr ""
+"Nous relayons aussi dans cette édition, les vagues de rébellion qui ont "
+"déferlé sur quatre grandes capitales européennes, ce qui illustre bien que "
+"malgré la pandémie, notre mouvement continue à lutter pour de réelles "
+"avancées politiques climatiques, et en matière de réelle protection de notre "
+"environnement."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:34
+msgid ""
+"![Italian rebels blockade the HQ of national oil company ENI.](/assets/"
+"uploads/47e5092d-b0f2-4eb3-a669-216e96a8e6f0.jpg)"
+msgstr ""
+"![Italian rebels blockade the HQ of national oil company ENI.](/assets/"
+"uploads/47e5092d-b0f2-4eb3-a669-216e96a8e6f0.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:35
+#, no-wrap
+msgid "*Italian rebels blockade the HQ of national oil company ENI.*  \n"
+msgstr "*Des rebelles d'XR Italie bloque le siège de la compagnie pétrolière ENI.*  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:38
+msgid ""
+"Shortly before losing the election, the outgoing American President "
+"sanctioned the opening up of [Tongass National park in Alaska](https://www."
+"washingtonpost.com/climate-environment/trump-pushes-to-allow-new-logging-in-"
+"alaskas-tongass-national-forest/2019/08/27/b4ca78d6-c832-11e9-be05-"
+"f76ac4ec618c_story.html) to logging, the largest temperate rainforest in the "
+"world. We should celebrate when destructive personalities are shown the "
+"door. But we have to ensure we are rid of the destructive habits too. The "
+"truth is, civil disobedience is needed today as much as it ever was."
+msgstr ""
+"Peu avant de perdre l'élection, le président américain sortant a autorisé "
+"l'exploitation forestière de la plus grande forêt pluviale tempérée au "
+"monde, [le parc national de Tongass en Alaska](https://www.washingtonpost."
+"com/climate-environment/trump-pushes-to-allow-new-logging-in-alaskas-tongass-"
+"national-forest/2019/08/27/b4ca78d6-c832-11e9-be05-f76ac4ec618c_story.html). "
+"Nous devrions nous réjouir du renvoi de personnalités destructrices, mais "
+"nous devons aussi nous assurer que ces pratiques destructrices n'auront plus "
+"cours. La vérité, c'est que la désobéissance civile est plus nécessaire "
+"aujourd'hui qu'elle ne l'a jamais été."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:40
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Si vous avez envie de vous impliquer, vous pouvez consulter notre [site]"
+"(https://rebellion.global) pour [en apprendre plus sur XR.](https://"
+"rebellion.global/about-us/)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:42
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"Pour échanger avec des rebelles dans votre région, cherchez à prendre "
+"contact avec [le groupe local le plus proche de chez vous](https://rebellion."
+"global/branches/). S’il n’y a pas encore de groupe XR dans votre coin, [il "
+"ne vous reste plus qu’à en lancer un !](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:44
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Si vous désirez consulter les éditions précédentes, c'est par [ici](https://"
+"rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:46
+msgid ""
+"This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)."
+msgstr ""
+"Cette rébellion a besoin de vous. Si vous n'avez pas de temps à y consacrer, "
+"vous pouvez éventuellement envisager de [faire un don](https://chuffed.org/"
+"project/xrinternational)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:48 2020-11-10-newsletter-45.md:342
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Soutenir la Rébellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:49
+#, no-wrap
+msgid "Contents"
+msgstr "Sommaire"
+
+#. type: Title #
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:56
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Gros plan sur des actions"
+
+#. type: Title #
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:242
+#, no-wrap
+msgid "XR Unchained"
+msgstr "XR Unchained"
+
+#. type: Title #
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:267
+#, no-wrap
+msgid "Announcements"
+msgstr "Annonces"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:325
+#, no-wrap
+msgid "Must Reads"
+msgstr "À lire absolument"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:60
+#, no-wrap
+msgid "Fighting for Bugoma Forest"
+msgstr "Battons-nous pour la forêt de Bugoma"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:63
+msgid "OCT | Bugoma, Uganda & Goma, Democratic Republic of Congo"
+msgstr "OCT | Bugoma, Ouganda & Goma, République démocratique du Congo"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:65
+msgid ""
+"Ugandan rebels are racing to stop the clearing of swathes of forest to make "
+"way for a sugarcane plantation."
+msgstr ""
+"Des rebelles d'XR Ouganda s'activent pour stopper le défrichement de bandes "
+"de forêt destinées à l'implantation d'une plantation de canne à sucre."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:67
+msgid ""
+"Conservation experts have long warned that destroying even a small fraction "
+"of Bugoma’s tropical forest ecosystem would have devastating impacts for "
+"flora and fauna, and affect the water levels of the River Nile."
+msgstr ""
+"Les experts nous avertissent depuis longtemps : la destruction, ne serait-ce "
+"que d'une petite partie de l'écosystème de la forêt tropicale de Bugoma "
+"aurait des effets dévastateurs sur la faune et la flore, et affecterait le "
+"niveau des eaux du Nil."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:69
+msgid ""
+"Alongside other environmentalist groups, Ugandan rebels joined a 10km run to "
+"raise awareness about the clearance, and launched a [petition](https://"
+"secure.avaaz.org/community_petitions/en/"
+"uganda_parliamentary_committee_on_natural_resource_save_bugoma_forest_/?"
+"cuwXorb&utm_source=sharetools&utm_medium=copy&utm_campaign=petition-1109973-"
+"save_bugoma_forest_&utm_term=uwXorb%2Ben) to the Ugandan parliament to stop "
+"the destruction."
+msgstr ""
+"Des rebelles d'XR Ouganda ont participé à une course de 10 km aux côtés "
+"d'autres groupes de défense de l'environnement, pour sensibiliser le public "
+"à la déforestation, et ont lancé une [pétition](https://secure.avaaz.org/"
+"community_petitions/en/"
+"uganda_parliamentary_committee_on_natural_resource_save_bugoma_forest_/?"
+"cuwXorb&utm_source=sharetools&utm_medium=copy&utm_campaign=petition-1109973-"
+"save_bugoma_forest_&utm_term=uwXorb%2Ben), exigeant du parlement ougandais "
+"qu'il mette un terme aux destructions."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:71
+msgid ""
+"![Sign reading \"Save Bugoma Forest\"](/assets/uploads/20320c90-5ed1-4e61-"
+"b827-40fac1439261.png)"
+msgstr ""
+"![Sign reading \"Save Bugoma Forest\"](/assets/uploads/20320c90-5ed1-4e61-"
+"b827-40fac1439261.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:73
+#, no-wrap
+msgid "*Photo: XR Uganda*\n"
+msgstr "*Photo : XR Ouganda*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:75
+msgid ""
+"As workers began felling the giant trees in the disputed area, activists and "
+"journalists covering the destruction were shot at and arrested by the "
+"military."
+msgstr ""
+"Alors que des ouvriers commençaient à abattre les arbres géants dans la zone "
+"en question, des militants et des journalistes qui couvraient l'évènement "
+"ont essuyé des tirs de militaires !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:77
+msgid ""
+"However, Ugandan rebels believe that there may be a “ray of hope” as the "
+"world has woken up to their protest. The Ugandan government is being hauled "
+"before the East African Court of Justice and international groups [including "
+"the EU](https://www.newvision.co.ug/news/1530610/eu-bugoma-forest-sugarcane-"
+"project-halted) are condemning the clearance."
+msgstr ""
+"Les rebelles d'XR Ouganda entrevoient pourtant peut-être une lueur d'espoir, "
+"car le monde a pu être informé, et prendre conscience de la situation. Le "
+"gouvernement ougandais est traduit devant la Cour de justice d'Afrique de "
+"l'Est, et d'autres instance internationales [dont l'UE](https://www."
+"newvision.co.ug/news/1530610/eu-bugoma-forest-sugarcane-project-halted) "
+"condamnent cette autorisation."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:79
+msgid ""
+"The action came mere weeks after rebels in neighbouring DRC took to the "
+"streets. Rebels from [XR Université de Goma](https://www.facebook.com/XR-"
+"Universit%C3%A9-de-Goma-100194634862768/) condemned ongoing attempts to "
+"license oil drilling in Virunga National Park - a UNESCO world heritage site."
+msgstr ""
+"Cette action a eu lieu quelques semaines seulement après que les rebelles de "
+"la RDC voisine soient descendus dans les rues. Des rebelles de [l'Université "
+"de Goma](https://www.facebook.com/XR-Universit%C3%A9-de-"
+"Goma-100194634862768/) ont dénoncé les projets en cours visant à obtenir une "
+"autorisation de forage pétrolier dans le parc national des Virunga - un site "
+"classé patrimoine mondial de l'UNESCO."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:81
+msgid ""
+"Painted green and covered in leaves, the rebels marched through Goma city "
+"and held signs calling for an end to environmental destruction."
+msgstr ""
+"Peints en vert et s'étant couverts de feuilles, des rebelles ont défilé dans "
+"la ville de Goma, brandissant des pancartes appelant à l'arrêt des "
+"destructions de l'environnement."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:83
+msgid ""
+"Find out more about XR Uganda and their upcoming actions by following them "
+"on [Twitter](https://twitter.com/xrea15?lang=en-gb)."
+msgstr ""
+"Pour en savoir plus sur XR Ouganda, et leurs prochaines actions, vous pouvez "
+"les suivre sur [Twitter](https://twitter.com/xrea15?lang=en-gb) !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:85
+msgid ""
+"![Boy holding anti-violence sign with XR logo](/assets/"
+"uploads/9a49c230-1d5f-44bd-9e51-ffef70a70fbe.jpg)"
+msgstr ""
+"![Boy holding anti-violence sign with XR logo](/assets/"
+"uploads/9a49c230-1d5f-44bd-9e51-ffef70a70fbe.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:87
+#, no-wrap
+msgid "*Photo: XR Université de Goma*\n"
+msgstr "*Crédit photo : Université de Goma*\n"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:90
+#, no-wrap
+msgid "Omnibus Bill: Open Season on Indonesia’s Forests"
+msgstr "Le projet de loi travail dit \"omnibus\" sacrifie les forêts indonésiennes"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:93
+msgid "5 OCT | Jakarta, Indonesia"
+msgstr "5 OCT | Jakarta, Indonésie"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:95
+msgid "![](/assets/uploads/d23f5b13-664a-4741-ba30-a4738dc25d1e.png)"
+msgstr "![](/assets/uploads/d23f5b13-664a-4741-ba30-a4738dc25d1e.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:97
+msgid ""
+"A rebel among the protests (‘Mosi Tidak Percaya’ means ‘Motion of No "
+"Confidence’)."
+msgstr ""
+"Un rebelle pendant la manifestation (\"Mosi Tidak Percaya\" signifie "
+"\"Motion de censure\")."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:99
+msgid ""
+"The Indonesian government has passed a new law that will devastate the "
+"country’s tropical forests - currently the 3rd largest in the world."
+msgstr ""
+"Le gouvernement indonésien a adopté une nouvelle loi qui va dévaster les "
+"forêts tropicales du pays, qui représentent actuellement la 3ème plus grande "
+"zone boisée tropicale au monde."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:101
+msgid ""
+"The ‘Omnibus bill’ has been sold to the public as pro-business and necessary "
+"for the nation’s economic recovery after Covid. But the reality is that the "
+"1000-page bill began life before the pandemic, has been rushed through "
+"parliament to avoid scrutiny, and strips away both [environmental "
+"protections](https://asiatimes.com/2020/09/indonesian-bill-an-environmental-"
+"economic-disaster/) and workers rights to such a degree that [even global "
+"investors](https://uk.reuters.com/article/indonesia-economy-law-investors/"
+"update-1-global-investors-warn-indonesia-that-jobs-bill-puts-forests-at-risk-"
+"idUSL8N2GW2NP) are criticising it. Many of the people who drafted the bill "
+"have been [linked to the coal industry](https://www.walhi.or.id/uploads/buku/"
+"Laporan%20OL%20Kitab%20Hukum%20Oligark_BI_FRI-min.pdf)."
+msgstr ""
+"La loi dite \"omnibus\" ou expresse a été présentée au public comme "
+"favorable aux entreprises et nécessaire à la reprise économique du pays "
+"suite à la pandémie de Covid, mais en réalité, ce projet de loi de 1000 "
+"pages, qui avait été initié avant la pandémie, a été adopté à la hâte par le "
+"Parlement pour éviter toute contestation, étant donné qu'il réduit "
+"drastiquement à la fois [les mesures de protection environnementales]"
+"(https://asiatimes.com/2020/09/indonesian-bill-an-environmental-economic-"
+"disaster/), et les droits des travailleurs, à un degré tel que [même les "
+"investisseurs mondiaux](https://uk.reuters.com/article/indonesia-economy-law-"
+"investors/update-1-global-investors-warn-indonesia-that-jobs-bill-puts-"
+"forests-at-risk-idUSL8N2GW2NP) le critiquent. Il s'avère que nombre des "
+"personnes ayant rédigé ce projet de loi sont [liées à l'industrie du charbon]"
+"(https://www.walhi.or.id/uploads/buku/Laporan%20OL%20Kitab%20Hukum"
+"%20Oligark_BI_FRI-min.pdf)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:103
+msgid ""
+"![Security forces and protesters](/assets/uploads/8d656814-5882-4d49-"
+"ba47-4a8a11bb6157.png)"
+msgstr ""
+"![Security forces and protesters](/assets/uploads/8d656814-5882-4d49-"
+"ba47-4a8a11bb6157.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:105
+#, no-wrap
+msgid "*Photo: AntaraFoto/Basri Marzuki*\n"
+msgstr "*Crédit photo : AntaraFoto/Basri Marzuki*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:107
+msgid ""
+"Workers and students across Indonesia have risen up against the bill, but "
+"the brutal police reaction has stopped XR Indonesia from officially joining "
+"the protests. Thousands of Indonesians have been arrested for simply "
+"gathering in public, and [reports of police violence and rioting](https://"
+"www.aljazeera.com/news/2020/10/9/demonstrations-sweep-indonesia-over-"
+"controversial-omnibus-law) are widespread. At least two students have been "
+"[hospitalised with head injuries](https://www.straitstimes.com/asia/se-asia/"
+"clashes-erupt-on-third-day-of-protests-against-new-indonesian-jobs-law)."
+msgstr ""
+"Dans toute l'Indonésie, travailleurs et étudiants se sont soulevés contre ce "
+"projet de loi, mais la brutale répression policière a découragé XR Indonesia "
+"de se joindre officiellement aux protestations. Des milliers d'Indonésiens "
+"ont été arrêtés pour s'être simplement rassemblés en public, et les médias "
+"ont largement relayés[des scènes de violents affrontements et de violences "
+"policières.](https://www.aljazeera.com/news/2020/10/9/demonstrations-sweep-"
+"indonesia-over-controversial-omnibus-law). Au moins deux étudiants ont été "
+"[hospitalisés suite à des blessures à la tête](https://www.straitstimes.com/"
+"asia/se-asia/clashes-erupt-on-third-day-of-protests-against-new-indonesian-"
+"jobs-law)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:109
+msgid ""
+"XR Indonesia is instead coordinating with other environmental groups to hold "
+"a parade through Jakarta later this month. The peaceful demo will be held "
+"the day before the [Asian Climate Rally](https://www.asiaclimaterally.net/) "
+"and echo its 5 key demands - one of which is to repeal all environmentally "
+"damaging laws."
+msgstr ""
+"XR Indonesia essaie plutôt de coorganiser un défilé à travers Jakarta dans "
+"le courant du mois avec d'autres mouvances environnementalistes. Cette "
+"manifestation pacifique aura lieu la veille du [Asian Climate Rally](https://"
+"www.asiaclimaterally.net/) se fera écho des cinq principales revendications "
+"qui y seront énoncées, dont l'une étant l'abrogation de toutes les lois "
+"nuisibles à l'environnement."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:111
+msgid ""
+"Find out more about XR Indonesia and their upcoming actions by following "
+"their [Instagram](https://www.instagram.com/extinctionrebellion.id/)."
+msgstr ""
+"Pour en savoir plus sur XR Indonesia et leurs prochaines actions, vous "
+"pouvez les suivre sur [Instagram](https://www.instagram.com/"
+"extinctionrebellion.id/)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:113
+msgid ""
+"![Protester in front of building on fire](/assets/"
+"uploads/4b404a96-7e35-40ff-8245-a8270acda254.png)"
+msgstr ""
+"![Protester in front of building on fire](/assets/"
+"uploads/4b404a96-7e35-40ff-8245-a8270acda254.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:114
+#, no-wrap
+msgid "*Photo: AMW*  \n"
+msgstr "*Crédit photo : AMW*  \n"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:118
+#, no-wrap
+msgid "Berlin Blockades To Protect The Trees"
+msgstr "Blocages à Berlin pour protéger les forêts"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:121
+msgid "5 - 9 OCT | Berlin, Germany"
+msgstr "5 - 9 OCT | Berlin, Allemagne"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:123
+msgid ""
+"German rebels protested against the [cutting down of ancient forests]"
+"(https://www.greenpeace.org/international/story/45407/motorway-dannenroder-"
+"forest-protect-climate-germany/) to make way for a new motorway by "
+"blockading the state construction company responsible for building it."
+msgstr ""
+"Des rebelles d'XR Allemagne ont protesté contre [l'abbatage de forêts "
+"séculaires](https://www.greenpeace.org/international/story/45407/motorway-"
+"dannenroder-forest-protect-climate-germany/) pour faire place à une nouvelle "
+"autoroute, en bloquant l'entreprise de construction d'État en charge du "
+"chantier."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:125
+msgid ""
+"Rebels surrounded the Berlin headquarters and used a huge dying tree "
+"sculpture as well as chains and glue to barricade themselves across its "
+"entrance. Several brave rebels stood topless to draw media attention to the "
+"destruction. Flares were let off to symbolise the forest burning."
+msgstr ""
+"Les rebelles se sont déployés autour de leur siège à Berlin, et ont installé "
+"une monumentale sculpture d'arbre mort, utilisant aussi des chaînes, et de "
+"la superglue pour en bloquer l'entrée. Plusieurs rebelles se sont mis dans "
+"une position de vulnérabilité, torse nus pour attirer l'attention des médias "
+"sur la destruction en cours, et des fusées éclairantes ont été lancées "
+"symbolisant la forêt en feu."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:127
+msgid ""
+"![The blockade outside DEGES - Germany’s state motorway construction "
+"company.](/assets/uploads/c703c6cd-dbe8-4dca-99f4-545d3b4adac1.jpg)"
+msgstr ""
+"![The blockade outside DEGES - Germany’s state motorway construction "
+"company.](/assets/uploads/c703c6cd-dbe8-4dca-99f4-545d3b4adac1.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:129
+#, no-wrap
+msgid "*The blockade outside DEGES - Germany’s state motorway construction company.*\n"
+msgstr "*Blocage devant le siège de DEGES (Société allemande de planification et de construction d'autoroutes ).*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:131
+msgid ""
+"The Dannenroder forest is the largest to be threatened by the new motorway, "
+"and protestors have built tree houses along the proposed route. The forest "
+"is home to 200 year old trees, endangered animals, and a key regional water "
+"reserve. Treehouse defenders have already been evicted and trees felled in "
+"neighbouring forests."
+msgstr ""
+"La forêt de Dannenroder est la plus grande qui soit menacée par la nouvelle "
+"autoroute, et les protestataires ont construit des cabanes dans les arbres "
+"le long du tracé proposé. Cette forêt abrite des arbres qui ont 200 ans, des "
+"animaux menacés et une importante réserve d'eau régionale. Les défenseurs "
+"occupant les cabanes dans les arbres ont déjà été expulsés, et des arbres "
+"ont été abattus dans les forêts voisines."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:133
+msgid ""
+"The blockade marked the final day of the Berlin Rebellion, and it was not "
+"the only blockade to make headlines. Earlier 300 rebels set up roadblocks "
+"that [closed off](https://www.dw.com/en/extinction-rebellion-blocks-german-"
+"parliament/a-55194885) all 5 streets around the national Parliament for "
+"several hours. Angry at their politicians for postponing a promised coal "
+"phase-out, they called for an ecocide law that criminalised climate and "
+"environmental damage."
+msgstr ""
+"Ce blocage a marqué le dernier jour de la vague de rébellion de Berlin, et "
+"ce n'est pas le seul à avoir fait les gros titres. Auparavant, 300 rebelles "
+"avaient déjà mis en place des barrages routiers [bloquant la circulation]"
+"(https://www.dw.com/en/extinction-rebellion-blocks-german-parliament/"
+"a-55194885) de 5 rues autour du Parlement pendant plusieurs heures. "
+"Revendiquant leur colère face aux décisions politiques reportant la "
+"réduction progressive du recours au charbon promise, ils exigeaient "
+"l'adoption d'une loi contre l'écocide, pénalisant les dommages climatiques "
+"et environnementaux."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:135
+msgid ""
+"![Rebels bring the wildfires to Berlin by showing fire on their phones.](/"
+"assets/uploads/de56cfab-72c9-4813-838f-2dcd52a3c681.png)"
+msgstr ""
+"![Rebels bring the wildfires to Berlin by showing fire on their phones.](/"
+"assets/uploads/de56cfab-72c9-4813-838f-2dcd52a3c681.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:137
+#, no-wrap
+msgid "*Rebels bring the wildfires to Berlin by showing fire on their phones.*\n"
+msgstr "*Rebelles abordant la problématique des feux de forêt à Berlin en brandissant des images de feux sur leurs téléphones.*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:139
+msgid ""
+"The coal lobby was targeted when 30 rebels [occupied](https://www."
+"cleanenergywire.org/news/extinction-rebellion-occupies-lignite-industry-"
+"lobby-offices-berlin) the offices of the German Lignite Industry "
+"Association. Several hundred more rebels blocked the street outside and "
+"demanded transparency and accountability."
+msgstr ""
+"30 rebelles ont pris pour cible le lobbying de l'industrie du charbon [en "
+"occupant](https://www.cleanenergywire.org/news/extinction-rebellion-occupies-"
+"lignite-industry-lobby-offices-berlin) les bureaux de l'organisation "
+"allemande de l'industrie du lignite. Plusieurs centaines d'autres rebelles "
+"bloquaient la rue à l'extérieur, exigeant qu'ils fassent preuve de "
+"transparence et de responsabilité."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:141
+msgid ""
+"Before they were peaceably ejected by police, the office-occupying rebels "
+"threw (fake) documents from the windows - a symbolic freedom of information "
+"on fossil fuel vested interests."
+msgstr ""
+"Avant d'être expulsés par la police, les rebelles occupant les bureaux ont "
+"jeté des (faux) documents par les fenêtres, illustrant une liberté de "
+"l'information symbolique relative aux intérêts des secteurs de l'industrie "
+"fossile."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:142
+#, no-wrap
+msgid "As the week progressed, the Rebellion Wave reached the Brazilian embassy to amplify the voices of indigenous defenders and express grief for those who have lost their lives on the climate crisis frontline - people like Macarena Valdes, Paulo Paulino and Zezico Guajajara.  \n"
+msgstr "Pendant la semaine, la vague de rébellion a atteint l'ambassade du Brésil afin de porter haut et fort la voix des défenseurs autochtones, et pleurer celles et ceux qui ont perdu la vie, en combattant en première ligne sur le front de la crise climatique, des activistes comme Macarena Valdes, Paulo Paulino et Zezico Guajajara pour ne citer qu'eux.  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:145
+msgid ""
+"Find out more about XR Germany by visiting their [website](https://"
+"extinctionrebellion.de/) and following them on [Twitter](https://twitter.com/"
+"ExtinctionR_DE)."
+msgstr ""
+"Pour en savoir plus sur XR Allemagne, vous pouvez consulter leur [site web]"
+"(https://extinctionrebellion.de/) et les suivre sur [Twitter](https://"
+"twitter.com/ExtinctionR_DE)."
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:148
+#, no-wrap
+msgid "Armed Police Block Rome Rebellion"
+msgstr "Une police armée bloque la vague de rébellion à Rome"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:151
+msgid "5 - 12 OCT | Rome, Italy"
+msgstr "5 - 12 OCT | Rome, Italie"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:153
+msgid ""
+"![Rebels blockade the headquarters of oil company ENI.](/assets/"
+"uploads/40b670e9-8dac-42d6-aec4-6ccf0cd350b4.png)"
+msgstr ""
+"![Rebels blockade the headquarters of oil company ENI.](/assets/"
+"uploads/40b670e9-8dac-42d6-aec4-6ccf0cd350b4.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:155
+#, no-wrap
+msgid "*Rebels blockade the headquarters of oil company ENI.*\n"
+msgstr "*Rebelles bloquant le siège de la compagnie pétrolière ENI.*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:157
+msgid ""
+"Italian rebels converged on Rome for thier week of Rebellion, and their "
+"first target of protest for Italy’s continued inaction on the climate was "
+"their government."
+msgstr ""
+"Des rebelles d'XR Italie ont convergé vers Rome pour la semaine de "
+"rébellion, et pour protester contre l'inaction climatique prolongée en "
+"Italie a été leur gouvernement."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:158
+#, no-wrap
+msgid "Rebels sang, danced and made speeches on the central Piazza San Silvestro. They then held a mass die-in as the ravishing Red Brigade wandered among them.  \n"
+msgstr "Les rebelles ont chanté, dansé et ont pris la parole dans le centre-ville, sur la Piazza San Silvestro, avant de mettre en scène un die-in spectaculaire, la _Red Brigade_ se mouvant au milieu d'eux.  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:161
+msgid ""
+"When a rebel group headed for the nearby Piazza del Parliament to deliver a "
+"declaration to lawmakers, vehicles full of armed police blocked the way, "
+"responding to the peaceful protestors as if they were some kind of terrorist "
+"group."
+msgstr ""
+"Lorsqu'un groupe de rebelles s'est dirigé vers la Piazza del Parliament "
+"toute proche pour remettre une déclaration aux législateurs, des véhicules "
+"bondés de policiers armés leur ont bloqué la route, intervenant face aux "
+"activistes non-violents comme s'ils étaient un groupe terroriste."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:163
+msgid ""
+"![Discobedience dancers](/assets/uploads/58f5e9cf-500f-46ed-"
+"b68a-9504c3bbe116.jpg)"
+msgstr ""
+"![Discobedience dancers](/assets/uploads/58f5e9cf-500f-46ed-"
+"b68a-9504c3bbe116.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:165
+#, no-wrap
+msgid "*Italy’s rebellion opens with a dose of discobedience.*\n"
+msgstr "*La vague de rébellion en Italie inaugurée avec une bonne dose de _discobedience_.*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:167
+msgid ""
+"Shaken but undeterred, the Roman rebels used their second day of "
+"disobedience to focus on the media. They massed outside news media giant "
+"GEDI and created a performative barricade to highlight examples of media "
+"greenwashing - notably how GEDI’s leading newspaper has an environmental "
+"section sponsored by a car manufacturer and Italy’s national oil company ENI!"
+msgstr ""
+"Un peu secoués mais toujours aussi déterminés, les rebelles ont mis à profit "
+"le deuxième jour d'actions de désobéissance à Rome, pour cibler les médias. "
+"Ils se sont massés devant GEDI, le géant des médias, et mis en scène une "
+"performance bloquante, pour insister sur des exemples de greenwashing "
+"médiatique, faisant notamment référence à la rubrique environnementale du "
+"principal journal de GEDI, financé par un constructeur automobile et la "
+"compagnie pétrolière nationale italienne ENI !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:169
+msgid ""
+"ENI's headquarters got a rebel visit, too. The blockade outside its gates "
+"lasted an impressive 53 hours as 60 chained up rebels sang and played music "
+"to the bitter end. Meanwhile, a rebel letter sent to 2 key finance Ministers "
+"called for the government to divest its 30.33% stake in ENI and recognise "
+"the oil firm’s long track record of corruption and human rights violations."
+msgstr ""
+"Le siège de l'ENI a bien évidemment aussi reçu la visite des rebelles. "
+"Impressionant, le blocage devant l'entrée a duré 53 heures pendant "
+"lesquelles 60 rebelles enchaînés ont chanté et joué de la musique jusqu'à la "
+"fin, et pendant ce temps, une lettre envoyée par les rebelles à deux "
+"ministres des finances, exigeait du gouvernement qu'il se désinvestisse de "
+"ces 30,33% d'actifs dans ENI, et qu'il reconnaisse les antécédents de longue "
+"date de corruption et de violations des droits de l'homme imputés à la "
+"compagnie pétrolière."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:171
+msgid ""
+"![Italian rebels standing naked with signs in front of private parts.](/"
+"assets/uploads/ec323991-15c7-40d5-9a5d-b4ce41509ab0.jpg)"
+msgstr ""
+"![Italian rebels standing naked with signs in front of private parts.](/"
+"assets/uploads/ec323991-15c7-40d5-9a5d-b4ce41509ab0.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:173
+#, no-wrap
+msgid "*Italian rebels - the naked truth.*\n"
+msgstr "*Rebelles d'XR Italie - la vérité mise à nu.*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:175
+msgid ""
+"On the penultimate day of Rebellion, around 400 rebels moved onto the iconic "
+"Piazza dell'Esquilino to enact ‘the naked truth’. A few brave rebels bared "
+"their bodies in public to draw attention to the media’s silence on the "
+"climate crisis."
+msgstr ""
+"Pour l'avant-dernier jour de la mobilisation, quelque 400 rebelles se sont "
+"rassemblés sur l'emblématique Piazza dell'Esquilino pour y exposer \"la "
+"vérité mise à nu\". De courageux rebelles ont dévoilé leur nudité sur la "
+"place publique, pour attirer l'attention sur le silence des médias en "
+"matière de relai de la catastrophe écologique et climatique."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:177
+msgid ""
+"Even with the week of [Rebellion](https://extinctionrebellion.it/xr-"
+"magazine/2020/10/21/non-ce-piu-tempo/) officially over, 8 rebels staged a "
+"final sit-in on the steps of Parliament, explaining to passing politicians "
+"why the Coronavirus economic stimulus package they just voted for was a "
+"betrayal of science and ecology."
+msgstr ""
+"Même si la semaine de [rébellion](https://extinctionrebellion.it/xr-"
+"magazine/2020/10/21/non-ce-piu-tempo/) était officiellement terminée, huit "
+"rebelles ont fait un dernier sit-in sur les marches du Parlement, expliquant "
+"aux politiciens de passage en quoi le plan de relance économique post "
+"coronavirus qu'ils venaient de voter était une trahison envers la science et "
+"l'environnement."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:178
+#, no-wrap
+msgid "Find out more about XR Italy by visiting their [website](https://extinctionrebellion.it/) and following them on [Facebook](https://www.facebook.com/XRItaly/).  \n"
+msgstr "Pour en savoir plus sur XR Italie, vous pouvez consulter leur [site web](https://extinctionrebellion.it/) et les suivre sur [Mastodon](https://social.rebellion.global/@XRItaly/), ou sur [d'autres réseaux sociaux](https://www.facebook.com/XRItaly/).  \n"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:182
+#, no-wrap
+msgid "Rebel Seas Rise Up in Spain"
+msgstr "Marée montante de rebelles en Espagne"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:185
+msgid "5 - 11 OCT and 1 - 6 NOV | Spain"
+msgstr "5 au 11 OCT, 1er au 6 NOV | Espagne"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:187
+msgid ""
+"![Spain’s blue brigade moving through the streets](/assets/uploads/ebab83d0-"
+"f618-4f6a-9804-27527f9305b4.jpg)"
+msgstr ""
+"![Spain’s blue brigade moving through the streets](/assets/uploads/ebab83d0-"
+"f618-4f6a-9804-27527f9305b4.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:189
+#, no-wrap
+msgid "*Spain’s blue tide flows forward.*\n"
+msgstr "*Marée montante bleue en Espagne.*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:191
+msgid ""
+"Spanish rebels staged local Rebellions across a very impressive 14 cities "
+"over the last month. The action kicked-off with some urgent ‘post’ to the "
+"Department of the Environment in Madrid. Written on dry wood, the text "
+"highlighted the widespread desertification affecting Spain."
+msgstr ""
+"Les rebelles d'XR Espagne ont organisé des actions dans 14 villes le mois "
+"dernier, commençant par adresser un \"courrier\" urgent au ministère de "
+"l'environnement à Madrid. Rédigé sur du bois sec, le texte mettait en "
+"évidence l'extension de la désertification qui touche l'Espagne."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:193
+msgid ""
+"Online, there was a lively [Facebook Live](https://www.facebook.com/"
+"esXrebellion/videos/714441815834649/) event exploring the power of "
+"‘Kick(ass)emblea’ (Citizens Assemblies) to unlock democracy. The ‘[Monument "
+"to the Bull Run](https://en.wikipedia.org/wiki/Running_of_the_bulls#/media/"
+"File:Monument_in_Pamplona_IMG_3179.JPG)’ in Pamplona was also re-dedicated "
+"as a warning of the dangers of environmental breakdown."
+msgstr ""
+"Un événement proposé en ligne via [Facebook Live](https://www.facebook.com/"
+"esXrebellion/videos/714441815834649/) a permis d'explorer le pouvoir des "
+"\"Kick(ass)emblea\" (assemblée citoyenne) pour débloquer la démocratie, et à "
+"Pampelune La sculpture monumentale du lâcher de taureaux [l'Encierro]"
+"(https://en.wikipedia.org/wiki/Running_of_the_bulls#/media/File:"
+"Monument_in_Pamplona_IMG_3179.JPG) a aussi été dédié à la mise en garde "
+"contre les dangers de la dégradation de l'environnement."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:195
+msgid ""
+"In Granada, rebels locked-on at a bank, while in Cadiz, traffic was stopped. "
+"But in all Spanish cities, [die-ins](https://twitter.com/i/"
+"status/1318624668799086592) with XR Doctors made visible the past, present "
+"and future climate deaths brought about by their government’s inaction."
+msgstr ""
+"À Grenade, les rebelles se sont lockés à une banque, et à Cadix, la "
+"circulation a été bloquée, et dans toutes les villes espagnoles, des [die-"
+"ins](https://twitter.com/i/status/1318624668799086592) avec _XR Doctors_ ont "
+"donné de la visibilité aux innombrables morts dues à l'inaction climatique "
+"de nos gouvernements, que ce soit par le passé, présentement ou dans un "
+"futur proche."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:197
+msgid ""
+"![XR Doctors count the cost of climate inaction.](/assets/"
+"uploads/72c548e7-408e-4c06-b29f-b6fc887d70b8.jpg)"
+msgstr ""
+"![XR Doctors count the cost of climate inaction.](/assets/"
+"uploads/72c548e7-408e-4c06-b29f-b6fc887d70b8.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:198
+#, no-wrap
+msgid "*XR Doctors count the cost of climate inaction.*  \n"
+msgstr "*XR Doctors comptent les morts de l'inaction climatique.*  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:201
+msgid ""
+"Madrid’s rebels were forced to delay their contribution to the Spanish "
+"Rebellion due to a regional lockdown, but with November started they were "
+"able to launch into some delayed disobedience."
+msgstr ""
+"À Madrid, les rebelles ont été contraints de repousser leur participation à "
+"la vague de rébellion espagnole pour cause de confinement, mais dès le début "
+"du mois de novembre, ils ont pu se lancer dans des actions de désobéissance "
+"différées."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:203
+msgid ""
+"First up they marched out and [glued-on](https://www.elsaltodiario.com/"
+"cambio-climatico/rebelion-contra-extincion-retoma-desobediencia-civil-plena-"
+"pandemia) outside the Ministry of Agriculture - connecting themselves with "
+"plants and leaves to show how biodiversity creates a natural barrier against "
+"pandemics like Covid-19. Simply put, [nature saves lives](https://twitter."
+"com/xrmadrid_/status/1324426257279471616)."
+msgstr ""
+"Ils ont d'abord déjà pu sortir, et [se sont superglués](https://www."
+"elsaltodiario.com/cambio-climatico/rebelion-contra-extincion-retoma-"
+"desobediencia-civil-plena-pandemia) devant le ministère de l'agriculture, "
+"reliés les uns aux autres par des lianes et feuilles pour illustrer le fait "
+"que la biodiversité crée un rempart naturel contre les pandémies comme celle "
+"du Covid-19. Pour le dire simplement, [la nature sauve des vies](https://"
+"twitter.com/xrmadrid_/status/1324426257279471616)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:205
+msgid ""
+"Later they created a [giant blue tide](https://twitter.com/i/"
+"status/1323705414127673344) in the capital’s main street to represent how "
+"humanity is drowning, how extreme weather is displacing people, and how we "
+"rebels are rising up!"
+msgstr ""
+"Ils ont ensuite mis en scène une magnifique [marée bleue géante](https://"
+"twitter.com/i/status/1323705414127673344) dans l'artère principale de la "
+"capitale, représentant l'humanité submergée, combien les phénomènes "
+"météorologiques extrêmes sont la cause de déplacements de population, et "
+"traçant un parallèle entre la montée du niveau des eaux, et le fait que "
+"nous, rebelles, nous nous soulevions aussi !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:206
+#, no-wrap
+msgid "Find out more about XR Spain by visiting their [website](http://www.extinctionrebellion.es/portal/) and following them on [Facebook](https://www.facebook.com/esXrebellion/).  \n"
+msgstr "Pour en savoir plus sur XR Espagne, vous pouvez consulter leur [site web](http://www.extinctionrebellion.es/portal/), et les suivre sur [Facebook](https://www.facebook.com/esXrebellion/).  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:209
+msgid ""
+"![A rebellious nature protects the Spanish Ministry of Agriculture.](/assets/"
+"uploads/d6086887-fd28-4577-932d-23586ba4e7e4.jpg)"
+msgstr ""
+"![A rebellious nature protects the Spanish Ministry of Agriculture.](/assets/"
+"uploads/d6086887-fd28-4577-932d-23586ba4e7e4.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:211
+msgid "A rebellious nature protects the Spanish Ministry of Agriculture."
+msgstr "Une nature rebelle protègeant le ministère espagnol de l'agriculture."
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:214
+#, no-wrap
+msgid "France Makes a (324m) Stand!"
+msgstr "XR France prend position à 324m d'altitude !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:217
+msgid "11 - 18 OCT | France"
+msgstr "11 - 18 OCT | France"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:219
+msgid ""
+"![Photo: Charles Baudry](/assets/uploads/6ba1e04e-913e-4030-ae00-"
+"cef6737ba196.jpg)"
+msgstr ""
+"![Photo: Charles Baudry](/assets/uploads/6ba1e04e-913e-4030-ae00-"
+"cef6737ba196.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:221
+#, no-wrap
+msgid "*Photo: Charles Baudry*\n"
+msgstr "*Crédit photo : Charles Baudry*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:223
+msgid ""
+"Rebels in France issued a [call-to-action](https://twitter.com/i/"
+"status/1325384953811570689) to the whole world at the start of their "
+"Rebellion by revealing their newest recruit - none other than the Eiffel "
+"Tower!"
+msgstr ""
+"En France, les rebelles ont inauguré leur semaine de rébellion en lançant un "
+"[appel au monde entier à passer à l'action](https://twitter.com/i/"
+"status/1325384953811570689) par l'intermédiaire de leur dernière recrue, ni "
+"plus ni moins que la Tour Eiffel !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:225
+msgid ""
+"The famous landmark of love urged people everywhere to ‘REBEL’, and 9 other "
+"cities in France heard its call. 150 litres of fake blood were spilled in "
+"central Lille, the University Bridge in Leon was blockaded, and in Orleans "
+"adverts pushing over-consumption were given an XR makeover."
+msgstr ""
+"Le célèbre symbole de la soi-disant ville de l'amour a exhorté le monde "
+"entier à \"SE REBELLER\", et neuf autres villes de France ont entendu son "
+"appel. 150 litres de faux sang ont été déversés dans le centre de Lille, à "
+"Lyon le pont de l'Université a été bloqué, et à Orléans, des publicités "
+"incitant à la surconsommation ont été détournées version XR."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:227
+msgid ""
+"![Rebels “violently resisting” arrest according to French police.](/assets/"
+"uploads/1450226a-e7ac-4358-8320-ff6f4ed96edd.png)"
+msgstr ""
+"![Rebels “violently resisting” arrest according to French police.](/assets/"
+"uploads/1450226a-e7ac-4358-8320-ff6f4ed96edd.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:229
+#, no-wrap
+msgid "*Rebels “violently resisting” arrest according to French police.*\n"
+msgstr "*Rebelles “résistant violemment” à leur arrestation d'après la police française.*\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:231
+msgid ""
+"A beautiful action called ‘[The Slow Walk](https://twitter.com/xrFrance/"
+"status/1316738075792416769)’ took place in Paris, with rebels moving "
+"steadily between several symbolic landmarks to highlight our frantic pace of "
+"life and how it stops us from seeing the destruction around us."
+msgstr ""
+"Une superbe action intituléé '[La marche lente](https://twitter.com/xrFrance/"
+"status/1316738075792416769)' a été menée à Paris, figurant des rebelles se "
+"déplaçant avec une extrême lenteur d'un point symbolique à un autre, pour "
+"dénoncer notre rythme de vie effréné, nous empêchant de voir les ravages qui "
+"sévissent autour de nous."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:233
+msgid ""
+"But rebel pulses quickened during an action at the Ministry of Ecology. "
+"Rebels sprayed its entrance green and blockaded the roads around it, locking "
+"on and laying down on the rain soaked tarmac. But police [came in hard]"
+"(https://twitter.com/i/status/1315961776547205123), accusing rebels of "
+"‘violently resisting’ for simply lying there. [8 were arrested](https://"
+"twitter.com/T_Bouhafs/status/1315975785627488257) and 6 held in police "
+"custody for over 24 hours."
+msgstr ""
+"Le pouls des rebelles s'est accéléré lors d'une action aux abords du "
+"ministère de l'écologie. Ils ont aspergé l'entrée du ministère de peinture "
+"verte, et bloqué la circulation alentour, certains s'étant lockés allongés "
+"sur l'asphalte trempée par la pluie, avant que [la police intervienne "
+"brutalement](https://twitter.com/i/status/1315961776547205123) pour les "
+"déloger, les accusant de \"résister violemment\" alors qu'ils allongés au "
+"sol. [8 rebelles ont été arrêtés](https://twitter.com/T_Bouhafs/"
+"status/1315975785627488257) et 6 ont été retenus en garde à vue pendant plus "
+"de 24 heures."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:235
+msgid ""
+"Construction companies and concrete manufacturers were also called out for "
+"their role in climate breakdown, with concrete production contributing to 8% "
+"of global CO2 emissions. Rebels stopped mixers from leaving concrete and "
+"cement producer LafargeHolcim, significantly delaying construction of an "
+"extension to the Paris Metro."
+msgstr ""
+"Les entreprises de construction, et les cimenteries ont également été ciblés "
+"pour le rôle majeur qu'ils jouent dans la dégradation du climat, la "
+"production de ciment représentant 8 % des émissions mondiales de CO2. Les "
+"rebelles ont empêché les camions citernes de quitter le site de production "
+"de ciment LafargeHolcim, retardant considérablement le chantier d'une "
+"extension du métro parisien."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:237
+msgid ""
+"Find out more about XR France by visiting their [website](https://"
+"extinctionrebellion.fr/) and following them on [Twitter](https://twitter.com/"
+"xrFrance)."
+msgstr ""
+"Pour en savoir plus sur XR France, vous pouvez consulter leur [site web]"
+"(https://extinctionrebellion.fr/) et les suivre sur [Mastodon](https://"
+"social.rebellion.global/@xrfrance), ou [Twitter](https://twitter.com/"
+"xrFrance)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:239
+msgid "![](/assets/uploads/1c9c81c0-7c58-4a5c-861c-f958518ba387.jpg)"
+msgstr "![](/assets/uploads/1c9c81c0-7c58-4a5c-861c-f958518ba387.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:245
+msgid ""
+"Once again we have too many actions for one newsletter. Have a read of the "
+"[full XR Unchained](https://rebellion.global/blog/2020/11/11/xr-"
+"unchained-18/) for all those beautiful and courageous actions we couldn’t "
+"quite fit in this issue."
+msgstr ""
+"Une fois de plus, il y avait trop d'actions à relayer pour les insérer "
+"toutes dans une seule newsletter. Vous pouvez découvrir plus de superbes et "
+"courageuses actions dans la version intégrale de la rubrique [XR Unchained]"
+"(https://rebellion.global/fr/blog/2020/11/11/xr-unchained-18/) que nous "
+"n'avons pas pu intégrer dans cette édition."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:247
+msgid "![](/assets/uploads/52857f30-dbfa-4837-92e5-6af90fad8d75.jpg)"
+msgstr "![](/assets/uploads/52857f30-dbfa-4837-92e5-6af90fad8d75.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:249
+msgid "![](/assets/uploads/18a5a7bb-b85f-45b4-a7d4-513530f88d90.jpg)"
+msgstr "![](/assets/uploads/18a5a7bb-b85f-45b4-a7d4-513530f88d90.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:251
+msgid ""
+"Last month a 350 year old tree sacred to First Nations People was cut down "
+"and [taken away in trucks](https://www.facebook.com/XRAustralia/photos/"
+"a.368113029869751/3998254726855545/?type=3&__xts__[0]=68."
+"ARBptYaYIwcrsfp_0_vBTuNaOg2WHa71d5BfQRkSAAfjeq5ClJ3UL9WWObJG6VPIPoCvilbHp-"
+"fyN2WsR4tcu7XUZ1iWfGgj04LxGHGhYRA-"
+"Ek_JU8MYJREheLLFVTDwJS7Yyydmt3wyBecYkKxCn1tWRWKMP0PCyzAchsdX62RY7yDQGQHRN8JNE8b23OFFSZ8LaS0SRi9SEFjrOMd-"
+"_9nWsfVhDfeyjNCY5k4D32tfca8Ps2ggSnZYgQYuTUJf8Kq37I6e7z93PfOxU1qlT4pNzY_KmzB3qXCpwuYtXqdzjnG8U66kt4JEcBZ6fCUeDc4M3SvdmE4tkgsMbuKLFnFIAQ) "
+"to expand highways in Victoria, Australia. More trees are under threat - "
+"help [protect them](https://dwembassy.com/)."
+msgstr ""
+"Le mois dernier, un arbre sacré, vieux de 350 et vénéré par les peuples "
+"aborigènes, a été abattu, débité et [emporté dans des camions](https://www."
+"facebook.com/XRAustralia/photos/a.368113029869751/3998254726855545/?"
+"type=3&__xts__[0]=68."
+"ARBptYaYIwcrsfp_0_vBTuNaOg2WHa71d5BfQRkSAAfjeq5ClJ3UL9WWObJG6VPIPoCvilbHp-"
+"fyN2WsR4tcu7XUZ1iWfGgj04LxGHGhYRA-"
+"Ek_JU8MYJREheLLFVTDwJS7Yyydmt3wyBecYkKxCn1tWRWKMP0PCyzAchsdX62RY7yDQGQHRN8JNE8b23OFFSZ8LaS0SRi9SEFjrOMd-"
+"_9nWsfVhDfeyjNCY5k4D32tfca8Ps2ggSnZYgQYuTUJf8Kq37I6e7z93PfOxU1qlT4pNzY_KmzB3qXCpwuYtXqdzjnG8U66kt4JEcBZ6fCUeDc4M3SvdmE4tkgsMbuKLFnFIAQ) "
+"pour faire place à l'extension d'une autoroute dans l'état du Victoria, en "
+"Australie. D'autres arbres sont menacés, aidez-les [à les protéger !]"
+"(https://dwembassy.com/)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:253
+msgid "![](/assets/uploads/bd61836a-6a2a-4fcc-b3b8-d9bdc34472e3.jpg)"
+msgstr "![](/assets/uploads/bd61836a-6a2a-4fcc-b3b8-d9bdc34472e3.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:255
+msgid ""
+"Rio de Janeiro’s [Camboatá Forest](http://www.uezo.rj.gov.br/"
+"mais_noticias/2019/julho/areas-verdes-cariocas-floresta-do-camboata.html) is "
+"home to a vast array of endangered wildlife, yet faces being demolished for "
+"a new Formula One racetrack. XR Brazil is [part of the resistance](https://"
+"rebellion.global/press/2020/10/16/sports-ecocide/)."
+msgstr ""
+"La [forêt de Camboatá](http://www.uezo.rj.gov.br/mais_noticias/2019/julho/"
+"areas-verdes-cariocas-floresta-do-camboata.html) à Rio de Janeiro, abritant "
+"une vaste gamme d'espèces sauvages menacées, risque d'être anéantie par le "
+"projet de construction d'un nouveau circuit de Formule 1. XR Brésil fait "
+"bien sûr [partie de la résistance](https://rebellion.global/press/2020/10/16/"
+"sports-ecocide/)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:258
+msgid "\\ Photo: Marcio Isensee e Sá"
+msgstr "\\ Crédit photo : Marcio Isensee e Sá"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:260
+msgid "![](/assets/uploads/882297f6-a920-4cb9-9879-dc331e21c0e0.jpg)"
+msgstr "![](/assets/uploads/882297f6-a920-4cb9-9879-dc331e21c0e0.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:261
+#, no-wrap
+msgid "One of the 5 Sydney rebels charged with obscene exposure for gluing themselves to the Independent Planning Commission - the body that approved the Narrabri Coal Seam Gas Project. The rebels were painted to represent the recent mega-fires that ravaged the country.  \n"
+msgstr "L'une des 5 rebelles de Sydney accusés d'attentat à la pudeur pour s'être superglués dans le hall de la Commission indépendante de planification - l'organisme qui a validé le projet d'extraction de gaz et de charbon à Narrabri. Le corps des rebelles avaient été peints pour illustrer les méga-feux qui venaient de ravager le pays.  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:264
+msgid "[Discover XR Unchained](../xr-unchained-18)"
+msgstr "[Discover XR Unchained](../xr-unchained-18)"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:269
+#, no-wrap
+msgid "XR Global Blog: New Articles Ahoy!"
+msgstr "Plein de nouveaux articles sur le blog du site XR Global !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:272
+msgid "![](/assets/uploads/c22d910a-7a28-4be4-b5d1-8a092712ec27.png)"
+msgstr "![](/assets/uploads/c22d910a-7a28-4be4-b5d1-8a092712ec27.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:274
+msgid ""
+"New articles are being uploaded to [the XR Global Blog](https://rebellion."
+"global/news/#blog) each week. They cover the climate crisis in a "
+"straightforward way that means no expertise is necessary! Here are four of "
+"our favourites..."
+msgstr ""
+"De nouveaux articles relatifs à la catastrophe écologique et climatique en "
+"cours sont régulièrement publiés sur [le blog d'XR Global ](https://"
+"rebellion.global/fr/news/#blog). Ils sont rédigés simplement de façon à être "
+"accessibles, il n'y a pas besoin d'être un expert pour les aborder ! En "
+"voici quatre parmi nos articles préférés..."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:276
+msgid ""
+"[How to Stop Funding Fossil Fuels by Moving to an Ethical Bank](https://"
+"rebellion.global/blog/2020/09/21/ethical-banks/)"
+msgstr ""
+"[Arrêter de financer l'industrie fossile en optant pour une banque éthique]"
+"(https://rebellion.global/fr/blog/2020/09/16/ethical-banks/)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:278
+msgid ""
+"Most banks have a very dirty secret. They use your money to fund fossil fuel "
+"projects. Here’s a step-by-step guide showing you how to get your cash back "
+"from climate collapsing banks."
+msgstr ""
+"La plupart des banques recèlent de vilains secrets, utilisant votre argent "
+"pour financer l'industrie fossile. Voici un guide qui vous montre, étape par "
+"étape, comment récupérer votre argent auprès des banques investissant dans "
+"l'effondrement écologique et climatique."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:280
+msgid ""
+"[XR Fundamentals: Act Now](https://rebellion.global/blog/2020/08/31/act-now-"
+"extinction-rebellion-demands/)"
+msgstr ""
+"[L'urgence à agir au cœur des revendications d'XR](https://rebellion.global/"
+"fr/blog/2020/08/31/act-now-extinction-rebellion-demands/)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:282
+msgid ""
+"Have you been trying to explain to a non-XR friend why the work we do is so "
+"important? Here’s something just for them! An article explaining the need to "
+"Act Now to people who aren’t rebels."
+msgstr ""
+"Avez-vous déjà essayé d'expliquer à un proche qui ne soit pas dans XR "
+"pourquoi ce que nous faisons est si important ? Voilà un article pour eux, "
+"exposant la nécessité d'agir maintenant aux personnes qui n'y sont pas "
+"encore sensibilisées."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:284
+msgid ""
+"[There is Always Hope: How Monterey Bay Came Back From the Brink](https://"
+"rebellion.global/blog/2020/10/10/monterey-bay/)"
+msgstr ""
+"[Comment la baie de Monterey a réchappé à l'effondrement](https://rebellion."
+"global/fr/blog/2020/10/10/monterey-bay/)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:286
+msgid ""
+"The story of how just one activist transformed Monterey Bay from a giant "
+"sewer into a marine sanctuary, even though she knew she wouldn't live to see "
+"the result."
+msgstr ""
+"L'histoire d'une militante qui a transformé la baie de Monterey devenue un "
+"égout à ciel ouvert, en sanctuaire marin, tout en sachant qu'elle ne vivrait "
+"pas assez longtemps pour en voir le résultat."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:288
+msgid ""
+"[15 Examples of Civil Disobedience (Which Have Made a Difference)](https://"
+"rebellion.global/blog/2020/11/03/civil-disobedience-examples/)"
+msgstr ""
+"[15 exemples d'actions de désobeissance civile qui ont changé la donne]"
+"(https://rebellion.global/fr/blog/2020/11/03/civil-disobedience-examples/)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:290
+msgid ""
+"You’re out protesting, yet nothing seems to change! But look over the last "
+"century and you’ll see a different story. Here are 15 examples of when civil "
+"disobedience actually worked!"
+msgstr ""
+"Vous avez beau protester, ça n'a pourtant pas l'air de changer grand chose ! "
+"Mais voyez ce qu'il s'est passé au siècle dernier, et vous verrez que ces 15 "
+"exemples de mouvements de désobéissance civile ont pu changer la donne !"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:291
+#, no-wrap
+msgid "XR Writers: We Want Your Wins!"
+msgstr "Les auteurs rebelles à la recherche de vos récits de victoires !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:294
+msgid "![](/assets/uploads/9aefefdf-5938-4262-81f5-b6d1bca70e16.png)"
+msgstr "![](/assets/uploads/9aefefdf-5938-4262-81f5-b6d1bca70e16.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:295
+#, no-wrap
+msgid "Calling all rebels! XR Writers are collecting XR wins - results of an XR action which embody some kind of positive change. Whether it’s changing a person’s mind or a nation’s laws, we want to hear about your victories!  \n"
+msgstr "Appel à tous les rebelles ! Les auteurs rebelles (_XR Writers_) cherchent à collecter vos récits de victoires XR, les résultats d'une action qui a généré un changement positif, qu'il s'agisse d'avoir influencé l'état d'esprit d'une personne, ou les règlementations dans un pays donné, faites-nous part de vos victoires !  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:298
+msgid ""
+"Get in touch with us at xrwins@protonmail.com and we'll give you more "
+"details. If you can include when your XR group was established that would be "
+"great to know too!"
+msgstr ""
+"Vous pouvez nous écrire à xrwins@protonmail.com, et nous vous donnerons plus "
+"de détails, et si vous pouviez nous préciser la date de création de votre "
+"groupe XR, ce serait également fort utile !"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:299
+#, no-wrap
+msgid "XR Podcast: Economics For The Planet."
+msgstr "Podcast XR : L'économie au service de la planète."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:302
+msgid "![](/assets/uploads/ae6e3179-8b62-46c4-82a2-0101cc28e8bd.png)"
+msgstr "![](/assets/uploads/ae6e3179-8b62-46c4-82a2-0101cc28e8bd.png)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:304
+msgid ""
+"This [episode](https://extinctionrebellion.uk/2020/10/16/doughnut-economics-"
+"kate-raworth/) features an interview with the economist Kate Raworth, author "
+"of the hugely influential book [Doughnut Economics](https://www.kateraworth."
+"com/doughnut/)."
+msgstr ""
+"Ce [podcast](https://extinctionrebellion.uk/2020/10/16/doughnut-economics-"
+"kate-raworth/) est une interview de l'économiste Kate Raworth, auteure du "
+"très influent livre [_Doughnut Economics_](https://www.kateraworth.com/"
+"doughnut/)."
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:305
+#, no-wrap
+msgid "XR Global Support: Join Us!"
+msgstr "Rejoignez l'équipe du _Global Support_ !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:308
+msgid "![](/assets/uploads/54a3b7ab-d078-4db3-a15f-20950390bc41.jpg)"
+msgstr "![](/assets/uploads/54a3b7ab-d078-4db3-a15f-20950390bc41.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:310
+msgid ""
+"Interested in supporting and working with rebels all around the world? XR "
+"Global Support helps resources flow between XR groups and offers support in "
+"the form of training, funding, and more."
+msgstr ""
+"Vous souhaitez aider et travailler avec des rebelles du monde entier ? "
+"L'équipe du _Global Support_ est un organe qui facilite la mutualisation de "
+"ressources parmi les groupes XR du monde entier, dispensant entre autres "
+"formations, pistes de financement, assistance informatique, et approche "
+"narrative."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:312
+msgid ""
+"Roles are available in a wide range of working groups - Media & Messaging, "
+"Tech, Fundraising, Participative Democracy, Partnerships, Trainings, "
+"Regenerative Cultures, Events, Onboarding."
+msgstr ""
+"Il y a une multitude de postes à pourvoir, notamment au sein des groupes de "
+"travail : Médias &Messages, Tech, Démocratie participative, Formations, "
+"Culture Régénérative, Évenements, et Accueil de nouveaux membres."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:314
+msgid ""
+"Check out the [calendar](https://cloud.organise.earth/apps/calendar/p/"
+"iCoaNMwWCwFWbpHw/dayGridMonth/2020-11-01) for the next Interactive "
+"Introduction to XR (a crucial part of the onboarding process) and fill in "
+"[this form](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=433164&lang=en) to let us know you're interested! Email questions "
+"to XRInt-onboarding@protonmail.com."
+msgstr ""
+"Voir le [calendrier](https://cloud.organise.earth/apps/calendar/p/"
+"iCoaNMwWCwFWbpHw/dayGridMonth/2020-11-01) pour la prochaine session XR de "
+"présentation interactive (un aspect essentiel du processus d'accueil de "
+"nouveaux membres), et remplir [ce formulaire](https://forms.organise.earth/"
+"index.php?r=survey/index&sid=433164&lang=en) si vous êtes intéressé pour y "
+"participer ! Vous pouvez aussi envoyer vos questions en écrivant à XRInt-"
+"onboarding@protonmail.com."
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:315
+#, no-wrap
+msgid "XR Global Media Library: Free Training Sessions!"
+msgstr "Session de formations _XR Global Media Library_ !"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:318
+msgid "![](/assets/uploads/aa4918d0-5536-4864-91f3-a0b32ce13bb1.jpg)"
+msgstr "![](/assets/uploads/aa4918d0-5536-4864-91f3-a0b32ce13bb1.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:320
+msgid ""
+"Want to discover amazing XR media content? Or maybe share your own? Learn "
+"how to use the [XR Global Media Library](https://show.pics.io/xr-global-"
+"media-resources-public) by joining our next training session!"
+msgstr ""
+"Envie de découvrir de superbes contenus d'XR médias, ou de partager les "
+"vôtres ? Apprenez à utiliser la plateforme de [XR Global Media Library]"
+"(https://show.pics.io/xr-global-media-resources-public) en participant à "
+"notre prochaine session!"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:322
+msgid ""
+"We’ll provide you with everything you need to get started. Just answer [this "
+"quick questionnaire](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=588393&lang=en) and we’ll get in touch."
+msgstr ""
+"Nous vous montrerons tout ce que vous avez besoin de savoir pour vous "
+"lancer. Il vous suffit de répondre à [ce questionnaire rapide](https://forms."
+"organise.earth/index.php?r=survey/index&sid=588393&lang=en), et nous vous "
+"contacterons."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:327
+#, no-wrap
+msgid "Howdy rebel. This issue we’ve got a US Election special edition of Must Reads! What are the climate ramifications of a Biden presidency? Green New Deal or Same Old Scam? Read on, rebel, read on!  \n"
+msgstr "Dans cette édition, nous vous avons concocté une rubrique _À lire Absolument_ spéciale élection aux États-Unis. Quelles sont les perspectives de la présidence Biden en matière d'environnement et de climat ? Un _Green New Deal_ ou encore les mêmes vieilles arnaques ? À lire absolument !  \n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:333
+msgid ""
+"[Carbon Brief: Climate Experts React to Biden’s Victory.](https://www."
+"carbonbrief.org/us-election-climate-experts-react-to-joe-bidens-victory)\\ "
+"[Naomi Klein: We Have To Recognise How Narrow Biden's Win Was.](https://www."
+"theguardian.com/commentisfree/2020/nov/08/joe-biden-risky-candidate-us-"
+"election)\\ [Chris Hedges: American Requiem](https://scheerpost."
+"com/2020/11/05/chris-hedges-american-requiem/)\\ [Wrong Kind of Green: The "
+"unannounced death of the green new deal](http://www.wrongkindofgreen."
+"org/2020/09/11/the-unannounced-death-of-the-green-new-deal-part-1-what-"
+"happened-to-the-peoples-plan/)"
+msgstr ""
+"[Carbon Brief: Climate Experts React to Biden’s Victory.](https://www."
+"carbonbrief.org/us-election-climate-experts-react-to-joe-bidens-victory)\\ "
+"[Naomi Klein: We Have To Recognise How Narrow Biden's Win Was.](https://www."
+"theguardian.com/commentisfree/2020/nov/08/joe-biden-risky-candidate-us-"
+"election)\\ [Chris Hedges: American Requiem](https://scheerpost."
+"com/2020/11/05/chris-hedges-american-requiem/)\\ [Wrong Kind of Green: The "
+"unannounced death of the green new deal](http://www.wrongkindofgreen."
+"org/2020/09/11/the-unannounced-death-of-the-green-new-deal-part-1-what-"
+"happened-to-the-peoples-plan/)"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:336
+#, no-wrap
+msgid "Thank you"
+msgstr "Merci"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:339
+msgid ""
+"Thank you for reading rebel, and keep up the good work! If you have any "
+"questions or feedback, we want to hear from you. Get in touch at [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"Merci d'avoir pris le temps de nous lire, et continuez ainsi, ne vous "
+"arrêtez surtout pas dans votre lancée, et si vous avez requêtes ou "
+"questions, n'hésitez pas à nous en faire part en nous écrivant à [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:341
+msgid ""
+"We are in a crucial phase of human history, and our movement needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""
+"Nous vivons une phase cruciale de l'histoire de l'humanité, et la rébellion "
+"a besoin d'argent pour relayer son message. Tout ce que vous pourrez [donner]"
+"(https://chuffed.org/project/xrinternational) sera fort apprécié."
+
+#~ msgid ""
+#~ "(Sign up to the newsletter [here](https://u1584542.ct.sendgrid.net/mps2/c/"
+#~ "HwE/ni0YAA/t.31w/GBT6p85DSUmfI8KC5zkj8Q/h1/"
+#~ "CA0gLXQEKb6jqGkD7RqZiT8OBkXPvclblsAC2tjBY6R5Bkd2P-2BRftBNBOR8Q2GNbkjGSpM3cpQsQy6wvJII4QstFETLxyoT1Ew8od9poFIBVwN-2FpgUL-2BzWlxACcS7KU87JvRs-2BMVZqGv-2FS4CeQ-2F9Pb5WJrBQrOj9W2Bina-2FCXW7pLvGfVmEVa2shF-2BRgp44IiR6CqlmwE3-2BBTtBaNOHqP4vKuvOGYY8PoUgLgZMgprFVqK2obSDrjRSFHrlli7CQDO5rkoKADdP9jGWEJlwSwge9NWiWZ7C-2FxcI7zOlr3Z8-3D/4QH8). "
+#~ "Read the web version in Czech, English, French, German & Polish. Thank "
+#~ "you XR Translation Team!)"
+#~ msgstr ""
+#~ "(Si vous voulez souscrire pour recevoir la newsletter [c'est par ici]"
+#~ "(https://u1584542.ct.sendgrid.net/mps2/c/HwE/ni0YAA/t.31w/"
+#~ "GBT6p85DSUmfI8KC5zkj8Q/h1/"
+#~ "CA0gLXQEKb6jqGkD7RqZiT8OBkXPvclblsAC2tjBY6R5Bkd2P-2BRftBNBOR8Q2GNbkjGSpM3cpQsQy6wvJII4QstFETLxyoT1Ew8od9poFIBVwN-2FpgUL-2BzWlxACcS7KU87JvRs-2BMVZqGv-2FS4CeQ-2F9Pb5WJrBQrOj9W2Bina-2FCXW7pLvGfVmEVa2shF-2BRgp44IiR6CqlmwE3-2BBTtBaNOHqP4vKuvOGYY8PoUgLgZMgprFVqK2obSDrjRSFHrlli7CQDO5rkoKADdP9jGWEJlwSwge9NWiWZ7C-2FxcI7zOlr3Z8-3D/4QH8), "
+#~ "et vous pouvez aussi la lire en ligne, traduite en différentes langues "
+#~ "grâce à l'équipe Traduction d'XR !)"

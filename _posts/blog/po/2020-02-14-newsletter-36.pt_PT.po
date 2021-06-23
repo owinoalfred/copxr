@@ -1,0 +1,943 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-23 09:34+0200\n"
+"PO-Revision-Date: 2020-08-26 18:49+0000\n"
+"Last-Translator: Luís Miguel Ribeiro Guimarães <camaradaluis@protonmail.com>"
+"\n"
+"Language-Team: Portuguese (Portugal) <http://translate.organise.earth/"
+"projects/blog-posts/2020-02-14-newsletter-36/pt_PT/>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:14
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Newsletter 36: Waves of Worldwide Webellion\"\n"
+"slug: newsletter-36\n"
+"date: 2020-02-14 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2020/02/14/image16.jpg\n"
+"seoImage: /assets/img/blog/2020/02/14/image16.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+"layout: page-small-width\n"
+"lang: pt\n"
+"title: \"Newsletter 36: Waves of Worldwide Webellion\"\n"
+"slug: newsletter-36\n"
+"date: 2020-02-14 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2020/02/14/image16.jpg\n"
+"seoImage: /assets/img/blog/2020/02/14/image16.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:17
+msgid "Dearest rebels,"
+msgstr "Estimados rebeldes,"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:19
+msgid ""
+"Whether you swoon for Valentine’s Day or think it represents everything "
+"that’s wrong with the world, **we hope you’ll accept this newsletter as a "
+"message of affection from us to you;** putting the 'love' into 'Love and "
+"Rage'."
+msgstr ""
+"Quer desmaie no Dia dos Namorados ou pense que este representa tudo o que "
+"está de errado com o mundo, ** esperamos que aceite esta newsletter como uma "
+"mensagem de afeto de nós para si,** colocando o 'amor' em 'Amor e Raiva'."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:21
+msgid "![](/assets/img/blog/2020/02/14/image1.jpg){:.img-fluid}"
+msgstr "![](/assets/img/blog/2020/02/14/image1.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:23
+msgid ""
+"Today, we are proud to announce that **we will rise up in Waves of Rebellion "
+"across the world!**"
+msgstr ""
+"Hoje, estamos orgulhosos de anunciar que **nos ergueremos em Ondas de "
+"Rebelião por todo o mundo!**"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:25
+msgid ""
+"At an exciting international meeting, rebels decided that **countries will "
+"organise their own 'wave' in period of Rebellion that will cascade from "
+"April to June**. With over a dozen countries already signed up and choosing "
+"their dates, Extinction Rebellion is set to send ripples right round the "
+"world! See Upcoming Activity for more info."
+msgstr ""
+"Num encontro internacional entusiasmante, os rebeldes decidiram que **os "
+"países organizarão a sua própria \"onda\" no período da Rebelião, que se irá "
+"desenrolar de Abril a Junho**. Com mais de uma dúzia de países já inscritos "
+"e escolhidas as suas datas, a Rebelião da Extinção está pronta para enviar "
+"ondas ao redor do mundo! Veja a próxima atividade para mais informações."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:27
+msgid ""
+"In this issue, we zoom to The Netherlands, where **35 rebels were brutally "
+"arrested while protesting at Shell’s Headquarters;** and to **sunny "
+"Hollywood, where XR Youth LA join forces with Indigenous leaders to "
+"protest** the total lack of climate awareness in the movie industry."
+msgstr ""
+"Nesta edição,focamos na Holanda, onde **35 rebeldes foram brutalmente presos "
+"enquanto protestavam na sede da Shell;** e em **Hollywood soalheiro, onde a "
+"XR Youth LA une forças com líderes indígenas para protestar** contra a total "
+"falta de consciência climática na indústria cinematográfica."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:29
+msgid "![](/assets/img/blog/2020/02/14/image2.jpg){:.img-fluid}"
+msgstr "![](/assets/img/blog/2020/02/14/image2.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:31
+#, no-wrap
+msgid "**In Munich, rebels teamed up with Indigenous speakers to crash Siemens' shareholder conference** and protest its relentless funding of ecocidal activities. \n"
+msgstr ""
+"**Em Munique, os rebeldes uniram-se a palestrantes indígenas para parar a "
+"conferência de acionistas da Siemens** e protestar contra seu incansável "
+"financiamento de atividades ecocidas. \n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:33
+msgid ""
+"Meanwhile, **Australian rebels were giving the media corporations a taste of "
+"their own medicine** with some excellent and creative actions."
+msgstr ""
+"Enquanto isso, **Os rebeldes australianos estavam a dar às corporações dos "
+"média um gosto do seu próprio veneno** com algumas ações excelentes e "
+"criativas."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:35
+#, no-wrap
+msgid "**XR UK** released their [2020 Strategy](https://rebellion.earth/wp/wp-content/uploads/2020/02/XRUK-Strategy-Document-2020.pdf), crystallising some key themes for the year ahead, in advance of XR UK's first big action of the year, '[Together We March](https://www.facebook.com/events/1130035164009395/)' on 22Feb.\n"
+msgstr ""
+"**XR UK*** lançou a sua [Estratégia 2020](https://rebellion.earth/wp/"
+"wp-content/uploads/2020/02/XRUK-Strategy-Document-2020.pdf), cristalizando "
+"alguns temas-chave para o ano seguinte, antes da primeira grande acção do "
+"ano da XR UK, '[Together We March](https://www.facebook.com/events/"
+"1130035164009395/)' a 22 de Fevereiro.\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:37
+msgid ""
+"We have **a guide from XR Muslims on [how to engage with Muslim communities]"
+"(https://xrmuslims.wordpress.com/faqs-how-can-xr-engage-with-muslim-"
+"communities/)**.  And, finally, in Humans of XR, we hear from an ex-"
+"probation officer who has been **breaking the law for the good of the planet."
+"**"
+msgstr ""
+"Temos **um guia de XR Muslims sobre [como se envolver com as comunidades "
+"muçulmanas](https://xrmuslims.wordpress.com/"
+"faqs-how-can-xr-engage-with-muslim-communities/)**.  E, finalmente, no "
+"Humans of  XR, ouvimos de um ex-oficial de liberdade condicional que tem "
+"estado a ** infringir a lei para o bem do planeta.**"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:39
+msgid "![](/assets/img/blog/2020/02/14/image3.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image3.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:41
+#, no-wrap
+msgid "*To connect to rebels in your local area, get in touch with your [nearest XR group](https://rebellion.global/groups/). If there’s no active group near you, you can start your own!* \n"
+msgstr ""
+"*Para se conectar com rebeldes localmente, entre em contacto com o seu ["
+"grupo XR mais próximo](https://rebellion.global/groups/). Se não houver "
+"nenhum grupo ativo perto de si, pode começar o seu próprio!* \n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:43
+#, no-wrap
+msgid "*If you’d like to see previous newsletter issues, you can find them [here](https://rebellion.earth/category/blog/).*\n"
+msgstr ""
+"*Se quiser ver edições anteriores da newsletter, pode encontrá-las "
+"[aqui](https://rebellion.earth/category/blog/).*\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:45
+#, no-wrap
+msgid "***This Rebellion needs your support. If you can’t give time, consider giving once or becoming a regular donor.***\n"
+msgstr ""
+"***Esta Rebelião precisa do seu apoio. Se não pode dar tempo, considere doar "
+"uma vez ou tornar-se um doador regular.***\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:47
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:48
+#, no-wrap
+msgid "Contents"
+msgstr "Conteúdos"
+
+#. type: Bullet: '* '
+#: 2020-02-14-newsletter-36.md:55
+msgid "[Action Highlights](#Action-Highlights)"
+msgstr "[Destaques da Ação](#Action-Highlights)"
+
+#. type: Bullet: '* '
+#: 2020-02-14-newsletter-36.md:55
+msgid "[XR Unchained](#XR-Unchained)"
+msgstr "[XR-Unchained](#XR-Unchained)"
+
+#. type: Bullet: '* '
+#: 2020-02-14-newsletter-36.md:55
+msgid "[Upcoming Activity](#Upcoming-Activity)"
+msgstr "[Próxima Atividade](#Próxima Atividade)"
+
+#. type: Bullet: '* '
+#: 2020-02-14-newsletter-36.md:55
+msgid "[News](#News)"
+msgstr "[Notícias](#Notícias)"
+
+#. type: Bullet: '* '
+#: 2020-02-14-newsletter-36.md:55
+msgid "[Humans of XR](#Humans-of-XR)"
+msgstr "[Humans of XR](#Humans-of-XR)"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:56
+#, no-wrap
+msgid "Action Highlights "
+msgstr "Destaques da ação "
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:59 2020-02-14-newsletter-36.md:168
+#: 2020-02-14-newsletter-36.md:188 2020-02-14-newsletter-36.md:229
+msgid "[Back to top](#Contents)"
+msgstr "[Voltar ao topo](#Conteúdos)"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:60
+#, no-wrap
+msgid "Police Brutality and Mass-arrests in Amsterdam"
+msgstr "Brutalidade Policial e Detenções em Massa em Amesterdão"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:63
+msgid "31 JAN - 1 FEB | The Hague, Amsterdam, The Netherlands"
+msgstr "31 JAN - 1 FEV | The Hague, Amesterdão, Holanda"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:65
+msgid "![](/assets/img/blog/2020/02/14/image4.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image4.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:67
+msgid ""
+"A brave group of rebels from [XR Nederlands](https://extinctionrebellion.nl/"
+"en/) **glued on to the entrance to Shell’s World Headquarters and splashed "
+"'oil' on the front steps**, as part of a coalition of activists called "
+"[Shell Must Fall](https://twitter.com/shellmustfall)."
+msgstr ""
+"Um corajoso grupo de rebeldes da [XR Nederlands](https://extinctionrebellion."
+"nl/en/) ** colou na entrada da sede mundial da Shell e espalhou \"petróleo\" "
+"nos degraus da frente**, como parte de uma coligação de ativistas chamada ["
+"Shell Must Fall](https://twitter.com/shellmustfall)."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:70
+msgid ""
+"The peaceful protest was met with [unreasonable force](https://twitter.com/"
+"Klimaatactie/status/1226962225547661313) when **police [stepped in](https://"
+"denhaag.groenlinks.nl/nieuws/vragen-over-politieoptreden-bij-extiction-"
+"rebellion) and dealt blows with their batons, dragging the rebels from the "
+"site and arresting 35 of them.** In one [video](https://twitter.com/"
+"XR_Amsterdam/status/1223659458154455040?s=20), a police officer can be seen "
+"**[holding his hand over a rebel’s mouth](https://twitter.com/XR_Amsterdam/"
+"status/1223659458154455040?s=20) while the man struggles to breathe**. Some "
+"rebels were held well beyond the 9-hour legal limit, with the [last rebel "
+"released after 48 hours](https://twitter.com/Klimaatactie/"
+"status/1224222976264089600)."
+msgstr ""
+"O protesto pacífico foi recebido com [força irrazoável](https://twitter.com/"
+"Klimaatactie/status/1226962225547661313) quando a **polícia "
+"[interveio](https://denhaag.groenlinks.nl/nieuws/vragen-over-politieoptreden-"
+"bij-extiction-rebellion) ao dar golpes com seus cassetetes, arrastando os "
+"rebeldes do local e detendo 35 deles.** Neste [vídeo](https://twitter.com/"
+"XR_Amsterdam/status/1223659458154455040?s=20), um agente da polícia pode ser "
+"visto **[a manter a sua mão sobre a boca de um rebelde](https://twitter.com/"
+"XR_Amsterdam/status/1223659458154455040?s=20) enquanto o mesmo luta para "
+"respirar***. Alguns rebeldes foram detidos muito além do prazo legal de 9 "
+"horas, com o [último rebelde libertado após 48 horas](https://twitter.com/"
+"Klimaatactie/status/1224222976264089600)."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:72
+msgid "![](/assets/img/blog/2020/02/14/image5.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image5.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:75
+msgid ""
+"Shell claims its business strategy is in alignment with the Paris agreement. "
+"However, [Documents](https://www.theguardian.com/environment/climate-"
+"consensus-97-per-cent/2018/sep/19/shell-and-exxons-secret-1980s-climate-"
+"change-warnings) from the 1980s and a [public information film](https://www."
+"theguardian.com/environment/2017/feb/28/shell-film-warning-climate-change-"
+"rate-faster-than-end-ice-age) produced by Shell in 1991 clearly show that "
+"**the company has long been aware of the threat posed by the use of fossil "
+"fuels and that it plans to continue to extract oil and gas.** **A clear "
+"example of a company putting short-term profit over the future of life and "
+"our planet.**"
+msgstr ""
+"A Shell afirma que a sua estratégia de negócios está alinhada com o acordo "
+"de Paris. Contudo, [Documentos](https://www.theguardian.com/environment/"
+"climate-consensus-97-per-cent/2018/sep/19/shell-and-exxons-secret-1980s-"
+"climate-change-warnings) dos anos de 1980 e um [filme de informação "
+"pública](https://www.theguardian.com/environment/2017/feb/28/shell-film-"
+"warning-climate-change-rate-faster-than-end-ice-age) produzido pela Shell em "
+"1991 mostram claramente que **a empresa há muito tempo está ciente da ameaça "
+"representada pelo uso de combustíveis fósseis e que planeia continuar a "
+"extrair petróleo e gás.** **Um exemplo claro de uma empresa que coloca lucro "
+"a curto prazo sobre o futuro da vida e do nosso planeta.**"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:78
+#, no-wrap
+msgid "No Hollywood on a Dead Planet"
+msgstr "Não há Hollywood num Planeta Morto"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:81
+msgid "08 FEB | Los Angeles, USA"
+msgstr "08 FEV | Los Angeles, EUA"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:83
+msgid "![](/assets/img/blog/2020/02/14/image6.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image6.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:89
+#, no-wrap
+msgid ""
+"*Hollywood, listen up: GLOBAL INFLUENCE = GLOBAL DUTY (Photo: Dennis Noack/SpectralQ)*\n"
+"The day before the Academy Awards ceremony, **[XR Youth LA](https://www.instagram.com/xryouth.la/) held a dramatic [die-in under the iconic Hollywood sign](https://www.facebook.com/events/2481896352028789/).** \n"
+"An organiser explains their target: \n"
+"“**Hollywood is a global influencer**, and what it does or doesn’t do sends a powerful message around the world. Hollywood has a moral duty to become **[Climate Emergency Storytellers](https://www.nytimes.com/2019/08/14/movies/hollywood-climate-change.html)**.”\n"
+"Horrified by the **[15 million tons of CO2](https://www.theguardian.com/film/2020/jan/09/vegan-food-recycled-tuxedos-and-billions-of-tonnes-of-co2-can-hollywood-ever-go-green) that Hollywood produces every year**, XR Youth LA demands **annual eco-audits and net-zero CO2 by 2025**.\n"
+msgstr ""
+"*Hollywood, ouçam bem: INFLUÊNCIA GLOBAL = DEVER GLOBAL (Foto: Dennis Noack/"
+"SpectralQ)*\n"
+"Na véspera da cerimónia de entrega do Óscar, **a [XR Youth "
+"LA](https://www.instagram.com/xryouth.la/) realizou uma dramática [morrer "
+"sob o icónico cartaz de Hollywood](https://www.facebook.com/events/"
+"2481896352028789/).**\n"
+"Um organizador explica o seu objetivo:\n"
+"\"Hollywood é um influenciador global**, e o que faz ou não faz envia uma "
+"mensagem poderosa por todo mundo. Hollywood tem o dever moral de se tornar "
+"**[Contadores de Histórias de Emergência Climática](https://www.nytimes.com/"
+"2019/08/14/movies/hollywood-climate-change.html)**\".\n"
+"Horrorizados com os **[15 milhões de toneladas de "
+"CO2](https://www.theguardian.com/film/2020/jan/09/vegan-food-recycled-"
+"tuxedos-and-billions-of-tonnes-of-co2-can-hollywood-ever-go-green) que "
+"Hollywood produz todos os anos***, a XR Youth LA exige **auditorias "
+"ecológicas anuais e emissões líquidas zero de CO2 até 2025**.\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:91
+msgid "![](/assets/img/blog/2020/02/14/image7.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image7.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:93
+#, no-wrap
+msgid "*(Photo: Summer Dean)*\n"
+msgstr "*(Foto: Summer Dean)*\n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:94
+#, no-wrap
+msgid "Indigenous Leaders in the Heart of the Change"
+msgstr "Líderes Indígenas no Centro da Mudança"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:98
+msgid ""
+"As part of the die-in, the group invited **[Amazonian Indigenous Leader "
+"Sonia Guajajara](https://www.democracynow.org/2019/12/9/"
+"indigenous_leader_sonia_guajajara_at_cop25)** to sit in the center of the "
+"human hourglass. The gesture, they said, ‘represents that **Indigenous "
+"respect for nature holds the key to ending our Climate Emergency and "
+"ecological destruction**.’ In addition to global consequences, XR Youth LA "
+"is sensitive to local concerns. ‘**Environmental racism impacts many "
+"families in Los Angeles**. Low income communities, often communities of "
+"color, are disproportionately forced to live right next to oil refineries "
+"and other fossil fuel infrastructure. ’"
+msgstr ""
+"Como parte do \"die-in\", o grupo convidou **[líder indígena amazónico Sonia "
+"Guajajara](https://www.democracynow.org/2019/12/9/"
+"indigenous_leader_sonia_guajajara_at_cop25)** a sentar-se no centro da "
+"ampulheta humana. O gesto, disseram eles, \"representa que **O respeito "
+"indígena pela natureza tem a chave para acabar com nossa Emergência "
+"Climática e destruição ecológica***\". Para além das consequências globais, "
+"a XR Youth LA é sensível às preocupações locais. **O racismo ambiental tem "
+"impacto em muitas famílias de Los Angeles***. As comunidades com rendimentos "
+"baixos, muitas vezes comunidades de cor, são desproporcionalmente forçadas a "
+"viver ao lado de refinarias de petróleo e outras infraestruturas de "
+"combustíveis fósseis. ’"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:100
+#, no-wrap
+msgid "An Adani mine protest with an Australian twist"
+msgstr "Um protesto contra uma mina Adani com uma reviravolta australiana"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:103
+msgid "05 FEB | Munich, Germany"
+msgstr "05 FEB | Munique, Alemanha"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:105
+msgid "![](/assets/img/blog/2020/02/14/image8.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image8.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:107
+#, no-wrap
+msgid "*Rebels stage a “die-in” as Siemens shareholders arrive for the AGM (Photo: Helge Brügner)*\n"
+msgstr ""
+"*Rebeldes encenam um \"die-in\" quando os acionistas da Siemens chegam para "
+"a AGM (Foto: Helge Brügner)*\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:112
+msgid ""
+"The [Wangan and Jagalingou First Nation People](https://wanganjagalingou.com."
+"au/) are on the [front line in the fight against the Adani Carmichael mine "
+"in Australia](https://wanganjagalingou.com.au/we-are-not-just-on-the-"
+"frontline-we-are-the-frontline/). With the capacity to export 700,000 "
+"million tonnes of carbon dioxide every single year, this **mega-mine would "
+"be an environmental disaster.** **Siemens** is the only company left that is "
+"willing to provide the signalling systems for the mining operation. "
+"**Despite worldwide pressure, Siemens has refused to cancel the contract**.  "
+"Australian activists travelled to Germany and were able to **directly "
+"address shareholders at the Siemens AGM in Munich** on the 5th February.  "
+"Murrawah Johnson, [Varsha Yarman](https://www.kritischeaktionaere.de/en/"
+"siemens-2/my-generation-and-future-generations-lives-are-on-the-line-speech-"
+"by-varsha-yajman/) and [Dr. Lindsay Simpson](https://www.kritischeaktionaere."
+"de/en/siemens-2/siemens-will-be-known-as-accomplice-in-the-death-of-the-"
+"great-barrier-reef-speech-by-dr-lindsay-simpson/) spoke about the "
+"**Emergency and the impact of the Adani mine**. Fellow rebels onstage "
+"translated their speeches into German."
+msgstr ""
+"Os [Wangan e Jagalingou First Nation People](https://wanganjagalingou.com.au/"
+") estão na [linha de frente na luta contra a mina Adani Carmichael na "
+"Austrália](https://wanganjagalingou.com.au/"
+"we-are-not-just-on-the-frontline-we-are-the-frontline/). Com capacidade para "
+"exportar 700.000 milhões de toneladas de dióxido de carbono por ano, esta "
+"**mega-mina seria um desastre ambiental.** **Siemens** é a única empresa que "
+"está disposta a fornecer os sistemas de sinalização para a operação de "
+"mineração. **Apesar da pressão mundial, a Siemens recusou-se a cancelar o "
+"contrato***.  Os activistas australianos viajaram para a Alemanha e "
+"conseguiram ** falar directamente com os accionistas na Siemens AGM em "
+"Munique*** no dia 5 de Fevereiro.  Murrawah Johnson, [Varsha "
+"Yarman](https://www.kritischeaktionaere.de/en/siemens-2/my-generation-and-fut"
+"ure-generations-lives-are-on-the-line-speech-by-varsha-yajman/) e [Dra. "
+"Lindsay Simpson](https://www.kritischeaktionaere.de/en/siemens-2/siemens-will"
+"-be-known-as-accomplice-in-the-death-of-the-great-barrier-reef-speech-by-dr-l"
+"indsay-simpson/) falaram sobre a **Emergência e o impacto da mina Adani***. "
+"Camaradas rebeldes no palco traduziram os seus discursos para alemão."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:114
+msgid "![](/assets/img/blog/2020/02/14/image9.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image9.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:116
+#, no-wrap
+msgid "*Seven rebels locked on with superglue at the Siemens AGM. (Photo: Helge Brügner)*\n"
+msgstr ""
+"*Sete rebeldes presos com super-cola na Siemens AGM. (Foto: Helge Brügner)*\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:120
+#, no-wrap
+msgid ""
+"**Rebels showed up in force at the meeting** - some staging a “die-in” at the entrance while seven other rebels locked-on inside the conference hall, and another rebel turned himself into a “[security kangaroo](https://twitter.com/LukasSchnermann/status/1225735510511038465?s=20)” and hopped across the conference floor.\n"
+"Annemarie Botzki from XR Deutschland commented : ‘We will fight for our future, Siemens prides itself on taking the lead in the fight against the climate catastrophe and speaks of climate neutrality for 2030, **and in fact the company continues to participate in climate-destroying projects**.’\n"
+"Lukas Schnermann added : ‘We therefore demand from Siemens' board members that they implement the contents of their PR methods and **get out of all climate-damaging projects**.’\n"
+msgstr ""
+"**Rebeldes apareceram em força na reunião** - alguns encenando um \"die-in\" "
+"na entrada, enquanto outros sete rebeldes se trancaram dentro do salão de "
+"conferências, e outro rebelde se transformou num \"[canguru de "
+"segurança](https://twitter.com/LukasSchnermann/status/"
+"1225735510511038465?s=20)\" e saltou pelo chão da conferência.\n"
+"Annemarie Botzki da XR Deutschland comentou: \"Vamos lutar pelo nosso "
+"futuro, a Siemens orgulha-se de assumir a liderança na luta contra a "
+"catástrofe climática e fala de neutralidade climática para 2030, ** na "
+"realidade a empresa continua a participar em projectos destruidores do "
+"clima***.\n"
+"Lukas Schnermann acrescentou: \"Por isso, exigimos dos membros do conselho "
+"de administração da Siemens que implementem os conteúdos dos seus métodos de "
+"relações públicas e ** se desvinculem de todos os projectos prejudiciais ao "
+"clima***\".\n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:123
+#, no-wrap
+msgid "Bullsh\\*t & Lies: Rebels vs Murdoch Megamedia"
+msgstr "Tretas e mentiras: Rebeldes vs Murdoch Megamedia"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:128
+msgid ""
+"29 JAN - 1 FEB | Brisbane & Sydney, Australia On January 29, [Australian]"
+"(https://www.facebook.com/extinctionrebellionseq/posts/467579920798130?"
+"__tn__=-R) rebels protested News Corp’s global campaign of climate denial "
+"and disinformation.  They **dumped a truckload of manure in front of the "
+"Brisbane headquarters** to ‘return some of the bullsh*t that News Corp has "
+"been giving us.’ **Then they glued themselves to the office doors.** The "
+"group also posted **a cheeky ad on Gumtree for the pile of free manure**, "
+"saying ‘if it’s gone, there’s plenty more inside the building’!"
+msgstr ""
+"29 JAN - 1 FEV | Brisbane e Sydney, Austrália Em 29 de janeiro, [rebeldes "
+"australianos](https://www.facebook.com/extinctionrebellionseq/posts/"
+"467579920798130?__tn__=-R)  protestaram contra a campanha global da News "
+"Corp de negação e desinformação climática.  Eles ** descarregaram um camião "
+"cheio de estrume em frente à sede em Brisbane** para 'devolver um pouco do * "
+"que a News Corp nos tem dado'. **Depois colaram-se às portas do escritório. "
+"O grupo também afixou um anúncio provocador na Gumtree para o monte de "
+"estrume grátis, lendo-se : \"Se desaparecer, há muito mais dentro do "
+"edifício\"!"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:131
+msgid ""
+"![](/assets/img/blog/2020/02/14/image10.jpg){:.img-fluid} *Screenshot of ad "
+"on Gumtree, Brisbane, Australia*"
+msgstr ""
+"![](/assets/img/img/blog/2020/02/14/image10.jpg){:.img-fluid} *Imagem do "
+"anúncio em Gumtree, Brisbane, Austrália*"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:132
+#, no-wrap
+msgid "In Sydney: Protesting Lies With a “Lie-In”"
+msgstr "Em Sydney: Protestando mentiras com um \"Lie-In\""
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:135
+msgid ""
+"On February 1, **hundreds of rebels protested Murdoch’s climate lies** with "
+"a ‘lie-in’ protest in front of the Sydney News Corp headquarters."
+msgstr ""
+"A 1 de fevereiro, **centenas de rebeldes protestaram contra mentiras "
+"climáticas de Murdoch** com um protesto \"lie-in\" em frente à sede da "
+"Sydney News Corp."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:137
+msgid "![](/assets/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:138
+#, no-wrap
+msgid "Murdoch: A Global Climate Threat"
+msgstr "Murdoch: Uma Ameaça Climática Global"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:143
+msgid ""
+"Murdoch’s climate denial and disinformation isn’t just an Australian "
+"problem. **It’s a global threat**. While Murdoch’s media empire controls 60% "
+"of newspapers sold in Australia, it also controls [36% of newspapers sold]"
+"(https://www.mediareform.org.uk/wp-content/uploads/2019/03/FINALonline2.pdf) "
+"in the UK, 50% of cable news viewership (Fox News), plus the Wall Street "
+"Journal, and the New York Post.  It’s little surprise then that climate "
+"denial is unusually strong in these countries. Every Murdoch outlet has for "
+"decades **pushed the message that says climate change doesn’t exist or "
+"doesn’t matter**.  **Fortunately, we have a global network of truth-telling "
+"rebels who are committed to exposing lies, denial and corruption. Liars, "
+"watch out.**"
+msgstr ""
+"A negação e desinformação climática de Murdoch não é apenas um problema "
+"australiano. **É uma ameaça global. Enquanto o império dos média de Murdoch "
+"controla 60% dos jornais vendidos na Austrália, ele também controla [36% dos "
+"jornais vendidos](https://www.mediareform.org.uk/wp-content/uploads/2019/03/"
+"FINALonline2.pdf) no Reino Unido, 50% da audiência de notícias por cabo (Fox "
+"News), mais o Wall Street Journal, e o New York Post. Não é novidade então "
+"que a negação das alterações do clima seja excecionalmente forte nesses "
+"países. Todos os pontos de venda de Murdoch têm, há décadas, ** enviado a "
+"mensagem que a mudança climática não existe ou não importa***.  **"
+"Felizmente, nós temos uma rede global de rebeldes que estão empenhados em "
+"expor mentiras, negação e corrupção. Mentirosos, cuidado.**"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:146
+#, no-wrap
+msgid "Guide to Engaging With Muslim Communities"
+msgstr "Guia para o Envolvimento com as Comunidades Muçulmanas"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:149
+msgid "![](/assets/img/blog/2020/02/14/image12.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:151
+#, no-wrap
+msgid "**XR Muslims** has written **[a must-read guide for engaging with Muslim communities](https://xrmuslims.wordpress.com/faqs-how-can-xr-engage-with-muslim-communities/)** in the UK. The guide may spark ideas for rebels to engage with marginalized communities globally. \n"
+msgstr ""
+"**XR Muslim*** escreveu **[um guia de leitura obrigatória para o "
+"envolvimento com as comunidades muçulmanas](https://xrmuslims.wordpress.com/"
+"faqs-how-can-xr-engage-with-muslim-communities/)** no Reino Unido. O guia "
+"pode suscitar ideias para os rebeldes se envolverem com as comunidades "
+"marginalizadas a nível global. \n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:152
+#, no-wrap
+msgid "#Every Community Is Different"
+msgstr "#Cada Comunidade É Diferente"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:156
+msgid ""
+"Alessandra Palange pointed out that **her [document](https://xrmuslims."
+"wordpress.com/faqs-how-can-xr-engage-with-muslim-communities/) specifically "
+"addresses Muslim communities in the UK**.  ‘We need to keep in mind that "
+"**we are up against wealthy, powerful transnational corporations and that "
+"the climate emergency knows no borders**. It’s important to nourish "
+"identities that **connect us beyond a limited understanding of national "
+"citizenship**,’ says Palange."
+msgstr ""
+"Alessandra Palange assinalou que **o[documento "
+"dela](https://xrmuslims.wordpress.com/"
+"faqs-how-can-xr-engage-with-muslim-communities/) se dirige especificamente "
+"às comunidades muçulmanas no Reino Unido***.  \"Temos de ter em mente que ** "
+"estamos a enfrentar empresas transnacionais ricas e poderosas e que a "
+"emergência climática não temfronteiras***. É importante alimentar as "
+"identidades que ** nos ligam para além de uma compreensão limitada da "
+"cidadania nacional**\", diz Palange."
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:157
+#, no-wrap
+msgid "#Reach Out Beyond Your Bubble"
+msgstr "#Saiam Da Vossa Bolha"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:161
+#, no-wrap
+msgid ""
+"**Nearly 25% of the world’s people are Muslim**. [Building bridges](https://xrmuslims.wordpress.com/faqs-how-can-xr-engage-with-muslim-communities/) with Muslim communities is vital, whether it’s coordinated or aligned actions. **The only effective way to act on climate is to embrace our diversity and work together**. \n"
+"*If you're part of a group that has been pushed to the margins and if you have written a similar outreach guide, we want to hear from you! Please email the Newsletter team at <xr-newsletter@protonmail.com>*\n"
+msgstr ""
+"**Quase 25% das pessoas do mundo são muçulmanas**.[Construir "
+"alianças](https://xrmuslims.wordpress.com/"
+"faqs-how-can-xr-engage-with-muslim-communities/) com as comunidades "
+"muçulmanas é vital, quer se trate de acções coordenadas ou alinhadas. **A "
+"única forma eficaz de agir sobre o clima é abraçar a nossa diversidade e "
+"trabalhar em conjunto**.\n"
+"*Se faz parte de um grupo que foi empurrado para as margens e se escreveu um "
+"guia de divulgação semelhante, queremos ouvir! Por favor, envie um e-mail "
+"para a equipa da Newsletter para o <xr-newsletter@protonmail.com>*.\n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:165
+#, no-wrap
+msgid "XR Unchained "
+msgstr "XR Unchained "
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:170
+#, no-wrap
+msgid "*More beautiful and courageous action from XR groups around the world. There is so much to tell.*\n"
+msgstr ""
+"*Mais belas e corajosas ações de grupos XR por todo o mundo. Há tanto para "
+"contar.*\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:172
+msgid "![](/assets/img/blog/2020/02/14/image13.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:174
+#, no-wrap
+msgid "**Ostend, Belgium**.\n"
+msgstr "**Ostende, Bélgica**.\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:176
+msgid "![](/assets/img/blog/2020/02/14/image14.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:178
+#, no-wrap
+msgid "**Johannesburg, South Africa**. About 50 activists, led by XR, picketed outside the Gauteng Legislature, calling on the government to declare a climate emergency. Photo: Zoe Postman.\n"
+msgstr ""
+"**Joanesburgo, África do Sul***. Cerca de 50 ativistas, liderados pela XR, "
+"formaram um piquete à porta da Legislatura de Gauteng, apelando ao governo "
+"para declarar uma emergência climática. Foto: Zoe Postman.\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:180
+msgid "![](/assets/img/blog/2020/02/14/image15.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:182
+#, no-wrap
+msgid "**Kandy, Sri Lanka**. XR Youth had a plant donation day in front of the Tooth Relic Temple and donated 300 plants to people.\n"
+msgstr ""
+"**Kandy, Sri Lanka**. XR Youth teve um dia de doação de plantas em frente ao "
+"Templo das Relíquias Dentárias e doou 300 plantas para as pessoas.\n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:185
+#, no-wrap
+msgid "Upcoming Activity "
+msgstr "Próxima actividade "
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:190
+#, no-wrap
+msgid "International Rebellion Waves: We’re Gonna Rise like the Ocean "
+msgstr "International Rebellion Waves: Nós vamos erguer-nos como o oceano. "
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:193
+msgid "MAY - JUN | Worldwide"
+msgstr "MAIO - JUNHO | Mundialmente"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:195
+msgid "![](/assets/img/blog/2020/02/14/image16.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:201
+#, no-wrap
+msgid ""
+" 100% At the end of January, XR's **Global Support (GS)** hosted a call attended by **50 rebels from all around the globe**. It was the first call in the history of XR where countries met and decided together how to rebel. \n"
+"We decided to create  **Waves of Global Rebellion** during the same period (April - June) all over the world. \n"
+"Many groups have already set their dates: **Venice** - FEB 20, **Netherlands** - APRIL 13, **Switzerland** - APRIL 16, **USA, Mexico City** - APRIL 20, **Africa Climate Week - Uganda** - APRIL 20-24, **Italy** - APRIL 24, **Finland, Germany, France, Australia, Canada** - MAY 4, **Austria** - MAY 11, **Spain** - MAY 18, **UK, Argentina, Ireland, Italy** - MAY 23,  **Norway** - JUNE 2, **Sweden** - JUNE 6, **Hong-Kong** - JUNE 7, **Brussels** - JUNE 12.  **Other groups are joining and sharing the dates of new Waves.**\n"
+"This 'Wave of Rebellion' will build towards the strategy of mass disruption for [COP26](https://www.ukcop26.org/) in November.\n"
+"If you want to join a project group or add the next wave to the calendar, please write to us at <events@organise.earth> or [join us on Mattermost](https://organise.earth/xrglobal/channels/events--gatherings).\n"
+msgstr ""
+" 100% No final de Janeiro, a XR **Global Support (GS)** organizou uma "
+"chamada atendida por **50 rebeldes de todo o mundo***. Foi a primeira "
+"chamada na história da XR onde os países se encontraram e decidiram juntos "
+"como se rebelar.\n"
+"Decidimos criar **Waves of Global Rebellion*** durante o mesmo período ("
+"Abril - Junho) em todo o mundo.\n"
+"Muitos grupos já definiram as suas datas: **Veneza*** - 20 de FEV, **Países "
+"Baixos** - 13 de ABRIL, **Suíça** - 16 de ABRIL, **EUA, Cidade do México** - "
+"20 de ABRIL, **Semana Africana do Clima - Uganda** - 20 a 24 de ABRIL, "
+"**Itália** - 24 de ABRIL, **Finlândia, Alemanha, França, Austrália, Canadá***"
+" - 4 de MAIO, **Áustria*** - 11 de MAIO, **Espanha** - 18 de MAIO, **Reino "
+"Unido, Argentina, Irlanda, Itália*** - 23 de MAIO, **Noruega** - 2 de JUNHO, "
+"**Suécia** - 6 de JUNHO, **Hong-Kong** - 7 de JUNHO, **Bruxelas*** - 12 de "
+"JUNHO.  **Outros grupos estão a juntar-se e a partilhar as datas das novas \""
+"Waves\".**\n"
+"Esta 'Wave of Rebellion' será construída para a estratégia de rutura em "
+"massa para a [COP26](https://www.ukcop26.org/) em Novembro.\n"
+"Se quiser se juntar a um grupo de projeto ou adicionar a próxima \"Wave\" ao "
+"calendário, por favor escreva-nos para o<events@organise.earth> ou [junte-se "
+"a nós em Mattermost](https://organise.earth/xrglobal/channels/events--"
+"gatherings).\n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:204
+#, no-wrap
+msgid "Together We March – 22nd FEB"
+msgstr "Juntos Marchamos- 22 de FEV"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:207
+msgid "22 FEB | 1 pm | London, UK"
+msgstr "22 FEV | 13:00 | Londres, Reino Unido"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:209
+msgid "![](/assets/img/blog/2020/02/14/image17.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:213
+msgid ""
+"We will [march](https://www.facebook.com/events/1130035164009395/) on our "
+"capital city, wearing **our hearts on our sleeves**. We must continue to "
+"come together from a place of **fierce love**.  **Craft for climate. Wear "
+"pink and red. Create your own heart** and wear it on your sleeve as we march "
+"in resistance and solidarity.  [Together we march](https://www.facebook.com/"
+"events/1130035164009395/). Join us."
+msgstr ""
+"Vamos [marchar](https://www.facebook.com/events/1130035164009395/) na nossa "
+"capital, \"levando\"**os nossos corações nas nossas mangas***. Devemos "
+"continuar a unir-nos a partir de um lugar de **amor feroz***.  **\"Elabore "
+"algo para o clima. Vista-se de rosa e vermelho. Crie o seu próprio coração***"
+" e use-o nas suas mangas enquanto marchamos em resistência e solidariedade.  "
+"[Juntos marchamos](https://www.facebook.com/events/1130035164009395/). Junte-"
+"se a nós."
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:217
+#, no-wrap
+msgid "XR Content "
+msgstr "Conteúdo XR "
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:223
+msgid ""
+"[Back to top](#Contents)  * [At 18.3°C, Antarctica logs hottest day ever]"
+"(https://punemirror.indiatimes.com/news/world/at-18-3c-antarctica-logs-"
+"hottest-day-ever/articleshow/74014714.cms)  * [January 2020 was the warmest "
+"on record](https://www.bostonglobe.com/news/world/2020/02/05/europe-posts-"
+"its-warmest-january-record/hSExjDEggO65DetYsD81bL/story.html). Oslo, "
+"Stockholm, Helsinki and Copenhagen [were above freezing (0°C) every day of "
+"the month](https://twitter.com/mikarantane/status/1223629677027262465) with "
+"all but Oslo totally snow-free.  * How [Climate Change causes Extreme "
+"Weather - by one of our own Rebel Writers](https://theglobepost."
+"com/2020/01/30/extreme-weather-climate-change/)"
+msgstr ""
+"[Voltar ao topo](#Conteúdos) * [A 18,3°C, a Antártica regista o dia mais "
+"quente de sempre](https://punemirror.indiatimes.com/news/world/"
+"at-18-3c-antarctica-logs-hottest-day-ever/articleshow/74014714.cms) * ["
+"Janeiro de 2020 foi o mais quente de todos os "
+"registos](https://www.bostonglobe.com/news/world/2020/02/05/"
+"europe-posts-its-warmest-january-record/hSExjDEggO65DetYsD81bL/story.html). "
+"Oslo, Estocolmo, Helsínquia e Copenhaga [estavam acima do congelamento (0°C) "
+"todos os dias do mês](https://twitter.com/mikarantane/status/"
+"1223629677027262465) com todos, exceto Oslo, totalmente livres de neve.  * "
+"Como [a mudança climática causa clima extremo - por um de nossos próprios "
+"escritores rebeldes](https://theglobepost.com/2020/01/30/"
+"extreme-weather-climate-change/)"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:226
+#, no-wrap
+msgid "Humans of XR "
+msgstr "Humans of XR "
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:231
+msgid "![](/assets/img/blog/2020/02/14/image18.jpg){:.img-fluid}"
+msgstr "![](/assets/img/img/blog/2020/02/14/image11.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:240
+#, no-wrap
+msgid ""
+"*Stephanie*\n"
+"\"I am 68 years old, now retired after a career as a **probation officer, Court Welfare Officer and most recently as an NHS Psychotherapy Manager**. \n"
+"This is the first time I have been charged with any offence and **I have not found it easy putting myself in this situation … and appearing in court today on the other side of the fence** from my previous professional appearances. \n"
+"I didn’t want to do this and found it hard knowing that our actions in April were causing disruption and inconvenience to many people’s lives. **But I felt impelled to act in the face of the catastrophic future I saw unfolding before us all.**\n"
+"I have long been concerned about climate change, and in the past attended demonstrations, signed petitions and wrote letters to my MP. \n"
+"**But like many people, I only half accepted the magnitude and immediacy of what was facing us, and largely carried on with my life.**\n"
+"So yes, I acknowledge that I broke the law, but we desperately need urgent governmental action around the world to avert disaster, and **I hope you will accept that I was true to my own morals in trying to play a small part in making that happen.**\"\n"
+"*We are receiving amazing human stories and we want to know yours. To read more – or to write your own – join our [Facebook group](https://www.facebook.com/groups/468678977056685/).*\n"
+msgstr ""
+"*Stephanie conta-nos:*\n"
+"\"Tenho 68 anos de idade, agora aposentada após uma carreira como **"
+"funcionária de reinserção social, assistente social de disputas e mais "
+"recentemente como diretora de psicoterapia do NHS(Serviço Nacional de "
+"Saúde)**.\n"
+"Esta é a primeira vez que sou acusada de qualquer ofensa e **Não foi fácil "
+"colocar-me nesta situação... e aparecer hoje no tribunal do outro lado da "
+"cerca** pelas minhas aparições profissionais anteriores.\n"
+"Eu não queria fazer isso e achei difícil saber que as nossas ações em abril "
+"estavam a causar transtornos e inconvenientes para a vida de muitas pessoas. "
+"**Mas senti-me impelida a agir face ao futuro catastrófico que eu vi "
+"desenrolar diante de todos nós.\n"
+"Há muito tempo que estou preocupada com as alterações climáticas e, no "
+"passado, fui a manifestações, assinei petições e escrevi cartas ao meu "
+"deputado.\n"
+"**Mas, como muitas pessoas, só aceitei pela metade a magnitude e o "
+"imediatismo do que se nos deparava e continuei em grande parte com a minha "
+"vida.**\n"
+"Portanto, sim, reconheço que infringi a lei, mas precisamos desesperadamente "
+"de ação governamental urgente em todo o mundo para evitar o desastre, e ** "
+"espero que aceitem que fui fiel à minha própria moral ao tentar desempenhar "
+"um pequeno papel para que isso acontecesse.**\".\n"
+"*Estamos a receber histórias humanas incríveis e queremos saber as suas. "
+"Para ler mais - ou para escrever as suas - junte-se ao nosso [grupo do "
+"Facebook](https://www.facebook.com/groups/468678977056685/).*\n"
+
+#. type: Title ###
+#: 2020-02-14-newsletter-36.md:243
+#, no-wrap
+msgid "Thank you"
+msgstr "Obrigado"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:246
+#, no-wrap
+msgid "*Thank you for reading. There’s so much exciting stuff going on in the movement that we barely have time to write this sign-off. Keep up the good work! If you have any questions or queries, please get in touch at <xr-newsletter@protonmail.com>* \n"
+msgstr ""
+"*Obrigado pela leitura. Há tanta coisa excitante a acontecer no movimento "
+"que mal temos tempo para escrever esta despedida. Continuem com o bom "
+"trabalho! Se tiver alguma pergunta ou dúvida, por favor entre em contato "
+"através do <xr-newsletter@protonmail.com>* \n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:248
+msgid "Time is running out, so join us in fighting this planetary emergency:"
+msgstr ""
+"O tempo está a esgotar-se, por isso junta-te a nós no combate a esta "
+"emergência planetária:"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:251
+#, no-wrap
+msgid " [find your group](/groups){.xr-button}\n"
+msgstr " [encontre o seu grupo](/grups){.xr-button}\n"
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:254
+msgid ""
+"If you’d prefer to assist in other ways, please consider making a donation."
+msgstr ""
+"Se preferir ajudar de outras formas, por favor, considere fazer uma doação."
+
+#. type: Plain text
+#: 2020-02-14-newsletter-36.md:257
+#, no-wrap
+msgid " [Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-button}\n"
+msgstr ""
+" [Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}\n"
+
+#~ msgid "---\n"
+#~ msgstr "---\n"

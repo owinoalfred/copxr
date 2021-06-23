@@ -1,0 +1,167 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-07 12:27+0800\n"
+"PO-Revision-Date: 2020-07-05 11:08+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Czech <http://translate.organise.earth/projects/press-"
+"releases/2020-03-14-coronavirus/cs/>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion Applauds International Community’s Ability to Act with Urgency\"\n"
+"slug: coronavirus\n"
+"date: 2020-03-14 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/03/14/img.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: cs\n"
+"title: \"Rebelie proti vyhynutí tleská tomu, jak lidstvo dokáže jednat rychle a účinně\"\n"
+"slug: coronavirus\n"
+"date: 2020-03-14 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/03/14/img.jpg\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:16
+msgid ""
+"![banner](/assets/img/press/2020/03/14/img.png)  {:.img-fluid .my-4 .text-"
+"center}"
+msgstr ""
+"![banner](/assets/img/press/2020/03/14/img.png)  {:.img-fluid .my-4 .text-"
+"center}"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:21
+msgid ""
+"- Extinction Rebellion is offering its love and support to all communities "
+"around the globe impacted by the coronavirus disease (COVID-19)  - The "
+"global movement welcomes the urgency with which some governments, "
+"organisations and institutions are acting in the face of coronavirus - While "
+"rapid reaction is a model of response, proactive action can reduce the "
+"greatest impacts of both pandemics and ecological/climate breakdown {:.huge ."
+"my-3}"
+msgstr ""
+"- Rebelie proti vyhynutí (Extinction Rebellion) nabízí lásku a podporu všem "
+"komunitám po celém světě, které postihl koronavirus (COVID-19)\n"
+"- Toto globální hnutí vítá rychlost, s jakou některé vlády, organizace a "
+"instituce jednají tváří v tvář koronaviru.\n"
+"- Zatímco rychlá reakce je vzorová, proaktivní akce by mohly zmírnit "
+"největší dopady jak pandemie, tak ekologické/klimatické katastrofy. {:.huge ."
+"my-3}"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:23
+msgid ""
+"_13th March, 2020, (Global)_ - **Extinction Rebellion** exists to protect "
+"and preserve life, both for now and for future generations.  **Our global "
+"movement stands in solidarity with all those affected by coronavirus**."
+msgstr ""
+"_13. března 2020 (všude)_ - smyslem existence **Rebelie proti vyhynutí** je "
+"ochrana a zachování života pro nás i budoucí generace. **Naše globální hnutí "
+"vyjadřuje solidaritu se všemi, které koronavirus postihl**."
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:25
+msgid ""
+"Extinction Rebellion (XR) welcomes the urgency with which many governments, "
+"organisations and institutions are acting in the face of the emergency "
+"represented by the Corona/Covid19 pandemic.  **Our current reality requires "
+"political will and quick, decisive action to mitigate, adapt and evolve to "
+"an existential threat.**"
+msgstr ""
+"Rebelie proti vyhynutí vítá rychlost, s jakou mnohé vlády, organizace a "
+"instituce jednají tváří v tvář krizi způsobené pandemií koronaviru COVID-19. "
+"**Naše současná situace vyžaduje politickou vůli a rychlé, rozhodné činy, "
+"které umožní zmírnit následky, přizpůsobit se a překonat smrtelné nebezpečí."
+"**"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:27
+msgid ""
+"The movement's global network, which came together to face the Climate and "
+"Ecological Emergency, is adapting to this crisis, and hopes to be part of "
+"the force which connects people in community resilience at this time."
+msgstr ""
+"Celosvětové hnutí, které vzniklo proto, aby čelilo klimatické a ekologické "
+"krizi, se této krizi přizpůsobuje a doufá, že se stane součástí síly, která "
+"v těžkých časech spojuje lidi do odolných společenství."
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:29
+msgid ""
+"As our ability to gather is greatly affected, **each Extinction Rebellion "
+"group will consider whether it shall carry out any local activity in coming "
+"weeks** and months within the context of the planned International "
+"Rebellion. The ongoing Rebellion will adapt to this situation and we expect "
+"activities around the world will vary from community aid and assistance, to "
+"simply providing connection to people."
+msgstr ""
+"Protože se teď nemůžeme bez omezení shromažďovat, **každá skupina XR zváží, "
+"jestli v nadcházejících týdnech a měsících bude podnikat nějaké místní "
+"aktivity** souvisící s plánovanou Mezinárodní rebelií. Rebelie stále trvá a "
+"této situaci se přizpůsobí. Očekáváme, že aktivity v různých částech světa "
+"budou různé, od sousedské výpomoci po pouhé poskytování spojení."
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:31
+msgid ""
+"As the climate breakdown and ecological collapse continues and we see more "
+"outbreaks and pandemics, Extinction Rebellion will work to provide a growing "
+"community of compassion and care, and create spaces to put into reality how "
+"the world could be different. Now is the time to show how humans can come "
+"together and showcase other ways of existence. We must pull together as "
+"communities, protecting the most vulnerable.  **We must Rebel for Life.**"
+msgstr ""
+"Zatímco se hroutí klima a ekosystémy a propukají další epidemie, Rebelie "
+"proti vyhynutí (XR) bude dál vytvářet rostoucí komunitu plnou vzájemné péče "
+"a soucitu a tvořit místa, kde naživo předvede, jak by mohl vypadat jiný "
+"svět. Právě teď je čas ukázat, jak lidé dokáží spolupracovat, a předvést "
+"jiné způsoby existence. Naše komunity musí držet při sobě a chránit ty "
+"nejzranitelnější z nás. **Musíme rebelovat za život.**"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:34
+#, no-wrap
+msgid " [Learn More about Extinction Rebellion](https://rebellion.global/about-us){.xr-button}\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:36
+msgid "_For further information please contact:_ **press@organise.earth**"
+msgstr "_Případné další dotazy posílejte na adresu_ **press@organise.earth**"
+
+#~ msgid ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>Learn More about Extinction Rebellion</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>Další informace o XR</span></a>\n"
+#~ "</div>\n"

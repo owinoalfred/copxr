@@ -1,0 +1,710 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-23 09:34+0200\n"
+"PO-Revision-Date: 2020-06-13 16:51+0000\n"
+"Last-Translator: Dom <dom@dominicporter.co.uk>\n"
+"Language-Team: Russian <http://translate.organise.earth/projects/blog-posts/"
+"2020-05-05-nature-rights/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:12
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: 'The Poisoning Of Lake Erie: A Case for Granting Rights to Nature'\n"
+"slug: nature-rights\n"
+"date: '2020-05-05 17:07'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"header-class: bg-black text-light-gray\n"
+"image: /assets/uploads/poisoning_of_lake_erie_image3.jpg\n"
+msgstr ""
+"layout: page-small-width\n"
+"lang: ru\n"
+"title: 'Отравление озера Эри - почему природе нужны права'\n"
+"slug: nature-rights\n"
+"date: '2020-05-05 17:07'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"header-class: bg-black text-light-gray\n"
+"image: /assets/uploads/poisoning_of_lake_erie_image3.jpg\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:17
+#, no-wrap
+msgid ""
+"*Article by Andrew Jones*\\\n"
+"\\\n"
+"\\\n"
+"On 2 August 2014, the 500,000 residents of Toledo, Ohio woke up to a [city alert](https://web.archive.org/web/20140803025605/https://toledo.oh.gov/news/2014/08/urgent-water-notice/). \"Urgent Water Notice! DO NOT DRINK THE WATER. DO NOT BOIL THE WATER.\" Hours later, local shops had sold out of bottled water. Toledoans scattered as far as 100 km (62 miles) from the city in search of water.\n"
+msgstr ""
+"*Автор статьи - Эндрю Джоунс*\\\n"
+"\\\n"
+"\\\n"
+"Второго августа 2014 г. 500 000 жителей города Толедо в Огайо разбудило [городское оповещение](https://web.archive.org/web/20140803025605/https://toledo.oh.gov/news/2014/08/urgent-water-notice/). \"Срочное Предупреждение! НЕ ПЕЙТЕ ВОДУ. НЕ КИПЯТИТЕ ВОДУ.\" Всего через несколько часов, в местных магазинах раскупили всю бутилированную воду. Жителям Толедо пришлось покупать воду в сотнях километров за пределами города.\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:19
+msgid ""
+"Algal blooms in Lake Erie, the 10th largest freshwater lake in the world, "
+"had infused Toledo's tap water with microcystin, a [potent toxin](https://"
+"eriecountypa.gov/departments/health/what-we-do/beach-sampling-results/"
+"harmful-algal-blooms/) that can cause vomiting, diarrhea, and liver failure."
+msgstr ""
+"Цветение водорослей в озере Эри, десятом по величине пресноводном озере в "
+"мире, привело к попаданию микроцистина, [сильнодействующего токсина](https://"
+"eriecountypa.gov/departments/health/what-we-do/beach-sampling-results/"
+"harmful-algal-blooms/) в водопроводную воду Толедо. Этот токсин может "
+"привести к рвоте, диарее и остановке работы печени."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:21
+msgid ""
+"In the past few decades, excessive phosphorus and nitrogen have spilled into "
+"the lake and fueled runaway toxic algal growth. Signs warning \"DANGER. "
+"Avoid all contact with water\" have become summer mainstays for western Lake "
+"Erie beaches."
+msgstr ""
+"В последние несколько десятилетий чрезмерные выбросы фосфора и азота в озеро "
+"привели к чрезмерному росту токсичных водорослей. Знаки \"ОПАСНО. Избегайте "
+"контакта с водой\" стали привычным летним видом на пляжах западной части "
+"озера."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:23
+msgid "![](/assets/uploads/poisoning_of_lake_erie_image1.jpg)"
+msgstr "![](/assets/uploads/poisoning_of_lake_erie_image1.jpg)"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:25
+#, no-wrap
+msgid "*Water sample from Lake Erie taken Sept 2017 (Photo Credit: [NOAA GLERL](https://www.flickr.com/photos/noaa_glerl/37186276541))*\n"
+msgstr ""
+"*Образец воды из озера Эри, взятый в сентябре 2017 г. (Фото: [NOAA "
+"GLERL](https://www.flickr.com/photos/noaa_glerl/37186276541))*\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:27
+msgid ""
+"Describing the algae, local boater [Dave Spangler commented](https://"
+"greatlakes.org/2019/08/five-years-later-lessons-from-the-toledo-water-"
+"crisis/), \"It gets so thick that it slows the boats,\" and compared the "
+"smell to \"Grandma's basement, that musty smell.\""
+msgstr ""
+"Описывая ситуацию с водорослями, местный лодочник [Дэйв Спанглер сказал]"
+"(https://greatlakes.org/2019/08/five-years-later-lessons-from-the-toledo-"
+"water-crisis/): \"Их так много, что лодки вынуждены плавать медленно,\" и "
+"описал запах как \"затхлый запах из подвала.\""
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:29
+msgid ""
+"The blooms affect more than just drinking water. Mats of algae block "
+"sunlight from reaching underwater plants. When the algae die, the excessive "
+"biomatter sets off a frenzy of microbe activity that rapidly consumes the "
+"dissolved oxygen in the lake, [suffocating all fish and aquatic life]"
+"(https://www.epa.gov/nutrientpollution/effects-dead-zones-and-harmful-algal-"
+"blooms) in the process. The resulting dead zone can span over a third of the "
+"lake."
+msgstr ""
+"Водоросли влияют не только на качество питьевой воды. Массив водорослей "
+"блокирует солнечный свет от проникновения к растениям на дне. Когда "
+"водоросли умирают, излишняя биомасса приводит к чрезмерной микробной "
+"деятельности. Микробы поглощают кислород в воде озера, что приводит [к "
+"удушению рыб и водных организмов](https://www.epa.gov/nutrientpollution/"
+"effects-dead-zones-and-harmful-algal-blooms). Создающаяся в итоге \"мертвая "
+"зона\" покрывает до одной трети озера."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:31
+msgid ""
+"[Agricultural runoff](https://www.sciencedirect.com/science/article/pii/"
+"S0380133014000252) plays the main culprit. Modern fertilizer practices and "
+"vast piles of animal waste from concentrated animal feeding operations "
+"provide the excess phosphorus and nitrogen, while heavy rainstorms push "
+"those nutrients into the lake."
+msgstr ""
+"[Сточные воды сельского хозяйства](https://www.sciencedirect.com/science/"
+"article/pii/S0380133014000252) - основная причина сложившейся ситуации. "
+"Использование современных пестицидов и отходы животноводческого производства "
+"приводят к перепроизводству фосфора и азота, а сильные ливни способствуют "
+"попаданию этих отходов в озеро."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:33
+msgid ""
+"Historically, people have found some success rallying against point-source "
+"pollution. If a city's sewage plant is spilling pollutants into the lake, "
+"that is relatively easy to target and remedy. But when the sources are "
+"thousands of independent agribusinesses spread across an entire watershed, "
+"pollution becomes practically—and politically—more difficult to regulate."
+msgstr ""
+"Исторически люди добились успеха в борьбе против загрязнения из точечных "
+"источников. Если городское очистное сооружение, например, сливает "
+"загрязняющие вещества в озеро, с этим достаточно легко бороться. Но когда "
+"источником являются тысячи независимых сельскохозяйственных предприятий по "
+"длине всего водораздела, проблема загрязнения становится практически и "
+"регулятивно намного более сложной."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:35
+msgid ""
+"For years, the people of Toledo pushed traditional legal channels to "
+"[enforce existing regulations](https://www.ocj.com/2019/02/new-lake-erie-"
+"lawsuit-filed-against-u-s-epa/) and [write new ones](https://publicintegrity."
+"org/environment/growing-food-sowing-trouble/lake-erie-toxic-algae-farm-"
+"manure-runoff/) to protect their drinking water, but to [no avail](https://"
+"www.politico.com/news/2020/01/23/trump-epa-curbs-water-protections-102779). "
+"Frustrated by the inaction, they explored other avenues."
+msgstr ""
+"В течение многих лет жители Толедо использовали существующие юридические "
+"каналы, чтобы [соблюдались существующие правила](https://www.ocj.com/2019/02/"
+"new-lake-erie-lawsuit-filed-against-u-s-epa/), и также [создавали новые]"
+"(https://publicintegrity.org/environment/growing-food-sowing-trouble/lake-"
+"erie-toxic-algae-farm-manure-runoff/), необходимые для защиты их водяных "
+"источников, но [безуспешно](https://www.politico.com/news/2020/01/23/trump-"
+"epa-curbs-water-protections-102779). Разочарованные бездействием властей, "
+"жители Толедо обратились к иным методам."
+
+#. type: Title ###
+#: 2020-05-05-nature-rights.md:36
+#, no-wrap
+msgid "Should Trees Have Standing?"
+msgstr "Нужна ли деревьям юридическая основа?"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:39
+msgid ""
+"In the past, groups have filed lawsuits to defend ecosystems from "
+"destruction, but more often than not, [courts have ruled](https://www.oyez."
+"org/cases/1971/70-34) that the groups did not have sufficient legal standing "
+"to bring the suit. To have legal standing, you must suffer direct injury or "
+"harm."
+msgstr ""
+"В прошлом группы граждан подавали судебные иски с целью защиты экосистем от "
+"различных угроз, но в большинстве случаев [суды постановляли](https://www."
+"oyez.org/cases/1971/70-34), что у этих исков не было существенной "
+"юридической основы. Для этого урон или ущерб уже должен был быть нанесен."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:41
+msgid ""
+"In response, some have moved to assign legal standing directly to nature. In "
+"1972, law professor Christopher Stone penned the essay *[Should Trees Have "
+"Standing?—Toward Legal Rights for Natural Objects](https://iseethics.files."
+"wordpress.com/2013/02/stone-christopher-d-should-trees-have-standing.pdf)*."
+msgstr ""
+"В ответ, некоторые граждане занялись присвоением правового статуса "
+"непосредственно природе. В 1972 г. профессор права Кристофер Стоун написал "
+"работу под названием *[Нужна ли деревьям юридическая основа? — О присвоении "
+"юридических прав природным объектам](https://iseethics.files.wordpress."
+"com/2013/02/stone-christopher-d-should-trees-have-standing.pdf)*."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:43
+msgid ""
+"It may feel beyond our collective imagination to give nature rights. But, as "
+"Stone writes,"
+msgstr ""
+"Может показаться невообразимым, что природе могут быть присвоены юридические "
+"права. Но, как пишет Стоун,"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:45
+#, no-wrap
+msgid "> \"throughout legal history, each successive extension of rights to some new entity has been… a bit unthinkable… Until the rightless thing receives its rights, we cannot see it as anything but a thing for the use of ‘us'—those who are holding rights at the time.\"\n"
+msgstr "> \"в юридической истории каждый раз, когда то или иное юридическое лицо впервые получало юридические права, это всегда было… немыслимо… До тех пор, пока бесправный объект не получит свои права, мы не будем видеть его как нечто более, чем вещь для нашего, правообладателей, пользования.\"\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:47
+msgid ""
+"Giving rights to nature would have immediate implications. For a market "
+"system to function, businesses must be held accountable for the costs they "
+"impose on people downstream. But the effects of pollution on humans are "
+"often too diffuse to give the law a proper toehold. Stone specifically "
+"referenced the pollution of Lake Erie in the 1970s as an example. In "
+"considering the downstream costs, Stone argued we should stretch beyond "
+"narrowly defined \"homocentric interests\" to include the death and "
+"suffering of non-human life."
+msgstr ""
+"Присвоение прав природе приведет к непосредственным результатам. Для "
+"функционирования рыночной системы предприятия должны нести ответственность "
+"за конечные затраты, которые они вызывают. Но эффект загрязнения природы на "
+"людей часто слишком распылен, что означает отсутствие надлежащей правовой "
+"основы. В качестве примера Стоун особо упомянул загрязнение озера Эри в 1970-"
+"х годах. Стоун утверждал, что конечные затраты должны включать не только "
+"\"интересы человека\", но также смерть и страдания нечеловеческой жизни."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:49
+msgid ""
+"It could be more simple than it sounds. The legal system creates economic "
+"value through what it protects. Private property and copyrights have value "
+"only because of the law's recognition. In the same way, a lake is given "
+"value when the law enforces penalties against those who violate the lake's "
+"rights."
+msgstr ""
+"Всё может быть проще, чем кажется. Правовая система создает экономическую "
+"ценность в том, что она защищает. Частная собственность и авторские права "
+"имеют ценность только благодаря признанию закона. Точно так же озеру "
+"присваивается ценность, когда закон предусматривает меры наказания в "
+"отношении тех, кто нарушает права озера."
+
+#. type: Title ###
+#: 2020-05-05-nature-rights.md:50
+#, no-wrap
+msgid "Rights of Nature Written Into Law"
+msgstr "Права природы становятся законом"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:53
+msgid ""
+"In recent years, more people have been turning to Stone's argument in an "
+"effort to achieve meaningful change. [Since 2006](https://celdf.org/"
+"advancing-community-rights/rights-of-nature/rights-nature-timeline/), the "
+"Rights of Nature have been made into law in cities and countries across the "
+"world."
+msgstr ""
+"В последнее время всё больше людей обращаются к аргументу Стоуна в попытке "
+"добиться значимых изменений. [С 2006 г.](https://celdf.org/advancing-"
+"community-rights/rights-of-nature/rights-nature-timeline/), Права Природы "
+"были признаны законодательно в городах и странах по всему миру."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:55
+msgid ""
+"[Ecuador became the first nation](https://celdf.org/advancing-community-"
+"rights/rights-of-nature/) to recognize the Rights of Nature in its "
+"constitution in 2008. [The constitutional article begins](http://pdba."
+"georgetown.edu/Constitutions/Ecuador/english08.html),"
+msgstr ""
+"[Эквадор стал первой нацией](https://celdf.org/advancing-community-rights/"
+"rights-of-nature/), признавшей Права Природы в своей конституции в 2008 г. "
+"[Вот как начинается конституция Эквадора](http://pdba.georgetown.edu/"
+"Constitutions/Ecuador/english08.html),"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:57
+#, no-wrap
+msgid "> \"Nature, or Pacha Mama, where life is reproduced and occurs, has the right to integral respect for its existence and for the maintenance and regeneration of its life cycle, structure, functions, and evolutionary processes. All persons, communities, peoples and nations can call upon public authorities to enforce the rights of nature.\"\n"
+msgstr "> «Природа, или Pacha Mama, где жизнь происходит и повторяется, имеет право на полное уважение ее существования и поддержание и восстановление ее жизненного цикла, структуры, функций и эволюционных процессов. Все люди, группы людей, народы и нации могут призвать органы государственной власти к соблюдению прав природы\".\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:59
+msgid ""
+"In other words, anybody can go to court to protect life, regardless of the "
+"plaintiff's legal standing. Going further than protection against further "
+"harm, the article states \"Nature has the right to be restored.\""
+msgstr ""
+"Другими словами, любой человек может обратиться в суд для защиты жизни, "
+"независимо от юридического статуса истца. Конституция устанавливает не "
+"только защиту от дальнейшего ущерба, но также «право природы на "
+"восстановление»."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:61
+msgid ""
+"Bolivia followed in 2010 with the \"[Law of the Rights of Mother Earth]"
+"(https://www.theguardian.com/environment/2011/apr/10/bolivia-enshrines-"
+"natural-worlds-rights).\" The law defines Mother Earth as \"the dynamic "
+"living system formed by the indivisible community of all life systems and "
+"living beings who are interrelated, interdependent, and complementary, which "
+"share a common destiny.\""
+msgstr ""
+"В 2010 г. Боливия последовала примеру Эквадора с \"[Законом о Правах Матери-"
+"Земли](https://www.theguardian.com/environment/2011/apr/10/bolivia-enshrines-"
+"natural-worlds-rights).\" Закон определяет Мать-Землю как \"динамическую "
+"живую систему, образованную неделимым сообществом всех жизненных систем и "
+"живых существ, которые взаимосвязаны, взаимозависимы и дополняют друг друга, "
+"которые имеют общую судьбу.\""
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:63
+msgid ""
+"In 2017, New Zealand [granted legal personhood to the Whanganui River]"
+"(https://www.theguardian.com/world/2019/nov/30/saving-the-whanganui-can-"
+"personhood-rescue-a-river), making it the first river in the world to be "
+"recognized as an indivisible and living being. A court in India carried the "
+"example forward by declaring the Ganges River and its Yamuna tributary "
+"\"[legal and living entities](https://www.theguardian.com/world/2017/mar/21/"
+"ganges-and-yamuna-rivers-granted-same-legal-rights-as-human-beings).\""
+msgstr ""
+"В 2017 г. Новая Зеландия [придала статус юридического лица реке Вангануи]"
+"(https://www.theguardian.com/world/2019/nov/30/saving-the-whanganui-can-"
+"personhood-rescue-a-river), что сделало эту реку первой в мире, признанной "
+"неделимым и живым существом. Суд в Индии последовал примеру, признав реку "
+"Ганг и ее приток Ямуна \"[юридическими и живыми существами](https://www."
+"theguardian.com/world/2017/mar/21/ganges-and-yamuna-rivers-granted-same-"
+"legal-rights-as-human-beings).\""
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:65
+msgid "![Whanganui River](/assets/uploads/poisoning_of_lake_erie_image2.jpg)"
+msgstr "![Река Вангануи](/assets/uploads/poisoning_of_lake_erie_image2.jpg)"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:67
+#, no-wrap
+msgid "*Whanganui River (Photo Credit: [Duane Wilkins](https://commons.wikimedia.org/wiki/File:Cool_Bend_on_Whanganui_River_-_panoramio.jpg))*\n"
+msgstr "*Река Вангануи (Источник: [Дуэйн Вилкинс](https://commons.wikimedia.org/wiki/File:Cool_Bend_on_Whanganui_River_-_panoramio.jpg))*\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:69
+msgid ""
+"The recognition has persisted beyond symbolism into the courtroom. In 2011, "
+"[haphazard road construction along the Vilcabamba River](https://ejatlas.org/"
+"conflict/first-successful-case-of-rights-of-nature-ruling-vilcabamba-river-"
+"ecuador) in Ecuador threatened downstream ecosystems. Excavated material and "
+"debris were discarded into the river. The scarring of hillsides increased "
+"erosion, and the ensuing blockages altered her path and increased her flow. "
+"Large floods barreled through, destroying ecosystems, risking landslides, "
+"and affecting access to clean water."
+msgstr ""
+"Признание прав природы не осталось символичным. В 2011 г. [беспорядочное "
+"строительство дороги вдоль реки Вилкабамба](https://ejatlas.org/conflict/"
+"first-successful-case-of-rights-of-nature-ruling-vilcabamba-river-ecuador) в "
+"Эквадоре угрожало экосистемам в низовье реки. Отходы строительства и мусор "
+"выбрасывались в реку. Разрушение склонов холмов усилило эрозию почвы, что "
+"привело к блокировке устья реки, изменению ее русла и увеличению потока "
+"воды. В результате ряд крупных наводнений разрушил экосистемы, увеличил риск "
+"оползней и нарушил доступ к чистой воде."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:71
+msgid ""
+"Rather than argue for personal damages, people downstream filed a "
+"constitutional lawsuit on behalf of the river. And the provincial court "
+"[ruled in favor](https://therightsofnature.org/first-ron-case-ecuador/) of "
+"the Vilcabamba River."
+msgstr ""
+"Вместо того, чтобы требовать возмещение личного ущерба, люди, проживающие в "
+"низовьях реки, подали конституционный иск от имени реки. И провинциальный "
+"суд [вынес решение в пользу](https://therightsofnature.org/first-ron-case-"
+"ecuador/) реки Вилкабамба."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:73
+msgid ""
+"Still, \"happily ever after\" has eluded Rights of Nature advocates. People "
+"defending the river [have struggled](https://www.kosmosjournal.org/article/"
+"worlds-first-successful-rights-of-nature-lawsuit-2/) to get the Ecuadorian "
+"government to enforce the ruling. Meanwhile, [oil drilling operations "
+"continue to expand](https://www.ft.com/content/8e1acf14-e467-11e9-"
+"b8e0-026e07cbe5b4) into the Ecuadorian rainforest. The Bolivian government "
+"incentivizes the slash-and-burn agriculture that Bolivians blame for "
+"[sparking unprecedented fires](https://www.theguardian.com/world/2019/sep/02/"
+"bolivia-evo-morales-wildfires-chiquitano) in the Chiquitano dry forest. The "
+"Supreme Court of India [overturned the earlier ruling](https://www.bbc.com/"
+"news/world-asia-india-40537701), stating that giving legal rights to rivers "
+"was \"legally unsustainable.\""
+msgstr ""
+"Тем не менее, история борцов за Права Природы не окончилась счастливым "
+"финалом. Защитникам реки [не удалось](https://www.kosmosjournal.org/article/"
+"worlds-first-successful-rights-of-nature-lawsuit-2/) убедить правительство "
+"Эквадора реализовать судебное решение. При этом, [добыча нефти была "
+"расширена](https://www.ft.com/content/8e1acf14-e467-11e9-b8e0-026e07cbe5b4) "
+"на территорию тропического леса Эквадора. Правительство Боливии поощряет "
+"расширение сельского хозяйства за счет выжигания леса, что, боливийцы "
+"считают, привело к [беспрецедентным лесным пожарам](https://www.theguardian."
+"com/world/2019/sep/02/bolivia-evo-morales-wildfires-chiquitano) в лесу "
+"Чикитано. Высший Суд Индии [опроверг предыдущее решение суда](https://www."
+"bbc.com/news/world-asia-india-40537701), утверждая, что предоставление прав "
+"рекам \"юридически невозможно.\""
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:75
+msgid ""
+"Conversely, the Whanganui River's personhood has so far garnered more "
+"respect. The bill is the [culmination of a century of struggle](https://www."
+"nationalgeographic.com/culture/2019/04/maori-river-in-new-zealand-is-a-legal-"
+"person/) by the indigenous peoples, the Maori, and recognizes the "
+"intertwined fates of the people and of the river. Among other innovations, "
+"its comprehensive framework [provides for a human council](http://www."
+"legislation.govt.nz/bill/government/2016/0129/latest/DLM6831468.html) to "
+"directly oversee the river's interests."
+msgstr ""
+"Тем не менее, признание реки Вангануи, как юридического лица, вызвало больше "
+"уважения. Законопроект является [кульминацией столетия борьбы](https://www."
+"nationalgeographic.com/culture/2019/04/maori-river-in-new-zealand-is-a-legal-"
+"person/) коренных народов, маори, и признает переплетение судеб людей и "
+"реки. Помимо других нововведений, его всеобъемлющая структура "
+"[предусматривает создание человеческого совета](http://www.legislation.govt."
+"nz/bill/government/2016/0129/latest/DLM6831468.html) для контроля за "
+"соблюдением интересов реки."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:77
+msgid ""
+"In turn, the global movement inspired the [Toledoans for Safe Water](https://"
+"lakeerieaction.wixsite.com/safewatertoledo), a grassroots group on the shore "
+"of Lake Erie, to write the [Lake Erie Bill of Rights](https://"
+"beyondpesticides.org/assets/media/documents/LakeErieBillofRights.pdf) "
+"(LEBOR)."
+msgstr ""
+"В свою очередь глобальное движение вдохновило местную группу [\"Жители "
+"Толедо за Безопасную Воду\"](https://lakeerieaction.wixsite.com/"
+"safewatertoledo) создать [\"Билль Прав Озера Эри\"](https://beyondpesticides."
+"org/assets/media/documents/LakeErieBillofRights.pdf) (LEBOR)."
+
+#. type: Title ###
+#: 2020-05-05-nature-rights.md:78
+#, no-wrap
+msgid "Toledo Votes for the Lake Erie Bill of Rights"
+msgstr "Толедо Голосует за Билль Прав Озера Эри (LEBOR)"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:81
+msgid "![](/assets/uploads/poisoning_of_lake_erie_image3.jpg)"
+msgstr "![](/assets/uploads/poisoning_of_lake_erie_image3.jpg)"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:83
+#, no-wrap
+msgid "*Harmful Algal Bloom in Lake Erie: September 20, 2017 (Photo Credit: [Aerial Associates Photography, Inc. by Zachary Haslick](https://www.flickr.com/photos/noaa_glerl/36638583403/in/photolist-XPCjnR-XPCkWn-YNcv1b-YNDe8w-YNcvTy-YscCo5-XN73EW-YNDehQ-YNDdp7-YQ9k7N-XN73aY-YscCh3-XN756w-BLLQuG-XRCQDa-YLCHj5-XPCk2M-YuvgqW-cMtuny-BLLUhS-XPCjX8-wSCTPA-BLLW2U-oxo8zv-XPCjJx-BLLTGd-YQNyVn-YLCHcm-BLLQsN-XRCQGX-p5BgW9-YNcuT7-XPCj4e-adrBYv-YuvgXh-ejuTfh-8xRCyq-XPCjpz-cWdBbw-fJjbTQ-ejpb8M-ejuU6o-oinCax-XPCkrp-XPCj5B-fubE8i-z4MPap-YLCHb9-aqHJaG-XPCjDH))*\n"
+msgstr "*Цветение токсичных водорослей в озере Эри: 20 сентября 2017 г. (Фото: [Захари Хаслик, Aerial Associates Photography, Inc.](https://www.flickr.com/photos/noaa_glerl/36638583403/in/photolist-XPCjnR-XPCkWn-YNcv1b-YNDe8w-YNcvTy-YscCo5-XN73EW-YNDehQ-YNDdp7-YQ9k7N-XN73aY-YscCh3-XN756w-BLLQuG-XRCQDa-YLCHj5-XPCk2M-YuvgqW-cMtuny-BLLUhS-XPCjX8-wSCTPA-BLLW2U-oxo8zv-XPCjJx-BLLTGd-YQNyVn-YLCHcm-BLLQsN-XRCQGX-p5BgW9-YNcuT7-XPCj4e-adrBYv-YuvgXh-ejuTfh-8xRCyq-XPCjpz-cWdBbw-fJjbTQ-ejpb8M-ejuU6o-oinCax-XPCkrp-XPCj5B-fubE8i-z4MPap-YLCHb9-aqHJaG-XPCjDH))*\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:85
+msgid "The bill states,"
+msgstr "Билль гласит,"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:87
+#, no-wrap
+msgid "> \"it has become necessary that we... extend legal rights to our natural environment in order to ensure that the natural world, along with our values, our interests, and our rights, are no longer subordinated to the accumulation of surplus wealth and unaccountable political power.\"\n"
+msgstr "> \"стало необходимым присвоить юридические права природной среде, чтобы защитить и освободить от подчинения природный мир, а также наши ценности, интересы и права, от накопления избыточного богатства и бесконтрольных политических сил.\"\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:89
+msgid ""
+"After years of rallying public support around LEBOR, the city of Toledo "
+"granted legal rights to Lake Erie in 2019. Whereas many other Rights of "
+"Nature advances were instituted by courts or legislatures, the people of "
+"Toledo passed LEBOR with [61% of the vote](https://ballotpedia.org/Toledo,"
+"_Ohio,_Question_2,_%22Lake_Erie_Bill_of_Rights%22_Initiative_"
+"%28February_2019%29)."
+msgstr ""
+"После нескольких лет общественного движения за LEBOR, город Толедо "
+"предоставил законные права озеру Эри в 2019 г. В то время как остальные "
+"Права Природы были одобрены в судах или иных законодательных органах, люди "
+"Толедо приняли LEBOR проголосовав большинством - [61% за](https://"
+"ballotpedia.org/Toledo,_Ohio,_Question_2,_%22Lake_Erie_Bill_of_Rights"
+"%22_Initiative_%28February_2019%29)."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:91
+msgid ""
+"Less than 11 hours after LEBOR passed, Drewes Farms Partnership and the "
+"State of Ohio [brought a suit against the City of Toledo](https://www."
+"courthousenews.com/wp-content/uploads/2019/02/DrewesErie.pdf), challenging "
+"LEBOR as unconstitutional and unlawful."
+msgstr ""
+"Всего через 11 часов после принятия LEBOR, союз фермерских хозяйств Drewes "
+"Farms Partnership и штат Огайо [подали иск против города Толедо](https://www."
+"courthousenews.com/wp-content/uploads/2019/02/DrewesErie.pdf), назвав LEBOR "
+"незаконным и противоречащим конституции."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:93
+msgid ""
+"Drewes Farms' lawsuit is remarkable in that it goes to such lengths to "
+"explain how LEBOR prevents them from running their business as it currently "
+"operates. This is precisely LEBOR's motivation. Because Drewes Farms is "
+"correct. No real mitigation to excess runoff can be made without "
+"fundamentally changing our approach to agriculture with its vast "
+"monocropping, excessive artificial fertilizers, million-dollar, [65-ton]"
+"(https://en.wikipedia.org/wiki/Big_Bud_747) tractors with 1,000-gallon "
+"diesel tanks, and cramped complexes of suffering animals."
+msgstr ""
+"Иск Drewes Farms примечателен тем, что он идет на все, чтобы объяснить, как "
+"LEBOR мешает им вести свой бизнес в нынешнем виде. А ведь это и есть цель "
+"LEBOR. Потому что Drewes Farms правы - разрешить проблему загрязняющих "
+"стоков невозможно без фундаментальных изменений в нашем подходе к сельскому "
+"хозяйству с его высокой зависимостью от монокультур, чрезмерным "
+"использованием искусственных удобрений, многомиллионными тракторами [65-"
+"тонниками](https://en.wikipedia.org/wiki/Big_Bud_747) с бензобаками объемом "
+"в 1 000 галлонов и комплексами, в которые массово втиснуты страдающие "
+"животные."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:95
+msgid ""
+"This is not to belittle the plight of Drewes Farms. From its perspective, it "
+"has responded to market constraints for decades to eke out a profit in a "
+"commoditized business. To survive, it probably loaded itself with debt in "
+"order to subdue more land with bigger machines. It had been judged only by "
+"its ability to turn a profit. But now, an upstate town was trying to burden "
+"it with new demands? To comply with the full intention of LEBOR would "
+"require extraordinary help. Million-dollar machines with million-dollar "
+"debts might be rendered unusable. LEBOR does nothing to help it."
+msgstr ""
+"В то же время не стоит преуменьшать проблемы Drewes Farms. "
+"Сельскохозяйственный бизнес вынужден выживать в жестких рыночных условиях, "
+"при минимальных доходах, где эффективность оценивается размером дохода. Это "
+"вызывает потребность приобретать всё более крупную машинную технику, чтобы "
+"осваивать всё большее количество земли. Что в свою очередь приводит к "
+"существенным долгам. И теперь северный город пытается обременить их новыми "
+"требованиями? Чтобы реализовать истинную цель LEBOR, бизнесу потребуется "
+"существенная помощь. Дорогая техника может оказаться ненужной, а крупные "
+"долги невозвратными. Увы, LEBOR такую помощь не предусматривает."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:97
+msgid ""
+"The two sides [presented oral arguments](https://celdf.org/2020/02/lake-erie-"
+"bill-of-rights-court-update/) in January 2020. Drewes Farms and the State of "
+"Ohio have been forced to juggle contradictory arguments. They argue Toledo "
+"has no right to reach beyond its jurisdiction to protect its drinking water, "
+"but claim that the state and businesses have the right to pollute beyond "
+"their borders."
+msgstr ""
+"Обе стороны [выразили свои аргументы](https://celdf.org/2020/02/lake-erie-"
+"bill-of-rights-court-update/) в январе 2020 г. Drewes Farms и Штат Огайо "
+"были вынуждены использовать противоречивые аргументы. Так, они утверждают, "
+"что жители Толедо превысили свою юрисдикцию в целях защиты питьевой воды, но "
+"при этом штат и предприятия бизнеса имеют право наносить загрязнение "
+"окружающей среде вне своих пределов."
+
+#. type: Title ###
+#: 2020-05-05-nature-rights.md:98
+#, no-wrap
+msgid "Whose Rights Prevail?"
+msgstr "Чьи права преобладают?"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:101
+msgid ""
+"At the heart of the case is \"Whose rights prevail?\" The rights of the "
+"people of Toledo to clean water? The rights of the Lake Erie ecosystem to "
+"\"exist, flourish, and naturally evolve\"? Or the rights of Drewes Farms and "
+"their colleagues to operate as they always have?"
+msgstr ""
+"В основе судебного дела стоит вопрос - \"чьи права преобладают?\" Права "
+"жителей Толедо на чистую питьевую воду? Права экосистемы озера Эри на "
+"«существование, процветание и естественное развитие»? Или права Drewes Farms "
+"и их коллег осуществлять бизнес как обычно?"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:103
+msgid ""
+"The broader the umbrella of rights, the more frequently those rights will "
+"come into conflict. And then, which right should be given priority?"
+msgstr ""
+"Чем шире правовой масштаб, тем чаще права вступают в конфликт. И тогда какое "
+"право должно быть приоритетным?"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:105
+msgid ""
+"The Rights of Nature movement is an attempt to recenter our priorities. It "
+"claims that protecting access to the essentials of life—clean air and clean "
+"water—is a higher priority than a corporation's access to private property "
+"and profit, that a living ecosystem's right to exist is a higher priority "
+"than humanity's right to exploit life without recourse."
+msgstr ""
+"Движение «Права Природы» - это попытка изменить наши приоритеты. Его "
+"центральный постулат состоит в том, что защита доступа к базовым жизненным "
+"потребностям - чистому воздуху и чистой воде - является более высоким "
+"приоритетом, чем доступ корпорации к частной собственности и прибыли, что "
+"право живой экосистемы на существование является более высоким приоритетом, "
+"чем право человечества безвозмездно эксплуатировать жизнь."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:107
+msgid ""
+"The movement is opposed by [powerful, entrenched interests](https://celdf."
+"org/2019/04/toledoans-for-safe-water-campaign-finance-report-sheds-light-on-"
+"corrupt-corporate-influence-against-the-lake-erie-bill-of-rights/). But its "
+"power lies in its simplicity. To overturn LEBOR, a judge must rule that, in "
+"fact, no, the people of Toledo and the lake's ecosystem do not possess the "
+"right to a clean and healthy environment and that it is lawful for "
+"corporations and governments to deprive Lake Erie of such."
+msgstr ""
+"Движению противостоят [могущественные, укоренившиеся интересы](https://celdf."
+"org/2019/04/toledoans-for-safe-water-campaign-finance-report-sheds-light-on-"
+"corrupt-corporate-influence-against-the-lake-erie-bill-of-rights/). Но его "
+"сила заключается в простоте. Чтобы отменить LEBOR, судья должен постановить, "
+"что жители Толедо и экосистема озера не имеют права на чистую и здоровую "
+"окружающую среду, и что корпорации и правительства могут законно лишить "
+"озеро Эри такого права."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:109
+msgid ""
+"Toward the end of \"Should Trees Have Standing?\" Christopher Stone moves "
+"beyond the practical to the philosophical. He asks,"
+msgstr ""
+"В конце \"Должны ли деревья иметь юридическую основу?\" Кристофер Стоун "
+"переходит от практики к философии. Он спрашивает:"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:111
+#, no-wrap
+msgid "> \"What is it within us that gives us this need not just to satisfy basic biological wants, but to extend our wills over things, to objectify them, to make them ours, to manipulate them, to keep them at a psychic distance?\"\n"
+msgstr "> \"Что движет нами, нашей потребностью не только удовлетворять наши базовые биологические потребности, но подчинять нашей воле объекты, лишать их сущности, делать их нашей собственностью, манипулировать ими, держать их на безопасном расстоянии?\"\n"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:113
+msgid ""
+"Our view of nature as objects to be dominated has led to the destruction of "
+"land and life. And this mindset is echoed in our law's treatment of other "
+"life. Stone saw the reinforcement of our \"separateness\" from nature as "
+"inhibiting our personal growth as moral beings."
+msgstr ""
+"Наше видение природы как набора объектов для доминирования привело к "
+"разрушению земли и жизни. И это мировоззрение отражено в наших законах и их "
+"обращении с живыми существами. Стоун видел, что чем сильнее наша "
+"\"отделенность\" от природы, тем медленнее наш личностный рост как моральных "
+"существ."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:115
+msgid ""
+"Stone recalls the Supreme Court's role in [undoing the racial segregation of "
+"schools](https://www.history.com/topics/black-history/brown-v-board-of-"
+"education-of-topeka) in the U.S., reminding us that the ruling's cultural "
+"importance swelled beyond its practical consequences. The ruling \"awakened "
+"us to moral needs which, when made visible, could not be denied.\""
+msgstr ""
+"Стоун вспоминает о роли Верховного суда в [устранении расовой сегрегации в "
+"школах](https://www.history.com/topics/black-history/brown-v-board-of-"
+"education-of-topeka) в США, напоминая нам о том, что культурная значимость "
+"этого постановления превысила его практические последствия. Постановление "
+"\"пробудило нас к моральным потребностям, которые, как только мы их "
+"осознали, больше нельзя было отрицать\"."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:117
+msgid ""
+"In the same way, giving legal rights to nature can be a crucial step toward "
+"recentering our relationship with life."
+msgstr ""
+"Точно так же предоставление юридических прав природе может стать решающим "
+"шагом к восстановлению наших отношений с жизнью."
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:119
+msgid "![Lake Eerie](/assets/uploads/poisoning_of_lake_erie_image4.jpg)"
+msgstr "![Lake Eerie](/assets/uploads/poisoning_of_lake_erie_image4.jpg)"
+
+#. type: Plain text
+#: 2020-05-05-nature-rights.md:120
+#, no-wrap
+msgid "*Harmful Algal Bloom in Lake Erie taken Oct 2015 (Photo Credit: [NOAA Great Lakes CoastWatch](https://www.flickr.com/photos/noaa_glerl/24060057266/in/album-72157639592150973/))*\n"
+msgstr "*Токсичные водоросли процветают в озере Эри, октябрь 2015 г. (Фото: [NOAA Great Lakes CoastWatch](https://www.flickr.com/photos/noaa_glerl/24060057266/in/album-72157639592150973/))*\n"

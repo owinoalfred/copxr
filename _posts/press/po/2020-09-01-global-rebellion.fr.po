@@ -1,0 +1,430 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-07 12:27+0800\n"
+"PO-Revision-Date: 2020-11-16 09:59+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/press-"
+"releases/2020-09-01-global-rebellion/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: ' Extinction Rebellion launches biggest global wave of protest action yet in September'\n"
+"author: Extinction Rebellion\n"
+"slug: global-rebellion\n"
+"date: '2020-09-01 13:37'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/markus-spiske-79ZwVxQFgrc-unsplash.jpg\n"
+msgstr ""
+"lang: fr\n"
+"title: La plus grosse vague d'actions internationale lancée par XR en ce mois de septembre\n"
+"author: Extinction Rebellion\n"
+"slug: global-rebellion\n"
+"date: '2020-09-01 13:37'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/markus-spiske-79ZwVxQFgrc-unsplash.jpg\n"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:13
+#, no-wrap
+msgid "*Sustained mass civil disobedience gets underway as rebels call for governments worldwide to tell the truth and act now on the accelerating climate and ecological crisis* {.hero-text}\n"
+msgstr "*Une vague d'actions de désobéissance civile de masse de grande ampleur se prépare, les rebelles appelant les gouvernements du monde entier à relayer la vérité, et à agir maintenant pour enrayer la crise écologique et climatique en cours* {.hero-text}\n"
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:16
+msgid ""
+"**A wave of global civil disobedience is set to take place starting this "
+"month, as Extinction Rebellion (XR) once again takes to the streets in its "
+"biggest wave of coordinated worldwide action since the historic protests of "
+"October 2019.**"
+msgstr ""
+"**Cette vague d'actions internationale débute en ce mois de septembre, XR "
+"revenant occuper l'espace public, et coordonnant la plus grande vague de "
+"protestations mondiales depuis ses débuts en octobre 2019.**"
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:16
+msgid ""
+"**From Poland to Ecuador, Australia to Austria, XR rebels will come together "
+"in creative, colourful, determined yet peaceful protests to disrupt business "
+"as usual and call for immediate truth telling and action by their "
+"governments to address climate change and biodiversity loss.**"
+msgstr ""
+"**De la Pologne à l'Équateur, en passant par l'Australie et l'Autriche entre "
+"autres, les rebelles d'XR s'organisent et coordonnent des actions non-"
+"violentes, hautes en couleurs, déterminées, et créatives afin de bouleverser "
+"le statu quo, et d'exiger que la vérité scientique soit relayée, et que les "
+"gouvernements prennent immédiatement des mesures pour enrayer le dérèglement "
+"climatique et l'effondrement de la biodiversité.**"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:18
+msgid ""
+"For a calendar of up to date rebellions taking place around the world, [see "
+"below](#calendar)."
+msgstr ""
+"Pour visualiser le calendrier actualisé des vagues de rébellion en cours "
+"dans le monde, [voir ci-dessous](#calendrier)."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:20
+msgid ""
+"![XR protest taking place](/assets/uploads/markus-spiske-79ZwVxQFgrc-"
+"unsplash.jpg)"
+msgstr ""
+"![XR protest taking place](/assets/uploads/markus-spiske-79ZwVxQFgrc-"
+"unsplash.jpg)"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:22
+msgid ""
+"XR Sweden kicked off the actions on August 27 with a 3 day rebellion. XR UK "
+"then picks up the baton on September 1 with a blockade of the British "
+"parliament as politicians return for their first sitting after the summer. "
+"UK Rebels will carry out actions to put increasing pressure on MPs to back "
+"the Climate and Ecological Emergency Bill and agree to create a National "
+"Citizens’ Assembly that empowers people to make fair and democratic "
+"decisions on how to respond to the climate emergency."
+msgstr ""
+"C'est la branche suédoise qui a lancé les festivités dès le 27 août avec 3 "
+"jours de rebéllion. XR UK a ensuite pris le relai le 1er septembre et bloqué "
+"le parlement à l'occasion de la rentrée des députés. Les membres d'XR UK "
+"maintiennent leurs actions afin de faire pression sur les députés pour "
+"qu'ils adoptent le projet de loi de la _Climate and Ecological Emergency "
+"Bill_, et valident la création d'une assemblée citoyenne nationale déléguant "
+"le pouvoir de prendre des décisions justes et démocratiques aux citoyens en "
+"matière d'urgence écologique et climatique."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:24
+msgid ""
+"Actions then roll on throughout September and October across Europe, the US, "
+"South America, Australia and beyond. Rebels will come together in their home "
+"countries to take a stand against unacceptable government inaction in the "
+"face of a rapidly closing window to avert catastrophic climate change and "
+"ecological and social collapse. It is estimated that some 250,000 people in "
+"more than 1,000 groups across 75 nations are a part of Extinction Rebellion "
+"today."
+msgstr ""
+"D'autres vagues de rébellion sont annoncées courant septembre et octobre "
+"dans toute l'Europe, aux États-Unis, en Amérique du sud, en Australie et "
+"plus encore. Les rebelles se fédèrent dans leurs pays respectifs et "
+"s'engagent contre l'inaction inacceptable de leurs gouvernements, "
+"s'engouffrant dans la dernière brèche pour éviter une catastrophe écologique "
+"et climatique doublée d'un effondrement sociétal. On estime qu'actuellement, "
+"environ 250000 membres d'un millier de groupes disséminés dans 75 pays ont "
+"rejoint Extinction Rebellion."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:26
+msgid ""
+"Clare Farrell, co-founder of XR, called on people everywhere to join the "
+"rebellion and “rise in peace to fight the greatest crime against humanity”, "
+"as time is of the essence."
+msgstr ""
+"Clare Farrell, co-fondatrice d'XR, a appelé tout le monde, partout, à "
+"prendre part à la rébellion, et “à se soulever pacifiquement pour lutter "
+"contre le plus grand crime contre l'humanité”. L'heure est grave, et le "
+"temps nous est compté."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:28
+msgid ""
+"“We’ve been warned by the scientific community and experts of many kinds "
+"that humanity faces devastating impacts from a heating world and rapidly "
+"accelerating extinction rates. Rebels around the world will once again take "
+"to the streets this September because the reality is that these impacts are "
+"already here,” Farrell says."
+msgstr ""
+"Elle déclare que “de nombreux experts de la communauté scientifique nous ont "
+"alerté des impacts dévastateurs du réchauffement planétaire, et du taux "
+"alarmant d'extinction des espèces à laquelle l'humanité est confrontée. Une "
+"fois de plus, dans le monde entier, des rebelles occupent l'espace public "
+"parce que la vérité, c'est que ces conséquences sont réelles et que nous y "
+"faisons déjà face.”"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:30
+msgid ""
+"The September Rebellion will be the first coordinated international protest "
+"for the group since October 2019, when rebels worldwide staged disruptive "
+"actions that drew unprecedented attention to the threat of climate change "
+"and ecological collapse."
+msgstr ""
+"Cette rébellion de septembre sera la première vague d'actions coordonnées du "
+"mouvement au niveau international depuis octobre 2019. Des rebelles du monde "
+"entier avaient alors planifié des actions perturbatrices qui avaient attiré "
+"l'attention sur les menaces du dérèglement climatique et de l'effondrement "
+"de la biodiversité, à un niveau qui n'avait encore jamais été atteint "
+"auparavant."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:32
+msgid ""
+"The wave of actions will be carried out in a COVID-safe way, with small "
+"groups of disruptive rebels coming together at a safe distance. The actions "
+"will be respectful of both the current health crisis and of the fact that "
+"urgent action remains more necessary than ever if the world is to avert an "
+"even greater health, social and economic catastrophe."
+msgstr ""
+"Ces actions sont menées dans le respect des mesures sanitaires exigées par "
+"la situation de pandémie de Covid, réunissant de petits groupes de rebelles "
+"respectant les distanciations sociales de rigueur, ainsi que dans le respect "
+"du fait que des mesures d'urgence sont plus nécessaires que jamais, si nous "
+"voulons éviter que le monde sombre dans une catastrophe économique, sociale, "
+"et sanitaire encore plus grave."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:34
+msgid ""
+"In 2018, the Intergovernmental Panel on Climate Change (IPCC) warned that "
+"action must be taken to keep the rise in global temperatures below 1.5C "
+"above pre-industrial levels if substantial negative impacts to human "
+"communities, ecosystems and economies are to be avoided."
+msgstr ""
+"En 2018, le GIEC (Groupe d'experts Intergouvernemental sur l'Évolution du "
+"Climat) nous alertait et stipulait que des mesures devaient être prises pour "
+"maintenir la hausse des températures mondiales en dessous de 1,5 °C par "
+"rapport aux températures de l'ère pré-industrielle, si l'on voulait éviter "
+"des conséquences humanitaires, écologiques, et économiques désastreuses."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:36
+msgid ""
+"The global rebellion comes as events continue to make it clear that the "
+"climate and ecological crisis is not only an immensely troubling future "
+"problem but a very real present one - and as governments worldwide pour "
+"trillions into COVID-19 recovery plans."
+msgstr ""
+"Cette rébellion internationale survient alors que ce qu'il se passe partout "
+"dans le monde continue d'illustrer clairement que la crise écologique et "
+"climatique n'est pas seulement un problème futur terriblement inquiétant, "
+"mais que c'est bel et bien un problème actuel très réel, et que les "
+"gouvernements du monde entier investissent des centaines de milliards dans "
+"les plans de relance post COVID-19."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:38
+msgid ""
+"“As we emerge from the pandemic, we have an opportunity to change systems "
+"for the better but the old guard is fighting for business-as-usual. We "
+"encourage everyone who can to get involved so we can tell those in power to "
+"stop vandalising our only home and instead work today to build an economy "
+"that puts our health and wellbeing first. Join the rebellion - there’s no "
+"time to waste,” Farrell says."
+msgstr ""
+"\"Au sortir de cette pandémie, nous pouvons justement saisir l'opportunité "
+"d'un changement de systèmes, mais la vieille garde se bat pour le maintien "
+"du statu quo. Nous appelons toutes celle et ceux qui le peuvent à "
+"s'impliquer pour que nous puissions dire à celles et ceux qui sont au "
+"pouvoir d'arrêter de cautionner la destruction de la seule planète qui "
+"puisse nous héberger, et de travailler plutôt dès aujourd'hui à construire "
+"une économie dans laquelle notre santé et notre bien-être soient au premier "
+"plan. Rejoignez-nous, nous n'avons pas de temps à perdre\", déclare Clare "
+"Farrell."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:40
+msgid ""
+"Some of the creative ways that people will be taking action during the "
+"September Rebellion include:"
+msgstr "Parmi les actions créatives de la rébellion de septembre, on compte :"
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:44
+msgid ""
+"A Rebellion Festival Town in Poland on September 5th: Poland’s Rebels will "
+"construct a space where everyone can work together for the future in a world "
+"defined by respect, openness and a fight for the climate. “The goal is to "
+"put pressure on the Polish authorities to finally stop ignoring our "
+"security, our future and our life on this planet,” the group says. This will "
+"be followed by workshops, lectures and concerts, and most importantly - mass "
+"civil disobedience in which the capital will be blocked."
+msgstr ""
+"Un festival rebelle en Pologne le 5 septembre : Les rebelles polonais "
+"prévoient de créer un espace dans lequel œuvrer collectivement pour l'avenir "
+"dans un monde régi par des valeurs de respect, d'ouverture, et de lutte pour "
+"le climat. \"L'objectif est de faire pression sur les autorités polonaises "
+"pour qu'elles cessent enfin de dénigrer notre sécurité, notre avenir, et "
+"notre existence sur cette planète\", déclare le groupe. Cette action sera "
+"suivie d'ateliers, de conférences et de concerts, et surtout d'une action de "
+"désobéissance civile de masse bloquant la capitale."
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:44
+msgid ""
+"From rallies to (COVID-safe) dance parties in New York City: Rebels are "
+"promising that much of their activity over three weeks in September will "
+"remain a surprise but participants should expect fun and feisty actions and "
+"peaceful fury in equal measure."
+msgstr ""
+"Des rassemblements respectant les mesures sanitaires, des soirées avec "
+"musique et piste de danse à New York : Une grande partie des actions prévues "
+"sur trois semaines sont tenues secrètes, mais les rebelles assurent que les "
+"participants apprécieront les surprises réservées par des actions aussi "
+"drôles et audacieuses que furieusement non-violentes."
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:44
+msgid ""
+"A massive blockade of the Zuidas financial district in The Netherlands on "
+"September 18th and 21st: Rebels will hit the streets to make it clear that "
+"they will not accept big business blocking action to limit climate change."
+msgstr ""
+"Aux Pays-Bas, on annonce un blocage conséquent du quartier de la Finance de "
+"Zuidas les 18 et 21 septembre : Les rebelles occuperont l'espace public pour "
+"exprimer clairement qu'il est inacceptable que les grands groupes "
+"corporatistes fassent barrage à la mise en œuvre de mesures visant à enrayer "
+"les bouleversements climatiques."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:46
+#, no-wrap
+msgid "To take part, learn more about Extinction Rebellion, or join an XR group in your home country, visit rebellion.global or see the list of <a name=\"calendar\">international actions</a> here:\n"
+msgstr "Pour participer, en savoir plus sur Extinction Rebellion, ou rejoindre un groupe XR dans votre pays, vous pouvez consulter le site rebellion.global, ou consulter la<a name=\"calendar\">liste des actions internationales</a> ici :\n"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:48
+#, no-wrap
+msgid "<iframe width=\"100%\" height=\"348\" src=\"https://cloud.organise.earth/apps/calendar/embed/madcGrAW5m4M95tq\"></iframe>\n"
+msgstr "<iframe width=\"100%\" height=\"348\" src=\"https://cloud.organise.earth/apps/calendar/embed/madcGrAW5m4M95tq\"></iframe>\n"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:50
+msgid ""
+"(If the embed does not work in your browser, go to [this link](https://cloud."
+"organise.earth/apps/calendar/p/madcGrAW5m4M95tq/dayGridMonth/now))"
+msgstr ""
+
+#. type: Title ##
+#: 2020-09-01-global-rebellion.md:51
+#, no-wrap
+msgid "**About Extinction Rebellion**"
+msgstr "**À propos d'Extinction Rebellion :**"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:54
+msgid ""
+"Extinction Rebellion is a decentralised, international and politically non-"
+"partisan movement using non-violent direct action and civil disobedience to "
+"persuade governments to act justly on the Climate and Ecological Emergency."
+msgstr ""
+"Extinction Rebellion est un mouvement international, décentralisé, autonome, "
+"et apartisan, ayant recours à l’action directe non-violente pour faire "
+"pression sur les gouvernements, afin qu’ils prennent enfin les mesures "
+"radicales nécessaires pour faire face à l’urgence écologique et climatique."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:56
+msgid ""
+"Our movement is made up of people from all walks of life, contributing in "
+"different ways with the time and energy they can spare. Chances are, we have "
+"a local branch very close to you, and we would love to hear from you."
+msgstr ""
+"Notre mouvement est composé de toutes sortes de personnes aux profils "
+"variés, qui s'impliquent selon leurs compétences et disponibilités. Il y a "
+"des chances pour qu'il y ait un groupe local près de chez vous, qui serait "
+"ravi que vous vous fassiez connaître."
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:57
+msgid "[Get Involved!](/get-involved/){.xr-button}"
+msgstr "[S'impliquer !](/get-involved/){.xr-button}"
+
+#~ msgid "**5 September - XR Poland:**\n"
+#~ msgstr "**5 septembre - XR Pologne :**\n"
+
+#~ msgid "<https://www.facebook.com/events/883838282111419/>"
+#~ msgstr "<https://www.facebook.com/events/883838282111419/>"
+
+#~ msgid "**7 September - XR New York City:**\n"
+#~ msgstr "**7 septembre - XR New York :**\n"
+
+#~ msgid " <https://www.facebook.com/events/758536381572046/>\n"
+#~ msgstr " <https://www.facebook.com/events/758536381572046/>\n"
+
+#~ msgid "**16 September - XR Denmark:**\n"
+#~ msgstr "**16 septembre - XR Danemark :**\n"
+
+#~ msgid ""
+#~ "<https://www.facebook.com/events/576974796298204/> and Perth (Western "
+#~ "Australia)"
+#~ msgstr ""
+#~ "<https://www.facebook.com/events/576974796298204/> et Perth (Australie "
+#~ "occidentale)"
+
+#~ msgid "**18 September - XR Netherlands:**\n"
+#~ msgstr "**18 septembre - XR Pays-Bas :**\n"
+
+#~ msgid "<https://www.facebook.com/events/3297820580282351/>"
+#~ msgstr "<https://www.facebook.com/events/3297820580282351/>"
+
+#~ msgid "**20 September - XR Switzerland:**\n"
+#~ msgstr "**20 septembre - XR Suisse :**\n"
+
+#~ msgid ""
+#~ "<https://www.facebook.com/events/298744868019378/> [](https://organise."
+#~ "earth/ist-mm/messages/@ali_lowe#)"
+#~ msgstr ""
+#~ "<https://www.facebook.com/events/298744868019378/> [](https://organise."
+#~ "earth/ist-mm/messages/@ali_lowe#)"
+
+#~ msgid "**21 September - XR Norway:**\n"
+#~ msgstr "**21 septembre - XR Norvège :**\n"
+
+#~ msgid "<https://www.facebook.com/events/708977793214004/>"
+#~ msgstr "<https://www.facebook.com/events/708977793214004/>"
+
+#~ msgid "**26 September - XR Austria:**\n"
+#~ msgstr "**26 septembre - XR Autriche :**\n"
+
+#~ msgid "<https://www.facebook.com/events/727495894649948/>"
+#~ msgstr "<https://www.facebook.com/events/727495894649948/>"
+
+#~ msgid "**1 October - XR Finland:**\n"
+#~ msgstr "**1er octobre - XR Finlande :**\n"
+
+#~ msgid "https://www.facebook.com/elokapina"
+#~ msgstr ""
+#~ "[https://www.facebook.com/elokapina](https://www.facebook.com/elokapina)"
+
+#~ msgid "**5 October - XR Italy:**\n"
+#~ msgstr "**5 octobre - XR Italie :**\n"
+
+#~ msgid ""
+#~ "**[www.facebook.com/watch/?v=1642318482603498&extid=CBGLkzAH69dy4Mdg]"
+#~ "(https://www.facebook.com/XRItaly/videos/1642318482603498/?"
+#~ "__cft__[0]=AZWPvWaKLKTUgusZ5f4TcxwJybWaWbgao-"
+#~ "yXRilPjOlsE6XuHY74TJk3skCeeb7I4GCfAKrj1O-"
+#~ "a6ViQ4tjq8Zp0RQE1fima_XUZit0b3TSGEQEHUcJzBNaTXXv0LmNdKzSM4aSPj7EhMp6wfOfYTgcf9Bo9zTBre35FIROOT4QYuw)** \n"
+#~ msgstr ""
+#~ "**[www.facebook.com/watch/?v=1642318482603498&extid=CBGLkzAH69dy4Mdg]"
+#~ "(https://www.facebook.com/XRItaly/videos/1642318482603498/?)** \n"
+
+#~ msgid "**12 October - XR France:**\n"
+#~ msgstr "**12 octobre - XR France :**\n"
+
+#~ msgid ""
+#~ "Also in October, **[XR Bulgaria](https://www.facebook.com/"
+#~ "extinctionrebellionbulgaria)** will rebel!"
+#~ msgstr ""
+#~ "En octobre également **[XR Bulgarie](https://www.facebook.com/"
+#~ "extinctionrebellionbulgaria) !**"

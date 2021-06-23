@@ -1,0 +1,1184 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-19 16:15+0800\n"
+"PO-Revision-Date: 2021-01-30 16:04+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2021-01-05-citizens-assembly-climate-change/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:18
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"XR Fundamentals: Go Beyond Politics\"\n"
+"author: Neil Simpson\n"
+"slug: citizens-assembly-climate-change\n"
+"date: 2021-01-05 07:47\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/assemby-birmingham.jpg\n"
+"seoImage: /assets/uploads/assembly.jpg\n"
+"seoTitle: Fed up with politicians failing to take bold action? Us too. It’s time\n"
+"  for the people to have our say on environmental action.\n"
+"seoDescription: Extinction Rebellion calls for action on the climate and\n"
+"  ecological emergency with three demands. The third demand, ‘Go Beyond\n"
+"  Politics’, is that governments must form citizens’ assemblies and act on their\n"
+"  recommendations.\n"
+msgstr ""
+"lang: fr\n"
+"title: \"L'assemblée citoyenne au cœur des revendications d'XR\"\n"
+"author: Neil Simpson\n"
+"slug: citizens-assembly-climate-change\n"
+"date: 2021-01-05 07:47\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/assemby-birmingham.jpg\n"
+"seoImage: /assets/uploads/assembly.jpg\n"
+"seoTitle: Vous en avez assez de l'incapacité des dirigeants politiques à "
+"prendre de réelles mesures ? Nous aussi. Il est temps \n"
+"  que les gens aient leur mot à dire en matière de réponse à la crise "
+"environnementale.\n"
+"seoDescription: Les 3 revendications d'Extinction Rebellion exhortent à "
+"passer à l'action pour enrayer l'urgence écologique \n"
+"  et climatique. La 3ème ‘Go Beyond Politics’, exige des gouvernements la "
+"création d'assemblées citoyennes nationales pour mettre\n"
+"  en œuvre ces \n"
+"  recommendations.\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:20
+msgid ""
+"![Participants in discussion at Climate Assembly UK in Birmingham, 20202](/"
+"assets/uploads/c33b8a6d-9180-47db-9321-37756f3c027d.jpg)"
+msgstr ""
+"![Participants in discussion at Climate Assembly UK in Birmingham, 20202](/"
+"assets/uploads/c33b8a6d-9180-47db-9321-37756f3c027d.jpg)"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:22
+#: 2021-01-05-citizens-assembly-climate-change.md:154
+#, no-wrap
+msgid "*© Fabio De Paola PA Wire*\n"
+msgstr "*© Fabio De Paola PA Wire*\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:24
+msgid ""
+"Extinction Rebellion calls for action on the climate and ecological "
+"emergency with [three demands](https://rebellion.global/about-us). The third "
+"demand, ‘Go Beyond Politics’, is that governments must form citizens’ "
+"assemblies and act on their recommendations."
+msgstr ""
+"Les [trois revendications](https://rebellion.global/fr/about-us) "
+"d'Extinction Rebellion exhortent à passer à l'action pour enrayer l'urgence "
+"écologique et climatique. La 3ème ‘Go Beyond Politics’, exige des "
+"gouvernements la création d'assemblées citoyennes nationales pour mettre en "
+"œuvre ces recommendations."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:26
+msgid ""
+"But what is a citizens’ assembly? And why does Extinction Rebellion care "
+"about them? Isn’t XR concerned with blocking roads, handing out vegan cakes "
+"and camping in trees?"
+msgstr ""
+"Mais qu'est-ce qu'une assemblée citoyenne ? Et pourquoi Extinction Rebellion "
+"y tient tant ? XR n'est donc pas qu'une histoire de blocages d'axes "
+"routiers, de distribution de gâteaux vegan, et d'occupation d'arbres en "
+"forêt ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:28
+msgid "So many questions."
+msgstr "Cela fait beaucoup de questions !"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:29
+#, no-wrap
+msgid "What are citizens’ assemblies?"
+msgstr "Que sont les assemblées citoyennes ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:32
+msgid ""
+"Citizens’ assemblies (CAs) aim to give greater political power to citizens. "
+"Members of the public who accurately represent those living in the country "
+"make up the assembly. For example, there might be a mother of three from the "
+"east of the country, a teenaged university student from an ethnic minority "
+"group, and a retired police officer from the north."
+msgstr ""
+"Les assemblées citoyennes (AC) visent à donner plus de pouvoir politique aux "
+"citoyennes et citoyens. L'assemblée est composée de membres qui représentent "
+"un échantillon représentatif de la société, et peut par exemple compter une "
+"mère de trois enfants résidant dans l'est du pays, un jeune étudiant issu "
+"d'une minorité ethnique, et un policier retraité du nord du pays."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:34
+msgid ""
+"High-quality information is presented over a series of meetings, covering "
+"every angle of an issue – and every side of the argument. The group "
+"deliberates and eventually delivers its recommendations to the government. "
+"There are several things that could happen next. For example: the government "
+"is legally bound to follow the recommendations; the government studies the "
+"outcomes to inform policy; the nation votes on the citizens’ assembly’s "
+"recommendations."
+msgstr ""
+"Des informations sérieuses recouvrant tous les aspects d'une problématique "
+"et tous les aspects du débat sont présentées lors d'une série de réunions, "
+"avant que le groupe ne délibère, et finisse par remettre ses recommandations "
+"au gouvernement. Plusieurs choses peuvent se produire ensuite. Par exemple : "
+"le gouvernement est légalement tenu d'appliquer ces recommandations, il les "
+"étudie pour élaborer des mesures politiques, et les recommandations de "
+"l'assemblée citoyenne peuvent éventuellement être votées à l'échelle "
+"nationale."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:36
+msgid ""
+"This process is a form of ‘deliberative democracy’. Most modern democracies "
+"limit citizens’ power to voting, but deliberative democracy requires "
+"citizens to deliberate, learn, and collaborate on decisions. It’s been "
+"gaining attention since the American professor Joseph M. Bessette wrote "
+"[Deliberative Democracy: The Majority Principle in Republican Government]"
+"(https://en.wikipedia.org/wiki/Deliberative_democracy) in 1980. The "
+"beginnings of the practice of deliberative democracy, however, might be "
+"prehistoric. Athens founded the first recorded democracy around 600BCE, "
+"which favoured decisions made by a group of randomly selected citizens over "
+"appointed representatives."
+msgstr ""
+"Ce processus est une forme de \"démocratie délibérative\". La plupart des "
+"démocraties modernes limitent le pouvoir des citoyens au vote, mais la "
+"démocratie délibérative implique que les citoyens s'informent, délibèrent, "
+"et participent aux décisions. Elle a gagné en importance depuis la "
+"publication de l'ouvrage du professeur américain Joseph M. Bessette ["
+"Deliberative Democracy : The Majority Principle in Republican "
+"Government](https://en.wikipedia.org/wiki/Deliberative_democracy) en 1980. "
+"Les débuts de la pratique de la démocratie délibérative, cependant, "
+"pourraient être préhistoriques. 600 ans avant J.C, Athènes avait déjà fondé "
+"la première démocratie, favorisant les décisions prises par un groupe de "
+"citoyens choisis au hasard plutôt que par des représentants nommés."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:38
+msgid ""
+"![Two men sitting at a table having a conversation](/assets/uploads/"
+"f06f9750-7034-443b-9795-78cbb073455e.png)"
+msgstr ""
+"![Two men sitting at a table having a conversation](/assets/uploads/"
+"f06f9750-7034-443b-9795-78cbb073455e.png)"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:40
+#, no-wrap
+msgid "*© Liwordson/Nappy*\n"
+msgstr "*© Liwordson/Nappy*\n"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:41
+#, no-wrap
+msgid "Why are citizens’ assemblies necessary?"
+msgstr "Pourquoi les assemblées citoyennes sont nécessaires ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:44
+msgid ""
+"A functioning democracy should enable voters to decide the direction in "
+"which their country moves. In theory, if citizens are not happy with this "
+"direction, they can vote for change. In practice, however, democratic "
+"governments favour solving short-term problems that ensure their popularity. "
+"Governments bury difficult, controversial, or long-term issues, such as the "
+"climate and ecological crisis."
+msgstr ""
+"Une démocratie fonctionnelle devrait permettre aux électeurs de prendre part "
+"aux décisions d'orientation de leur pays. Théoriquement, s'ils n'étaient pas "
+"satisfaits de la direction prise, ils pourraient voter pour en changer. En "
+"pratique, cependant, les gouvernements démocratiques préfèrent résoudre les "
+"problèmes à court terme qui assurent leur popularité, enterrant les "
+"questions difficiles, controversées ou à long terme, comme la crise "
+"écologique et climatique."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:46
+msgid ""
+"Setting up a citizens’ assembly addresses this problem: if the pressure of a "
+"citizens’ assembly is larger than the pressure of a government’s supporters "
+"and funders, action on climate change might be possible. The open discussion "
+"of this huge and complicated issue can finally happen in a constructive and "
+"fair way."
+msgstr ""
+"La création d'une assemblée citoyenne permet de répondre à ce problème : si "
+"la pression d'une assemblée citoyenne est plus importante que celle exercée "
+"par les membres et financeurs affiliés à un gouvernement, il est plus "
+"probable de pouvoir agir face au dérèglement climatique. La débat public "
+"relatif à cette terrible et complexe problématique peut enfin avoir lieu de "
+"manière constructive et objective."
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:47
+#, no-wrap
+msgid "How does a citizens’ assembly work?"
+msgstr "Comment fonctionne une assemblée citoyenne ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:50
+msgid ""
+"Citizens’ assemblies must follow a carefully designed process. This is "
+"incredibly important, because an ineffective CA could create the impression "
+"that they’re a waste of time – it would probably be worse than not having "
+"one at all."
+msgstr ""
+"Les assemblées citoyennes doivent être mises en œuvre en respectant un "
+"processus précisément élaboré. C'est hautement important, car une AC "
+"inefficace pourrait donner l'impression que c'est une perte de temps, et ce "
+"serait probablement pire que de ne pas en mettre en place du tout."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:52
+msgid ""
+"Each CA differs depending on topic, location, and participants, but this is "
+"the rough process:"
+msgstr ""
+"Chaque AC diffère en fonction du sujet, du lieu et des participants, mais en "
+"voilà les grandes lignes de base :"
+
+#. type: Bullet: '1. '
+#: 2021-01-05-citizens-assembly-climate-change.md:58
+msgid "Select a clear topic and question that is suitable for deliberation."
+msgstr "Choisir un sujet et une question clairs sur lesquels délibérer."
+
+#. type: Bullet: '2. '
+#: 2021-01-05-citizens-assembly-climate-change.md:58
+msgid ""
+"Establish a media budget large enough to ensure all people in the country "
+"are aware of and engaged with the CA – this puts pressure on the government "
+"to follow the CA’s final recommendations."
+msgstr ""
+"Établir un budget médiatique suffisamment important pour garantir que tous "
+"les habitants du pays soient au courant de la tenue de cette AC et la "
+"soutiennent, ce qui met la pression sur le gouvernement pour qu'il adopte et "
+"légifère les recommandations finales de l'AC."
+
+#. type: Bullet: '3. '
+#: 2021-01-05-citizens-assembly-climate-change.md:58
+msgid ""
+"Select coordinators. This should be an independent organisation with "
+"experience in organising deliberative processes like citizens' assemblies."
+msgstr ""
+"Sélectionner l'organe qui assurera la coordination. Il doit s'agir d'une "
+"organisation indépendante expérimentée dans l'organisation de ce type de "
+"processus délibératif comme les assemblées citoyennes."
+
+#. type: Bullet: '4. '
+#: 2021-01-05-citizens-assembly-climate-change.md:58
+msgid ""
+"Decide on the number of citizens necessary for a fair and representative CA."
+msgstr ""
+"Décider du nombre de citoyens nécessaire à rassembler pour que l'AC soit "
+"équitable et représentative."
+
+#. type: Bullet: '5. '
+#: 2021-01-05-citizens-assembly-climate-change.md:58
+msgid "Choose demographics for a representative CA. For example:"
+msgstr ""
+"Établir les critères démographiques pour une AC représentative. Par exemple :"
+
+#. type: Bullet: '   * '
+#: 2021-01-05-citizens-assembly-climate-change.md:68
+msgid "Age"
+msgstr "Âge"
+
+#. type: Bullet: '   * '
+#: 2021-01-05-citizens-assembly-climate-change.md:68
+msgid "Gender"
+msgstr "Genre"
+
+#. type: Bullet: '   * '
+#: 2021-01-05-citizens-assembly-climate-change.md:68
+msgid "Occupation"
+msgstr "Profession, statut"
+
+#. type: Bullet: '   * '
+#: 2021-01-05-citizens-assembly-climate-change.md:68
+msgid "Ethnicity"
+msgstr "Origine ethnique"
+
+#. type: Bullet: '   * '
+#: 2021-01-05-citizens-assembly-climate-change.md:68
+msgid "Level of education"
+msgstr "Niveau d'éducation"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:68
+#, no-wrap
+msgid ""
+"   * Location\n"
+"6. Create a media strategy to ensure everyone is aware that it is happening. For example, invite journalists, create a website, create a social media presence, etc.\n"
+"7. Citizens are chosen using a random selection process, followed by a sorting process to ensure that the sample accurately represents the population as a whole (this is called 'sortition')\n"
+"8. CA begins:\n"
+msgstr ""
+"   * Zone géographique\n"
+"6. Créer une stratégie médiatique pour s'assurer que tout le monde soit au "
+"courant de ce qui se passe, en invitant par exemple des journalistes, en "
+"créant un site web, une présence dans les médias sociaux, etc.\n"
+"7. Les citoyens sont sélectionnés au moyen d'un tirage au sort, suivi d'un "
+"processus de tri (aussi appelé sortition) pour garantir que l'échantillon "
+"soit bien représentatif de l'ensemble de la population.\n"
+"8. L'AC commence :\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:70
+#, no-wrap
+msgid "   a. Integration stage\n"
+msgstr "   a. Phase d'intégration\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:72
+#, no-wrap
+msgid "   b. Education stage\n"
+msgstr "   b. Phase d'information\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:74
+#, no-wrap
+msgid "   c. Deliberation stage\n"
+msgstr "   c. Phase de délibération\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:76
+#, no-wrap
+msgid "   d. Recommendations stage\n"
+msgstr "   d. Phase des recommandations\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:79
+#, no-wrap
+msgid ""
+"   f. Voting stage: Recommendations approved when, for example, 80% agree\n"
+"9. Publicly announce and publish results:\n"
+msgstr ""
+"   f. Phase de vote : Par exemple, les recommandations sont validées "
+"lorqu'elles sont approuvées par 80 % des participants.\n"
+"9. Les résultats sont publiés et annoncés publiquement :\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:82
+#, no-wrap
+msgid ""
+"   a. Publicly list details of those in government who are responsible for action\n"
+"10. Hold regular CA reunions to maintain pressure on government.\n"
+msgstr ""
+"   a. Publier la liste des membres du gouvernement aptes à légiférer sur ces "
+"questions\n"
+"10. Organiser régulièrement des réunions AC pour maintenir la pression sur "
+"le gouvernement.\n"
+
+#. type: Title ###
+#: 2021-01-05-citizens-assembly-climate-change.md:83
+#, no-wrap
+msgid "Spread the word"
+msgstr "Relayer l'information"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:86
+msgid ""
+"Point 2 is essential: everybody should know about the citizens’ assembly and "
+"how it has been organised, so that the public trust it. Otherwise, "
+"governments may smile, nod, and agree with a CA, then ignore its "
+"recommendations. If the nation is aware of the recommendations however, they "
+"will be harder for the government to ignore. More pressure equals more "
+"action."
+msgstr ""
+"Le point 2 est essentiel : tout le monde devrait être au courant de la tenue "
+"de l'assemblée citoyenne, et de comment elle a été organisée, afin d'obtenir "
+"la confiance de la population, sinon, les gouvernements pourraient se "
+"contenter d'acquiescer gentiment avec le sourire en recevant les "
+"recommandations, puis de les ignorer complètement. En revanche, si tout le "
+"pays est au courant et conscient des enjeux, il sera plus difficile pour le "
+"gouvernement d'ignorer ces recommandations. Plus il y a de pression, plus il "
+"y a de chance que ces mesures soient légiférées."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:88
+msgid ""
+"A big media budget can fund substantial and ongoing news coverage. A "
+"citizens’ assembly should scream and shout about its existence, so "
+"everybody’s talking about it."
+msgstr ""
+"Un budget médiatique conséquent peut financer une couverture médiatique "
+"assidue considérable. Une assemblée citoyenne doit être en mesure de clamer "
+"haut et fort son existence et son message pour que tout le monde en parle."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:90
+msgid ""
+"![aged clergywoman with a black and white Extinction Rebellion banner having "
+"a discussion with a young man at a protest](/assets/uploads/a776ca51-"
+"ecc8-4f5d-acf5-8077e1ef7c9d.png)"
+msgstr ""
+"![aged clergywoman with a black and white Extinction Rebellion banner having "
+"a discussion with a young man at a protest](/assets/uploads/a776ca51-ecc8"
+"-4f5d-acf5-8077e1ef7c9d.png)"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:92
+#, no-wrap
+msgid "*© Phil Hearing <https://unsplash.com/photos/vGMprRUsWzo>*\n"
+msgstr "*© Phil Hearing <https://unsplash.com/photos/vGMprRUsWzo>*\n"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:93
+#, no-wrap
+msgid "Are citizens’ assemblies the same as people’s assemblies?"
+msgstr ""
+"Une assemblée citoyenne, c'est la même chose qu'une assemblée populaire ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:96
+msgid ""
+"No. Extinction Rebellion also uses people’s assemblies (PAs), so it is easy "
+"to confuse the two terms. Both encourage decision-making through "
+"constructive conversation, but a people’s assembly does not have a selection "
+"process; anybody can take part. PAs also don't have a learning phase led by "
+"experts, nor detailed, critical thinking and learning at the beginning. A PA "
+"can also be much shorter than a CA, such as a day or less."
+msgstr ""
+"Non. Extinction Rebellion a aussi recours aux assemblées populaires (AP), "
+"d'où la confusion des termes. Les deux sont basées sur la prise de décision "
+"issue d'un débat constructif, mais une assemblée populaire est exempte de "
+"tout processus de sélection, et tout le monde peut y participer. Les AP ne "
+"comprennent pas non plus de phase d'informations dispensées par des experts, "
+"ni d'exposés critiques détaillés en introduction. Une AP dure généralement "
+"beaucoup moins longtemps qu'une AC, et peut par exemple se dérouler sur une "
+"journée voire quelques heures."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:98
+msgid ""
+"For example, during an Extinction Rebellion protest with a growing police "
+"presence, a PA can answer these questions:"
+msgstr ""
+"Par exemple, lors d'une action XR cernée par une importante présence "
+"policière, une AP peut être rapidement mise en place pour prendre ce type de "
+"décisions :"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:102
+msgid "Is it time to leave?"
+msgstr "Est-ce qu'il serait temps de quitter les lieux ?"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:102
+msgid "Is it important to stay and call for more support?"
+msgstr ""
+"Est-il plutôt important de rester, et d'appeler des \"renforts\" à nous "
+"rejoindre ?"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:102
+msgid "Is this protest still achieving our aims?"
+msgstr ""
+"Est-ce que cette action répond toujours aux objectifs que nous nous étions "
+"fixés ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:104
+msgid ""
+"You can answer these questions in a fair, all-inclusive way with a people’s "
+"assembly. Every PA participant states their opinion in a small group, "
+"followed by deliberation, listening, and conclusions. Each group then "
+"submits its conclusions and the assembly reaches a decision."
+msgstr ""
+"On peut répondre à ces questions de manière inclusive et objective grâce à "
+"une assemblée populaire. Chaque participant de l'AP donne son avis au sein "
+"d'un petit groupe, il y a ensuite délibération, écoute et conclusions, puis "
+"chaque groupe soumet les siennes, et l'assemblée prend une décision."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:106
+msgid ""
+"Extinction Rebellion does not have a leadership hierarchy, so people’s "
+"assemblies are fundamental: PAs avoid top-down, undemocratic decision-making."
+msgstr ""
+"Extinction Rebellion ne fonctionne pas sur un modèle de la hiérarchie de "
+"pouvoir, et les assemblées populaires sont donc essentielles, évitant les "
+"prises de décision d'une quelconque hiérarchie qui ne soient pas "
+"démocratiques."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:108
+msgid ""
+"[Read more about people’s assemblies in this guide by Extinction Rebellion "
+"UK](https://extinctionrebellion.uk/wp-content/uploads/2019/10/XR-"
+"PeoplesManual.pdf)"
+msgstr ""
+"[Pour en savoir plus sur les assemblées populaires, vous pouvez consulter ce "
+"guide d'XR UK](https://extinctionrebellion.uk/wp-content/uploads/2019/10/XR-"
+"PeoplesManual.pdf)"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:109
+#, no-wrap
+msgid "Nations without democracy"
+msgstr "Dans les pays qui ne sont pas des démocraties"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:112
+msgid ""
+"Authoritarian regimes would not tolerate a citizens’ assembly. Meanwhile, "
+"governments of many ‘democratic’ countries may commission a citizens’ "
+"assembly that is simply a public consultation, with no real decision-making "
+"power. What can we do about this?"
+msgstr ""
+"Les régimes autoritaires ne toléreraient pas d'assemblée citoyenne, tandis "
+"que les gouvernements de nombreux pays dits \"démocratiques\" peuvent "
+"simuler la mise en place d'une assemblée citoyenne qui ne soit pas du tout "
+"décisionnaire, et qui ne serait qu'une simple consultation publique. Que "
+"pouvons-nous y faire ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:114
+msgid ""
+"[Extinction Rebellion’s Participative Democracy hub](http://partdem-media."
+"wixsite.com/xr-partdemocracy/patho) uses peoples’ assemblies to tackle these "
+"problems through a growing global network. The hub organises regular "
+"worldwide People’s Assembly Marathons (PAthons), during which a wave of PAs "
+"take place across several days. Interested politicians are invited, who may "
+"absorb the ideas that they hear from citizens. Another possible outcome is "
+"that the government will agree to a citizens’ assembly to stop growing waves "
+"of PAs."
+msgstr ""
+"[Le groupe Démocratie Participative d'XR](http://partdem-media.wixsite.com/"
+"xr-partdemocracy/patho) a recours aux assemblées populaires pour plancher "
+"sur ces problèmes grâce à un réseau international en pleine expansion. Ce "
+"groupe organise régulièrement des \"marathons\" d'assemblées populaires dans "
+"le monde entier (les _PAthons_), au cours desquels une vague d'AP se tient "
+"sur plusieurs jours. Les politiciens intéressés y sont invités, et peuvent "
+"s'inspirer des idées qu'ils y entendent, émises par les citoyennes et "
+"citoyens. Une autre issue serait que le gouvernement accepte la tenue d'une "
+"assemblée citoyenne pour justement mettre fin à la multiplication des AP."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:116
+#, no-wrap
+msgid "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/DRWwaxTe6is\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n"
+msgstr ""
+"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/"
+"DRWwaxTe6is\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-"
+"write; encrypted-media; gyroscope; picture-in-picture\" "
+"allowfullscreen></iframe>\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:118
+msgid ""
+"Find more information, resources, and training details at XR’s Participative "
+"Democracy Working Group: <https://partdem-media.wixsite.com/xr-partdemocracy>"
+msgstr ""
+"Vous pouvez trouvez plus d'informations, de ressources et de détails sur les "
+"formations relatives au groupe de travail Démocratie Participative de XR sur "
+"leur site : <https://partdem-media.wixsite.com/xr-partdemocracy>"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:119
+#, no-wrap
+msgid "Are any governments using citizens’ assemblies already?"
+msgstr ""
+"Y a-t-il déjà des gouvernements qui ont recours aux assemblées citoyennes ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:122
+msgid ""
+"Good news: there are already examples of government-led citizens’ assemblies."
+msgstr ""
+"Oui, bonne nouvelle , il y a déjà des gouvernements qui ont accepté de "
+"mettre en œuvre des assemblées citoyennes."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:124
+msgid ""
+"Poland: [Gdańsk Citizens’ Assemblies](https://www.resilience.org/"
+"stories/2017-11-22/solutions-how-the-poles-are-making-democracy-work-again-"
+"in-gdansk/), 2016 onwards"
+msgstr ""
+"En Pologne : [les assemblées citoyennes à Gdańsk](https://www.resilience.org/"
+"stories/2017-11-22/"
+"solutions-how-the-poles-are-making-democracy-work-again-in-gdansk/), depuis "
+"2016"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:126
+msgid ""
+"In the city of Gdańsk (population 350,000), the mayor must organise an "
+"assembly of 56 citizens when a question proposed by residents attracts 5,000 "
+"signatures. This began after the city government failed to effectively deal "
+"with floods in 2016. Decisions made in these assemblies are binding."
+msgstr ""
+"À Gdańsk (ville de 350 000 habitants), le maire doit organiser une assemblée "
+"de 56 citoyens dès qu'un sujet soulevé par les habitants recueille 5 000 "
+"signatures. Cette assemblée créée suite à l'échec du gouvernement de la "
+"ville à gérer efficacement les inondations de 2016, a un réel pouvoir "
+"décisionnaire, et les décisions qu'elle prend doivent donc être appliquées."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:128
+msgid ""
+"Canada: [Citizens' Assembly on Electoral Reform](https://citizensassembly."
+"arts.ubc.ca/resources/final_report.pdf), 2004"
+msgstr ""
+"Au Canada : [Assemblée citoyenne sur la réforme "
+"électorale](https://citizensassembly.arts.ubc.ca/resources/final_report.pdf)"
+", 2004"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:130
+msgid ""
+"161 citizens concluded that a new ‘single transferable vote’ system should "
+"be implemented in the Canadian province of British Columbia. This conclusion "
+"was then the subject of a referendum in 2005. 57.7% of voters were in "
+"favour, but because at least 60% was required, no change was made."
+msgstr ""
+"161 citoyens ont conclu qu'un nouveau système de \"scrutin à vote unique "
+"transférable\" devrait être mis en œuvre dans la province canadienne de "
+"Colombie-Britannique. Cette conclusion a ensuite fait l'objet d'un "
+"référendum en 2005. 57,7 % des électeurs y étaient favorables, mais comme il "
+"fallait au moins qu'elle soit validée à 60 %, le changement n'a pas eu lieu."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:132
+msgid ""
+"Ireland: [The Citizens’ Assembly](http://citizensassembly.ie/en/), 2016-2018"
+msgstr ""
+"En Irlande : [L'assemblée citoyenne](http://citizensassembly.ie/en/), "
+"2016-2018"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:134
+msgid ""
+"99 citizens debated several complicated topics, such as abortion rights, and "
+"the challenges of an ageing population. Several outcomes included a "
+"referendum on abortion rights, as well as a list of 13 recommendations on "
+"how Ireland could become a leader in tackling climate change. The Citizens’ "
+"Assembly returned in January 2020 to discuss social change in Ireland and "
+"the advancement of gender equality."
+msgstr ""
+"99 citoyens ont débattu de plusieurs sujets complexes, tels que le droit à "
+"l'avortement et les défis du vieillissement de la population. Plusieurs "
+"résultats ont été obtenus, notamment un référendum sur le droit à "
+"l'avortement, ainsi qu'une liste de 13 recommandations sur la manière dont "
+"l'Irlande pourrait devenir un leader dans la lutte contre le dérèglement "
+"climatique. L'assemblée citoyenne était de retour en janvier 2020 pour "
+"discuter de changement sociétal en Irlande, et pour promouvoir l'égalité des "
+"sexes."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:136
+msgid ""
+"France: [Citizen's Convention on Climate](https://www."
+"conventioncitoyennepourleclimat.fr/en/), 2019-2020"
+msgstr ""
+"En France: [La Convention Citoyenne sur le Climat "
+"(CCC)](https://www.conventioncitoyennepourleclimat.fr/en/), 2019-2020"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:138
+msgid ""
+"‘In a spirit of social justice’, 150 citizens attended a series of seven "
+"weekend sessions to discuss how France should achieve a 40% reduction in "
+"greenhouse gas emissions by 2030. The convention was a response to France’s "
+"widespread and prolonged *mouvement des gilets jaunes* protests. At the time "
+"of writing, [implementing the convention’s 149 proposals are causing "
+"difficulties for President Emmanuel Macron](https://www.politico.eu/article/"
+"emmanuel-macron-green-experiment-is-getting-out-of-hands) and a bill is due "
+"to be presented in December 2020."
+msgstr ""
+"Dans un esprit de justice sociale, 150 citoyens ont participé à une série de "
+"sept week-ends de débats sur les façons dont la France pourrait réduire de "
+"40 % ses émissions de gaz à effet de serre d'ici 2030. La convention a été "
+"une réponse au vaste *mouvement de protestations des gilets jaunes*. "
+"Cependant à l'instant où nous écrivons ces lignes, [le président Emmanuel "
+"Macron freine la mise en œuvre des 149 propositions de la "
+"convention](https://www.politico.eu/article/emmanuel-macron-green-experiment-"
+"is-getting-out-of-hands), et un projet de loi doit être présenté en décembre "
+"2020."
+
+#. type: Title ###
+#: 2021-01-05-citizens-assembly-climate-change.md:139
+#, no-wrap
+msgid "A citizens’ constitution"
+msgstr "Une constitution citoyenne"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:142
+msgid ""
+"[Chile’s Constitution Referendum](https://en.wikipedia.org/"
+"wiki/2020_Chilean_national_plebiscite) is a thrilling example of another way "
+"to place citizens at the centre of decision-making."
+msgstr ""
+"[Le référendum sur la constitution au Chili](https://en.wikipedia.org/wiki/"
+"2020_Chilean_national_plebiscite) est un autre exemple illustrant de manière "
+"fort intéressante comment placer les citoyennes et citoyens au cœur du "
+"processus décisionnel."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:144
+msgid ""
+"On 25 October 2020, [78.24% of voting Chileans demanded a new constitution "
+"for the nation](https://www.theguardian.com/world/2020/oct/26/chile-vote-"
+"scrap-pinochet-constitution). This referendum followed almost 12 months of "
+"continual, massive protests caused by the former constitution, which Augusto "
+"Pinochet (Chile’s ex-military dictator) wrote to benefit the rich and "
+"powerful."
+msgstr ""
+"Le 25 octobre 2020, [78,24 % des votants au Chili ont demandé une nouvelle "
+"constitution pour la nation](https://www.theguardian.com/world/2020/oct/26/"
+"chile-vote-scrap-pinochet-constitution). Ce référendum est le résultat de "
+"près d'un an de protestations de masse continues dénonçant l'ancienne "
+"constitution, rédigée par Augusto Pinochet (l'ancien dictateur militaire du "
+"Chili) au profit des riches et des puissants."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:146
+msgid ""
+"This vote also declared that a group of nominated and elected citizens will "
+"write the new constitution, which the nation will assess and vote on in "
+"mid-2022."
+msgstr ""
+"Ce vote a également établi qu'un groupe de citoyens nommés et élus sera "
+"chargé de rédiger la nouvelle constitution, que la nation validera et qui "
+"sera l'objet d'un vote courant 2022."
+
+#. type: Title ###
+#: 2021-01-05-citizens-assembly-climate-change.md:147
+#, no-wrap
+msgid "Global Assembly 2021"
+msgstr "Assemblée internationale 2021"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:150
+msgid ""
+"Citizens’ assemblies are clearly growing in significance, because a global "
+"version is being planned by [globalassembly.org](https://globalassembly."
+"org/). Conducted online, Global Assembly 2021 will involve 1000 people "
+"chosen via a lottery from around the world, taking place in the months "
+"before the UN’s Cop26 climate change conference in November 2021. This huge "
+"CA won’t have any power over governments but, if it’s managed well, the "
+"final recommendations will be difficult to ignore."
+msgstr ""
+"Les assemblées citoyennes sont clairement de plus en plus plébiscitées, et "
+"une version mondiale est planifiée par "
+"[globalassembly.org](https://globalassembly.org/). Tenue en ligne, "
+"l'Assemblée mondiale 2021 réunira 1000 personnes choisies par tirage au sort "
+"dans le monde entier, et se déroulera dans les mois précédant la conférence "
+"sur le changement climatique de la Cop26 des Nations unies en novembre 2021. "
+"Cette énorme AC n'aura aucun pouvoir décisionnaire auprès des gouvernements "
+"mais, si elle est bien menée, il leur sera difficile d'en ignorer les "
+"recommandations."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:152
+msgid ""
+"![Participants in discussion at Climate Assembly UK in Birmingham, 2020](/"
+"assets/uploads/f184a44f-0436-46ea-a340-66e465687872.jpg)"
+msgstr ""
+"![Participants in discussion at Climate Assembly UK in Birmingham, 2020](/"
+"assets/uploads/f184a44f-0436-46ea-a340-66e465687872.jpg)"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:155
+#, no-wrap
+msgid "CA case study: Climate Assembly UK"
+msgstr "Étude d'un cas d'AC : L'assemblée sur le climat au Royaume-Uni"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:158
+msgid ""
+"During six weekends between January and May 2020, the city of Birmingham in "
+"England hosted [Climate Assembly UK](http://www.climateassembly.uk). Due to "
+"COVID-19, the final two weekends were conducted online. The assembly was "
+"requested by six ‘Select Committees’ (groups of UK Members of Parliament "
+"from various political parties) representing business and energy strategy, "
+"the environment, the treasury, housing, local government, science, "
+"technology and transport."
+msgstr ""
+"Durant six week-ends entre janvier et mai 2020, la ville de Birmingham en "
+"Angleterre a accueilli la [Climate Assembly "
+"UK](http://www.climateassembly.uk). En raison de la pandémie de COVID-19, "
+"les deux derniers week-ends se sont tenus en ligne. L'assemblée a été "
+"demandée par six \"Select Committees\" (des groupes de députés britanniques "
+"de différents partis politiques) représentant les entreprises et la "
+"stratégie du parc énergétique, l'environnement, le trésor public, le "
+"logement, les gouvernements locaux, la science, la technologie et le "
+"transport."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:160
+msgid ""
+"This assembly of 110 citizens concentrated on one element of the climate and "
+"ecological crisis:"
+msgstr ""
+"Cette assemblée constituée de 110 citoyennes et citoyens s'est concentrée "
+"sur un aspect de la crise écologique et climatique, à savoir :"
+
+#. type: Bullet: '* '
+#: 2021-01-05-citizens-assembly-climate-change.md:162
+msgid "How can the UK reduce greenhouse gas emissions to net zero by 2050*?"
+msgstr ""
+"Comment le Royaume-Uni peut-il réduire ses émissions de gaz à effet de serre "
+"et parvenir à la neutralité carbone d'ici 2050* ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:164
+msgid "\\*Extinction Rebellion demands net zero by 2025"
+msgstr ""
+"\\*Extinction Rebellion revendique de parvenir à la neutralité carbone d'ici "
+"2025"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:166
+msgid "![](/assets/uploads/f5f22775-22a0-4b3e-9efc-d0bc51221f9e.png)"
+msgstr "![](/assets/uploads/f5f22775-22a0-4b3e-9efc-d0bc51221f9e.png)"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:168
+#, no-wrap
+msgid "*Dr Alan Renwick of Constitution Unit at University College London*\n"
+msgstr ""
+"*Dr Alan Renwick, de la _Constitution Unit_ , _University College London_*\n"
+
+#. type: Title ###
+#: 2021-01-05-citizens-assembly-climate-change.md:169
+#, no-wrap
+msgid "Climate Assembly UK eyewitness"
+msgstr "Témoignage sur la tenue de l'assemblée sur le climat au R.U"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:172
+msgid ""
+"Dr Alan Renwick was an observer at Climate Assembly UK. Dr Alan works at the "
+"[Constitution Unit at University College London](https://www.ucl.ac.uk/"
+"constitution-unit/) and is an expert on deliberative democracy."
+msgstr ""
+"Le Dr Alan Renwick était observateur de l'assemblée sur le climat au Royaume-"
+"Uni. Il travaille à la [_Constitution Unit_ à l'_University College "
+"London_](https://www.ucl.ac.uk/constitution-unit/), et il est un expert en "
+"démocratie délibérative."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:180
+#, no-wrap
+msgid ""
+"> The weekend started on Friday evening with people gathering. There was a sense of a group coming together and engaging in a collective task, which is important to build up during a citizens’ assembly.\n"
+">\n"
+"> They had various talks from Friday evening and throughout Saturday. They started with material coming from the front of the room. A lot of the time was spent with the members discussing their thoughts, listening to each other, and hearing very different perspectives in the room. Then they relaxed over dinner and did it all again on Sunday.\n"
+">\n"
+"> The feeling in the room was that it was an amazing opportunity to hear from top experts, and that citizens were being listened to by senior decision-makers. One of the first people they heard from was David Attenborough, who said “you have this amazing task and it’s really important that you do it well”.\n"
+">\n"
+"> It is important with a citizens’ assembly that you get the full range of opinions, otherwise policymakers won’t take it seriously. There were people who have a very sceptical view of climate change or don’t think it’s a very high priority, and there were people for whom it was the top priority. But I didn’t notice any clashing; I noticed people listening to each other and respecting each other.\n"
+msgstr ""
+"> Le week-end a commencé le vendredi soir quand tous les participants sont "
+"arrivés. Il y avait un réel esprit de groupe s'engageant dans une mission "
+"collective, ce à quoi il est important de parvenir lors d'une assemblée "
+"citoyenne.\n"
+">\n"
+"> Le groupe a assisté à plusieurs conférences et interventions le vendredi "
+"soir, et tout au long de la journée du samedi. Une grande partie du temps a "
+"été consacrée à des échanges avec les participants, à l'écoute des autres, "
+"et à l'écoute de perspectives très différentes dans la salle. Puis tout le "
+"monde s'est détendu pendant le dîner, avant de reprendre le dimanche.\n"
+">\n"
+"> Le sentiment dans la salle était que c'était une occasion incroyable "
+"d'entendre des experts de haut niveau, et que les citoyens étaient écoutés "
+"par des décideurs de haut niveau. L'une des premières personnes qu'ils ont "
+"entendues, David Attenborough, a déclaré \"vous aêtes chargés d'une mission "
+"incroyable, et il est vraiment important que vous la meniez à bien\".\n"
+">\n"
+"> Il est primordial lors d'une assemblée citoyenne de pouvoir entendre tout "
+"un vaste éventail d'opinions diverses pour que les législateurs les prennent "
+"au sérieux. Il y avait des gens qui étaient très sceptiques quant au "
+"changement climatique, ou qui ne pensaient pas que ce soit nécessairement "
+"une priorité, et des gens pour qui c'était la priorité absolue, mais je n'ai "
+"pas senti de grosses tensions, j'ai plutôt été témoin de gens qui "
+"s'écoutaient et se respectaient.\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:182
+msgid ""
+"[Watch Dr Renwick talking to Climate Assembly UK participants](https://www."
+"climateassembly.uk/about/meetings/weekend-2/dr-alan-renwick-constitution-"
+"unit-university-college-london-considering-evidence/)"
+msgstr ""
+"[Voir une vidéo du Dr Renwick s'adressant aux participants de l'assemblée "
+"sur le climat au Royaume-Uni](https://www.climateassembly.uk/about/meetings/"
+"weekend-2/dr-alan-renwick-constitution-unit-university-college-london-conside"
+"ring-evidence/)"
+
+#. type: Title ###
+#: 2021-01-05-citizens-assembly-climate-change.md:183
+#, no-wrap
+msgid "Climate Assembly UK problems"
+msgstr "Les problèmes de l'Assemblée sur le Climat du Royaume-Uni"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:186
+msgid ""
+"Climate Assembly UK was not big news: not enough UK citizens knew that it "
+"was happening, which is essential if a CA is to create significant change. "
+"This viewpoint is echoed by research group [Carnegie Europe](https://"
+"carnegieeurope.eu/about/), which compared 2020’s French and British CAs on "
+"climate change."
+msgstr ""
+"Cette assemblée citoyenne sur le climat au Royaume-Uni n'a pas bénéficié "
+"d'une vaste couverture médiatique, et trop peu de citoyens britanniques "
+"étaient au courant qu'elle avait lieu, ce qui est pourtant essentiel pour "
+"qu'une AC suscite un changement significatif. Ce point de vue est partagé "
+"par le groupe de recherche [Carnegie Europe](https://carnegieeurope.eu/about/"
+"), qui a comparé les AC françaises et britanniques de 2020 sur le changement "
+"climatique."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:188
+msgid ""
+"Its report stated that [‘despite some national press coverage of the UK "
+"assembly, the CAUK was never designed to create a genuine national debate, "
+"and it didn’t.’](https://carnegieeurope.eu/2020/11/05/getting-climate-"
+"citizens-assemblies-right-pub-83133) This may be partially due to Climate "
+"Assembly UK’s budget, which was 672,139 USD. By comparison, the budget of "
+"the Citizen's Convention on Climate in France was 6.34m USD and ‘seven out "
+"of ten French people had heard about the convention’s proposals’, according "
+"to a [Réseau Action Climat France poll](https://reseauactionclimat.org/"
+"sondage-des-gaulois-pas-si-refractaires-a-laction-climatique/)."
+msgstr ""
+"Cette analyse indiquait que [\"malgré une certaine couverture médiatique, "
+"l'assemblée britannique n'a jamais été conçue de façon à générer un "
+"véritable débat national, qui n'a donc pas eu lieu.\""
+"](https://carnegieeurope.eu/2020/11/05/getting-climate-citizens-assemblies-"
+"right-pub-83133) Cela peut être dû en partie au budget de l'assemblée "
+"citoyenne sur le climat au R.U, qui s'élevait à 672 139 USD. À titre de "
+"comparaison, le budget de la Convention citoyenne sur le climat en France "
+"était de 6,34 millions d'USD et \"sept Français sur dix avaient entendu "
+"parler des propositions de la convention\", selon un sondage du [Réseau "
+"Action Climat France](https://reseauactionclimat.org/"
+"sondage-des-gaulois-pas-si-refractaires-a-laction-climatique/)."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:190
+msgid ""
+"_The UK government does not have to follow the recommendations of Climate "
+"Assembly UK. Instead, the six select committees [‘will use \\[the "
+"recommendations] as a basis for detailed work on implementing the assembly’s "
+"recommendations, which will also be debated in the House of Commons’]"
+"(https://www.climateassembly.uk/about/)."
+msgstr ""
+"_Le gouvernement britannique n'est pas tenu de suivre les recommandations de "
+"l'assemblée. Les six comités [\"utiliseront \\[ces recommandations] comme "
+"base de travail pour envisager la mise en œuvre des recommandations de "
+"l'assemblée, qui seront également débattues à la Chambre des communes\""
+"](https://www.climateassembly.uk/about/)."
+
+#. type: Title ###
+#: 2021-01-05-citizens-assembly-climate-change.md:191
+#, no-wrap
+msgid "Results"
+msgstr "Résultats"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:194
+msgid ""
+"[Climate Assembly UK published its recommendations on 10 September 2020]"
+"(https://www.climateassembly.uk/report). It is not yet clear if this report "
+"will lead to significant action in the country, but without mass public "
+"pressure, it will be relatively easy for the government to ignore."
+msgstr ""
+"[L'assemblée sur le climat du R.U a publié ses recommandations le 10 "
+"septembre 2020](https://www.climateassembly.uk/report). On ne sait pas "
+"encore si ce rapport conduira à des mesures significatives dans le pays, "
+"mais sans une pression massive de l'opinion publique, le gouvernement pourra "
+"facilement l'ignorer."
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:195
+#, no-wrap
+msgid "After a citizens’ assembly"
+msgstr "Qu'advient-il après une assemblée citoyenne ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:198
+msgid ""
+"There is no set pathway for what to do after a CA. Should the decisions made "
+"during the assembly be immediately acted upon? Should they be voted on by "
+"the public, or perhaps the government? Should they only be advisory?"
+msgstr ""
+"Il n'y a pas de voie toute tracée pour l'après AC. Faudrait-il que les "
+"décisions prises lors de l'assemblée soient immédiatement appliquées ? "
+"Devraient-elles être votées par toutes les citoyennes et citoyens, ou par le "
+"gouvernement ? Devraient-elles être uniquement consultatives ?"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:200
+msgid "We asked Dr Renwick for his opinion:"
+msgstr "Nous avons demandé l'avis du Dr Renwick :"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:206
+#, no-wrap
+msgid ""
+"> There is disagreement between democratic theorists, but I think it’s important that decisions are made by those who are accountable to voters: politicians.\n"
+">\n"
+"> If you are not giving all voters the chance to hold to account the people who made a decision, it could lead to unhappiness in the wider electorate.\n"
+">\n"
+"> I think setting up a citizens’ assembly helps politicians make difficult decisions. It enables politicians to say: I know this is really tough, but the citizens’ assembly looked at this issue in depth and concluded this is the best thing for the country.\n"
+msgstr ""
+"> Les théoriciens de la démocratie ne tombent pas nécessairement d'accord, "
+"mais je pense qu'il est important que ces décisions soient prises par ceux "
+"qui sont ont des responsabilités face aux électeurs, à savoir les "
+"politiciens.\n"
+">\n"
+"> Si vous ne donnez pas à tous les électeurs la possibilité de demander des "
+"comptes aux personnes qui ont pris une décision, cela pourrait entraîner le "
+"mécontentement de l'ensemble de l'électorat.\n"
+">\n"
+"> Je pense que la mise en place d'une assemblée citoyenne peut aider les "
+"politiciens à prendre des décisions difficiles. Elle leur permet de dire : "
+"Je sais que c'est vraiment difficile, mais l'assemblée citoyenne a examiné "
+"cette question en profondeur, et en conclut que c'est la meilleure chose à "
+"faire pour le pays.\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:208
+msgid ""
+"Extinction Rebellion recognises that governments will not independently take "
+"bold action on the climate and ecological crisis, because they have already "
+"failed to do so for decades. Therefore, it is essential that CAs have a "
+"clear route to action, as well as large media budgets, in order to generate "
+"support, engagement and trust among the general public. For example, the "
+"route to action following France’s Citizens' Convention on Climate is clear:"
+msgstr ""
+"Extinction Rebellion sait que les gouvernements ne prendront pas d'eux même "
+"de courageuses mesures pour enrayer la crise écologique et climatique, sinon "
+"ils l'auraient fait depuis des décennies déjà. Il est donc essentiel que les "
+"AC disposent d'une marge d'action claire, ainsi que d'importants budgets "
+"médiatiques, afin de susciter le soutien, l'engagement et la confiance du "
+"grand public. Par exemple, la voie à suivre après la Convention des citoyens "
+"sur le climat en France est claire :"
+
+#. type: Bullet: '1. '
+#: 2021-01-05-citizens-assembly-climate-change.md:211
+msgid "Government acts on recommendations"
+msgstr "Le gouvernement est censé agir en se basant sur ces recommandations"
+
+#. type: Bullet: '2. '
+#: 2021-01-05-citizens-assembly-climate-change.md:211
+msgid "Parliament votes on recommendations"
+msgstr "Le Parlement vote ces recommandations"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:213
+msgid "or"
+msgstr "ou"
+
+#. type: Bullet: '3. '
+#: 2021-01-05-citizens-assembly-climate-change.md:215
+msgid "Nation votes on recommendations in a referendum"
+msgstr "Le pays vote ces recommandations lors d'un référendum"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:217
+msgid ""
+"![Extinction Rebellion demonstration featuring coloured flags and a display "
+"of children’s shoes](/assets/uploads/b179de54-9284-4a5c-bef7-982a27dd8987."
+"png)"
+msgstr ""
+"![Extinction Rebellion demonstration featuring coloured flags and a display "
+"of children’s shoes](/assets/uploads/b179de54-9284-4a5c-"
+"bef7-982a27dd8987.png)"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:219
+#, no-wrap
+msgid "*© Andrew Mercer (www.baldwhiteguy.co.nz) - Own work, CC BY-SA 4.0, <https://commons.wikimedia.org/w/index.php?curid=92110716>*\n"
+msgstr ""
+"*© Andrew Mercer (www.baldwhiteguy.co.nz) - Own work, CC BY-SA 4.0, "
+"<https://commons.wikimedia.org/w/index.php?curid=92110716>*\n"
+
+#. type: Title ##
+#: 2021-01-05-citizens-assembly-climate-change.md:220
+#, no-wrap
+msgid "This can no longer be the case"
+msgstr "Cela ne peut plus être le cas"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:223
+msgid ""
+"Our current political systems are not capable of delivering the necessary "
+"solutions to the climate and ecological crisis. While voting is important, "
+"this crisis demands more from us than ‘yes’ or ‘no’. How should a nation "
+"quickly move away from fossil fuels? Where should wildlife sanctuaries be "
+"reintroduced and how? Such large, long-term questions demand deliberation "
+"and input from all of us. Well-funded, widely publicised citizens’ "
+"assemblies with clear routes to action will answer these questions."
+msgstr ""
+"Nos systèmes politiques actuels ne sont pas capables d'entériner les "
+"solutions nécessairespour faire face à la crise écologique et climatique. "
+"Bien que voter soit important, cette crise exige de nous qu'un \"oui\" ou un "
+"\"non\". Comment un pays peut-il rapidement se défaire de sa dépendance aux "
+"énergies fossiles pour parvenir à la neutralité carbone ? Où et comment "
+"instaurer des réserves naturelles ? Des questions aussi vastes et à long "
+"terme exigent une réflexion, et la contribution de toutes et tous. Des "
+"assemblées citoyennes bien financées, largement médiatisées, et dotées de "
+"moyens d'action clairs sont à même de répondre à ces questions."
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:225
+msgid ""
+"“It is the ambition of every government to remain in power. This ambition "
+"has, in the past, limited government’s appetite to take bold and decisive "
+"action on policies which might prove too hard or unpopular with the "
+"electorate. This can no longer be the case.” {.hero-text}"
+msgstr ""
+"\"L'ambition de tout gouvernement est de rester au pouvoir. Cette ambition a "
+"jusque-là empêché les gouvernements de prendre des mesures courageuses et "
+"radicales sur des problématiques qui pourraient s'avérer trop difficiles, ou "
+"trop impopulaires auprès de l'électorat. Cela ne peut plus être le cas\". "
+"{.hero-text}"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:227
+#, no-wrap
+msgid "*(Climate Assembly UK)*\n"
+msgstr "*(_Climate Assembly UK_)*\n"
+
+#. type: Plain text
+#: 2021-01-05-citizens-assembly-climate-change.md:228
+msgid ""
+"Extinction Rebellion UK published a guide to citizens’ assemblies in 2019, "
+"which you can download at [xrcitizensassembly.uk](https://xrcitizensassembly."
+"uk/wp-content/uploads/2020/03/The-Extinction-Rebellion-Guide-to-Citizens-"
+"Assemblies-Version-1.1-25-June-2019.pdf). In 2020, XR New York City released "
+"*Trust the People: The Case for a Citywide Citizens’ Assembly on Climate & "
+"Ecological Justice*, which you can download at [xrebellion.nyc/citizens-"
+"assembly](https://www.xrebellion.nyc/citizens-assembly)."
+msgstr ""
+"XR UK a publié un guide sur les assemblées citoyennes en 2019. Vous pouvez "
+"le télécharger sur [xrcitizensassembly.uk](https://xrcitizensassembly.uk/"
+"wp-content/uploads/2020/03/The-Extinction-Rebellion-Guide-to-Citizens-"
+"Assemblies-Version-1.1-25-June-2019.pdf) ou en consulter une version "
+"traduite en français [ici](https://rdv.extinctionrebellion.fr/index.php/s/"
+"4XnfTX2mbdM6niA#pdfviewer) . En 2020, XR New York a publié *Trust the People "
+": The Case for a Citywide Citizens' Assembly on Climate & Ecological Justice*"
+", que vous pouvez télécharger sur [xrebellion.nyc/citizens-"
+"assembly](https://www.xrebellion.nyc/citizens-assembly)."

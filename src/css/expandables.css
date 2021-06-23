@@ -1,0 +1,45 @@
+.read-more-state {
+    display: none;
+}
+
+.read-more-target {
+    max-height: 0;
+    transition: 1s cubic-bezier(1, 0, 0, 1);
+    overflow: hidden;
+}
+
+.read-more-state:checked ~ .read-more-target {
+    max-height: 999em;
+}
+
+.read-more-state ~ .read-more-trigger {
+    transition: all 0.3s;
+}
+
+.read-more-state ~ .read-more-trigger:before {
+    content: 'Read more';
+}
+
+.read-more-state:checked ~ .read-more-trigger:before {
+    content: 'Show less';
+}
+
+
+.read-more-state ~ .read-more-trigger.use-arrow:before {
+    content: '';
+}
+
+.read-more-state ~ .read-more-trigger.use-arrow .arrow {
+    transition: all 0.3s;
+    transform: rotate(90deg);
+}
+
+.read-more-state:checked ~ .read-more-trigger.use-arrow .arrow {
+    transform: rotate(-90deg);
+}
+
+.read-more-ruler {
+    position: relative;
+    top: -0.8em;
+    margin: 0 !important;
+}

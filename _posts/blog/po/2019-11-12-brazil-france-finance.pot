@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-22 17:05+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:13
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"In Paris, Brazilian Indigenous Leaders Denounce the Role of French Financiers in Amazon Destruction\"\n"
+"slug: brazil-france-finance\n"
+"date: 2019-11-12 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/11/12/PARISProtest.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:15
+msgid ""
+"![XR Global hunger strike](/assets/img/blog/2019/11/12/PARISProtest.jpg \"XR "
+"Global hunger strike\"){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:17
+msgid ""
+"Brazilian Indigenous Leaders Denounce the Role of French Financiers in "
+"Amazon Destruction"
+msgstr ""
+
+#. type: Title ##
+#: 2019-11-12-brazil-france-finance.md:20
+#, no-wrap
+msgid "In Paris, Brazilian Indigenous Leaders Denounce the Role of French Financiers in Amazon Destruction"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:25
+msgid ""
+"Tuesday 12th November 2019, Paris (FRANCE) – Eight Brazilian indigenous "
+"leaders led a spirited protest along with 100 supporters in a Parisian "
+"financial center today, targeting the key role of French investors behind "
+"mounting human rights and environmental destruction in the Amazon. France "
+"hosts several leading financial institutions - such as BNP Paribas and "
+"Société Générale - responsible for bankrolling deforestation in the Amazon "
+"and Cerrado biomes with billions of euros in loans and underwriting to "
+"corporations that deal directly in forest risk commodities such as soy and "
+"beef."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:29
+#, no-wrap
+msgid "> See images of the protest [here](https://drive.google.com/drive/u/4/folders/1CAJ73AKBH98vjWgikhx28pY_OkfXcbVc)\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:33
+msgid ""
+"Leaders from the Association of Brazil’s Indigenous Peoples (APIB) are on an "
+"intense advocacy tour across Europe denouncing an exacerbating human rights "
+"crisis faced by the country’s indigenous communities and territories under "
+"the Bolsonaro’s government. Entitled [Indigenous Blood: Not a Single Drop "
+"More](https://en.nenhumagotamais.org/), the delegation calls on European "
+"political authorities and business leaders to respond to growing violence "
+"and environmental devastation in the Amazon and across Brazil. On November "
+"1st, an indigenous Forest Guardian, Paulo Paulino Guajajara, was [shot dead]"
+"(https://amazonwatch.org/news/2019/1101-indigenous-forest-guardian-murdered-"
+"by-illegal-loggers-in-brazilian-amazon) after illegal loggers ambushed him "
+"on his Amazonian territory, in yet another emblematic case of brutality "
+"against Brazilian environmental and human rights defenders."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:37
+msgid ""
+"“Many European companies are exploiting the Amazon directly in our "
+"territories,” said Sonia Guajajara, a member of the APIB delegation. “Today "
+"we are already feeling the effect of this unrestrained exploitation, and it "
+"won't take long for it to also reach you here, in France. European "
+"corporations must be conscious of their responsibility. Everything is at "
+"stake: the rainforest, the climate, and our survival. It is very important "
+"to act quickly while there is still time!\""
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:39
+msgid ""
+"Last April, data from an APIB [report](https://amazonwatch.org/"
+"news/2019/0425-complicity-in-destruction-2), produced in partnership with "
+"Amazon Watch showed how European and US companies, including banks and soy "
+"traders, enable today’s crisis in the Amazon region. The research analyzed "
+"Brazilian companies fined for environmental crimes in the Amazon since 2017 "
+"and identified linkages between these and northern countries' commercial "
+"interests. Recent events, such as the Amazon fires, increasingly show how "
+"local and global corporate interests are driving deforestation, exacerbating "
+"land conflicts, and spurring violence."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:43
+msgid ""
+"“Big banks and large investment firms in particular play a critical role, "
+"providing billions of euros in lending, underwriting, and equity investment "
+"to soy and cattle companies,” said Christian Poirier, Amazon Watch Program "
+"Director, who joined the protest in Paris. “This financing enables "
+"agribusiness to maintain and expand operations, causing further devastation "
+"to the Amazon and Cerrado. BNP Paribas has over US$3 billion invested across "
+"the world's four largest soy traders, as well as other investments in "
+"Brazilian meat-packers.”"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:47
+msgid ""
+"Cattle ranching and soy production are the leading drivers of deforestation "
+"in Brazil. Ranching alone leads to approximately 80% of Amazon "
+"deforestation, and 80% of the Amazon forests cleared since 2014 are "
+"currently occupied by cattle. The economic and environmental implications of "
+"these commodities extend to the global market: Brazilian soy accounted for "
+"14.3% of the country’s total exports, generating $31 billion in 2017 while "
+"cattle exports accounted for about $5.4 billion. Brazil leads the world in "
+"exports of both commodities. If global consumers continue to provide a "
+"market for these commodities, these industries will enjoy considerable "
+"economic incentives to aggressively expand activities, to the detriment of "
+"forest protections and indigenous land rights."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:51
+msgid ""
+"“Extinction Rebellion stands by APIB and its leaders in their efforts to "
+"amplify the role of the global financial sector in Amazon destruction "
+"through an international solidarity campaign. Because the genocide against "
+"indigenous people in Brazil is real, forces must be joined among allies in a "
+"battle for survival. Extinction Rebellion is their global ally, one country "
+"at a time,” said an Extinction Rebellion France spokesperson who attended "
+"the Parisian protest."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:55
+msgid ""
+"The protest in Paris had the support of civil society organizations, like "
+"Alerte France Bresil, Planète Amazone, Autres Bresils, Weaving Ties, "
+"Extinction Rebellion France, Amazon Watch, Nature Rights Citoyens Pour le "
+"Climat Paris, and others."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:59
+msgid "Interviews with APIB leaders available upon request"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-12-brazil-france-finance.md:60
+msgid ""
+"[Click here](https://en.nenhumagotamais.org/?fbclid=IwAR2FDJdN01BO0Sh5-"
+"lE2aigcvGZFoyc0PA41046Sdb-MvOmgC0NYDiutXqQ) for more information on APIB’s "
+"European tour."
+msgstr ""

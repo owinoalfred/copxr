@@ -1,0 +1,182 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-05 11:25+0200\n"
+"PO-Revision-Date: 2020-05-06 08:50+0000\n"
+"Last-Translator: Dom <dom@dominicporter.co.uk>\n"
+"Language-Team: French <http://translate.organise.earth/projects/"
+"press-releases/2020-03-14-coronavirus/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion Applauds International Community’s Ability to Act with Urgency\"\n"
+"slug: coronavirus\n"
+"date: 2020-03-14 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/03/14/img.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: fr\n"
+"title: \"Extinction Rebellion salue l'aptitude de la communauté internationale à réagir en urgence\"\n"
+"slug: coronavirus\n"
+"date: 2020-03-14 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/03/14/img.jpg\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:16
+msgid ""
+"![banner](/assets/img/press/2020/03/14/img.png)  {:.img-fluid .my-4 .text-"
+"center}"
+msgstr ""
+"![banner](/assets/img/press/2020/03/14/img.png)\n"
+"{:.img-fluid .my-4 .text-center}"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:21
+msgid ""
+"- Extinction Rebellion is offering its love and support to all communities "
+"around the globe impacted by the coronavirus disease (COVID-19)  - The "
+"global movement welcomes the urgency with which some governments, "
+"organisations and institutions are acting in the face of coronavirus - While "
+"rapid reaction is a model of response, proactive action can reduce the "
+"greatest impacts of both pandemics and ecological/climate breakdown {:.huge ."
+"my-3}"
+msgstr ""
+"- Extinction Rebellion apporte amour et soutien à toutes les personnes "
+"impactées dans le monde entier par le COVID-19, maladie transmise par le "
+"coronavirus.\n"
+"- Le mouvement international salue le déploiemlent de mesures d'urgences "
+"prises par nombre de gouvernements, organismes et institutions pour faire "
+"face au virus\n"
+"- Cette rapidité de réaction est certes une réponse exemplaire, et la mise "
+"en œuvre de mesures proactives pourrait réduire à la fois les impacts de la "
+"pandémie, ainsi que ceux du bouleversement écologique et climatique\n"
+"{:.huge .my-3}"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:23
+msgid ""
+"_13th March, 2020, (Global)_ - **Extinction Rebellion** exists to protect "
+"and preserve life, both for now and for future generations.  **Our global "
+"movement stands in solidarity with all those affected by coronavirus**."
+msgstr ""
+"_13 Mars, 2020, (Dans le monde entier)_ - **Extinction Rebellion** a vu le "
+"jour en vue de protéger, et de sauvegarder le Vivant, pour nous toutes et "
+"tous dès maintenant, mais aussi pour les générations à venir. **Au nom du "
+"mouvement international, nous exprimons, et affichons notre solidarité, à "
+"toutes les personnes impactées par le virus**."
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:25
+msgid ""
+"Extinction Rebellion (XR) welcomes the urgency with which many governments, "
+"organisations and institutions are acting in the face of the emergency "
+"represented by the Corona/Covid19 pandemic.  **Our current reality requires "
+"political will and quick, decisive action to mitigate, adapt and evolve to "
+"an existential threat.**"
+msgstr ""
+"Extinction Rebellion (XR) approuve la rapidité d'action déployée par nombre "
+"de gouvernements, d'organismes, et d'institutions face à l'urgence, pour "
+"enrayer la pandémie, et la propagation du COVID-19.  **La situation actuelle "
+"aussi nécessite une volonté politique, et des mesures radicales à mettre en "
+"œuvre urgemment pour pouvoir nous adapter, évoluer, et pallier aux menaces "
+"existentielles qui pèsent sur nous toutes et tous.**"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:27
+msgid ""
+"The movement's global network, which came together to face the Climate and "
+"Ecological Emergency, is adapting to this crisis, and hopes to be part of "
+"the force which connects people in community resilience at this time."
+msgstr ""
+"Le réseau de notre mouvement international, qui a vu le jour pour faire face "
+"à l'urgence écologique et climatique, s'adapte aussi à cette crise, et "
+"espère être une des forces motrices, apte à orienter les gens vers la "
+"résilience collective en ces temps difficiles."
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:29
+msgid ""
+"As our ability to gather is greatly affected, **each Extinction Rebellion "
+"group will consider whether it shall carry out any local activity in coming "
+"weeks** and months within the context of the planned International "
+"Rebellion. The ongoing Rebellion will adapt to this situation and we expect "
+"activities around the world will vary from community aid and assistance, to "
+"simply providing connection to people."
+msgstr ""
+"Nos velléités de rassemblement étant fortement compromises, **chaque branche "
+"d'XR réfléchit à la pertinence de poursuivre la planification d'actions "
+"durant les semaines, voire les mois à venir**, dans le cadre de la Rebellion "
+"internationale qui était prévue. Nous allons nous adapter aux circonstances, "
+"et pour l'instant nous allons nous concentrer dans le monde entier, sur des "
+"actions qui apportent aide et soutien aux communautés les plus touchées, ne "
+"serait-ce que travailler à garder, et à maintenir du lien."
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:31
+msgid ""
+"As the climate breakdown and ecological collapse continues and we see more "
+"outbreaks and pandemics, Extinction Rebellion will work to provide a growing "
+"community of compassion and care, and create spaces to put into reality how "
+"the world could be different. Now is the time to show how humans can come "
+"together and showcase other ways of existence. We must pull together as "
+"communities, protecting the most vulnerable.  **We must Rebel for Life.**"
+msgstr ""
+"L'effondrement écologique et climatique suivant son cours, nous sommes déjà, "
+"et allons être confrontés à de plus en plus de crises, de pandémies. XR "
+"s'efforce donc de bâtir un réseau grandissant, une communauté axée sur la "
+"compassion, sur l'attention à l'autre,  en créant des espaces dans lesquels "
+"illustrer concrètement dans quel autre monde nous pourrions vivre. Il est "
+"temps de considérer, et de donner à voir, que nous, êtres humains pouvons "
+"vivre ensemble différemment. Il nous faut nous entraider collectivement, et "
+"protéger les plus vulnérables. **Rebellons-nous pour le Vivant!**"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:34
+#, no-wrap
+msgid " [Learn More about Extinction Rebellion](https://rebellion.global/about-us){.xr-button}\n"
+msgstr ""
+" [Pour en savoir plus sur Extinction Rebellion](https://rebellion.global/about-"
+"us){.xr-button}\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:36
+msgid "_For further information please contact:_ **press@organise.earth**"
+msgstr ""
+"_Pour de plus amples informations, merci de contacter :_ **press@organise."
+"earth**"
+
+#~ msgid ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>Learn More about Extinction Rebellion</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>Pour en savoir plus sur Extinction Rebellion</span></a>\n"
+#~ "</div>\n"

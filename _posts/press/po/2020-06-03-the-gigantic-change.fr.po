@@ -1,0 +1,190 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-09 16:37+0200\n"
+"PO-Revision-Date: 2020-08-25 05:06+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-06-03-the-gigantic-change/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:10
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: WHOOPI GOLDBERG’S DRAMATIC CALL FOR CLIMATE ACTION\n"
+"slug: the-gigantic-change\n"
+"date: '2020-06-05 00:00'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/TheGiganticChange–Poster-Landscape.jpg\n"
+msgstr ""
+"lang: fr\n"
+"title: WHOOPI GOLDBERG NOUS EXHORTE À PASSER À L'ACTION\n"
+"slug: the-gigantic-change\n"
+"date: '2020-06-05 00:00'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/TheGiganticChange–Poster-Landscape.jpg\n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:12
+msgid "![The Gigantic Change film poster](/assets/uploads/TheGiganticChange-c.jpg)"
+msgstr ""
+"![The Gigantic Change film poster](/assets/uploads/TheGiganticChange-c.jpg)"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:15
+#, no-wrap
+msgid ""
+"Whoopi Goldberg has teamed up with Extinction Rebellion in a beautiful new "
+"animation set in the future. The stunning 3 minute film looks back from 2050 "
+"to show how people came together to save the world from the climate "
+"crisis.\\\n"
+"The film, entitled *The Gigantic Change*, will go live on Extinction "
+"Rebellion’s Facebook, YouTube, Twitter and Instagram at 08:00 hrs BST on "
+"Friday 5th June 2020, as part of World Environment Day.\\\n"
+"As we start to plan how to rebuild our world post-Covid, the film shows that "
+"a brighter future really is possible. But this won’t happen on its own; we "
+"must all *take action today*. Climate change is an existential threat to "
+"people of all ages and backgrounds. The need for collective action has never "
+"been greater.  \n"
+msgstr ""
+"Whoopi Goldberg a fait équipe avec Extinction Rebellion dans le cadre de ce "
+"magnifique film d'animation qui a lieu dans le futur. Ce remarquable film de "
+"3 minutes revient sur l'année 2050 pour illustrer comment les gens se sont "
+"réunis pour sauver le monde de la crise climatique.\n"
+"Intitulé *The Gigantic Change*, il sera diffusé en direct sur Facebook, "
+"YouTube, Twitter et Instagram d'Extinction Rebellion à 08h00 BST le vendredi "
+"5 juin 2020, dans le cadre de la Journée mondiale de l'environnement.\\\n"
+"Alors que nous commençons à nous organiser pour reconstruire un monde post-"
+"Covid, le film veut prouver qu'un avenir meilleur est vraiment possible. "
+"Mais cela ne se fera pas tout seul ; nous devons toutes et tous *agir dès "
+"aujourd'hui*. Le dérèglement climatique est une menace existentielle qui "
+"pèse sur tout le monde, sans distinction d'âge ou d'origine. Il n'a jamais "
+"été aussi nécessaire d'agir collectivement.  \n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:17
+#, no-wrap
+msgid "**Contact Information:**  \n"
+msgstr "**Contact :**  \n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:18
+#, no-wrap
+msgid "Jonathan Mintram | +44 7802 530272 | jonathanmintram@gmail.com  \n"
+msgstr "Jonathan Mintram | +44 7802 530272 | jonathanmintram@gmail.com  \n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:20
+msgid "Beverley Luckings | +44 7472 916283 | beverley@beverleyluckings.com"
+msgstr "Beverley Luckings | +44 7472 916283 | beverley@beverleyluckings.com"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:22
+#, no-wrap
+msgid ""
+"**Downloads:** [Press "
+"Kit](https://drive.google.com/file/d/10YlE2Fu-tXx0i2Okj3_SP85s7Iwe9za4/view?usp=sharing) "
+"| [Posters & Film "
+"Stills](https://drive.google.com/open?id=1-O9gXJ7coE7XJrEVS39SSWAFuVjWEQp-)\n"
+msgstr ""
+"**Téléchargements :** [Dossier de presse](https://drive.google.com/file/d/"
+"10YlE2Fu-tXx0i2Okj3_SP85s7Iwe9za4/view?usp=sharing) | [Affiches et visuels "
+"en haute définition](https://drive.google.com/"
+"open?id=1-O9gXJ7coE7XJrEVS39SSWAFuVjWEQp-)\n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:24
+#, no-wrap
+msgid ""
+"**Watch the film:** [youtube](https://youtu.be/wf6VXXNjML0) | "
+"[vimeo](https://vimeo.com/425424162/66d531dd86) | "
+"[facebook](https://www.facebook.com/ExtinctionRebellion/videos/308403240564157/)\n"
+msgstr ""
+"**Vous pouvez voir le film ici :** [youtube](https://youtu.be/wf6VXXNjML0) | "
+"[vimeo](https://vimeo.com/425424162/66d531dd86) | "
+"[facebook](https://www.facebook.com/ExtinctionRebellion/videos/"
+"308403240564157/)\n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:29
+#, no-wrap
+msgid ""
+"**NOTE: To request the original film file, please use the contact details "
+"above.**\\\n"
+"The team behind The Gigantic Change, together with Passion Pictures – who "
+"created the famous Orangutan advert for Iceland – knew that Whoopi’s iconic "
+"voice would bring a perfect sense of gravitas to the performance. She is a "
+"prominent campaigner on environmental issues, so she had the power to "
+"inspire many of her followers to take action.\\\n"
+"The urgency of the situation clearly resonates with her, and many others, "
+"but the challenge is to communicate this urgency to the wider public. This "
+"is the primary purpose of The Gigantic Change. After seeing the film, "
+"viewers are directed to a simple page outlining the most effective actions "
+"they can take to save the environment. This could be anything from diet and "
+"travel all the way up to civil disobedience.\\\n"
+"Whoopi Goldberg has appeared in such films as The Color Purple, Ghost and "
+"Sister Act, and lent her voice to the animated classic, The Lion King. She "
+"is one of a select group of artists to earn an Emmy, Grammy, Oscar and Tony "
+"Award. She has a strong voice on climate issues and is an active supporter "
+"of numerous causes and humanitarian efforts.\n"
+msgstr ""
+"**NOTE : Vous pouvez demander le fichier original du film via les "
+"coordonnées de contact ci-dessus.**\\\n"
+"L'équipe de _The Gigantic Change_, et Passion Pictures - qui avait aussi "
+"produit _Saving Rang-Tan_ le célèbre spot dénonçant les ravages de l'huile "
+"de palme, mettant en scène un orang-outan - savaient que la fameuse voix de "
+"Whoopi cadrerait parfaitement pour illustrer la gravité du film. En tant que "
+"militante environnementale, elle peut aussi inspirer nombre de ses adeptes à "
+"agir.\n"
+"L'urgence de la situation l'affecte réellement, comme elle préoccupe "
+"beaucoup d'autres, mais il s'agit maintenant de relayer cette urgence à un "
+"vaste public, et c'est l'objectif premier de ce court-métrage. À la fin du "
+"film, on est redirigéré vers une page qui liste ce que l'on peut faire de "
+"plus efficace en matière de lutte pour l'environnement, de la modification "
+"de notre régime alimentaire jusqu'à l'engagement dans des actions de "
+"désobéissance civile.\n"
+"L'actrice Whoopi Goldberg ea joué dans de nombreux films, dont La couleur "
+"pourpre, Ghost, ou Sister Act, et a prêté sa voix au célèbre dessin animé, "
+"Le roi Lion. Elle fait partie des artistes récompensées pour avoir remporté "
+"un Emmy, un Grammy, un Oscar et un Tony Award. Elle est très engagée dans "
+"les problématiques écologiques et climatiques, et soutient activement de "
+"nombreuses causes et projets humanitaires.\n"
+
+#. type: Plain text
+#: 2020-06-03-the-gigantic-change.md:32
+msgid ""
+"Extinction Rebellion believes it is a citizen’s duty to rebel, using "
+"peaceful civil disobedience, when faced with criminal inactivity by their "
+"government. Time has almost entirely run out to address the ecological "
+"crisis which is upon us. The consequences of this crisis include the sixth "
+"mass species extinction, global pollution, and abrupt, runaway climate "
+"change. Societal collapse and mass death are seen as inevitable by "
+"scientists and other credible voices.  Human extinction is also a "
+"possibility if we do not take immediate action."
+msgstr ""
+"Extinction Rebellion estime qu'il relève du devoir des citoyens de se "
+"rebeller, en ayant recours à la désobéissance civile non-violente, quand ils "
+"sont confrontés à l'inaction criminelle de leurs gouvernements. Il ne nous "
+"reste que très peu de temps pour tenter d'enrayer cette menace "
+"environnementale qui pèse sur nous. Sixième extinction de masse, pollution "
+"planétaire, emballement alarmant des bouleversements climatiques, "
+"effondrement sociétal, et la mort de milliards de personnes, voire la "
+"potentielle disparition de l'espèce humaine en sont considérés comme les "
+"conséquences inévitables, par les scientifiques et autres figures émérites, "
+"si nous ne prenons pas immédiatement des mesures d'urgence."

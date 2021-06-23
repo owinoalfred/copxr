@@ -1,0 +1,189 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-22 11:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Officials Cede to Hunger Strikers’ Demands as Extinction Rebellion Enters Day 3 of the Biggest Climate Hunger Strike in History\"\n"
+"slug: hunger-strike-day-3\n"
+"date: 2019-11-21 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/10/31/hunger-skull-cropped.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:16
+msgid ""
+"Officials Cede to Hunger Strikers’ Demands as Extinction Rebellion Enters "
+"Day 3 of the Biggest Climate Hunger Strike in History"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:18
+msgid ""
+"Earth, November 20 - Hundreds of XR rebels in 27 countries on six continents "
+"continued their hunger strike for a third day today to demand governments "
+"take immediate action to end the climate and ecological emergency that "
+"threatens the collapse of civilization.."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:22
+msgid ""
+"More than 400 people with [Extinction Rebellion](https://rebellion.global/) "
+"have been on a Global Hunger Strike since November 18th to demand "
+"governments enact the group’s [three demands](https://rebellion.global/our-"
+"demands/). Many are also demanding that officials meet with them to discuss "
+"the planetary crisis on camera. They plan to continue fasting for at least a "
+"week, while several rebels have already pledged to go longer."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:26
+msgid ""
+"The hunger strike is working. Sweden’s environment minister has agreed to "
+"meet with Swedish hunger strikers. In the UK, the Green Party and the "
+"Liberal Democrats have talked with hunger strikers on camera, with "
+"commitment to arrange follow up one hour meeting as requested by strikers. "
+"Another political party, Plaid Cymru, also agreed to an on-camera meeting. "
+"In the Netherlands on Wednesday (Nov 20) hunger strikers sat down with "
+"officials from the municipality of Wageningen for a recorded meeting to push "
+"for tougher action on the climate and ecological crisis."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:30
+msgid ""
+"“Rebels are desperate, hungry, and tired because they don’t want their "
+"families, kids, and future to die. Every moment the climate apocalypse grows "
+"nearer. We need to do everything in our power to stop it, before it’s too "
+"late,” said one of the organisers, Giovanni Tamacas, 20, from San Francisco, "
+"California, United State."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:34
+msgid ""
+"Rebels are hunger striking in Australia, Austria, Belgium, Canada, "
+"Democratic Republic of the Congo, Denmark, Ecuador, France, Germany, Ghana, "
+"Holland, India, Ireland, Italy, Mexico, New Zealand, Nigeria, Norway, "
+"Pakistan, Poland, Portugal, South Africa, Spain, Sweden, Turkey, United "
+"Kingdom, United States. They stand in solidarity with the 820 million people "
+"the World Health Organisation says suffer from extreme hunger. This number "
+"will rise as the climate and ecological emergency intensifies, devastating "
+"global food supplies."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:38
+msgid ""
+"Six hunger strikers from XR Barcelona have stationed themselves at Palau de "
+"la Generalitat, the headquarters of the regional government. In the United "
+"States, hunger strikers with XR Washington DC occupied House Speaker Nancy "
+"Pelosi's office to demand that she stops blocking passage of the climate "
+"emergency resolution. Students at Columbia University in New York are "
+"demanding the university divests from fossil fuels."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:42
+msgid ""
+"Time has almost run out to address the ecological crisis, which includes the "
+"6th mass species extinction, global pollution, and abrupt, runaway climate "
+"change. Scientists and other experts see societal collapse and mass death as "
+"inevitable, with human extinction a possibility, unless rapid action is "
+"taken."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:44
+msgid ""
+"[Extinction Rebellion](https://rebellion.global/) believes it is a citizen’s "
+"duty to rebel, using peaceful civil disobedience, when faced with criminal "
+"inactivity by their Government. Extinction Rebellion’s key demands are:"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: 2019-11-21-hunger-update.md:46
+msgid ""
+"Government must tell the truth by declaring a climate and ecological "
+"emergency, working with other institutions to communicate the urgency for "
+"change."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: 2019-11-21-hunger-update.md:48
+msgid ""
+"Government must act now to halt biodiversity loss and reduce greenhouse gas "
+"emissions to net zero by 2025."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: 2019-11-21-hunger-update.md:50
+msgid ""
+"Government must create and be led by the decisions of a Citizens’ Assembly "
+"on climate and ecological justice."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:53
+msgid ""
+"[What Emergency?](https://rebellion.global/the-emergency/) \\| [Extinction "
+"Rebellion in Numbers](https://docs.google.com/document/"
+"d/11E9MUhXWyxweCDKwJqBRZEDLGam268iwUqVAAUG8dus/) \\| [This Is Not A Drill: "
+"An Extinction Rebellion Handbook](https://www.penguin.co.uk/books/314/314671/"
+"this-is-not-a-drill/9780141991443.html)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:55
+msgid ""
+"For more details: [https://rebellion.global/newsletters/2019/10/31/global-"
+"hunger-strike/](https://rebellion.global/newsletters/2019/10/31/global-"
+"hunger-strike/)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:57
+msgid ""
+"For photographs and video from the Global Hunger Strike, please click [here]"
+"(https://drive.google.com/drive/folders/1Q2Vyaa5Fq406Kx8x4YLRjzOzFH6EEKrT)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:59
+msgid ""
+"[Facebook](https://www.facebook.com/events/2637555322972382/) \\| [Instragam]"
+"(https://www.instagram.com/extinctionrebellion/) \\| [Twitter](https://"
+"twitter.com/ExtinctionR) \\| [Website](https://rebellion.global/"
+"newsletters/2019/10/31/global-hunger-strike/) \\| [Photographs](https://"
+"drive.google.com/open?id=1Q2Vyaa5Fq406Kx8x4YLRjzOzFH6EEKrT)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-hunger-update.md:60
+msgid "#GlobalHungerStrike #ExtinctionRebellion"
+msgstr ""

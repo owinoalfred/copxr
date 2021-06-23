@@ -1,0 +1,62 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "./article";
+@import "./components";
+@import "./map";
+@import "./nav";
+@import "./expandables";
+@import "tailwindcss/utilities";
+
+@font-face {
+    font-family: 'FucXedLatin';
+    src: url('/assets/fonts/FucXedLatin/FUCXEDCAPSLatin-Cyrillic.woff') format('woff'), url('/assets/fonts/FucXedLatin/FUCXEDCAPSLatin-Cyrillic.woff2') format('woff2'), url('/assets/fonts/FucXedLatin/FUCXEDCAPSLatin-Regular.otf') format('otf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    src: url('/assets/fonts/Crimson/CrimsonText-Regular.woff') format('woff'), url('/assets/fonts/Crimson/CrimsonText-Regular.otf') format('otf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    font-weight: 600;
+    /* font-semibold */
+    src: url('/assets/fonts/Crimson/Crimson-Semibold.woff') format('woff'), url('/assets/fonts/Crimson/Crimson-Semibold.otf') format('otf');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Crimson Text';
+    font-weight: 700;
+    /* font-bold */
+    src: url('/assets/fonts/Crimson/CrimsonText-Bold.woff') format('woff'), url('/assets/fonts/Crimson/CrimsonText-Bold.otf') format('otf');
+    font-display: swap;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    @apply font-header
+}
+
+h1 {
+    @apply text-5xl;
+}
+h2 {
+    @apply text-4xl;
+}
+h3 {
+    @apply text-3xl;
+}
+h4 {
+    @apply text-2xl;
+}
+h5 {
+    @apply text-xl;
+}
+h6 {
+    @apply text-lg;
+}
+p {
+    @apply font-serif;
+}

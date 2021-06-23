@@ -1,0 +1,195 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-23 13:31+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:13
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: 'Earth Day 2020 - Humanity at Crossroads, Nature Offers Us Resilience "
+"and Hope'\n"
+"slug: earth-day-2020\n"
+"date: '2020-04-22 14:56'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"header-class: bg-black text-light-gray\n"
+"banner: /assets/uploads/img (1).jpeg\n"
+"seoImage: /assets/uploads/img (1).jpeg\n"
+msgstr ""
+
+#. type: Title ##
+#: 2020-04-22-earth-day-2020.md:14
+#, no-wrap
+msgid "AN EARTH DAY FOR THE AGES"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:16
+msgid "{:.text-center}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:19
+msgid ""
+"· Hundreds of stories have gone around the world describing the return of "
+"nature to silent areas where humans would dwell.  {:.huge .text-center}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:22
+msgid ""
+"· Extinction Rebellion, as part of its **\\#LoveAndRageInTimesOfCorona** "
+"campaign, has asked members from over 65 countries to describe some of these "
+"stories.  {:.huge .text-center}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:25
+msgid ""
+"· The presence of nature in cities helps provide a welcome respite from the "
+"difficult moment we are going through collectively, **\\#AloneTogether.** "
+"{:.huge .text-center}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:27
+#, no-wrap
+msgid ""
+"*Wednesday April 22nd, 2020 (Global)*- As our planet grapples with the "
+"Coronavirus pandemic, with over 2 million infections, hundreds of thousands "
+"of deaths worldwide and a vaccine still far in the future, Extinction "
+"Rebellion activates its network, asking rebels from across the world to "
+"confirm stories of unusual sightings. With a presence in over 65 countries, "
+"the global movement is in a position to bear witness to the striking reality "
+"of silent cities. Nature, usually absent from hustle and bustle of human "
+"activity, is venturing into spaces left still by human beings. We collect "
+"some of the experiences confirmed by rebels.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:29
+msgid ""
+"Our journey begins with **Extinction Rebellion Uganda**, where Joseph "
+"Masembe confirms how “*poaching of wildlife is at its lowest, pollution of "
+"the air and water bodies is also down, and deforestation is seemingly at a "
+"standstill.*” Speaking from Kampala, Flavia describes “*animals and birds, "
+"until previously a rare sight on our streets and backyards, are now "
+"common. In Queen Elizabeth National Park, lions are relaxing on the "
+"road. These big cats usually hide for most of the day, but now they enjoy "
+"the sun and the warm road beneath them. They, like us, are also somehow "
+"forced to take it easy. Makes us feel not so alone, somehow.*”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:31
+msgid ""
+"Humans are not the only ones threatened by COVID19, points out **Extinction "
+"Rebellion Congo**.  “Congo’s Virunga National Park, home to about a third of "
+"the world’s mountain gorillas, has closed its gates until at least June,” "
+"explains James Kataliko, following “advice from scientific experts who warn "
+"that primates, including mountain gorillas, are likely susceptible to "
+"complications arising from the COVID19 virus. It is very touching to see how "
+"humans also care for the other inhabitants of our country, threatened by the "
+"very same virus which has brought such sadness to our planet.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:33
+msgid ""
+"In South Africa, in the Western Cape town of Langebaan, “thousands of birds "
+"were seen descending onto the beach in numbers we've not seen before, going "
+"crazy over the sardines doing their yearly run along the coast, unfished by "
+"humans,” describes Nicole Collier-Naidoo from **Extinction Rebellion South "
+"Africa**. “There is something therapeutic about seeing life flourish in the "
+"midst of so much sadness, making us more aware of how often we take simple "
+"gifts for granted.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:35
+msgid ""
+"Speaking from **Extinction Rebellion India** Ajinkya Chikte, tells of how he "
+"saw dolphins swimming near Marine Drive in Mumbai.  “It was amazing to see "
+"how soon into lockdown beautiful creatures we had never seen so close, "
+"approached our now silent home” explains Ajinkya. “It felt almost as if "
+"nature was showing solidarity with our collective suffering by displaying "
+"its grace and beauty, where it had been missed, to give us hope for a new "
+"tomorrow.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:37
+msgid ""
+"Further to the east, **Extinction Rebellion Australia** confirmed reports of "
+"kangaroo sightings deep in cities, in stark contrast to the devastation "
+"wrought on the country by the bush fires earlier this year. “It’s actually "
+"not unusual to see kangaroos on the street or in front yards of certain "
+"suburbs, but it is unusual in the middle of a capital city, as happened "
+"recently on the Sydney Harbour Bridge,” explained Larissa, spokesperson for "
+"the movement."
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:39
+msgid ""
+"Even in Mexico, where lockdown has come at a slower rate than other "
+"countries, residents have been subject to extraordinary sightings. Melissa "
+"Jiménez, from **Extinction Rebellion Mexico**, describes how “Caribbean "
+"hotels usually teeming with holidaymakers are now welcoming a different sort "
+"of guest; jaguars, leatherback turtles, great curassow birds and even "
+"crocodiles have come too explore the silence we have left behind. Maybe, "
+"when all this ends, we can find a way to coexist. in the meantime, we "
+"celebrate this natural beauty, a welcome distraction from the fear and "
+"uncertainty we are experiencing.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:41
+msgid ""
+"Walking on the beach by his home in Jaffo-Tel Aviv, Michael Raphael from "
+"**Extinction Rebellion Israel** recounts how he “saw a large Brown Sea "
+"Turtle and an old fisherman in Jaffa said to me as we looked in awe at it, "
+"‘the last time I saw a turtle here was during the British mandate (1947)’”."
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:43
+#, no-wrap
+msgid ""
+"The sample of experiences collected on this unusual and historic Earth Day "
+"serve as a testament to the planet’s resilience and act as beacon of hope, "
+"nature is encouraging us to pull through, to survive. Life will prevail as "
+"large parts of the world experience the turmoil of lockdowns. In the "
+"meantime, **Extinction Rebellion** will continue to strengthen and "
+"consolidate its global   network of resilience to provide counsel, advice "
+"and solidarity during this shared drama, and continue to be inspired by the "
+"very life and nature we stand together and rebel for.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:45
+msgid "![](/assets/uploads/img.jpeg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-04-22-earth-day-2020.md:46
+msgid ""
+"For further information or interviews with rebels in over 65 countries "
+"please contact: press@organise.earth"
+msgstr ""

@@ -1,0 +1,350 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-16 11:28+0800\n"
+"PO-Revision-Date: 2021-02-20 22:09+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2021-02-09-xr-unchained-48/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:12
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"XR UNCHAINED #48\"\n"
+"slug: XR-unchained-48\n"
+"date: 2021-02-10 01:48\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/76b245b4-eed7-4916-aa47-0a3196d15e4c.jpg\n"
+"seoDescription: Actions from across the world that we couldn't cram into the\n"
+"  main newsletter this month\n"
+msgstr ""
+"lang: fr\n"
+"title: \"XR UNCHAINED #48-FR\"\n"
+"slug: XR-unchained-48\n"
+"date: 2021-02-10 01:48\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/76b245b4-eed7-4916-aa47-0a3196d15e4c.jpg\n"
+"seoDescription: Récits d'actions menées dans le monde entier que nous "
+"n'avons pas pu intégrer \n"
+"  à la newsletter mensuelle\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:14
+msgid ""
+"There’s always far more rebellion happening around the world than we can "
+"cover in one monthly newsletter. **Unchained** is a space to savour those "
+"beautiful actions we couldn’t quite fit into the [main issue](https://"
+"rebellion.global/blog/2021/02/10/global-newsletter-48/)."
+msgstr ""
+"Il y a toujours bien plus d'actions menées dans le monde entier, que ce nous "
+"pouvons relayer dans une newsletter mensuelle. **Unchained** est un espace "
+"pour profiter de ces formidables actions que nous ne pouvions pas toutes "
+"intégrer dans [l'édition du moisprincipal](https://rebellion.global/fr/"
+"blog/2021/02/10/global-newsletter-48/)."
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:16
+msgid ""
+"Eagle-eyed Unchained readers may notice that we have suddenly jumped from "
+"**Unchained #19** to **Unchained #48.**"
+msgstr ""
+"Les lectrices et lecteurs Œil de lynx auront sûrement remarqué que nous "
+"sommes passés subitement passés de **Unchained #19** à **Unchained #48.**"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:18
+msgid ""
+"Do not despair! You have NOT missed out on 28 action-packed issues, it is "
+"just that we are rationalising our numbering system. From now on, to avoid "
+"confusion, **Unchained** will have the same number as the **Global "
+"Newsletter** to which it is linked."
+msgstr ""
+"Ne vous en faites pas ! Vous n'avez pas raté tous les récits d'actions de 28 "
+"éditions ! Nous sommes juste en train de rationaliser notre système de "
+"numérotation. Dorénavant, pour éviter toute confusion, l'édition "
+"**Unchained** portera le même numéro que la **Newsletter internationale** à "
+"laquelle elle est rattachée."
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:20
+msgid "![](/assets/uploads/7dfdfee0-3eba-4c25-ae13-9831377e4220.jpg)"
+msgstr "![](/assets/uploads/7dfdfee0-3eba-4c25-ae13-9831377e4220.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:22
+msgid ""
+"From the far south to the frozen north, from mining protests in "
+"**Patagonia** (left) to the snowy streets of **Warsaw** (right), young "
+"rebels have been making their presence felt."
+msgstr ""
+"Du grand sud au grand nord, des manifestations contre l'extraction minière "
+"en **Patagonie** (à gauche) aux rues enneigées de **Varsovie** (à droite), "
+"de jeunes rebelles font sentir leur présence."
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:24
+msgid "![](/assets/uploads/6c5ef512-0a4a-4d91-a5bc-0b68da3268a7.jpg)"
+msgstr "![](/assets/uploads/6c5ef512-0a4a-4d91-a5bc-0b68da3268a7.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:26
+#, no-wrap
+msgid "**25 JAN - 8 FEB | Czech Republic:** Czech rebels mounted an online campaign against fast fashion. ‘To Na Sebe Nvemu!, meaning I DON’T WEAR IT!\n"
+msgstr ""
+"**25 JAN - 8 FÉV | République tchèque:** Les rebelles tchèques ont organisé "
+"une campagne en ligne pour dénoncer la _fast fashion_. \"To Na Sebe Nevemu !"
+"\", ce qui signifie \"Je ne porte pas ça !\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:28
+msgid "![](/assets/uploads/022b3a81-3173-44c6-8887-5bc5a9229087.jpg)"
+msgstr "![](/assets/uploads/022b3a81-3173-44c6-8887-5bc5a9229087.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:30
+#, no-wrap
+msgid "**26 JAN | France:** Rebels in Orleans covered consumer advertising with a ‘tapestry’ made of face masks. Covid-19 isn’t the only virus from which we need protection, they said, there is also the virus of advertising.\n"
+msgstr ""
+"**26 JAN | France:** Des rebelles d'Orléans ont recouvert des publicités "
+"poussant à la consommation d'une \"tapisserie\" faite de masques. Le Covid-"
+"19 n'est pas le seul virus contre lequel nous devons nous protéger, disent-"
+"ils, la publicité est aussi un virus à combattre.\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:32
+msgid "![](/assets/uploads/4dd13d09-7813-4bda-a77d-b1675ff97280.jpg)"
+msgstr "![](/assets/uploads/4dd13d09-7813-4bda-a77d-b1675ff97280.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:34
+msgid ""
+"In the city of Poitiers, the message was more direct: **Make love, not shops!"
+"**"
+msgstr ""
+"À Poitiers, le message était plus direct : **Faites l'amour, pas les "
+"magasins !**"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:36
+msgid "![](/assets/uploads/1b6b417f-a403-4dc8-932e-87dc788fa1df.jpg)"
+msgstr "![](/assets/uploads/1b6b417f-a403-4dc8-932e-87dc788fa1df.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:38
+#, no-wrap
+msgid "**28 JAN | Argentina:** Members of Extinction Rebellion Mendoza joined a protest against the expansion of silver mining in [Chubut province](https://en.wikipedia.org/wiki/Chubut_Province) in Patagonia. Pan American Silver is seeking to exploit deposits on territory occupied by [Mapuche](https://en.wikipedia.org/wiki/Mapuche) and [Tehuelche](https://en.wikipedia.org/wiki/Tehuelche_people) peoples. The communities say the provincial government has failed to consult them as required by the Argentine constitution and they condemn acts of arbitrary arrest and institutional violence committed by the Chubut government against people protesting the ‘mega mining’.\n"
+msgstr ""
+"**28 JAN | Argentine : Des membres d'XR Mendoza se sont joints à une "
+"manifestation contre l'expansion de la mine d'argent dans [la province de "
+"Chubut](https://en.wikipedia.org/wiki/Chubut_Province) en Patagonie. Pan "
+"American Silver cherche à exploiter des gisements sur des territoires des "
+"peuples [Mapuche](https://en.wikipedia.org/wiki/Mapuche) et "
+"[Tehuelche](https://en.wikipedia.org/wiki/Tehuelche_people). D'après ces "
+"communautés, le gouvernement provincial ne les a pas consultées comme "
+"l'exige la constitution argentine, et elles dénoncent les arrestations "
+"arbitraires et la violence institutionnelle du gouvernement de Chubut envers "
+"les personnes qui protestent contre la \"méga-mine\".\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:40
+msgid "![](/assets/uploads/6b89e907-99d6-4780-83d4-db685eba1a0e.jpg)"
+msgstr "![](/assets/uploads/6b89e907-99d6-4780-83d4-db685eba1a0e.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:42
+msgid "![](/assets/uploads/21858e28-ee00-41ee-b8ba-2de85aa0b234.jpg)"
+msgstr "![](/assets/uploads/21858e28-ee00-41ee-b8ba-2de85aa0b234.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:44
+#, no-wrap
+msgid "**29 JAN | Canada:** Four brave Vancouver [rebels were arrested](https://www.facebook.com/xrvanbc/videos/1289799731402867/?t=77) protesting against the [Trans Mountain Extension Pipeline](https://en.wikipedia.org/wiki/Trans_Mountain_pipeline). The action took place on unceded [Coast Salish](https://en.wikipedia.org/wiki/Coast_Salish) territory, and the rebels had permission from the host nation to make the protest. One of those arrested said: “We need to be taking action even during Covid because this pipeline must be stopped before it irreparably harms our environment, our relationships with first nations and the last chance we have to avoid climate breakdown.” Photos: XR Vancouver.\n"
+msgstr ""
+"**29 JAN | Canada:** Quatre courageux [rebelles de Vancouver ont été "
+"arrêtés](https://www.facebook.com/xrvanbc/videos/1289799731402867/?t=77) "
+"alors qu'ils protestaient contre le [Trans Mountain Extension "
+"Pipeline](https://en.wikipedia.org/wiki/Trans_Mountain_pipeline). L'action "
+"s'est déroulée sur le territoire non cédé des [Salish du "
+"littoral](https://en.wikipedia.org/wiki/Coast_Salish), qui avaient permis "
+"aux rebelles de manifester sur leurs terres. L'une des personnes arrêtées a "
+"déclaré \"Nous devons agir même pendant la pandémie de Covid, car ce projet "
+"de gazoduc doit être stoppé avant qu'il ne cause des dommages irréparables à "
+"notre environnement, à nos relations avec les Premières nations, et à la "
+"dernière chance que nous avons d'enrayer la catastrophe climatique\". Photos "
+": XR Vancouver.\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:46
+msgid "![](/assets/uploads/6e7ba6aa-c597-47f2-aee2-a4efc5d6fbd0.jpg)"
+msgstr "![](/assets/uploads/6e7ba6aa-c597-47f2-aee2-a4efc5d6fbd0.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:48
+#, no-wrap
+msgid "**20 JAN | UK:** After 10 days without food, Lissy Green and Elijah McKenzee ended their hunger strike against a planned new coal mine in Cumbria. They were advised that weight loss and weakness could lead to hospitalisation at a time when the UK health service is under unprecedented pressure due to Covid. Their protest remained unacknowledged by the UK government.\n"
+msgstr ""
+"**20 JAN | Royaume-Uni :** Après 10 jours sans manger, Lissy Green et Elijah "
+"McKenzee ont mis fin à leur grève de la faim pour dénoncer le projet d'une "
+"nouvelle mine de charbon dans le comté de Cumbria. On leur a dit que perte "
+"de poids et affaiblissement pourraient les conduire à être hospitalisés, "
+"alors que que le système de santé est sous forte pression au Royaume-Uni en "
+"ces temps de pandémie de COVID. Le gouvernement n'a pas daigné réagir à leur "
+"action.\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:50
+msgid "![](/assets/uploads/b959f692-b805-4fef-9635-03a537cd324f.jpg)"
+msgstr "![](/assets/uploads/b959f692-b805-4fef-9635-03a537cd324f.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:52
+#, no-wrap
+msgid "**31 JAN | Reunion Island:** Extinction Rebellion has spread around the world, even to the small Indian Ocean island of [Reunion](https://en.wikipedia.org/wiki/R%C3%A9union), population 860,000, where rebels and others in Saint Leu amassed 1,500 kg of plastic and other waste and dumped it in front of the town hall to protest against poor garbage collection. Reunion is a department of France.\n"
+msgstr ""
+"**31 JAN | Ile de la Réunion : ** Extinction Rebellion a essaimé dans le "
+"monde entier, même à la [La Réunion](https://en.wikipedia.org/wiki/"
+"R%C3%A9union), une petite île de 860 000 habitants dans l'océan Indien , où "
+"rebelles et amis ont collecté 1 500 kg de plastique et autres déchets à "
+"Saint-Leu, et les ont bennés devant la mairie pour protester contre un "
+"système de collecte des ordures défaillant. La Réunion est un département "
+"français.\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:54
+msgid "![](/assets/uploads/191493c5-6adb-4422-9628-7e9279dc31ae.jpg)"
+msgstr "![](/assets/uploads/191493c5-6adb-4422-9628-7e9279dc31ae.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:56
+#, no-wrap
+msgid "**9 JAN | France:** Normandy rebels decorated motorway bridges near Caen with the message: AIR POLLUTION = 48,000 DEATHS PER YEAR. Several activists were arrested and later sentenced to 35 hours community service, which they refused, stating that their actions were itself a service to the community, nature, and the planet.\n"
+msgstr ""
+"**9 JAN | France:** Des rebelles de Normandie ont affublé des ponts "
+"d'autoroute près de Caen avec le message : POLLUTION DE L'AIR = 48 000 MORTS "
+"PAR AN. Plusieurs militants ont été arrêtés puis condamnés à 35 heures de "
+"travaux d'intérêt général, qu'ils ont refusés, déclarant que leurs actions "
+"étaient en elles-mêmes un service à la communauté, à la nature et à la "
+"planète.\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:58
+msgid "![](/assets/uploads/9d93ae3e-87e2-4561-adc2-f3296ecdbf6c.jpg)"
+msgstr "![](/assets/uploads/9d93ae3e-87e2-4561-adc2-f3296ecdbf6c.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:60
+#, no-wrap
+msgid "**25 JAN | Poland:** Extinction Rebellion activists took to the streets of Wrocław to give a clear signal: enough apathy, it is ‘Time For Rebellion’ (Czas Na Bunt).\n"
+msgstr ""
+"**25 JAN | Pologne :** Des membres d'XR sont descendus dans les rues de "
+"Wrocław, porteurs d'un message clair : assez d'apathie, \"ll est temps de se "
+"rebeller\" (_Czas Na Bunt_).\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:62
+msgid "![](/assets/uploads/76bda6e3-ac07-4699-83a5-b51cdf753844.jpg)"
+msgstr "![](/assets/uploads/76bda6e3-ac07-4699-83a5-b51cdf753844.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:64
+#, no-wrap
+msgid "**17 JAN | Spain:** The blue-costumed sea brigade of Extinction Rebellion Murcia was collecting signatures for a law to grant legal rights - as a ‘legal person’ - to the Mar Menor (’Minor Sea’), a huge ecologically important saltwater lagoon separated from the Mediterranean (Mar Mayor) by a 22km long sandbar. [The lagoon has been heavily polluted](https://www.theguardian.com/environment/2020/nov/18/can-spain-fix-its-worst-ecological-disaster-by-making-a-lagoon-a-legal-person), mainly by nutrient runoff from agriculture, in what activists call a clear case of ecocide.\n"
+msgstr ""
+"**17 JAN | Espagne : La brigade bleue de Murcie, a recueilli des signatures "
+"en faveur d'une loi visant à accorder des droits et le statut de personne "
+"morale à la _Mar Menor_ (\"mer mineure\"), une immense lagune d'eau salée, "
+"un écosystème précieux, séparé de la Méditerranée (_Mar Mayor_) par une "
+"bande de sable de 22 km de long. [La lagune a été terriblement "
+"polluée](https://www.theguardian.com/environment/2020/nov/18/can-spain-fix-"
+"its-worst-ecological-disaster-by-making-a-lagoon-a-legal-person), "
+"principalement par les eaux de ruissellement de cultures agricoles saturées "
+"d'engrais chimiques, ce que les militants considèrent comme un cas d'écocide "
+"manifeste.\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:66
+msgid ""
+"The proposed law would recognise the right of the lagoon to “exist as an "
+"ecosystem” and to be protected and preserved by three groups: legal "
+"guardians, a monitoring committee of “protectors”, and a scientific advisory "
+"board. Any citizen or legal entity would be able to file a lawsuit on behalf "
+"of the Mar Menor."
+msgstr ""
+"La loi proposée reconnaîtrait le droit de la lagune à \"exister en tant qu'"
+"écosystème\" et à être protégée, et préservée par trois groupes : les "
+"gardiens légaux, un comité de \"protecteurs\" assurant sa surveillance, et "
+"un conseil scientifique. Toute citoyenne ou citoyen, toute personne morale "
+"pourrait intenter une action en justice au nom de la _Mar Menor_."
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:68
+msgid "![](/assets/uploads/76b245b4-eed7-4916-aa47-0a3196d15e4c.jpg)"
+msgstr "![](/assets/uploads/76b245b4-eed7-4916-aa47-0a3196d15e4c.jpg)"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:70
+#, no-wrap
+msgid "**18 JAN | Australia:** Rebels joined with [Fossil Free South Australia](https://www.facebook.com/fossilfreesouthaus/?fref=mentions&__xts__%5B0%5D=68.ARD2JLClFpZiSRdHKNcWzQOofwUTBUvndNn_3EJh7j16syHlY5_CgVp-TdycVd5mo6EIoh1Ep2bvoQlsGSwdtnJSPz_JEKGuX3bEILxse220lU1oU5fLl0XC3EmvQVpPag37QLsJlfe9E-7qNY_KnFbHoqRAzxa8O0zWZWE_9jXuHd4A1o-7zErSdf5JOrlrZyR2E2idqutGQhzWy0FhW-BIcd2ufCi69LXJ2W53UoYFw--pzBCvZ0CiEoOQTe1LhMJobjlBxrobU3RxVCg9xRrRZcXp0O3Qi9TA3kwflAVYZmyTpLWMPY-21rLjIAoBG13-N-_It1PPBjuPDrBZTZGSipICL7F2v3Ae6fLxPv2klwhRmWoRzJb5Ej9BJarfADSoTwniGTzydVm5K1cTymS-P_M&__tn__=KH-R) to hold a bicycle die-in action in central Adelaide. They were demanding that the Tour Down Under cycle race drops as its sponsor the Australian energy company Santos, which is pursuing the [controversial $3.6bn Narrabri gas project](https://www.theguardian.com/australia-news/2020/dec/03/hundreds-rally-in-australian-capital-cities-against-the-36bn-narrabri-gas-project) in New South Wales. Photo: George Manos\n"
+msgstr ""
+"**18 Janvier 2010, Australie :** Des rebelles se sont joints à [Fossil Free "
+"South Australia](https://www.facebook.com/fossilfreesouthaus/"
+"?fref=mentions&__xts__%5B0%5D=68"
+".ARD2JLClFpZiSRdHKNcWzQOofwUTBUvndNn_3EJh7j16syHlY5_CgVp-TdycVd5mo6EIoh1Ep2bv"
+"oQlsGSwdtnJSPz_JEKGuX3bEILxse220lU1oU5fLl0XC3EmvQVpPag37QLsJlfe9E-"
+"7qNY_KnFbHoqRAzxa8O0zWZWE_9jXuHd4A1o-7zErSdf5JOrlrZyR2E2idqutGQhzWy0FhW-"
+"BIcd2ufCi69LXJ2W53UoYFw"
+"--pzBCvZ0CiEoOQTe1LhMJobjlBxrobU3RxVCg9xRrRZcXp0O3Qi9TA3kwflAVYZmyTpLWMPY-"
+"21rLjIAoBG13-N-_It1PPBjuPDrBZTZGSipICL7F2v3Ae6fLxPv2klwhRmWoRzJb5Ej9BJarfADSo"
+"TwniGTzydVm5K1cTymS-P_M&__tn__=KH-R) pour un die-in à vélo dans le centre "
+"d'Adélaïde. Ils exigeaient que le _Tour Down Under_ soit annulé, son "
+"sponsor, la compagnie d'énergie australienne Santos, poursuivant [ce projet "
+"d'extraction gazière à 3,6 milliards de dollars à "
+"Narrabri](https://www.theguardian.com/australia-news/2020/dec/03/hundreds-"
+"rally-in-australian-capital-cities-against-the-36bn-narrabri-gas-project) en "
+"Nouvelle-Galles du Sud. Photo : George Manos\n"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:72
+msgid ""
+"![Activists with Palestine Action and Extinction Rebellion North occupy an "
+"Israeli arms factory in Oldham, UK (Photo: Palestine Action)](/assets/"
+"uploads/9d91a0a8-f079-46c9-96ba-84301a5753fa.jpg \"Palestine Action and "
+"Extinction Rebellion activists shut down Israeli arms factory\")"
+msgstr ""
+"[Des militants de Palestine Action et _Extinction Rebellion North occupent "
+"une usine d'armement israélienne à Oldham, au Royaume-Uni (Photo : Palestine "
+"Action)](/assets/uploads/9d91a0a8-f079-46c9-96ba-84301a5753fa.jpg \"Des "
+"militants de Palestine Action et Extinction Rebellion bloquent une usine "
+"d'armement israélienne\")"
+
+#. type: Plain text
+#: 2021-02-09-xr-unchained-48.md:73
+#, no-wrap
+msgid "**1 FEB | UK:** Eight activists from Extinction Rebellion North and [Palestine Action](https://palestineaction.org/) were arrested yesterday after causing £20,000 worth of damage when they shut down an Israeli arms factory in Oldham, UK. The activists stormed the factory early in the morning and occupied it for 16 hours, with six blockading three entrances and another two climbing onto the roof. The Ferranti Technologies plant, owned by Israel’s largest arms firm Elbit Systems, was left emblazoned with red paint and smashed windows. Photo: Palestine Action\n"
+msgstr ""
+"**1 FÉV | Royaume-Uni:** Huit militants d'_Extinction Rebellion North_ et ["
+"Palestine Action](https://palestineaction.org/) ont été arrêtés hier après "
+"avoir causé 20 000 £ de dégâts lors du blocage d'une usine d'armes "
+"israélienne à Oldham, au Royaume-Uni. Les militants ont pris d'assaut "
+"l'usine tôt le matin, et l'ont occupée pendant 16 heures, avec six memebres "
+"bloquant les trois entrées, et deux autres grimpés sur le toit. L'usine "
+"_Ferranti Technologies_, qui appartient à la plus grande entreprise "
+"d'armement israélienne, Elbit Systems, a été lardée de peintures rouges, et "
+"des fenêtres ont été brisées. Photo : Action Palestine\n"

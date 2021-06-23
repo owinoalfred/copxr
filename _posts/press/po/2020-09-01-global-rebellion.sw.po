@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-09-03 15:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: ' Extinction Rebellion launches biggest global wave of protest action yet in September'\n"
+"author: Extinction Rebellion\n"
+"slug: global-rebellion\n"
+"date: '2020-09-01 13:37'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/markus-spiske-79ZwVxQFgrc-unsplash.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:13
+#, no-wrap
+msgid "*Sustained mass civil disobedience gets underway as rebels call for governments worldwide to tell the truth and act now on the accelerating climate and ecological crisis* {.hero-text}\n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:16
+msgid ""
+"**A wave of global civil disobedience is set to take place starting this "
+"month, as Extinction Rebellion (XR) once again takes to the streets in its "
+"biggest wave of coordinated worldwide action since the historic protests of "
+"October 2019.**"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:16
+msgid ""
+"**From Poland to Ecuador, Australia to Austria, XR rebels will come together "
+"in creative, colourful, determined yet peaceful protests to disrupt business "
+"as usual and call for immediate truth telling and action by their "
+"governments to address climate change and biodiversity loss.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:18
+msgid ""
+"![XR protest taking place](/assets/uploads/markus-spiske-79ZwVxQFgrc-"
+"unsplash.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:20
+msgid ""
+"XR Sweden kicked off the actions on August 27 with a 3 day rebellion. XR UK "
+"then picks up the baton on September 1 with a blockade of the British "
+"parliament as politicians return for their first sitting after the summer. "
+"UK Rebels will carry out actions to put increasing pressure on MPs to back "
+"the Climate and Ecological Emergency Bill and agree to create a National "
+"Citizens’ Assembly that empowers people to make fair and democratic "
+"decisions on how to respond to the climate emergency."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:22
+msgid ""
+"Actions then roll on throughout September and October across Europe, the US, "
+"South America, Australia and beyond. Rebels will come together in their home "
+"countries to take a stand against unacceptable government inaction in the "
+"face of a rapidly closing window to avert catastrophic climate change and "
+"ecological and social collapse. It is estimated that some 250,000 people in "
+"more than 1,000 groups across 75 nations are a part of Extinction Rebellion "
+"today."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:24
+msgid ""
+"Clare Farrell, co-founder of XR, called on people everywhere to join the "
+"rebellion and “rise in peace to fight the greatest crime against humanity”, "
+"as time is of the essence."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:26
+msgid ""
+"“We’ve been warned by the scientific community and experts of many kinds "
+"that humanity faces devastating impacts from a heating world and rapidly "
+"accelerating extinction rates. Rebels around the world will once again take "
+"to the streets this September because the reality is that these impacts are "
+"already here,” Farrell says."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:28
+msgid ""
+"The September Rebellion will be the first coordinated international protest "
+"for the group since October 2019, when rebels worldwide staged disruptive "
+"actions that drew unprecedented attention to the threat of climate change "
+"and ecological collapse."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:30
+msgid ""
+"The wave of actions will be carried out in a COVID-safe way, with small "
+"groups of disruptive rebels coming together at a safe distance. The actions "
+"will be respectful of both the current health crisis and of the fact that "
+"urgent action remains more necessary than ever if the world is to avert an "
+"even greater health, social and economic catastrophe."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:32
+msgid ""
+"In 2018, the Intergovernmental Panel on Climate Change (IPCC) warned that "
+"action must be taken to keep the rise in global temperatures below 1.5C "
+"above pre-industrial levels if substantial negative impacts to human "
+"communities, ecosystems and economies are to be avoided."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:34
+msgid ""
+"The global rebellion comes as events continue to make it clear that the "
+"climate and ecological crisis is not only an immensely troubling future "
+"problem but a very real present one - and as governments worldwide pour "
+"trillions into COVID-19 recovery plans."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:36
+msgid ""
+"“As we emerge from the pandemic, we have an opportunity to change systems "
+"for the better but the old guard is fighting for business-as-usual. We "
+"encourage everyone who can to get involved so we can tell those in power to "
+"stop vandalising our only home and instead work today to build an economy "
+"that puts our health and wellbeing first. Join the rebellion - there’s no "
+"time to waste,” Farrell says."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:38
+msgid ""
+"Some of the creative ways that people will be taking action during the "
+"September Rebellion include:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:42
+msgid ""
+"A Rebellion Festival Town in Poland on September 5th: Poland’s Rebels will "
+"construct a space where everyone can work together for the future in a world "
+"defined by respect, openness and a fight for the climate. “The goal is to "
+"put pressure on the Polish authorities to finally stop ignoring our "
+"security, our future and our life on this planet,” the group says. This will "
+"be followed by workshops, lectures and concerts, and most importantly - mass "
+"civil disobedience in which the capital will be blocked."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:42
+msgid ""
+"From rallies to (COVID-safe) dance parties in New York City: Rebels are "
+"promising that much of their activity over three weeks in September will "
+"remain a surprise but participants should expect fun and feisty actions and "
+"peaceful fury in equal measure."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-09-01-global-rebellion.md:42
+msgid ""
+"A massive blockade of the Zuidas financial district in The Netherlands on "
+"September 18th and 21st: Rebels will hit the streets to make it clear that "
+"they will not accept big business blocking action to limit climate change."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:44
+msgid ""
+"To take part, learn more about Extinction Rebellion, or join an XR group in "
+"your home country, visit rebellion.global or see the list of international "
+"actions here:"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:46
+#, no-wrap
+msgid "**5 September - XR Poland:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:48
+msgid "<https://www.facebook.com/events/883838282111419/>"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:50
+#, no-wrap
+msgid "**7 September - XR New York City:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:52
+#, no-wrap
+msgid " <https://www.facebook.com/events/758536381572046/>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:54
+#, no-wrap
+msgid "**16 September - XR Denmark:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:56
+msgid ""
+"<https://www.facebook.com/events/576974796298204/> and Perth (Western "
+"Australia)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:58
+#, no-wrap
+msgid "**18 September - XR Netherlands:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:60
+msgid "<https://www.facebook.com/events/3297820580282351/>"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:62
+#, no-wrap
+msgid "**20 September - XR Switzerland:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:64
+msgid ""
+"<https://www.facebook.com/events/298744868019378/> [](https://organise.earth/"
+"ist-mm/messages/@ali_lowe#)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:66
+#, no-wrap
+msgid "**21 September - XR Norway:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:68
+msgid "<https://www.facebook.com/events/708977793214004/>"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:70
+#, no-wrap
+msgid "**26 September - XR Austria:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:72
+msgid "<https://www.facebook.com/events/727495894649948/>"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:74
+#, no-wrap
+msgid "**1 October - XR Finland:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:76
+msgid "https://www.facebook.com/elokapina"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:78
+#, no-wrap
+msgid "**5 October - XR Italy:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:80 2020-09-01-global-rebellion.md:84
+#, no-wrap
+msgid "**[www.facebook.com/watch/?v=1642318482603498&extid=CBGLkzAH69dy4Mdg](https://www.facebook.com/XRItaly/videos/1642318482603498/?__cft__[0]=AZWPvWaKLKTUgusZ5f4TcxwJybWaWbgao-yXRilPjOlsE6XuHY74TJk3skCeeb7I4GCfAKrj1O-a6ViQ4tjq8Zp0RQE1fima_XUZit0b3TSGEQEHUcJzBNaTXXv0LmNdKzSM4aSPj7EhMp6wfOfYTgcf9Bo9zTBre35FIROOT4QYuw)** \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:82
+#, no-wrap
+msgid "**12 October - XR France:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:86
+msgid ""
+"Also in October, **[XR Bulgaria](https://www.facebook.com/"
+"extinctionrebellionbulgaria)** will rebel!"
+msgstr ""
+
+#. type: Title ##
+#: 2020-09-01-global-rebellion.md:87
+#, no-wrap
+msgid "**About Extinction Rebellion**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:90
+msgid ""
+"Extinction Rebellion is a decentralised, international and politically non-"
+"partisan movement using non-violent direct action and civil disobedience to "
+"persuade governments to act justly on the Climate and Ecological Emergency."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:92
+msgid ""
+"Our movement is made up of people from all walks of life, contributing in "
+"different ways with the time and energy they can spare. Chances are, we have "
+"a local branch very close to you, and we would love to hear from you."
+msgstr ""
+
+#. type: Plain text
+#: 2020-09-01-global-rebellion.md:93
+msgid "[Get Involved!](/get-involved/){.xr-button}"
+msgstr ""

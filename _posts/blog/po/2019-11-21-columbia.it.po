@@ -1,0 +1,240 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-22 11:07+0100\n"
+"PO-Revision-Date: 2021-03-17 02:57+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Italian <http://translate.organise.earth/projects/blog-posts/"
+"2019-11-21-columbia/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Telling Each Other the Truth: Why Are Defenders of Life and Earth Being Murdered in Colombia?\"\n"
+"slug: columbia-defenders\n"
+"date: 2019-11-21 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/11/21/columbia.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Dirsi la verità: Perché Vengono Assassinati i Difensori della Vita "
+"e della Terra in Colombia?\"\n"
+"slug: columbia-defenders\n"
+"date: 2019-11-21 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/11/21/columbia.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:16
+#, no-wrap
+msgid "**Telling Each Other the Truth: Why Are Defenders of Life and Earth Being Murdered in Colombia?**\n"
+msgstr ""
+"**Dirsi la verità: Perché Vengono Assassinati i Difensori della Vita e della "
+"Terra in Colombia?**\n"
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:18
+msgid ""
+"- Carlos Aldairo Arenas Salinas, Colombian farmer and environmentalist, "
+"murdered for protecting Colombia’s paramos (highlands) and endangered native "
+"species such as the Condor."
+msgstr ""
+"- Carlos Aldairo Arenas Salinas, contadino colombiano ed ambientalista, "
+"assasinato per proteggere il paramos (la zona montuosa) e le specie "
+"autoctone in via di estinzione, come il Condor."
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:20
+msgid ""
+"- Colombia was 2018’s most deadly country for earth defenders. Over 170 "
+"social and environmental leaders have been murdered in 2019 so far and 136 "
+"indigenous people have been murdered under Ivan Duque’s current "
+"administration."
+msgstr ""
+"- La Colombia è stato il paese più letale del 2018 per i difensori della "
+"terra. Nel 2019 sono stati assassinati oltre 170 leader sociali e ambientali "
+"e 136 indigeni sono stati assassinati sotto l'attuale amministrazione di "
+"Ivan Duque."
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:22
+msgid ""
+"- The second most biodiverse country in the world, Colombia’s ecosystems are "
+"being violated by multinational extractivist and food industries."
+msgstr ""
+"- Gli ecosistemi di Colombia, che e il secondo paese più biodiverso al "
+"mondo, sono stati violati dalle multinazionali estrattistiche e dalle "
+"industrie alimentari."
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:24
+#, no-wrap
+msgid "**21st November 2019:** **National strike in Colombia to demand change and protection for Madre Tierra**\n"
+msgstr ""
+"**il 21 novembre 2019:** **Sciopero nazionale in Colombia per esigere il "
+"cambiamento e la protezione della Madre Tierra**\n"
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:27
+msgid ""
+"21st November, 2019 - Bogotá (COLOMBIA) - Carlos Aldairo Arena Salinas is "
+"the latest environmental defender to fall in Colombia’s attack on life. The "
+"44-year-old environmentalist was shot to death on a farm in the central "
+"Andean region of Tolima in Colombia. As a local farmer, he had branched out "
+"and promoted the Route of the Condor, an ecotourism project which gave "
+"people the rare opportunity to catch a glimpse of the famed endangered "
+"Andean Condor, the country’s national bird. Arenas Salinas gave his life to "
+"save the Condor from extinction by sharing its majesty with those who "
+"cared.  As the sixth mass extinction advances, so the few brave souls who "
+"resist are cut down by a system so toxic it ultimately will kill everything "
+"in its path."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:29
+msgid ""
+"Fellow activist Katherine Ariza tweets of \"Eyebrows\", as Arenas Salinas "
+"was known as \" a defender of water, the valley of the Frailejones and all "
+"of the highland’s (paramo) creatures. He had so much love for the highlands, "
+"he fought for their preservation until the end. Last night, no doubt doing "
+"something that would risk his life one last time, he is said to have been "
+"slain by criminal gang in the Totarito sector.” Colombia weeps, and the "
+"world grieves."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:31
+msgid ""
+"For the third consecutive year, Colombia was among the three most dangerous "
+"countries for the life of environmental defenders. In its [report](https://"
+"www.globalwitness.org/en/about-us/annual-reviews/), British NGO Global "
+"Witness, states that “in 2018 an average of more than three activists per "
+"week were killed, defending their lands from the invasion of industries such "
+"as mining, logging and agribusiness. The actual figure is likely to be much "
+"higher because cases are often not recorded and rarely investigated. It is "
+"difficult to find reliable and verifiable evidence.”"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:33
+#, no-wrap
+msgid "**La Guajira’s Cerrejón coal mine: human and ecological tragedy**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:35
+msgid ""
+"The devastation in the Guajira region of Colombia that BHP Billiton, "
+"Glencore and Anglo-American have left is just one of many example of "
+"multinational corporate humanitarian and environmental crimes in the country."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:37
+msgid ""
+"According to the local Wayuu people, the Cerrejón, one of the largest coal "
+"mines in the world, has contributed to contamination of local rivers, local "
+"corruption, and drought in the region. Jakeline Romero Epiayu, an activist "
+"with Force of Wayuu Women, believes that the mine is harming people’s "
+"health, as well as local land and water resources. On a recent press tour, "
+"she said that mining is condemning La Guajira residents to poverty and death."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:39
+#, no-wrap
+msgid "**Stories of those who are openly challenging this toxic system**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:41
+msgid ""
+"Extinction Rebellion stands in solidarity with communities of resistance in "
+"Colombia who are fighting against a global economic system based on "
+"exploitation of natural resources and destruction of basic human rights."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:44
+msgid ""
+"In the region of Cauca, the Nasa indigenous community have been fighting to "
+"protect their ancestral territory from narcotrafficking and mono-crop sugar "
+"cane plantations. The pillars of their political formation are autonomy, "
+"cultural identity, unity and territory."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:46
+msgid ""
+"“Our mother, the mother of all living beings, is subjected to owners, it’s "
+"private property. By subjecting her to property in to exploit her, they took "
+"away her freedom to conceive life and to protect and teach us,” say [Mother "
+"Earth](https://liberaciondelamadretierra.org/)’s freedom fighters, the Nasa:"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:49
+msgid ""
+"Empathy begins at home. Many of those reading this will, in the past days "
+"and months, have fought, grafted and struggled to build spaces where human "
+"beings can come together, support one another in a shared sense of loving "
+"grief. Grief for the damage we see all around us; grief for the future we "
+"fear for our children or ourselves. For many, it’s only by means of this "
+"hard-won togetherness that our eyes can be opened to another harsh truth: "
+"that the emergency is not a future prospect, but rather a fact of life for "
+"countless people and communities around the world, and has been for decades."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:51
+msgid ""
+"Empathy begins at home – but it doesn’t end there. It takes us beyond "
+"borders, beyond divisions, to a greater understanding of the immensity of "
+"what’s at stake. It’s only with a global, collective moment of awakening "
+"that we can hope to face this crisis."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:53
+#, no-wrap
+msgid ""
+"On the 21st of November, when millions of Colombians will take to the streets to demand better conditions for their lives and environment, we invite you to act in solidarity by sharing this information. \n"
+"\\#ParoNacional21Nov  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:54
+#, no-wrap
+msgid "\\#GenocidioIndígena  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-21-columbia.md:55
+#, no-wrap
+msgid "\\#DefensoresDeLaMadreTierra  \n"
+msgstr ""

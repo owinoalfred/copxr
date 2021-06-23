@@ -1,0 +1,11 @@
+node_modules/
+static/
+.cache/
+.*
+src/
+public/unusedClientBundle
+public/**/*.html
+public/**/*.css
+public/php/
+coverage/
+webpack.config.js

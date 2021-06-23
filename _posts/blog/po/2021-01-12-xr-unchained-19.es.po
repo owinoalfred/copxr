@@ -1,0 +1,339 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-13 09:49+0800\n"
+"PO-Revision-Date: 2021-01-14 22:24+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/blog-posts/"
+"2021-01-12-xr-unchained-19/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:15
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"XR Unchained #19\"\n"
+"slug: xr-unchained-19\n"
+"date: 2021-01-12 15:31\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/image7-u19.jpg\n"
+"seoImage: /assets/uploads/image7-u19.jpg\n"
+"seoTitle: \"XR Unchained #19\"\n"
+"seoDescription: '\"The seedling of resistance has been sown and is "
+"sprouting\n"
+"  everywhere! We are weeds that don’t go away, weeds that break through\n"
+"  asphalt!\"'\n"
+msgstr ""
+"lang: es\n"
+"title: \"XR Unchained #19-ES\"\n"
+"slug: xr-unchained-19\n"
+"date: 2021-01-12 15:31\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/image7-u19.jpg\n"
+"seoImage: /assets/uploads/image7-u19.jpg\n"
+"seoTitle: \"XR Unchained #19\"\n"
+"seoDescription: '\"La semilla de la resistencia ha sido sembrada y está "
+"brotando en todas partes! Somos malas hierbas que no  \n"
+"  desaparecen, malas hierbas que se abren paso \n"
+"  asfalto!\"'\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:17
+msgid "![](/assets/uploads/image6-u19.jpg)"
+msgstr "![](/assets/uploads/image6-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:19
+msgid "![](/assets/uploads/image7-u19.jpg)"
+msgstr "![](/assets/uploads/image7-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:21
+#, no-wrap
+msgid ""
+"**12 Dec | France:** *Rebels held [a gruesome birthday "
+"party](https://www.facebook.com/xrfrance/videos/3855384194486080/?t=504) in "
+"front of the Eiffel Tower to mark 5 years of the Paris climate "
+"agreement. They later set fire to a banner of its name*\n"
+msgstr ""
+"**12 de diciembre en Francia:** *Rebeldes celebró [una triste fiesta de "
+"cumpleaños](https://www.facebook.com/xrfrance/videos/3855384194486080/?t=504)"
+" frente a la Torre Eiffel para conmemorar los 5 años del acuerdo climático "
+"de París. Más tarde prendieron fuego a un estandarte con su nombre*\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:23
+msgid "![](/assets/uploads/image14-u19.jpg)"
+msgstr "![](/assets/uploads/image14-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:25
+#, no-wrap
+msgid ""
+"**11 Dec | UK:** *Projections appeared in 14 cities across the world, "
+"including London (above), on the eve of the Paris Agreement anniversary. The "
+"action marked the global launch of the [XR COP26 "
+"group](https://xrscotland.org/2020/10/xr-cop26-network-needs-you/) who will "
+"pressure world leaders to deliver in Glasgow later this year.*\n"
+msgstr ""
+"**11 Dec | UK:** *Proyecciones aparecieron en 14 ciudades de todo el mundo, "
+"incluyendo Londres (arriba), en la víspera del aniversario del Acuerdo de "
+"París. La acción marcó el lanzamiento global del [grupo XR "
+"COP26](https://xrscotland.org/2020/10/xr-cop26-network-needs-you/) que "
+"presionará a los líderes mundiales para que cumplan en Glasgow a finales de "
+"este año.*\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:27
+msgid "![](/assets/uploads/image11-u19.jpg)"
+msgstr "![](/assets/uploads/image11-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:29
+#, no-wrap
+msgid ""
+"**12 Dec | Spain:** *Rebel cleaners in Bilbao in the Basque country. The "
+"Paris Agreement anniversary saw rebels mobilise in more than 25 towns across "
+"Spain to demand real measures that limit global temperature to a 1.5 ºC rise "
+"and an end to fossil fuels.*\n"
+msgstr ""
+"**12 de diciembre en España:** *Rebeldes limpiadores en Bilbao en el País "
+"Vasco. El aniversario del Acuerdo de París vio a los rebeldes movilizarse en "
+"más de 25 ciudades de toda España para exigir medidas reales que limiten la "
+"temperatura global a un aumento de 1,5 ºC, y el fin de los combustibles "
+"fósiles.*\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:31
+msgid "![](/assets/uploads/image13-u19.png)"
+msgstr "![](/assets/uploads/image13-u19.png)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:33
+#, no-wrap
+msgid ""
+"**10 Dec | Nigeria:** *Rebels "
+"[commemorated](https://www.facebook.com/xrgauteng/videos/763741331183342/?t=76) "
+"South African environmentalist Fikile Ntshangase who was gunned down in "
+"front of her grandson in October. Fikile was involved in a long campaign "
+"against a huge open-cast coal mine trying to displace families so it can "
+"expand.*\n"
+msgstr ""
+"**10 de diciembre | Nigeria:** *Rebeldes [conmemorado](https://www.facebook."
+"com/xrgauteng/videos/763741331183342/?t=76) Fikile Ntshangase, una "
+"ambientalista sudafricana que fue asesinada a tiros delante de su nieto en "
+"octubre. Fikile estuvo involucrada en una larga campaña contra una enorme "
+"mina de carbón a cielo abierto tratando de desplazar a las familias para "
+"poder expandirse.\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:35
+msgid "![](/assets/uploads/image17-u19.jpg)"
+msgstr "![](/assets/uploads/image17-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:37
+#, no-wrap
+msgid ""
+"**18 Dec | The Netherlands:** *Dutch rebels [blockaded 2 entrances to "
+"Schiphol "
+"Airport](https://nltimes.nl/2020/12/18/climate-protesters-schiphol-airport-glue-hands-ground-glass-doors), "
+"gluing their hands to doors and floors before being taken into police "
+"custody.* Photo: "
+"[Marechaussee](https://twitter.com/Marechaussee/status/1339876063103643648)\n"
+msgstr ""
+"**18 de diciembre, Holanda:** *Rebeldes [bloquearon dos entradas al "
+"aeropuerto de Schiphol](https://nltimes.nl/2020/12/18/climate-protesters-"
+"schiphol-airport-glue-hands-ground-glass-doors), pegandose las manos a las "
+"puertas y al suelo antes de ser arestados.* Foto: "
+"[Marechaussee](https://twitter.com/Marechaussee/status/1339876063103643648)\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:39
+msgid "![](/assets/uploads/image3-u19.jpg)"
+msgstr "![](/assets/uploads/image3-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:41
+#, no-wrap
+msgid ""
+"**23 Dec | Canada:** *Vancouver rebels shut down the main branch of the "
+"Royal Bank of Canada for the day. All it took was 3 ghosts (of Christmas "
+"past, present, and future) the bank’s CEO (played by a rebel) and some hard "
+"truths about how his bank finances the climate and ecological crisis.*\n"
+msgstr ""
+"**23 de diciembre | Canada** *Los rebeldes de Vancouver bloquearon la "
+"sucursal principal del Royal Bank of Canada todo el día. Todo lo que se "
+"necesitó fueron 3 fantasmas (de las navidades pasadas, presentes y futuras) "
+"el CEO del banco (interpretado por un rebelde) y algunas duras verdades "
+"sobre cómo su banco financia la crisis climática y ecológica.*\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:43
+msgid "![](/assets/uploads/image16-u19.jpg)"
+msgstr "![](/assets/uploads/image16-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:45
+#, no-wrap
+msgid ""
+"**4 Dec | New Zealand:** *About 50 rebels locked onto railway tracks at "
+"Dunedin railway station to block a shipment of coal from Bathurst Resources’ "
+"Takitimu mine in Southland to Fonterra’s milk drying factory near Temuka.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:47
+msgid "![](/assets/uploads/image4-u19.jpg)"
+msgstr "![](/assets/uploads/image4-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:49
+#, no-wrap
+msgid ""
+"**30 Dec | Sweden:** *Stockholm rebels posed as directors of 3 large oil "
+"companies [outside the Norwegian "
+"embassy](https://www.facebook.com/extinctionrebellionsverige/videos/418095105910830/?t=10) "
+"to [toast in "
+"champagne](https://www.facebook.com/extinctionrebellionsverige/videos/418095105910830/?t=10) "
+"the licenses given to 13 oil companies to drill for oil in the Arctic.*\n"
+msgstr ""
+"**30 de diciembre | Suecia:** *Rebeldes de Estocolmo se hicieron pasar por "
+"directores de 3 grandes compañías petroleras [fuera de la embajada "
+"noruega](https://www.facebook.com/extinctionrebellionsverige/videos/"
+"418095105910830/?t=10) para [brindar con champán](https://www.facebook.com/"
+"extinctionrebellionsverige/videos/418095105910830/?t=10) por las licencias "
+"otorgadas a 13 compañías petroleras para forar en el Ártico.\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:51
+msgid "![](/assets/uploads/image18-u19.jpg)"
+msgstr "![](/assets/uploads/image18-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:53
+msgid "![](/assets/uploads/image19-u19.jpg)"
+msgstr "![](/assets/uploads/image19-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:55
+#, no-wrap
+msgid ""
+"**6 Jan | USA:** *New York City activists responded to Alaska Native "
+"leaders’ call for an international day of solidarity to stop oil exploration "
+"in the Arctic National Wildlife Refuge.*\n"
+msgstr ""
+"**6 de enero | Estados Unidos:** *Activistas de Nueva York respondieron al "
+"llamado de los líderes nativos de Alaska para un día internacional de "
+"solidaridad para detener la exploración de petróleo en el Refugio Nacional "
+"de Vida Silvestre del Ártico.*\n"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:57
+msgid "![](/assets/uploads/image9-u19.jpg)"
+msgstr "![](/assets/uploads/image9-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:59
+msgid "![](/assets/uploads/image5-u19.jpg)"
+msgstr "![](/assets/uploads/image5-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:61
+#, no-wrap
+msgid ""
+"**6 Dec | Czech Republic:** *Prague rebels and other environmental and human "
+"rights organisations demonstrated in front of 7 ministries to demand that "
+"the government support a 65% reduction in greenhouse gas emissions by 2030.* "
+"Photos: Petr Zewlakk Vrabec\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:63
+msgid "![](/assets/uploads/image12-u19.jpg)"
+msgstr "![](/assets/uploads/image12-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:65
+#, no-wrap
+msgid ""
+"**10 Dec | Tasmania:** *9 Hobart rebels are arrested after protesting 4 "
+"‘dirty’ Australian banks.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:67
+msgid "![](/assets/uploads/image8-u19.jpg)"
+msgstr "![](/assets/uploads/image8-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:69
+#, no-wrap
+msgid ""
+"**12 Dec | Austria:** *Red rebels and other members of XR [blocked the "
+"road](https://www.facebook.com/ExtinctionRebellionAustria/videos/213413233638027/?t=1) "
+"outside the Vienna Opera as part of the international day of action against "
+"fracking - [ShaleMustFall.](https://shalemustfall.org/)*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:71
+msgid "![](/assets/uploads/image15-u19.jpg)"
+msgstr "![](/assets/uploads/image15-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:73
+#, no-wrap
+msgid ""
+"**13 Dec | Australia:** *A flotilla of rebel canoes on the Yarra River "
+"helped to celebrate the Festival for Love + Rage in Melbourne.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:75
+msgid "![](/assets/uploads/image10-u19.jpg)"
+msgstr "![](/assets/uploads/image10-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:77
+#, no-wrap
+msgid ""
+"**27 Dec | Israel:** *A rebel widow clutching the Earth was one of hundreds "
+"who disrupted Jerusalem on the last day of XR Israel’s wave of rebellion.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:79
+msgid "![](/assets/uploads/image2-u19.jpg)"
+msgstr "![](/assets/uploads/image2-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:81
+msgid "![](/assets/uploads/image1-u19.jpg)"
+msgstr "![](/assets/uploads/image1-u19.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-xr-unchained-19.md:82
+#, no-wrap
+msgid ""
+"**7 - 8 Dec | Germany:** *The last tree house is demolished and protestors "
+"removed as police & contractors clear the way through the Dannenroder forest "
+"for the A49 autobahn extension. But a local rebel said: **“The seedling of "
+"resistance has been sown and is sprouting everywhere! We are weeds that "
+"don’t go away, weeds that break through asphalt!”***\n"
+msgstr ""

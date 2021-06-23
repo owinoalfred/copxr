@@ -1,0 +1,117 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-05 11:25+0200\n"
+"PO-Revision-Date: 2020-05-11 10:57+0000\n"
+"Last-Translator: NatH <nvh0919@gmail.com>\n"
+"Language-Team: Russian <http://translate.organise.earth/projects/"
+"press-releases/2020-03-14-coronavirus/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion Applauds International Community’s Ability to Act with Urgency\"\n"
+"slug: coronavirus\n"
+"date: 2020-03-14 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/03/14/img.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:16
+msgid ""
+"![banner](/assets/img/press/2020/03/14/img.png)  {:.img-fluid .my-4 .text-"
+"center}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:21
+msgid ""
+"- Extinction Rebellion is offering its love and support to all communities "
+"around the globe impacted by the coronavirus disease (COVID-19)  - The "
+"global movement welcomes the urgency with which some governments, "
+"organisations and institutions are acting in the face of coronavirus - While "
+"rapid reaction is a model of response, proactive action can reduce the "
+"greatest impacts of both pandemics and ecological/climate breakdown {:.huge ."
+"my-3}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:23
+msgid ""
+"_13th March, 2020, (Global)_ - **Extinction Rebellion** exists to protect "
+"and preserve life, both for now and for future generations.  **Our global "
+"movement stands in solidarity with all those affected by coronavirus**."
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:25
+msgid ""
+"Extinction Rebellion (XR) welcomes the urgency with which many governments, "
+"organisations and institutions are acting in the face of the emergency "
+"represented by the Corona/Covid19 pandemic.  **Our current reality requires "
+"political will and quick, decisive action to mitigate, adapt and evolve to "
+"an existential threat.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:27
+msgid ""
+"The movement's global network, which came together to face the Climate and "
+"Ecological Emergency, is adapting to this crisis, and hopes to be part of "
+"the force which connects people in community resilience at this time."
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:29
+msgid ""
+"As our ability to gather is greatly affected, **each Extinction Rebellion "
+"group will consider whether it shall carry out any local activity in coming "
+"weeks** and months within the context of the planned International "
+"Rebellion. The ongoing Rebellion will adapt to this situation and we expect "
+"activities around the world will vary from community aid and assistance, to "
+"simply providing connection to people."
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:31
+msgid ""
+"As the climate breakdown and ecological collapse continues and we see more "
+"outbreaks and pandemics, Extinction Rebellion will work to provide a growing "
+"community of compassion and care, and create spaces to put into reality how "
+"the world could be different. Now is the time to show how humans can come "
+"together and showcase other ways of existence. We must pull together as "
+"communities, protecting the most vulnerable.  **We must Rebel for Life.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:34
+#, no-wrap
+msgid " [Learn More about Extinction Rebellion](https://rebellion.global/about-us){.xr-button}\n"
+msgstr ""
+" [Еще об Extinction Rebellion](https://rebellion.global/about-us){.xr-button}\n"
+
+#. type: Plain text
+#: 2020-03-14-coronavirus.md:36
+msgid "_For further information please contact:_ **press@organise.earth**"
+msgstr ""

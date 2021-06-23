@@ -1,0 +1,1248 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-09-03 15:17+0200\n"
+"PO-Revision-Date: 2021-01-22 11:51+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/blog-posts/"
+"2020-08-20-reduce-your-carbon-footprint/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:12
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 10 Simple Ways to Reduce Your Carbon Footprint\n"
+"author: Lauren Alysanne\n"
+"slug: reduce-your-carbon-footprint\n"
+"date: '2020-08-20 16:02'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/bike.jpg\n"
+"seoImage: /assets/uploads/bike.jpg\n"
+msgstr ""
+"lang: es\n"
+"title: 10 simples maneras de reducir tu huella de carbono\n"
+"author: Lauren Alysanne\n"
+"slug: reduce-your-carbon-footprint\n"
+"date: '2020-08-20 16:02'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/bike.jpg\n"
+"seoImage: /assets/uploads/bike.jpg\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:14
+msgid ""
+"While climate change is a complex problem in need of a unified global "
+"response, every individual effort towards building a safer future is "
+"valuable. By making changes to our individual lifestyles based on "
+"environmental concern, we can help to influence the attitudes and behaviours "
+"of those around us in relation to addressing the climate crisis. We can lead "
+"by example and assist in sending a message to those in positions of power "
+"that we will not stand for ‘business as usual.’ If you’re hesitant to take "
+"direct action in the form of [joining a climate change protest or "
+"organisation](https://rebellion.global/get-involved/), you can help to make "
+"a difference by trying to reduce your own carbon footprint."
+msgstr ""
+"A pesar de que el cambio climático es un problema complejo que necesita una "
+"respuesta mundial unificada, cada esfuerzo personal para construir un futuro "
+"más seguro es valioso. Si cambiamos aspectos de nuestra vida basados en "
+"intereses medioambientales, podemos influenciar la actitud y el "
+"comportamiento de las personas de nuestro entorno respecto a la crisis "
+"climática. Podemos dar ejemplo y ayudar a enviar un mensaje a las personas "
+"de poder para decirles que no toleramos la situación actual. Si tienes dudas "
+"sobre la acción directa a través de la [unión a una protesta contra el "
+"cambio climático o la organización](https://rebellion.global/get-involved/), "
+"puedes ayudar a marcar la diferencia reduciendo tu huella de carbono."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:16
+#: 2020-08-20-reduce-your-carbon-footprint.md:72
+msgid "![man on bike](/assets/uploads/bike.jpg)"
+msgstr "![hombre en bicicleta](/assets/uploads/bike.jpg)"
+
+#. type: Title ##
+#: 2020-08-20-reduce-your-carbon-footprint.md:17
+#, no-wrap
+msgid "What is a carbon footprint?"
+msgstr "¿Qué es la huella de carbono?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:20
+msgid ""
+"You’ve probably noticed that the term “carbon footprint” is used a lot when "
+"discussing climate change. But what exactly does it mean? A carbon footprint "
+"is a way to measure greenhouse gas emissions. Greenhouse gases are gases "
+"such as carbon dioxide and methane that trap heat in the atmosphere and "
+"thereby contribute greatly to global warming. A carbon footprint is "
+"determined by the sum of these greenhouse gases that are released into the "
+"atmosphere either directly or indirectly by our actions (usually in tons per "
+"year). This can be applied to individuals, families, companies, events, "
+"products and even countries."
+msgstr ""
+"Ya te habrás dado cuenta de que el término «huella de carbono» se utiliza "
+"mucho cuando se habla del cambio climático, pero ¿qué significa exactamente? "
+"Una huella de carbono es una manera de medir las emisiones de gases de "
+"efecto invernadero. Algunos de estos gases son el dióxido de carbono o el "
+"metano, que atrapan el calor en la atmósfera, contribuyendo así al "
+"calentamiento global. La huella de carbono es la suma de estos gases que se "
+"suelta en la atmósfera por culpa directa o indirecta de nuestras acciones "
+"(normalmente en toneladas por año). Se puede aplicar a personas, familias, "
+"empresas, eventos, productos o incluso países."
+
+#. type: Title ##
+#: 2020-08-20-reduce-your-carbon-footprint.md:21
+#, no-wrap
+msgid "How is my carbon footprint measured?"
+msgstr "¿Cómo se calcula mi huella de carbono?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:24
+msgid ""
+"Your carbon footprint is measured by your lifestyle and regular activities "
+"that result in greenhouse gas emissions. Some of the most common examples of "
+"these lifestyle factors and activities include:"
+msgstr ""
+"Tu huella de carbono se mide a partir de tu estilo de vida y tus actividades "
+"cotidianas que dan lugar a emisiones de gases de efecto invernadero. Algunos "
+"ejemplos muy comunes de estos factores y actividades incluyen:"
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:30
+msgid "Transport use"
+msgstr "Uso del transporte"
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:30
+msgid "Electricity use"
+msgstr "Uso de la electricidad"
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:30
+msgid "Dietary choices"
+msgstr "Elecciones alimentarias"
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:30
+msgid "Purchasing habits"
+msgstr "Hábitos de consumo"
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:30
+msgid "General waste"
+msgstr "Residuos generales"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:32
+#, no-wrap
+msgid "*So how can you measure yours?*\n"
+msgstr "*Entonces, ¿cómo calcular la tuya?*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:34
+msgid ""
+"The process of working out your own carbon footprint has never been easier. "
+"You can simply access any of the free carbon footprint calculators available "
+"online. One of the simplest and quickest can be found at [www.conversation."
+"org](https://www.conservation.org/carbon-footprint-calculator#/)."
+msgstr ""
+"El cálculo de tu huella de carbono nunca ha sido fácil. Lo más fácil es "
+"acceder a alguna de las calculadoras libres de huella de carbono disponibles "
+"en línea. Una de las más fáciles y rápidas es [www.conversation.org](https://"
+"www.conservation.org/carbon-footprint-calculator#/)."
+
+#. type: Title ##
+#: 2020-08-20-reduce-your-carbon-footprint.md:35
+#, no-wrap
+msgid "Why is it important to know your carbon footprint?"
+msgstr "¿Por qué es importante saber cuál es tu huella de carbono?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:38
+msgid ""
+"The higher your carbon footprint, the greater your contribution will be "
+"towards global warming and subsequently climate change."
+msgstr ""
+"Cuanto más alta sea tu huella de carbono, más grande será tu contribución al "
+"calentamiento global y, por consiguiente, al cambio climático."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:40
+msgid ""
+"While direct action must be taken against the biggest global carbon "
+"emitters, we would also do well to consider our own contributions."
+msgstr ""
+"A pesar de debemos actuar directamente contra los grandes emisores de "
+"carbono, también debemos considerar nuestra propia contribución."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:42
+msgid ""
+"By taking individual action to lower our own carbon emissions, we can help "
+"to reduce overall consumer demand in these industries. Many individuals "
+"making small changes to their daily lives can send a powerful message that "
+"we do not stand for ‘business as usual’ and demand a change in current "
+"practices."
+msgstr ""
+"Si reducimos nuestras emisiones de carbono, podemos ayudar a reducir la "
+"demanda general de consumo a estas industrias. El hecho de que muchas "
+"personas hagan pequeños cambios en su día a día puede enviar un mensaje "
+"potente: no toleramos la situación actual y exigimos un cambio de las "
+"prácticas actuales."
+
+#. type: Title ##
+#: 2020-08-20-reduce-your-carbon-footprint.md:43
+#, no-wrap
+msgid "How can I reduce my carbon footprint?"
+msgstr "¿Cómo puedo reducir mi huella de carbono?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:46
+msgid ""
+"We are currently in a critical stage of human history where we have the "
+"opportunity to change the fate of our planet and secure a better world for "
+"future generations to come. One of the most immediate actions you can take "
+"to limit climate change is to reduce your own greenhouse gas emissions by "
+"lowering your carbon footprint."
+msgstr ""
+"Actualmente, estamos en un momento crítico de la historia de la humanidad en "
+"el que tenemos la oportunidad de cambiar el destino de nuestro planeta y "
+"asegurar un futuro mejor para las generaciones futuras. Una de las acciones "
+"más inmediatas que podemos hacer para limitar el cambio climático es reducir "
+"nuestras emisiones de gas de efecto invernadero para reducir nuestra huella "
+"de carbono."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:48
+msgid "Here are 10 simple ways that you can reduce your carbon footprint:"
+msgstr "Aquí tienes 10 simples maneras de reducir tu huella de carbono:"
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:49
+#, no-wrap
+msgid "1. Eat more plant foods and less animal foods"
+msgstr "1. Comer más alimentos vegetales y menos alimentos animales"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:52
+msgid "![a healthy salad](/assets/uploads/salad.jpg)"
+msgstr "![una ensalada sana](/assets/uploads/salad.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:54
+#, no-wrap
+msgid "*Eating more plant foods can help to reduce your carbon footprint. Photo by [Anna Pelzer](https://unsplash.com/@annapelzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vegan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*\n"
+msgstr "*Comer más alimentos vegetales puede ayudar a reducir tu huella de carbono. Foto de [Anna Pelzer](https://unsplash.com/@annapelzer?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/s/photos/vegan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:56
+msgid ""
+"One of the greatest ways to reduce your carbon footprint begins with what "
+"you put on your plate every day. This is because the meat and dairy "
+"industries are [some of the top contributors to global greenhouse gas "
+"emissions.](https://ourworldindata.org/co2-and-other-greenhouse-gas-"
+"emissions) In fact, some researchers have even suggested that these "
+"industries may be the [leading cause of climate change](https://static1."
+"squarespace.com/static/55b909f0e4b001c5efc26471/"
+"t/5eed474bcb461a4445657677/1592608613155/Animal+Agriculture+Position+Paper."
+"pdf)."
+msgstr ""
+"Una de las mejores maneras de reducir tu huella de carbono empieza por lo "
+"que pones en tu plato cada día, porque las industrias cárnicas y lácticas "
+"son [de las industrias que más contribuyen a las emisiones de gases de "
+"efecto invernadero.](https://ourworldindata.org/co2-and-other-greenhouse-gas-"
+"emissions) De hecho, algunos investigadores sugieren que estas industrias "
+"son la [causa principal del cambio climático](https://static1.squarespace."
+"com/static/55b909f0e4b001c5efc26471/t/5eed474bcb461a4445657677/1592608613155/"
+"Animal+Agriculture+Position+Paper.pdf)."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:58
+msgid ""
+"So why are farm animals so toxic to the environment? Raising livestock for "
+"food produces large amounts of methane - [a gas that traps much more heat "
+"than carbon dioxide](https://www.onegreenplanet.org/animalsandnature/methane-"
+"vs-carbon-dioxide-a-greenhouse-gas-showdown/). This makes it particularly "
+"dangerous when it comes to global warming. In addition to its impact on the "
+"climate, animal agriculture is also the leading cause of [deforestation]"
+"(https://www.worldwildlife.org/threats/deforestation-and-forest-"
+"degradation). As demand for animal products continues to increase, more land "
+"is cleared for livestock. This contributes greatly to global warming as "
+"[cutting down trees not only releases stored carbon dioxide into the air]"
+"(https://www.scientificamerican.com/article/deforestation-and-global-"
+"warming/) but also [reduces the Earth’s ability to naturally absorb "
+"greenhouse gases](https://www.livescience.com/27692-deforestation.html) from "
+"the atmosphere."
+msgstr ""
+"¿Por qué los animales de granja son tan tóxicos para el medio ambiente? "
+"Criar ganado para comida produce grandes cantidades de metano ([un gas que "
+"se queda atrapado mucho más que el dióxido de carbono](https://www."
+"onegreenplanet.org/animalsandnature/methane-vs-carbon-dioxide-a-greenhouse-"
+"gas-showdown/)). Por eso es tan peligroso cuando hablamos de calentamiento "
+"global. Además de su impacto en el clima, la ganadería es una de las "
+"principales causas de [deforestación](https://www.worldwildlife.org/threats/"
+"deforestation-and-forest-degradation). Cuanto más crece la demanda de "
+"productos animales, más área se deforesta para el ganado. Esto aumenta la "
+"contribución al calentamiento global, puesto que [la tala de árboles no solo "
+"suelta dióxido de carbono almacenado](https://www.scientificamerican.com/"
+"article/deforestation-and-global-warming/) sino que también [reduce la "
+"capacidad de la Tierra para absorber gases de efecto invernadero de manera "
+"natural](https://www.livescience.com/27692-deforestation.html) de la "
+"atmósfera."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:60
+msgid ""
+"While eating a plant-based diet may reduce your contribution to greenhouse "
+"gas emissions by as much as [73 percent](https://science.sciencemag.org/"
+"content/360/6392/987), it’s important to note that the industrial production "
+"of fertilizer to produce plant foods is also [problematic when it comes to "
+"greenhouse gas emissions](https://www.sciencedaily.com/"
+"releases/2019/06/190606183254.htm). This is where [regenerative agriculture]"
+"(https://www.climaterealityproject.org/blog/what-regenerative-agriculture) "
+"(a holistic farming approach that focuses on soil health) could be a key "
+"solution."
+msgstr ""
+"A pesar de que tener una dieta basada en los alimentos vegetales puede "
+"reducir tu contribución a las emisiones de gases de efecto invernadero hasta "
+"un [73%](https://science.sciencemag.org/content/360/6392/987), es importante "
+"remarcar que la producción industrial de fertilizantes para producir "
+"alimentos vegetales también es [un problema para las emisiones de estos "
+"gases](https://www.sciencedaily.com/releases/2019/06/190606183254.htm). Para "
+"este problema, la [agricultura regenerativa](https://www."
+"climaterealityproject.org/blog/what-regenerative-agriculture) (un método "
+"holístico de agricultura que se basa en la salud del suelo) podría ser una "
+"solución clave."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:62
+msgid ""
+"In the meantime, getting more fruits and vegetables into your daily diet is "
+"a great way to both reduce your carbon footprint from current farming "
+"methods and improve your health."
+msgstr ""
+"Mientras tanto, consumir más frutas y verduras con tu dieta es una gran "
+"manera de reducir tu huella de carbono de los métodos de agricultura "
+"actuales y mejorar tu salud."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:64
+#: 2020-08-20-reduce-your-carbon-footprint.md:78
+#: 2020-08-20-reduce-your-carbon-footprint.md:98
+#: 2020-08-20-reduce-your-carbon-footprint.md:112
+#: 2020-08-20-reduce-your-carbon-footprint.md:126
+#: 2020-08-20-reduce-your-carbon-footprint.md:140
+#: 2020-08-20-reduce-your-carbon-footprint.md:156
+#: 2020-08-20-reduce-your-carbon-footprint.md:172
+#: 2020-08-20-reduce-your-carbon-footprint.md:188
+#: 2020-08-20-reduce-your-carbon-footprint.md:207
+#, no-wrap
+msgid "*How can I do this?*\n"
+msgstr "*¿Cómo lo hago?*\n"
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:68
+msgid ""
+"If you’re not willing to give up meat straight away, a good way to begin is "
+"to try [meat-free Mondays](https://www.meatfreemondays.com/). By simply "
+"giving up meat for one day of the week, you will reduce your carbon "
+"footprint by as much as 8lbs (3.6kgs) per day, which is equivalent to not "
+"driving for [two days](http://cok.net/wp-content/uploads/2013/01/MM-"
+"Environment-Fact-Sheet.pdf). You can also try substituting your favourite "
+"meat products with popular plant-based alternatives such as [Beyond Meat]"
+"(https://www.beyondmeat.com/) and [Impossible Foods](https://impossiblefoods."
+"com/)."
+msgstr ""
+"Si no estás dispuesto/a a renunciar directamente a la carne, una buena "
+"manera de empezar es con los [lunes sin carne](https://www.meatfreemondays."
+"com/). Si dejas de comer carne un solo día a la semana, reducirás tu huella "
+"de carbono hasta 3,6 kg por día, que es equivalente a no conducir durante "
+"[dos días](http://cok.net/wp-content/uploads/2013/01/MM-Environment-Fact-"
+"Sheet.pdf). También puedes substituir tus productos cárnicos favoritos por "
+"alternativas famosas de alimentos vegetales como [Beyond Meat](https://www."
+"beyondmeat.com/) o [Impossible Foods](https://impossiblefoods.com/)."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:68
+msgid ""
+"Aim to eat things that are as low as possible on the food chain. This means "
+"eating mostly fruits, vegetables, legumes, beans, nuts, and seeds. This also "
+"has the added benefit of improving your health."
+msgstr ""
+"Ten como objetivo comer cosas que estén en lo más bajo de la cadena "
+"alimentaria. Es decir, frutas, verduras, legumbres, alubias, frutos secos y "
+"semillas. Así, también mejorarás tu salud."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:68
+msgid ""
+"Try replacing one meal a day with a plant-based option. For example, you "
+"might choose to have oatmeal for breakfast instead of bacon and eggs. Doing "
+"this may help to reduce your water and carbon footprint [by about 25%.]"
+"(https://www.earthday.org/going-vegan-one-step-at-a-time/)"
+msgstr ""
+"Intenta reemplazar una comida al día por una opción vegetal. Por ejemplo, "
+"puedes optar por desayunar avena en vez de huevos con beicon. Así, puedes "
+"reducir hasta [un 25%](https://www.earthday.org/going-vegan-one-step-at-a-"
+"time/) el consumo de agua y tu huella de carbono."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:69
+#, no-wrap
+msgid "2. Try other modes of transport"
+msgstr "2. Prueba otros medios de transporte"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:74
+#, no-wrap
+msgid "*Riding your bike to work can reduce your environmental impact. Photo by Snapwire on [pexels.com.](https://www.pexels.com/photo/man-riding-bicycle-on-city-street-310983/)*\n"
+msgstr "*Ir en bici al trabajo puede reducir tu impacto ecológico. Foto de Snapwire en [pexels.com.](https://www.pexels.com/photo/man-riding-bicycle-on-city-street-310983/)*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:76
+msgid ""
+"An average car produces approximately [4.6 metric tons of carbon dioxide per "
+"year](https://www.epa.gov/greenvehicles/greenhouse-gas-emissions-typical-"
+"passenger-vehicle). It does this by burning fossil fuels such as petrol, "
+"which then produces carbon dioxide from the exhaust pipe. [As of 2018, road "
+"transport was responsible for at least 17% of global greenhouse gas "
+"emissions](https://unfccc.int/news/global-car-industry-must-shift-to-low-"
+"carbon-to-survive-cdp), according to one study. If you’re looking to reduce "
+"your carbon footprint, considering alternative modes of transport that don’t "
+"rely on the burning of fossil fuels will help you to do so."
+msgstr ""
+"Un coche promedio produce aproximadamente [4,6 toneladas métricas de dióxido "
+"de carbono por año](https://www.epa.gov/greenvehicles/greenhouse-gas-"
+"emissions-typical-passenger-vehicle) a través de la quema de combustibles "
+"fósiles como el petróleo, que después produce dióxido de carbono en el tubo "
+"de escape. [En 2018, el transporte por carretera fue responsable de al menos "
+"el 17% de las emisiones de gases de efecto invernadero del mundo](https://"
+"unfccc.int/news/global-car-industry-must-shift-to-low-carbon-to-survive-"
+"cdp), según un estudio. Si quieres reducir tu huella de carbono, considera "
+"medios de transporte alternativos que no funcionen gracias a la quema de "
+"combustibles fósiles."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:84
+msgid ""
+"If you live fairly close to your workplace, then riding your bike to work is "
+"one of the best ways to reduce your carbon footprint - with the added bonus "
+"of improving your health."
+msgstr ""
+"Si vives relativamente cerca de tu trabajo, ir en bici es una de las mejores "
+"maneras de reducir tu huella de carbono. Además, mejorarás tu salud."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:84
+msgid ""
+"Choose public transport where possible and avoid regular solo car trips."
+msgstr ""
+"Cuando sea posible, elige el transporte público y evita los viajes "
+"individuales en coche."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:84
+msgid "Take advantage of ride-sharing services."
+msgstr "Aprovecha los servicios de vehículo compartido."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:84
+msgid "Work from home if you are able to do so."
+msgstr "Trabaja desde casa si puedes."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:84
+msgid ""
+"If using your car less is not an option, consider switching to an electric "
+"or hybrid vehicle."
+msgstr ""
+"Si es imposible utilizar menos el coche, piensa en utilizar un vehículo "
+"eléctrico o híbrido."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:85
+#, no-wrap
+msgid "3. Switch to a low-carbon energy provider"
+msgstr "3. Cámbiate a un proveedor de energía de bajo carbono"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:88
+msgid "![solar panels](/assets/uploads/bridge.jpg)"
+msgstr "![paneles solares](/assets/uploads/bridge.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:90
+#, no-wrap
+msgid "*Solar power is a form of low-carbon energy. Photo by [Sungrow EMEA](https://unsplash.com/@sungrowemea?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/solar-power?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+msgstr ""
+"*La energía solar es un tipo de energía de bajo carbono. Foto de [Sungrow "
+"EMEA](https://unsplash.com/@sungrowemea?utm_source=unsplash&utm_medium=referr"
+"al&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/s/photos/"
+"solar-"
+"power?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:92
+msgid ""
+"Another great way to reduce your carbon footprint is to switch your "
+"electricity provider to a company that uses low-carbon energy. For example, "
+"renewable (or clean) energy comes from natural sources such as sunlight, "
+"wind or water. This has a much lower carbon footprint than energy that "
+"relies on the burning of fossil fuels."
+msgstr ""
+"Otra buena manera de reducir tu huella de carbono es cambiar tu proveedor de "
+"energía por una compañía que utilice energía de bajo carbono. Por ejemplo, "
+"la energía renovable (o limpia) proviene de recursos naturales como la luz "
+"del sol, el viento o el agua. Su huella de carbono es mucho más baja que la "
+"que proviene de la quema de combustibles fósiles."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:94
+msgid ""
+"Electricity and heat contributed as much as [15 billion tons (or 13.6 metric "
+"tons)](https://unfccc.int/news/global-car-industry-must-shift-to-low-carbon-"
+"to-survive-cdp) of greenhouse gas emissions worldwide in 2016. That number "
+"continues to rise as changes in the climate lead to increased reliance on "
+"heating systems and air conditioning."
+msgstr ""
+"En 2016, la electricidad y la calefacción contribuyeron con hasta [15 mil "
+"millones de toneladas (o 13,6 toneladas métricas)](https://unfccc.int/news/"
+"global-car-industry-must-shift-to-low-carbon-to-survive-cdp) de emisiones de "
+"gases de efecto invernadero mundialmente. Esta cifra sigue creciendo a causa "
+"de los cambios en el clima que nos hacen depender de sistemas de calefacción "
+"y aire acondicionado."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:96
+msgid ""
+"In order to avoid the catastrophic consequences of failing to take action "
+"against climate change, it is critical that we begin to reduce our reliance "
+"on the fossil fuel industry and move to low-carbon energy providers instead."
+msgstr ""
+"Para evitar las consecuencias catastróficas de la no acción contra el cambio "
+"climático, es vital que empecemos a reducir nuestro apoyo en la industria de "
+"combustibles fósiles y que cambiemos a proveedores de energía de bajo "
+"carbono."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:102
+msgid ""
+"Identify whether your current electricity provider has any renewable energy "
+"options."
+msgstr ""
+"Identifica si tu proveedor de energía actual tiene opciones de energía "
+"renovable."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:102
+msgid ""
+"If it is possible to do so, look into low-carbon energy providers in your "
+"local area. Ask questions of your new provider to ensure that their service "
+"is appropriate for your needs."
+msgstr ""
+"Si puedes, busca proveedores de energía de bajo carbono en tu zona. "
+"Asegúrate de que su servicio es apropiado para tus necesidades."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:102
+msgid ""
+"If renewable energy is not an option, advocate for it to be introduced into "
+"the community by writing to your local government representative or your "
+"power company. The process of advocacy may differ depending on where you "
+"live."
+msgstr ""
+"Si la energía renovable no está disponible, puedes proponer que se "
+"introduzca en tu comunidad escribiendo a tu representante local o a tu "
+"proveedor. El proceso puede depender dependiendo de dónde vives."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:103
+#, no-wrap
+msgid "4. Reduce, reuse, and recycle to waste less"
+msgstr "4. Reduce, reutiliza y recicla para desperdiciar menos"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:106
+msgid "![smartphone with recycle icon displayed](/assets/uploads/phone.jpg)"
+msgstr "![smartphone con el icono de reciclaje](/assets/uploads/phone.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:108
+#, no-wrap
+msgid "*Reduce, reuse, and recycle items in order to produce less waste. Photo by [ready made](https://www.pexels.com/@readymade?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/mobile-phone-with-green-recycling-sign-and-mesh-bag-3850512/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).*\n"
+msgstr "* Reduce, reutiliza y recicla para producir menos residuos. Foto de [ready made](https://www.pexels.com/@readymade?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) de [Pexels](https://www.pexels.com/photo/mobile-phone-with-green-recycling-sign-and-mesh-bag-3850512/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:110
+msgid ""
+"Did you know that globally we dump over [2.12 billion tons of waste per year]"
+"(https://www.theworldcounts.com/challenges/planet-earth/state-of-the-planet/"
+"world-waste-facts)? According to [Our World In Data](https://ourworldindata."
+"org/), [at least 6 percent](https://ourworldindata.org/food-waste-emissions) "
+"of global greenhouse gas emissions come from food loss and waste. While this "
+"might not seem like a large percentage, it is actually [three times](https://"
+"ourworldindata.org/food-waste-emissions) the amount of emissions that come "
+"from international flights. So if you’re wondering how to reduce your carbon "
+"footprint, cutting down on your waste is a great way to do it."
+msgstr ""
+"¿Sabías que tiramos más de [2,12 mil millones de toneladas de residuos al "
+"año](https://www.theworldcounts.com/challenges/planet-earth/state-of-the-"
+"planet/world-waste-facts)? Según [Our World In Data](https://ourworldindata."
+"org/), [al menos el 6%](https://ourworldindata.org/food-waste-emissions) de "
+"las emisiones de gases de efecto invernadero mundiales provienen de los "
+"desperdicios y residuos alimentarios. A pesar de que no parezca mucho, es "
+"[tres veces más](https://ourworldindata.org/food-waste-emissions) de la "
+"cantidad de emisiones que provienen de vuelos internacionales. Si quieres "
+"reducir tu huella de carbono, reducir tus residuos es una buena idea."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:116
+msgid ""
+"Reduce: The more things we buy, the more things we throw away. Think "
+"carefully about your purchases and whether or not they are truly required. "
+"You can reduce your food wastage by growing your own vegetables, composting "
+"and buying items in bulk to avoid or reduce unnecessary packaging."
+msgstr ""
+"Reduce: cuanto más compramos, más tiramos a la basura. Reflexiona sobre tus "
+"compras y sobre si realmente lo necesitas o no. Puedes reducir los residuos "
+"alimentarios si cultivas tus verduras, haces compostaje o compras productos "
+"a granel para evitar o reducir embalajes innecesarios."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:116
+msgid ""
+"Reuse: Use reusable items. If you can afford to, choose products with "
+"longevity in mind and repair them over time instead of constantly replacing "
+"them."
+msgstr ""
+"Reutiliza: usa productos reutilizables. Si te lo puedes permitir, utiliza "
+"productos durables y repáralos en vez de reemplazarlos constantemente."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:116
+msgid ""
+"Recycle: If you can’t reuse or avoid buying an item, then if it is able to "
+"be recycled you should follow your country’s guidelines for doing so. "
+"However, it’s important to note that much of what you recycle can "
+"[ultimately wind up in the same place as regular trash](https://www."
+"businessinsider.com.au/cities-recycling-burned-trashed-2019-5?r=US&IR=T) so "
+"it’s always better to reduce and reuse before this."
+msgstr ""
+"Recicla: si no puedes reutilizar o evitar comprar algo, recíclalo si es "
+"posible siguiendo las directrices de tu gobierno. Sin embargo, es importante "
+"considerar que la mayor parte de lo que reciclamos puede [acabar en el mismo "
+"sitio que la basura normal](https://www.businessinsider.com.au/cities-"
+"recycling-burned-trashed-2019-5?r=US&IR=T). Por eso es siempre mejor reducir "
+"y reutilizar antes."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:117
+#, no-wrap
+msgid "5. Rethink your fashion choices"
+msgstr "5. Reflexiona sobre el consumo de la moda"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:120
+msgid "![wardrobe with clothes](/assets/uploads/wardrobe.jpg)"
+msgstr "![armario con ropa](/assets/uploads/wardrobe.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:122
+#, no-wrap
+msgid "*Rethink your fashion choices to reduce your carbon footprint. Photo by [Zui Hoang](https://unsplash.com/@zuizuii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/clothes-shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+msgstr "*Reflexiona sobre el consumo de moda para reducir tu huella de carbono. Foto de [Zui Hoang](https://unsplash.com/@zuizuii?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/s/photos/clothes-shopping?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:124
+msgid ""
+"The way that clothing is currently designed, manufactured, and used results "
+"in enormous waste and pollution. The “fast fashion” industry alone is "
+"responsible for around [10 percent](https://www.unenvironment.org/news-and-"
+"stories/story/putting-brakes-fast-fashion) of global greenhouse gas "
+"emissions, according to the U.N. You can reduce your carbon footprint, waste "
+"and pollution simply by rethinking the way that you buy clothes. By reducing "
+"the amount of clothing that you buy, only buying second-hand, or purchasing "
+"from eco-friendly companies, you can help to reduce your impact on the "
+"environment."
+msgstr ""
+"La manera actual de diseñar, fabricar y usar la ropa genera una gran "
+"cantidad de residuos y contaminación. La industria de la «moda rápida» en sí "
+"misma es responsable de casi un [10 %](https://www.unenvironment.org/news-"
+"and-stories/story/putting-brakes-fast-fashion) de las emisiones mundiales de "
+"gas de efecto invernadero, según la ONU. Puedes reducir tu huella de "
+"carbono, tus residuos y contaminación si simplemente reflexionas sobre la "
+"manera de comprar ropa: reducir la cantidad de ropa que compras, comprar "
+"únicamente ropa de segunda mano o de empresas ecológicas."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:130
+msgid ""
+"Consider buying second-hand clothes or joining a clothing swap group. This "
+"is a great way to reduce your environmental impact while also saving some "
+"money. If you’re worried that buying second-hand clothes means you’ll have "
+"to sacrifice style, then popular social shopping apps such as [Depop]"
+"(https://www.depop.com/), [Poshmark](https://poshmark.com/), and [Asos "
+"Marketplace](https://marketplace.asos.com/) might just help to ease your "
+"mind. You can browse for plenty of trendy clothes and sell your own as well."
+msgstr ""
+"Plantéate comprar ropa de segunda mano o unirte a un grupo de intercambio de "
+"ropa. Es una gran manera de reducir tu impacto ecológico y, a la vez, "
+"ahorras. Si te preocupa sacrificar tu estilo con la ropa de segunda mano, "
+"hay algunas aplicaciones de compra como [Depop](https://www.depop.com/), "
+"[Poshmark](https://poshmark.com/), y [Asos Marketplace](https://marketplace."
+"asos.com/) que te van a tranquilizar. Puedes echar un vistazo a mucha ropa "
+"de moda y vender la tuya."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:130
+msgid ""
+"If you can afford to, buy your clothing from companies that are eco-friendly "
+"and/or organically certified. Organic clothing made from natural materials "
+"such as bamboo, hemp, cotton and linen is [much better for the environment]"
+"(https://www.fibre2fashion.com/industry-article/7251/organic-cotton-a-"
+"sustainable-choice) than clothes made from synthetic materials such as "
+"polyester."
+msgstr ""
+"Si te lo puedes permitir, compra ropa de empresas ecológicas o de "
+"certificado orgánico. Este tipo de ropa hecha con materiales naturales como "
+"el bambú, el cáñamo, el algodón o el lino es [mucho mejor para el medio "
+"ambiente](https://www.fibre2fashion.com/industry-article/7251/organic-cotton-"
+"a-sustainable-choice) que la ropa hecha de materiales sintéticos como el "
+"poliéster."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:130
+msgid ""
+"Research the company first to make sure that they are adhering to eco-"
+"friendly practices. Most brands that are environmentally conscious will "
+"proudly display their sustainability processes on their website."
+msgstr ""
+"Antes de nada, asegúrate de que la empresa cumple con las prácticas "
+"ecológicas. La mayoría de marcas que con conciencia ecológica exponen con "
+"orgullo sus procesos sostenibles en la página web."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:131
+#, no-wrap
+msgid "6. Choose energy-efficient appliances"
+msgstr "6. Elige electrodomésticos de bajo consumo"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:134
+msgid "![an energy-efficient bulb](/assets/uploads/bulb.jpg)"
+msgstr "![una bombilla de bajo consumo](/assets/uploads/bulb.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:136
+#, no-wrap
+msgid "*LED light bulbs are much more energy efficient. Image by [Daniel Reche](https://pixabay.com/users/Fotorech-5554393/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2663053) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2663053).*\n"
+msgstr "*Las bombillas LED son mucho más eficientes. Imagen de [Daniel Reche](https://pixabay.com/users/Fotorech-5554393/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2663053) de [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=2663053).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:138
+msgid ""
+"While choosing a renewable energy provider is the first thing you should "
+"consider when trying to reduce your carbon footprint at home, using energy "
+"efficient appliances can cut your greenhouse gas contributions even further. "
+"Energy efficient appliances are designed to [use less energy](https://"
+"matteroftrust.org/energy-efficient-appliances-and-their-benefits/#:~:"
+"text=Energy%20efficient%20appliances%20are%20designed,as%20solar%20energy"
+"%20and%20water.&text=An%20example%20of%20energy%20efficient,heaters%2C%20and"
+"%20solar%20water%20heaters.) than standard appliances. They are generally "
+"more environmentally friendly and can save you money over time."
+msgstr ""
+"A pesar de que elegir un proveedor de energía renovable es lo primero que "
+"debes considerar para reducir tu huella de carbono en casa, el uso de "
+"electrodomésticos de bajo consumo puede reducir aún más tu contribución a la "
+"emisión de gases de efecto invernadero. Estos electrodomésticos están "
+"diseñados para [usar menos energía](https://matteroftrust.org/energy-"
+"efficient-appliances-and-their-benefits/#:~:text=Energy%20efficient"
+"%20appliances%20are%20designed,as%20solar%20energy%20and%20water.&text=An"
+"%20example%20of%20energy%20efficient,heaters%2C%20and%20solar%20water"
+"%20heaters.) que los normales. En general, son más ecológicos y, a la larga, "
+"sirven de ahorro."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:146
+msgid ""
+"If you’re not sure where to begin, aim to replace white goods (e.g. "
+"refrigerators, dishwashers, washing machines) that are more than 20 years "
+"old with modern energy-efficient alternatives as this will have the most "
+"impact on reducing your carbon footprint. For example, refrigerators now use "
+"[40-60% less energy than models manufactured before the year 2000](https://"
+"carbontrack.com.au/blog/energy-efficient-appliance/). However, if you have a "
+"lot of old appliances at home, you might aim to replace them when the cost "
+"of repairs amount to more than half of the cost of a new one."
+msgstr ""
+"Si no sabes por dónde empezar, céntrate en sustituir los electrodomésticos "
+"de línea blanca (neveras, lavaplatos, lavadoras...) que tengan más de 20 "
+"años por alternativas modernas de bajo consumo. Este cambio es el que más "
+"impacto tendrá en la reducción de tu huella de carbono. Por ejemplo, las "
+"neveras usan ahora [entre un 40 y un 60& de energía menos que los modelos "
+"fabricados antes del año 2000](https://carbontrack.com.au/blog/energy-"
+"efficient-appliance/). Sin embargo, si tienes muchos electrodomésticos "
+"antiguos en casa, deberías sustituirlos cuando el coste de reparación sea "
+"más alto que la mitad de el de compra."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:146
+msgid ""
+"When choosing larger appliances, select those with lower energy ratings if "
+"it is possible to do so in your country."
+msgstr ""
+"Al elegir grandes electrodomésticos, elige los que tengas la clasificación "
+"energética más baja, si es posible en tu país."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:146
+msgid "Choose ceiling fans over air conditioning units where possible."
+msgstr ""
+"Si es posible, opta por los ventiladores de techo antes que los aires "
+"acondicionados."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:146
+msgid "Replace all incandescent light bulbs with LED bulbs."
+msgstr "Sustituye todas las bombillas incandescentes por LED."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:146
+msgid ""
+"Turn less efficient appliances off at the power outlet when they are not in "
+"regular use as this will reduce your standby power consumption."
+msgstr ""
+"Desenchufa los electrodomésticos menos eficientes cuando no los utilices "
+"para reducir el consumo en stand by."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:147
+#, no-wrap
+msgid "7. Travel less or travel wisely"
+msgstr "7. Viaja menos o viaja con prudencia"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:150
+msgid "![a train platform ](/assets/uploads/platform.jpg)"
+msgstr "![un andén](/assets/uploads/platform.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:152
+#, no-wrap
+msgid "*Try taking the train to your next travel destination. Photo by [veerasak Piyawatanakul](https://www.pexels.com/@veerasak-piyawatanakul-392493?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/several-bags-on-trolley-near-train-in-station-1170187/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).*\n"
+msgstr "*Intenta ir en tren a tu próximo destino. Foto de [veerasak Piyawatanakul](https://www.pexels.com/@veerasak-piyawatanakul-392493?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) de [Pexels](https://www.pexels.com/photo/several-bags-on-trolley-near-train-in-station-1170187/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:154
+msgid ""
+"If you’re serious about reducing your carbon footprint, you should rethink "
+"the way that you travel. Planes are one of the most polluting modes of "
+"transport, along with cars. This is because aircraft require a lot of petrol "
+"to run efficiently. Prior to the coronavirus pandemic, the aviation industry "
+"was predicted to [triple its greenhouse gas emissions by 2050](https://www."
+"c2es.org/content/international-civil-aviation-organisation/#:~:text=Airline"
+"%20emissions%20account%20for%202,neutral%20growth%20starting%20in%202020.). "
+"If it continues with business as usual following the pandemic, the aviation "
+"industry’s carbon footprint could continue to grow exponentially if not "
+"restricted. By choosing to travel less or more sustainably, you can reduce "
+"your carbon footprint."
+msgstr ""
+"Si te tomas en serio reducir tu huella de carbono, deberías reflexionar "
+"sobre tu manera de viajar. Los aviones, junto con los coches, son uno de los "
+"medios de transporte más contaminantes, porque requiere mucho petróleo para "
+"funcionar eficientemente. Antes de la Covid-19, se estimaba que la industria "
+"aeronáutica [triplicaría sus emisiones de gases de efecto invernadero en "
+"2050](https://www.c2es.org/content/international-civil-aviation-organisation/"
+"#:~:text=Airline%20emissions%20account%20for%202,neutral%20growth%20starting"
+"%20in%202020.). Si, tras la pandemia, se vuelve a la normalidad, la huella "
+"de carbono de esta industria podría seguir creciendo exponencialmente, a no "
+"ser que se restrinja. Viajar menos o de manera más sostenible puede ayudarte "
+"a reducir la huella de carbono."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:162
+msgid ""
+"Holiday closer to home. The further you travel, the higher your carbon "
+"footprint will be. Choosing a holiday destination closer to home allows you "
+"to satisfy your urge to explore without the need for a plane ticket. You "
+"might even develop a new sense of wonder and appreciation for the country "
+"you live in."
+msgstr ""
+"Ve de vacaciones cerca de casa. Cuanto más lejos viajes, más alta será tu "
+"huella de carbono. Escoger un destino vacacional cerca de casa te permite "
+"satisfacer la necesidad de explorar sin necesidad de un billete de avión. "
+"Además, quizás tendrás nuevas ganas de descubrir y apreciar el país donde "
+"vives."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:162
+msgid ""
+"Opt for train travel over plane travel. You can reduce your carbon footprint "
+"by as much as [90 percent](https://www.seat61.com/CO2flights.htm) by "
+"choosing to take the train to your holiday destination."
+msgstr ""
+"Opta por viajar en tren y no en avión. Puedes reducir tu huella de carbono "
+"hasta un [90 %](https://www.seat61.com/CO2flights.htm) si eliges ir en tren "
+"a tu próximo destino."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:162
+msgid ""
+"If you must fly, choose a non-stop flight. Most of the carbon emissions from "
+"fuel are emitted during take-off and landing. By choosing non-stop flights, "
+"you’re eliminating excess pollution."
+msgstr ""
+"Si debes viajar, elige un vuelo sin escala. La mayoría de emisiones de "
+"combustible se emiten durante el despegue y el aterrizaje. Si eliges un "
+"vuelo sin escala, eliminas el exceso de contaminación."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:162
+msgid ""
+"If you’re a frequent flyer for work reasons, then advocating for the use of "
+"video conferencing technology in your place of work could help to "
+"drastically reduce your carbon footprint. Following the rise of this "
+"technology during the coronavirus pandemic, now is the perfect time to "
+"negotiate remote working or online meeting opportunities."
+msgstr ""
+"Si debes viajar frecuentemente por trabajo, es una buena idea proponer usar "
+"la tecnología de videoconferencia en el trabajo para reducir drásticamente "
+"tu huella de carbono. Puesto que esta tecnología ha crecido durante la "
+"pandemia, es el momento perfecto para negociar el teletrabajo o las "
+"oportunidades de videoconferencia."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:162
+msgid ""
+"Consider off-setting your carbon emissions when air travel is your only "
+"option. Off-setting means compensating for your carbon emissions by funding "
+"projects or organisations that reduce carbon emissions in other ways (e.g. "
+"planting trees)."
+msgstr ""
+"Plantéate compensar tus emisiones de carbono si tu única opción es volar. "
+"Esto es, compensar tus emisiones de carbono con la financiación de proyectos "
+"o organizaciones que reducen las emisiones de carbono de otros modos como la "
+"plantación de árboles."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:163
+#, no-wrap
+msgid "8. Be water wise"
+msgstr "8. Sé prudente con el agua"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:166
+msgid "![a tap with dripping water](/assets/uploads/tap.jpg)"
+msgstr "![un grifo que gotea](/assets/uploads/tap.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:168
+#, no-wrap
+msgid "*Conserve water by turning off the tap when not in use. Photo by [Sasikan Ulevik](https://unsplash.com/@ulevik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/dripping-tap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+msgstr "*Conserva agua cerrando el grifo cuando no lo uses. Foto de [Sasikan Ulevik](https://unsplash.com/@ulevik?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/s/photos/dripping-tap?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:170
+msgid ""
+"Another way to reduce your carbon footprint at home is to address your water "
+"usage and wastage. The way that water is currently supplied, treated, and "
+"used [requires a large amount of energy that is sourced from the burning of "
+"fossil fuels.](https://www.wateronline.com/doc/white-paper-the-carbon-"
+"footprint-of-water-0001) By conserving water and using it in more efficient "
+"ways you can reduce the carbon footprint of your household."
+msgstr ""
+"Otra manera de reducir tu huella de carbono es abordar el uso de agua y de "
+"desperdicio. La manera de proveer, tratar y usar el agua actualmente "
+"[requiere una gran cantidad de energía que proviene de la quema de "
+"combustibles fósiles.](https://www.wateronline.com/doc/white-paper-the-"
+"carbon-footprint-of-water-0001) Conservar agua y usarla de manera más "
+"eficiente puede reducir tu huella de carbono en casa."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:178
+msgid ""
+"Take a shower instead of a bath if you have the ability to do so. [This can "
+"use up to 4 times less energy.](https://www.who.int/globalchange/"
+"publications/factsheets/Kit2008_annex1_2.pdf?ua=1) Add a low-flow showerhead "
+"to reduce your water footprint even further."
+msgstr ""
+"Si puedes, toma una ducha en lugar de un baño. [Así, puedes usar 4 veces "
+"menos energía](https://www.who.int/globalchange/publications/factsheets/"
+"Kit2008_annex1_2.pdf?ua=1) Para reducir aún más tu huella, puedes añadir una "
+"flor de ducha de bajo caudal."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:178
+msgid ""
+"Turn off the tap. Try not to leave water running when completing routine "
+"tasks such as brushing your teeth or shaving."
+msgstr ""
+"Cierra el grifo. Intenta no tenerlo abierto cuando hagas cosas rutinarias "
+"como lavarte los dientes o afeitarte."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:178
+msgid ""
+"If you have a washing machine or dishwasher try to only use them when "
+"completely full. As these appliances require larger amounts of water to run "
+"effectively, the less often you need to use them the better. You can also "
+"reduce your washing machine’s energy consumption by [more than 80%](https://"
+"carbontrack.com.au/blog/family-energy-efficient-laundry/#:~:text=This%20is"
+"%20the%20easiest%20way,the%20water%20in%20warm%20washes.) simply by "
+"selecting a cold water cycle."
+msgstr ""
+"Si tienes lavadora o lavaplatos, intenta utilizarlos únicamente cuando estén "
+"completamente llenos. Puesto que estos electrodomésticos necesitan grandes "
+"cantidades de agua para funcionar eficientemente, cuanto menos los uses, "
+"mejor. También puedes reducir el consumo de energía de la lavadora [hasta un "
+"80 %](https://carbontrack.com.au/blog/family-energy-efficient-laundry/#:~:"
+"text=This%20is%20the%20easiest%20way,the%20water%20in%20warm%20washes.) si "
+"usas un ciclo de lavado en frío."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:178
+msgid ""
+"If you have the capacity to do so, use a rainwater tank to supply household "
+"water. Depending on where you live, this could reduce reliance on "
+"groundwater supply which is much less energy efficient."
+msgstr ""
+"Si es posible, utiliza un tanque de agua de lluvia para el consumo de agua "
+"de tu hogar. Dependiendo de dónde vives, puede reducir la dependencia en "
+"aguas subterráneas, que es mucho menos eficiente."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:178
+msgid ""
+"Fix any leaking taps. If a sink or bathtub tap leaks one drip per second, it "
+"can waste [more than 3000 gallons per year](https://www.watercalculator.org/"
+"posts/indoor-water-leaks/)."
+msgstr ""
+"Repara los grifos con gotean. Si un lavabo o una bañera gotea cada segundo, "
+"puede desperdiciar [más de 11.000 litros al año](https://www.watercalculator."
+"org/posts/indoor-water-leaks/)."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:179
+#, no-wrap
+msgid "9. Turn down the temperature at home"
+msgstr "9. Baja la temperatura del hogar"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:182
+msgid ""
+"![a ceiling fan](https://lh5.googleusercontent.com/aDIGCiWqAdb1qcuEQFgTg-"
+"t4rIiYBJRqgri9ft_FvRL3oCavRS8klCbCiB4xO6afZOjx4imGwJZ2SScwBsthcAWPMM1ycFJkOHxQCzEzzoTtNiRTrokvVX08wcVwJE4iMIYAQJg1)"
+msgstr ""
+"![un ventilador de techo](https://lh5.googleusercontent.com/"
+"aDIGCiWqAdb1qcuEQFgTg-"
+"t4rIiYBJRqgri9ft_FvRL3oCavRS8klCbCiB4xO6afZOjx4imGwJZ2SScwBsthcAWPMM1ycFJkOHxQCzEzzoTtNiRTrokvVX08wcVwJE4iMIYAQJg1)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:184
+#, no-wrap
+msgid "*Use a ceiling fan where possible to reduce your energy consumption. Image by [관성 정](https://pixabay.com/users/funeyes-375779/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=414575) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=414575).*\n"
+msgstr "*Cuando sea posible, utiliza un ventilador de techo para reducir el consumo de energía. Imagen de [관성 정](https://pixabay.com/users/funeyes-375779/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=414575) de [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=414575).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:186
+msgid ""
+"As the climate continues to change, global reliance on air conditioning "
+"systems is expected to [triple by 2050](https://climate.org/cooling-your-"
+"home-but-warming-the-planet-how-we-can-stop-air-conditioning-from-worsening-"
+"climate-change/). This is worrisome for global warming, as heaters and air "
+"conditioners require a lot of electricity to run effectively, which is "
+"sourced from fossil fuels. [Manufactured cooling systems also release a "
+"greenhouse gas known as Hydrofluorocarbon (HCF)](https://climate.org/cooling-"
+"your-home-but-warming-the-planet-how-we-can-stop-air-conditioning-from-"
+"worsening-climate-change/) into the atmosphere, which has a much greater "
+"heat-trapping capacity than carbon dioxide. By reevaluating the way that you "
+"use these systems at home, you can not only reduce your carbon footprint but "
+"also save some money on your energy bill."
+msgstr ""
+"A medida que el clima va cambiando, se prevee que la dependencia de los "
+"sistemas de aire acondicionado [se triplique antes del 2050](https://climate."
+"org/cooling-your-home-but-warming-the-planet-how-we-can-stop-air-"
+"conditioning-from-worsening-climate-change/). Esto es preocupante para el "
+"calentamiento global, porque la calefacción y el aire acondicionado requiere "
+"mucha electricidad proveniente de combustibles fósiles para funcionar "
+"eficientemente. [Los sistemas de refrigeración fabricados también sueltan "
+"unos gases de efecto invernadero llamados hidrofluorocarburos (HFC)](https://"
+"climate.org/cooling-your-home-but-warming-the-planet-how-we-can-stop-air-"
+"conditioning-from-worsening-climate-change/) en la atmósfera, que tienen "
+"mucha más capacidad de mantener el calor que el dióxido de carbono. Evaluar "
+"el uso de estos sistemas en el hogar permite, no solo reducir la huella de "
+"carbono, sino también ahorrar en la factura energética."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:193
+msgid ""
+"Turn down the heat. By lowering the heat by just 1˚C, [you can save up to "
+"661 lbs (or 300 kgs) of carbon dioxide emissions per year and 5-10% off your "
+"energy bill](https://www.who.int/globalchange/publications/factsheets/"
+"Kit2008_annex1_2.pdf?ua=1)."
+msgstr ""
+"Baja la calefacción. Si la bajas 1ºC, [puedes ahorrar hasta 300kgs de "
+"emisiones de dióxido de carbono al año y entre un 5 y un 10% de la factura "
+"energética](https://www.who.int/globalchange/publications/factsheets/"
+"Kit2008_annex1_2.pdf?ua=1)."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:193
+msgid ""
+"Use fans instead of air conditioners where available. A fan requires "
+"[significantly less energy](https://carbontrack.com.au/guides/energy-"
+"efficiency-guide/heating-and-cooling/) to run effectively than an air "
+"conditioner. Alternatively, use energy efficient settings on your air "
+"conditioner or use it sparingly."
+msgstr ""
+"Usa ventiladores en lugar de aire acondicionado cuando sea posible. Un "
+"ventilador necesita [muchísima menos energía](https://carbontrack.com.au/"
+"guides/energy-efficiency-guide/heating-and-cooling/) para funcionar "
+"eficientemente que el aire acondicionado. Otra alternativa es usar "
+"parámetros de energía eficientes en el aire acondicionado o usarlo con "
+"moderación."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:193
+msgid ""
+"If you have the funds to do so, invest in insulation. Adequate home "
+"insulation can assist in keeping warm air inside your home during the colder "
+"months and hot air outside during the warmer months. This can greatly reduce "
+"your reliance on heating and cooling systems."
+msgstr ""
+"Si puedes permitírtelo, invierte en el aislamiento térmico. Un aislamiento "
+"adecuado puede ayudar a mantener el calor dentro de casa durante los meses "
+"fríos y el aire frío durante los meses de más calor. Así, puedes reducir la "
+"dependencia de la calefacción y los sistemas de refrigeración."
+
+#. type: Bullet: '* '
+#: 2020-08-20-reduce-your-carbon-footprint.md:193
+msgid ""
+"Consider replacing older appliances. If your air conditioner or heater is "
+"greater than 20 years old, it is likely to be much less energy efficient "
+"than current models."
+msgstr ""
+"Plantéate sustituir electrodomésticos viejos. Si tu aire acondicionado o "
+"calefacción tiene más de 20 años, probablemente es mucho menos eficiente que "
+"los modelos actuales."
+
+#. type: Title ###
+#: 2020-08-20-reduce-your-carbon-footprint.md:194
+#, no-wrap
+msgid "10. Join the rebellion!"
+msgstr "10. ¡Únete a la rebelión!"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:197
+msgid "![an extinction rebellion sign](/assets/uploads/sign.jpg)"
+msgstr "![un cartel de extinction rebellion](/assets/uploads/sign.jpg)"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:199
+#, no-wrap
+msgid "*Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/climate-change?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+msgstr "*Foto de [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) en [Unsplash](https://unsplash.com/s/photos/climate-change?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).*\n"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:201
+msgid ""
+"If you’ve made it this far, you’re likely to be serious about reducing your "
+"carbon footprint and making a positive change for the future of our planet. "
+"Climate change is an issue that requires urgent action and systemic changes "
+"to the way that society currently functions. Time is running out and we are "
+"rapidly hurtling towards an unsafe future for all of mankind."
+msgstr ""
+"Si has llegado hasta aquí, probablemente quieres reducir tu huella de "
+"carbono y hacer un cambio positivo para el futuro del planeta. El cambio "
+"climático es un problema que requiere acción urgente y cambios sistemáticos "
+"en el funcionamiento de la sociedad. El tiempo se acaba y nos precipitamos a "
+"un futuro incierto para toda la humanidad."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:203
+msgid ""
+"While individual actions are an important part of the battle against climate "
+"change, meaningful progress will come from using our collective power. By "
+"joining the global rebellion against the current destructive ‘business as "
+"usual’ attitude of governments and corporations, you can help to advocate "
+"for a safer future for us all."
+msgstr ""
+"A pesar de que las acciones individuales son una parte importante de la "
+"lucha contra el cambio climático, el progreso significativo procede del "
+"poder colectivo. Al unirte a la rebelión global contra la actitud "
+"destructiva de «normalidad» de los gobiernos y las grandes empresas, puedes "
+"ayudarnos a defender un futuro más seguro para todos."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:205
+msgid ""
+"Though this may not directly reduce your own carbon footprint, it has the "
+"potential to make the largest difference in the shortest amount of time "
+"towards preventing further global warming. So if you’re passionate about "
+"making a difference by reducing your own carbon footprint, why not expand "
+"your goals to include advocating for the reduction of the global carbon "
+"footprint as well?"
+msgstr ""
+"Quizás no reducirá directamente tu huella de carbono, pero probablemente "
+"marcará una gran diferencia a corto plazo en la prevención del calentamiento "
+"global. Si te apasiona marcar la diferencia reduciendo tu huella de carbono, "
+"¿por qué no expandir tus objetivos y defender así la reducción de la huella "
+"de carbono mundial?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:209
+msgid "The best thing you can do is to act now and join Extinction Rebellion."
+msgstr "Lo mejor que puedes hacer es actuar y unirte a Extinction Rebellion."
+
+#. type: Title ##
+#: 2020-08-20-reduce-your-carbon-footprint.md:210
+#, no-wrap
+msgid "Who are Extinction Rebellion?"
+msgstr "¿Quiénes son Extinction Rebellion?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:213
+msgid ""
+"We are a global environmental movement of concerned citizens who use non-"
+"violent civil disobedience to compel governments to act to address the "
+"climate and ecological crisis. You can join our growing community to rebel "
+"against the current path of destruction that we are on. If attending a rally "
+"is a bit beyond your comfort zone, there’s no need to worry, you can help in "
+"other ways such as donating your time, skills, or money to the cause as well."
+msgstr ""
+"Somos un movimiento medioambiental mundial de ciudadanos preocupados que "
+"utilizan la desobediencia civil no violenta para forzar a los gobiernos a "
+"actuar contra la crisis climática y ecológica. Puedes unirte a nuestra "
+"comunidad rebelde contra el camino actual de destrucción en el que estamos. "
+"Si no te sientes cómodo/a asistiendo a una acción, no te preocupes. Puedes "
+"ayudar de otras maneras: donar tu tiempo, habilidades o dinero a la causa."
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:215
+msgid ""
+"So why not start making a difference right now and join the movement today?"
+msgstr ""
+"¿Por qué no empezamos a marcar la diferencia ahora mismo y te unes al "
+"movimiento?"
+
+#. type: Plain text
+#: 2020-08-20-reduce-your-carbon-footprint.md:216
+msgid "[Get Involved!](/get-involved/){.xr-button}"
+msgstr "[¡Involúcrate!](/involúcrate/){.xr-button}"
+
+#, no-wrap
+#~ msgid "*Article by Lauren Alysanne*\n"
+#~ msgstr "*Artículo de Lauren Alysanne*\n"

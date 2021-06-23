@@ -1,0 +1,524 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-06-20 18:02+0200\n"
+"PO-Revision-Date: 2020-07-15 15:48+0000\n"
+"Last-Translator: danegon <danegon@gmail.com>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/blog-posts/"
+"2020-06-17-xr-unchained-15/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'XR Unchained #15'\n"
+"slug: xr-unchained-15\n"
+"date: '2020-06-18 16:04'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/UnchainedImage1.jpg\n"
+"seoImage: /assets/uploads/UnchainedImage1.jpg\n"
+msgstr ""
+"lang: es\n"
+"title: 'XR Unchained #15'\n"
+"slug: xr-unchained-15\n"
+"date: '2020-06-18 16:04'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/UnchainedImage1.jpg\n"
+"seoImage: /assets/uploads/UnchainedImage1.jpg\n"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:14
+msgid "15 MAY | Christchurch, New Zealand"
+msgstr "15 MAYO | Christchurch, Nueva Zelanda"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:16
+msgid ""
+"![Rebels protesting against a coal mine](/assets/uploads/UnchainedImage1.jpg)"
+msgstr ""
+"![Rebeldes protestando contra una mina de carbón](/assets/uploads/"
+"UnchainedImage1.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:18
+msgid ""
+"Ten rebels from [Extinction Rebellion Christchurch](https://www.facebook.com/"
+"XR.Chch/) ([Ōtautahi](https://www.facebook.com/XR.Chch/)) [took a colourful "
+"stand](https://www.youtube.com/watch?v=RScq_9ekt5o&feature=youtu.be) against "
+"Bathurst Resources Ltd’s plan to increase production from its open-cast coal "
+"mine at Coalgate and extend its life from 2022 to 2035. The bulk of the coal "
+"goes to heat and dry milk powder at Fonterra dairy factories. [Fonterra Co-"
+"operative Group](https://en.wikipedia.org/wiki/Fonterra), a [](https://en."
+"wikipedia.org/wiki/New_Zealand) [multinational](https://en.wikipedia.org/"
+"wiki/Multinational_corporation) [dairy](https://en.wikipedia.org/wiki/Dairy) "
+"[company](https://en.wikipedia.org/wiki/Co-operative) owned by around 10,500 "
+"New Zealand farmers, is responsible for approximately 30% of the world's "
+"dairy exports and is New Zealand's largest company."
+msgstr ""
+"Diez rebeldes de [Extinction Rebellion Christchurch](https://www.facebook."
+"com/XR.Chch/) ([Ōtautahi](https://www.facebook.com/XR.Chch/)) [adoptaron una "
+"postura colorida](https://www.youtube.com/"
+"watch?v=RScq_9ekt5o&feature=youtu.be) contra el plan de Bathurst Resources "
+"Ltd para aumentar la producción de su mina de carbón a cielo abierto en "
+"Coalgate y extender así su vida útil del 2022 al 2035. La mayoría del carbón "
+"se destina a calentar y secar leche en polvo en fábricas de productos "
+"lácteos en Fonterra. [Fonterra Co-operative Group](https://es.wikipedia.org/"
+"wiki/Fonterra), una [cooperativa](https://es.wikipedia.org/wiki/Cooperativa) "
+"[multinacional](https://es.wikipedia.org/wiki/Multinacional) de [productos "
+"lácteos](https://es.wikipedia.org/wiki/L%C3%A1cteo) propiedad de unos 10.500 "
+"granjeros de Nueva Zelanda, es la responsable de aproximadamente un 30% de "
+"las exportaciones de productos lácteos de todo mundo y la empresa más grande "
+"de Nueva Zelanda."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:20
+msgid "7 JUN | Quito, Ecuador"
+msgstr "7 JUNIO | Quito, Ecuador"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:22
+msgid ""
+"![rebels in front of a pair of shoes](/assets/uploads/UnchainedImage2.jpg)"
+msgstr ""
+"![rebeldes delante de pares de zapatos](/assets/uploads/UnchainedImage2.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:24
+msgid ""
+"Masked and distanced rebels placed pairs of shoes on the road outside "
+"Ecuador’s National Assembly to remember those who have died defending nature "
+"and human rights in the country. They include:"
+msgstr ""
+"Rebeldes con mascarillas y distancia de seguridad colocaron pares de zapatos "
+"en la calle, delante de la Asamblea Nacional de Ecuador para recordar a los "
+"que han muerto defendiendo la naturaleza y los derechos humanos en el país. "
+"Entre ellos, se encuentran:"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:26
+msgid ""
+"José Tendetza, from the Shuar people of Tundayme, murdered for defending "
+"their land."
+msgstr ""
+"José Tendetza, del pueblo Shuar de Tundayme, asesinado por defender su "
+"tierra."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:28
+msgid ""
+"Edgar Yucailla, a peasant leader in Guamote, killed during the National "
+"Strike last year."
+msgstr ""
+"Edgar Yucailla, un líder campesino en Guamote, asesinado durante el paro "
+"nacional del año pasado."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:30
+msgid ""
+"Enrique Piaguaje, a traditional doctor from the Siekopai people, who died "
+"during the Covid-19 pandemic due to state negligence."
+msgstr ""
+"Enrique Piaguaje, un doctor tradicional del pueblo SIekopai que murió "
+"durante la pandemia del Covid-19 a causa de una negligencia estatal."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:32
+msgid "6 JUNE | Rome, Italy"
+msgstr "6 JUNIO | Roma, Italia"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:34
+msgid ""
+"![Rebels protesting againg the climate collapse](/assets/uploads/"
+"UnchainedImage3.jpg)"
+msgstr ""
+"![Rebeldes protestando contra el colapso climático](/assets/uploads/"
+"UnchainedImage3.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:36
+msgid ""
+"Roman rebels stood on the parapet of Ponte Sant'Angelo, an ancient bridge "
+"crossing the river Tiber, to show how humanity is on the edge of climate "
+"collapse."
+msgstr ""
+"Rebeldes romanos subieron al parapeto del Ponte Sant'Angelo, un antiguo "
+"puente que cruza el río Tíber, para mostrar que la humanidad está al borde "
+"del colapso climático."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:38
+msgid ""
+"They held up signs telling their government to stop procrastinating and "
+"fulfil its moral duty to protect the Italian people from disaster. You can "
+"watch a [beautiful video](https://www.facebook.com/ExtinctionRebellionRoma/"
+"videos/2324621394501185/) of this bold action. Photo: Stella Levantesi"
+msgstr ""
+"Sujetaron pancartas que pedían al gobierno que deje de procrastinar y cumpla "
+"su deber moral de proteger a los italianos del desastre. Puedes ver un ["
+"vídeo precioso](https://www.facebook.com/ExtinctionRebellionRoma/videos/"
+"2324621394501185/) de esta osada acción. Foto: Stella Levantesi"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:40
+msgid "20 MAY | Imo State, Nigeria"
+msgstr "20 MAYO | Estado de Imo, Nigeria"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:42
+msgid ""
+"![Rebels holding extinction rebellion signs](/assets/uploads/UnchainedImage4."
+"jpg)"
+msgstr ""
+"![Rebeldes con pancartas de extinction rebellion](/assets/uploads/"
+"UnchainedImage4.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:44
+msgid ""
+"Extinction Rebellion Nigeria celebrated World Bee Day with a talk show, "
+"public enlightenment, and a visit to the Ministry of Environment of Imo "
+"State in south-eastern Nigeria."
+msgstr ""
+"Extinction Rebellion Nigeria celebró el Día Mundial de la Abeja con un "
+"programa de debate, divulgación pública y una visita del Ministro de Medio "
+"Ambiente del estado de Imo en el sureste de Nigeria."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:46
+msgid "22 MAY | Zagreb, Croatia"
+msgstr "22 MAYO | Zagreb, Croacia"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:48
+msgid "![Rebels protesting](/assets/uploads/UnchainedImage5.jpg)"
+msgstr "![Rebeldes protestando](/assets/uploads/UnchainedImage5.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:50
+msgid ""
+"Rebels staged a performance outside the National and University Library in "
+"Zagreb to protest against oil company INA’s sponsorship of Croatia’s "
+"presidency of the EU Council. The Croatian government part owns INA and "
+"recently extended its permits to drill for oil and gas in and around the "
+"Adriatic sea."
+msgstr ""
+"Rebeldes hicieron una actuación delante de la Biblioteca nacional y "
+"universitaria de Zagreb para protestar contra el patrocinio de la empresa "
+"petrolera INA a favor de la presidencia de Croacia en el Consejo Europeo. El "
+"gobierno croata es uno de los propietarios de INA y, recientemente, ha "
+"ampliado la autorización de la empresa para extraer petróleo y gas en el mar "
+"Adriático y sus alrededores."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:52
+msgid "19 MAY | Europe"
+msgstr "19 MAYO | Europa"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:54
+msgid ""
+"On the day the Royal Dutch Shell oil company held a virtual Annual "
+"Shareholders meeting at its headquarters in The Hague, rebels and [Shell "
+"Must Fall](https://www.facebook.com/shellmustfall/) activists across Europe "
+"blocked Shell petrol stations and held a series of protests and "
+"demonstrations."
+msgstr ""
+"El día que la empresa petrolera Royal Dutch Shell hizo una reunión anual de "
+"accionistas virtual en su sede de La Haya, rebeldes y activistas de [Shell "
+"Must Fall](https://www.facebook.com/shellmustfall/) de toda Europa "
+"bloquearon gasolineras de Shell y protestaron y se manifestaron."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:56
+msgid "![Rebels protesting against Shell](/assets/uploads/Unchained6.jpg)"
+msgstr "![Rebeldes protestando contra Shell](/assets/uploads/Unchained6.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:58
+msgid "Shell headquarters, The Hague, Netherlands"
+msgstr "Sede de Shell, La Haya, Países Bajos"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:60
+msgid "![Rebels protesting against Shell](/assets/uploads/UnchainedImage7.jpg)"
+msgstr ""
+"![Rebeldes protestando contra Shell](/assets/uploads/UnchainedImage7.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:62
+msgid "Germany"
+msgstr "Alemania"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:64
+msgid "![Rebel protesting against Shell](/assets/uploads/Unchainedimage8.jpg)"
+msgstr ""
+"![Rebelde protestando contra Shell](/assets/uploads/Unchainedimage8.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:66
+msgid "Czech Republic. The sign reads: “Shell already knew it in 1986”"
+msgstr "República Checa. El cartel dice «Shell ya lo sabía en 1986»"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:68
+msgid "1 JUN | Horse Hill, near Gatwick Airport, UK"
+msgstr "1 JUNIO | Horse Hill, cerca del aeropuerto de Gatwick, Reino Unido"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:70
+msgid ""
+"![Rebels protesting against fracking](/assets/uploads/UnchainedImage9.jpg)"
+msgstr ""
+"![Rebeldes protestando contra la fracturación hidráulica](/assets/uploads/"
+"UnchainedImage9.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:72
+msgid ""
+"From before dawn brave rebels blocked the entrance to the Horse Hill oil "
+"fracking site operated by UK Oil & Gas Investments (UKOG) to protest the "
+"continued extraction of fossil fuels and prevent tankers going in and out."
+msgstr ""
+"Mucho antes del amanecer, valientes rebeldes bloquearon la entrada del área "
+"de fracturación hidráulica de petróleo de UK Oil & Gas Investments (UKOG) en "
+"Horse Hill para protestar contra la extracción continua de combustibles "
+"fósiles y evitar la entrada y salida de camiones cisterna."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:74
+msgid "5 JUN | Budapest, Hungary"
+msgstr "5 JUNIO | Budapest, Hungría"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:76
+msgid "![Rebels pouring oil on a globe](/assets/uploads/Unchainedimage10.jpg)"
+msgstr ""
+"![Rebeldes lanzando petróleo en un globo terráqueo](/assets/uploads/"
+"Unchainedimage10.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:78
+msgid ""
+"On [World Environment Day](https://www.worldenvironmentday.global/) "
+"Hungarian rebels poured oil on the Earth in order to draw attention to the "
+"need for systemic change. “The fossil energy industry,” they said, “is "
+"taking us closer and closer to a climate catastrophe at an accelerating "
+"pace. We demand that policymakers prioritize a green and fair transition "
+"rather than bailing out polluting companies!” Photo: Péter Lakatos"
+msgstr ""
+"El [Día Mundial del Medio Ambiente](https://www.worldenvironmentday.global/"
+"es), rebeldes húngaros lanzaron petróleo sobre la Tierra para hacer notar la "
+"necesidad de un cambio sistémico. Declararon que «la industria de la energía "
+"fósil nos acerca más y más a la catástrofe climática a un ritmo acelerado. ¡"
+"Exigimos que los legisladores prioricen una transición verde y justa, no "
+"rescatar empresas contaminantes!» Foto: Péter Lakatos"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:80
+msgid "21 MAY | New York City, USA"
+msgstr "21 MAYO | Nueva York, Estados Unidos"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:82
+msgid ""
+"![Rebels protesting against Blackrock](/assets/uploads/UnchainedImage11.jpg)"
+msgstr ""
+"![Rebeldes protestando contra Blackrock](/assets/uploads/"
+"UnchainedImage11.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:84
+msgid ""
+"Physically distancing activists brought a hot air balloon to Black Rock "
+"headquarters in New York to tell its boss, Larry Fink, that the company is "
+"full of hot air on climate! In January [Fink announced that Black Rock]"
+"(https://www.theguardian.com/environment/2020/jan/15/blackrock-climate-"
+"change-environment-divestment-coal), the world’s largest investment "
+"corporation with $7 trillion in assets, would reduce its investments in "
+"carbon-intensive energy companies. American rebels say this is just a load "
+"of greenwash."
+msgstr ""
+"Activistas con distancia de seguridad llevaron un globo aerostático hasta la "
+"sede de Black Rock en Nueva York para decirle a su jefe, Larry Fink, ¡que "
+"todas sus declaraciones son palabras al viento! En enero, [Fink anunció que "
+"Black Rock](https://www.theguardian.com/environment/2020/jan/15/blackrock-"
+"climate-change-environment-divestment-coal), la empresa de inversión más "
+"grande del mundo con valor de 7 billones de dólares, reduciría sus "
+"inversiones en empresas de energía con grandes volúmenes de carbón. Los "
+"rebeldes americanos dicen que es simplemente ecoimpostura."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:86
+msgid ""
+"![Rebels protesting against Blackrock](/assets/uploads/UnchainedImage12.jpg)"
+msgstr ""
+"![Rebeldes protestando contra Blackrock](/assets/uploads/"
+"UnchainedImage12.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:88
+msgid "22 May, San Francisco"
+msgstr "22 de mayo, San Francisco"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:90
+msgid "29 MAY | Oslo, Norway"
+msgstr "29 MAYO | Oslo, Noruega"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:92
+msgid "![Rebels protesting in Norway](/assets/uploads/UnchainedImage13.jpg)"
+msgstr ""
+"![Rebeldes protestando en Noruega](/assets/uploads/UnchainedImage13.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:94
+msgid ""
+"Rebels went to the Ministry of Finance, the Ministry of Agriculture and "
+"Food, the Ministry of Climate and Environment, and the Storting (parliament) "
+"to protest against the Norwegian government’s ‘green’ crisis package. Only "
+"3.6 billion Norwegian krone were set aside for green initiatives, whereas "
+"the oil industry has received 100 billion and the airline industry 6 "
+"billion. XR Norway said: “The Norwegian authorities consistently choose "
+"industry and short-term profits ahead of climate and the environment. The "
+"‘green transition’ is in reality black. Norway continues to fuel global "
+"overheating and does little for ecosystems in crisis.”"
+msgstr ""
+"Rebeldes fueron ante el Ministerio de Finanzas, el Ministerio de Agricultura "
+"y Alimentos, el Ministerio de Clima y Medio Ambiente y el Storting "
+"(parlamento) para protestar contra la crisis de empaquetado \"verde\" del "
+"gobierno noruego. Únicamente 3,6 mil millones de coronas noruegas se "
+"destinaron para iniciativas verdes, mientras que la industria petrolífera ha "
+"recibido 100 mil millones y la industria aeronáutica ha recibido 6 mil "
+"millones. Según XR Noruega, «las autoridades noruegas optan sistemáticamente "
+"por la industria y la rentabilidad a corto plazo antes que el clima y el "
+"medio ambiente. La \"transición verde\" es, en realidad, negra. Noruega "
+"sigue alimentando el sobrecalentamiento global y actúa poco por los "
+"ecosistemas en crisis»."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:96
+msgid "29 MAY | Spain"
+msgstr "29 MAYO | España"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:98
+msgid "![Rebels protesting in Spain](/assets/uploads/UnchainedImage14.jpg)"
+msgstr "![Rebeldes protestando en España](/assets/uploads/UnchainedImage14.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:100
+msgid ""
+"Spanish activists placed pairs of shoes in front of town halls in Madrid "
+"(above) and 10 other cities to demand citizen participation in developing a "
+"green recovery from the pandemic."
+msgstr ""
+"Activistas españoles colocaron pares de zapatos delante de los ayuntamientos "
+"de Madrid (arriba) y otras diez ciudades para exigir la participación "
+"ciudadana en el desarrollo de una recuperación ecológica de la pandemia."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:102
+msgid "5 JUN | Athens, Greece"
+msgstr "5 JUNIO | Atenas, Grecia"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:104
+msgid "![Rebels protesting in Greece](/assets/uploads/UnchainedImage15.jpg)"
+msgstr "![Rebeldes protestando en Grecia](/assets/uploads/UnchainedImage15.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:106
+msgid ""
+"Greek rebels continue to demand the withdrawal of the so-called "
+"Modernization of Environmental Legislation law which in fact withdraws "
+"environmental regulations, permitting oil exploration in Greek waters and "
+"construction in protected parts of the countryside."
+msgstr ""
+"Los rebeldes griegos siguen exigiendo la retirada de la llamada Ley de "
+"modernización de la legislación medioambiental que, de hecho, suprime la "
+"regulación medioambiental y permite la explotación petrolífera en aguas "
+"griegas y la construcción en áreas protegidas del campo."
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:108
+msgid "![Rebel holding an Act Now sign](/assets/uploads/UnchainedImage16.jpg)"
+msgstr ""
+"![Rebelde con pancarta de Act Now](/assets/uploads/UnchainedImage16.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:110
+msgid ""
+"“Come to Parliament! It is dawn and now we need you more than ever to be "
+"able to continue! We kept the road closed all night! The road remains closed "
+"for 12 hours! We are not leaving until the anti-environmental law of Mr. "
+"Kostis Hatzidakis is repealed.”"
+msgstr ""
+"«¡Venid al Parlamento! ¡Es el amanecer y os necesitamos más que nunca para "
+"continuar! ¡Hemos mantenido cortada la carretera toda la noche! ¡Desde hace "
+"12 horas! No nos iremos hasta que la ley anti-medioambiental del sr. Kostis "
+"Hatzidakis sea derogada.»"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:112
+msgid "25 MAY | Poznan, Poland"
+msgstr "25 MAYO | Poznan, Polonia"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:114
+msgid "![Rebel Protesting in Poland](/assets/uploads/UnchainedImage17.jpg)"
+msgstr "![Rebelde protestando en Polonia](/assets/uploads/UnchainedImage17.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:116
+msgid "“Covid Today. Climate Tomorrow. Act Now.”"
+msgstr "«Covid hoy. Clima mañana. Actúa ahora.»"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:118
+msgid "19 MAY | near Brno, Czech Republic"
+msgstr "19 MAYO | Cerca de Brno, República Checa"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:120
+msgid ""
+"![Crop Circle in the shape of the Extinction Rebellion symbol](/assets/"
+"uploads/UnchianedImage18.jpg)"
+msgstr ""
+"![Círculo de cultivo con la forma del símbolo de Extinction Rebellion](/"
+"assets/uploads/UnchianedImage18.jpg)"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:121
+msgid ""
+"“Today, a circle in rapeseed with our logo of an hourglass appeared near "
+"Brno. What is the more advanced civilization trying to tell us? 👽 Probably "
+"the fact that in the Czech Republic rapeseed cultivation occupies about 15% "
+"of arable land - much more than we need. Rapeseed requires a high degree of "
+"chemicals, which are lethal to bees, and the herbicides used end up in "
+"groundwater.”"
+msgstr ""
+"«Hoy, un círculo en canola con nuestro logo de un reloj de arena ha "
+"aparecido cerca de Brno. ¿Qué nos está intentando decir la civilización más "
+"avanzada? 👽 Probablemente que en la República Checa el cultivo de canola "
+"ocupa casi un 15% del terreno cultivable, mucho más de lo necesario. La "
+"canola necesita un alto grado de productos químicos, que son letales para "
+"las abejas, y herbicidas que terminan en las aguas subterráneas.»"

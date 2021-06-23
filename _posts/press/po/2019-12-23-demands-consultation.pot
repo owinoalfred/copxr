@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-04-22 17:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2019-12-23-demands-consultation.md:12
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Global demands consultation\"\n"
+"slug: global-demands-consultation\n"
+"date: 2019-12-23 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-23-demands-consultation.md:15
+msgid ""
+"Today Extinction Rebellion launches [a consultation to create its new global "
+"demands, inviting feedback from the people around the "
+"world](https://forms.organise.earth/index.php?r=survey/index&sid=971934), "
+"whether involved with Extinction Rebellion or not. The provisional global "
+"demands are as follows and the thinking behind them can be found "
+"[here](https://docs.google.com/document/d/1CYAp4Y8nlL6jWHrj51v6_fskg65iU2FWAJD4GE1xO3I/edit#):"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: 2019-12-23-demands-consultation.md:19
+msgid ""
+"TELL THE TRUTH – The international community must tell the truth and declare "
+"a planetary climate and ecological emergency."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: 2019-12-23-demands-consultation.md:19
+msgid ""
+"ACT NOW – The international community must act now to stop ecocide, halt "
+"biodiversity loss, reduce global greenhouse gas emissions to net zero by "
+"2030 and adapt to our changing circumstances."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: 2019-12-23-demands-consultation.md:19
+msgid ""
+"BEYOND POLITICS – The international community must work to create and be led "
+"by Global Citizens’ Assemblies based on Justice, common mutual survival "
+"interest and wellbeing for all peoples and Life on Earth."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-23-demands-consultation.md:21
+msgid ""
+"_“Extinction Rebellion’s national demands have helped to change the "
+"conversation around the world already, so that people are talking and "
+"thinking about what is possible by 2025, rather than 2050,_” said Sam "
+"Smithson of Extinction Rebellion UK."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-23-demands-consultation.md:22
+msgid ""
+"_“Now is the time to think global – and Extinction Rebellion is thinking we "
+"need a ten year plan globally. These global demands are intended to open up "
+"the necessary conversation now, they are an offering to the world and we "
+"look forward to getting your feedback so that as we move beyond this COP to "
+"2020 looking to Glasgow next year, together we can literally change what is "
+"possible in this world.”_"
+msgstr ""

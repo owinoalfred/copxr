@@ -1,0 +1,1220 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-11-11 16:54+0100\n"
+"PO-Revision-Date: 2021-01-20 21:22+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-11-10-jose-gualinga-interview/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:16
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Voice of the Living Forest: Interview with Indigenous Resistance Leader\n"
+"  José Gualinga\"\n"
+"author: Beth Pitts\n"
+"slug: jose-gualinga-interview\n"
+"date: 2020-11-10 10:36\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/imagep.jpg\n"
+"seoImage: /assets/uploads/imagep.jpg\n"
+"seoDescription: José Gualinga is a leader of the Native People of Sarayaku, an\n"
+"  indigenous Kichwa group with 1400 inhabitants living in a remote part of\n"
+"  Ecuador’s southern Amazon.\n"
+msgstr ""
+"lang: fr\n"
+"title: \"Interview de José Gualinga, leader de la résistance autochtone et \n"
+"porte-parole de la forêt vivante\"\n"
+"author: Beth Pitts\n"
+"slug: jose-gualinga-interview\n"
+"date: 2020-11-10 10:36\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/imagep.jpg\n"
+"seoImage: /assets/uploads/imagep.jpg\n"
+"seoDescription: José Gualinga représente le peuple autochtone des Sarayaku, "
+"une\n"
+"  communauté Kichwa de 1400 habitants qui vit au find fond de l'Amazonie, \n"
+"  dans le sud de l'Équateur.\n"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:18
+#, no-wrap
+msgid "*This interview was first published on [Writers Rebel](https://writersrebel.com/voice-of-the-living-forest-interview-with-indigenous-resistance-leader-jose-gualinga/).*\n"
+msgstr ""
+"*Cette interview a d'abord été publiée sur le site des auteurs rebelles : ["
+"Writers Rebel](https://writersrebel.com/voice-of-the-living-forest-interview-"
+"with-indigenous-resistance-leader-jose-gualinga/).*\n"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:20
+msgid ""
+"José Gualinga is a leader of the Native People of Sarayaku, an indigenous "
+"Kichwa group with 1400 inhabitants living in a remote part of Ecuador’s "
+"southern Amazon. Known for their defence of the rights of nature and "
+"indigenous peoples, the Sarayaku call themselves the People of Noon, "
+"referring to an ancient prophecy of their ancestors claiming that they would "
+"be a pillar of resistance after other communities had surrendered, a beacon "
+"of light as strong as the midday sun."
+msgstr ""
+"José Gualinga est un leader du peuple autochtone Sarayaku, une communauté "
+"Kichwa de 1400 habitants vivant dans une partie reculée de l'Amazonie du sud "
+"de l'Equateur. Connus pour défendre les droits de la nature et des "
+"populations autochtones, les Sarayaku s'autoproclament le Peuple de Midi, en "
+"référence à une ancienne prophétie véhiculée par leurs ancêtres stipulant "
+"qu'ils resteraient des piliers de la résistance après que les autres "
+"communautés aient abandonné la lutte, comme un phare dont la lumière serait "
+"aussi intense que celle du soleil de midi."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:22
+msgid ""
+"In 2012, the Sarayaku won a historic victory at the Inter-American Court of "
+"Human Rights, which found that the Ecuadorian State had violated their "
+"rights by allowing an oil company to prospect in their territory without "
+"consultation. A turning point in the case was when José’s father, Don Sabino "
+"Gualinga, the spiritual leader of Sarayaku and their most eminent yachak "
+"(shaman), then aged 92, took the witness stand. He was asked about the "
+"impact of the 1,433 kilograms of explosives that had been planted in "
+"Sarayaku territory by the oil company, accompanied by armed military "
+"personnel. Referring to the invisible beings that had been disturbed by the "
+"explosions, Don Sabino said that “half of the lords of the jungle are no "
+"longer there”."
+msgstr ""
+"En 2012, les Sarayaku ont remporté une victoire historique à la Cour "
+"interaméricaine des droits de l'homme, qui a estimé que l'État équatorien "
+"avait violé leurs droits en permettant à une compagnie pétrolière de "
+"prospecter sur leur territoire sans consultation. L'affaire a pris un "
+"tournant décisif lorsque le père de José, Don Sabino Gualinga, chef "
+"spirituel des Sarayaku, et leur plus éminent yachak (chaman), alors âgé de "
+"92 ans, a témoigné à la barre. Interrogé sur l'impact des 1 433 kilos "
+"d'explosifs utilisés sur le territoire des Sarayaku par des travailleurs de "
+"la compagnie pétrolière, accompagnés de militaires armés, Don Sabino a "
+"évoqué les êtres invisibles perturbés par ces explosions, et déclaré que \""
+"la moitié des maîtres de la jungle n'étaient plus là\"."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:24
+msgid ""
+"“It is a living forest. There are trees and medicinal plants and all kinds "
+"of beings… Many hid, others died when it burst. They are the ones who "
+"maintain the jungle, the forest … All of those who wish to cause damage, "
+"they don’t understand what they are doing. We do understand it, because we "
+"see it.”"
+msgstr ""
+"\"C'est une forêt vivante. Il y a des arbres, des plantes médicinales, "
+"toutes sortes d'êtres qui y vivent... Beaucoup se sont cachés, d'autres sont "
+"morts quand ça a explosé. Ce sont eux qui maintiennent l'équilibre de la "
+"jungle, la forêt... Tous ceux qui commettent ces dégats n'ont pas idée de ce "
+"qu'ils font, alors que nous si, nous le savons, parce que nous voyons tout "
+"ça.\""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:26
+msgid ""
+"The same year, the Sarayaku created the Kawsak Sacha (Living Forest) "
+"Declaration asserting that, as a living entity, their territory is subject "
+"to legal rights and demanding that these rights be upheld. The proposal was "
+"presented at the global climate change conference, COP21, and the President "
+"of France, François Hollande, in 2015, and to the Ecuadorian Government in "
+"2018. The Sarayaku have also launched a professional football team to spread "
+"the word about oil exploitation in the Amazon; sailed a canoe down the "
+"Seine; and created a documentary, Children of the Jaguar, which won Best "
+"Documentary at the National Geographic Film Festival in 2012."
+msgstr ""
+"Cette même année, les Sarayaku ont rédigé la déclaration _Kawsak Sacha_ "
+"(forêt vivante) estimant que le statut d'entité vivante de leur territoire "
+"lui conférait des droits, et exigeant que ces droits soient respectés. Ce "
+"texte a été présenté lors de la COP21, la conférence mondiale sur le "
+"changement climatique, ainsi qu'au président français, François Hollande, en "
+"2015, et au gouvernement équatorien en 2018. Les Sarayaku ont également "
+"monté une équipe de football professionnelle pour pouvoir largement relayer "
+"et dénoncer les activités d'exploitation pétrolière en Amazonie. Ils ont "
+"aussi descendu la Seine en canoë, et réalisé un documentaire, _Children of "
+"the Jaguar_, qui a remporté le prix du meilleur documentaire du _National "
+"Geographic Film Festival_ en 2012."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:28
+msgid "![Jose Gualinga holding a snake](/assets/uploads/imagex.jpg)"
+msgstr "![Jose Gualinga holding a snake](/assets/uploads/imagex.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:30
+msgid ""
+"In 2020, the Sarayaku are once again under threat, with the Ecuadorian "
+"Government’s plan to auction 3 million hectares of largely virgin rainforest "
+"to oil companies, including nearly all the Sarayaku territory. To represent "
+"their peaceful resistance to extractivism and commitment to defend the "
+"Kawsak Sacha (Living Jungle), the Sarayaku are planting a perimeter of "
+"flowering trees around their territory. Known as the Sisa Ñampi, the Border "
+"of Life or Living Path of Flowers, it currently stretches for 100km and will "
+"take decades to complete, eventually encircling their territory of 135,000 "
+"hectares, symbolising the fragility of life, and the ephemeral limit of "
+"existence between life and death."
+msgstr ""
+"En 2020, les Sarayaku sont à nouveau menacés par un projet du gouvernement "
+"équatorien qui veut vendre aux enchères 3 millions d'hectares de forêt "
+"tropicale humide, en grande partie vierge, aux compagnies pétrolières, et "
+"qui comprennent la quasi-totalité du territoire des Sarayaku. Pour illustrer "
+"leur résistance pacifique à ces pratiques extractivistes, et leur "
+"détermination à défendre leur _Kawsak Sacha_ (forêt vivante), les Sarayaku "
+"sont en train de planter un périmètre d'arbres fleuri tout au long de la "
+"délimitation de leur territoire. Appelé le _Sisa Ñampi_, (la frontière de la "
+"vie ou le sentier de vie des fleurs), il s'étend actuellement sur 100 km, et "
+"cela leur prendra des décennies de parvenir à fleurir tout le long de cette "
+"frontière encerclant leur territoire de 135 000 hectares, et symbolisant la "
+"fragilité du Vivant, et la faible marge de l'existence entre la vie et la "
+"mort."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:32
+msgid "![Jose Gualinga giving a talk](/assets/uploads/imagew.jpg)"
+msgstr "![Jose Gualinga giving a talk](/assets/uploads/imagew.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:34
+msgid ""
+"WR: How has the pandemic affected the Sarayaku and how is the community "
+"dealing with it?"
+msgstr ""
+"WR: Comment est-ce que la pandémie a touché le peuple Sarayaku, et comment "
+"est-ce que la communauté gère la situation ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:36
+msgid ""
+"JG: This disease is unknown to the people of Sarayaku, as were the "
+"historical diseases introduced by the first rubber tappers. Back then, it is "
+"told that many Sarayaku people died of smallpox and measles, there were "
+"corpses all over Sarayaku and scenes of desolation. At that time, many "
+"people fled into the remote jungle to avoid death. Some never returned."
+msgstr ""
+"JG : Cette maladie est inconnue ici, tout comme les maladies introduites par "
+"les premiers récolteurs de caoutchouc à l'époque. On raconte que nombres "
+"d'habitants de Sarayaku sont morts de la variole et de la rougeole, qu'il y "
+"avait des cadavres, des scènes de désolation partout. À cette époque, de "
+"nombreuses personnes se sont enfoncées plus profondément dans la jungle pour "
+"fuir la mort. Certaines ne sont jamais revenues."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:38
+msgid ""
+"During the first days of the current health alert, many Sarayaku families "
+"who live in the cities returned to their lands in the jungle to avoid being "
+"infected. This made the spread of the virus within the community inevitable, "
+"despite the controls and resolutions that we adopted. At the same time, the "
+"Bobonaza River burst its banks, causing severe flooding and devastating "
+"homes and crops. This was a disaster for us and put the community in an "
+"extremely vulnerable state."
+msgstr ""
+"Pendant les premiers jours, quand l'alerte de la pandémie actuelle a été "
+"donnée, de nombreuses familles de Sarayaku qui vivent dans les villes sont "
+"revenues sur leurs terres dans la jungle pour éviter d'être contaminées, ce "
+"qui a rendu inévitable la propagation du virus au sein de la communauté, "
+"malgré les contrôles et les mesures que nous avions adoptés. Au même moment, "
+"la rivière Bobonaza a débordé, provoquant de graves inondations, et "
+"dévastant habitations et cultures. Un véritable désastre pour nous qui a mis "
+"la communauté dans une position de vulnérabilité extrême."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:40
+msgid ""
+"The pandemic affected community social life, mobility, economic and food "
+"sovereignty, health and education. Many families went into voluntary "
+"isolation, retreating into the remote jungle where we have our purinas or "
+"tambos (huts far from the community where we go to rest, hunt, fish, and be "
+"in connection with the world of the Living Jungle). This was an effective "
+"preventive measure that ensured food security and health. However, these "
+"relatively untouched places conserve the largest reserves of fauna and "
+"flora, and these natural resources started to become scarce due to the long "
+"stays of the families who were depending solely on hunting, fishing and "
+"gathering."
+msgstr ""
+"La pandémie a impacté la vie sociale de la communauté ,aux niveaux mobilité, "
+"souveraineté économique et alimentaire, systèmes de soins, d'éducation. De "
+"nombreuses familles se sont volontairement isolées, s'enfonçant plus loin "
+"dans la jungle où se trouvent nos _purinas_ ou _tambos_ (des huttes en marge "
+"de la vie de la communauté où nousnous rendons pour nous reposer, chasser, "
+"pêcher, et où nous pouvons nous connecter aux mondes de la forêt vivante). "
+"Une mesure de prévention efficace qui garantissait la sécurité alimentaire "
+"et la santé, mais ces zones relativement vierges abritent les plus grandes "
+"réserves de faune et de flore, et ces ressources naturelles ont commencé à "
+"se raréfier du fait des longs séjours des familles qui dépendaient "
+"uniquement de la chasse, de la pêche et de la cueillette."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:42
+msgid ""
+"In the end, the Sarayaku people fought the virus alone, with no state "
+"assistance. In this chaotic situation, ancestral knowledge was our spearhead "
+"and strength in defeating this tiny but deadly virus, enabling us to "
+"confront, resist, and eliminate this foreign body. With the use of rare, "
+"little-known medicinal plants we have managed, little by little, to overcome "
+"and coexist with the virus. We continue to use medicinal plants, barks, "
+"lianas, roots, fruits and tubers to strengthen defences and immunity."
+msgstr ""
+"Le peuple Sarayaku s'est débrouillé seul pour combattre le virus en somme, "
+"sans aucune aide de l'État. Dans ce contexte chaotique, notre savoir "
+"ancestral nous a été du plus grand secours, une véritable force pour vaincre "
+"ce minuscule mais mortel virus, nous permettant d'affronter, de résister et "
+"d'éliminer ce corps étranger. Grâce à l'utilisation de plantes médicinales "
+"rares et peu connues, nous avons réussi, peu à peu, à vaincre le virus, et à "
+"coexister avec lui. Nous continuons à utiliser des plantes médicinales, des "
+"écorces, des lianes, des racines, des fruits et des tubercules pour "
+"renforcer nos défenses immunitaires."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:44
+msgid ""
+"The pandemic provided an opportunity for many families who had forgotten "
+"these ancient practices to regain their ancestral wisdom. With our "
+"historical experience of struggle and resistance, the Sarayaku people "
+"returned to their legacy of the ayllu (extended families) and the minga "
+"(community collective work). With the unity and solidarity of national and "
+"international friends and allies, the pandemic has been a learning "
+"experience, bringing the reflection that we are a fragile and vulnerable "
+"world, but that together we can make life more just and humane."
+msgstr ""
+"La pandémie a permis à de nombreuses familles qui ne pensaient plus à ces "
+"pratiques anciennes, de renouer avec cette sagesse ancestrale. Du fait de "
+"notre histoire de lutte et de résistance, nous, les Sarayaku, avons renoué "
+"avec nos traditions, avec les _ayllu_ (familles élargies) et la _minga_ (le "
+"travail collectif communautaire). Grâce au soutien et à la solidarité d'amis "
+"et d'alliés nationaux et internationaux, la pandémie a pu être vécue comme "
+"un apprentissage, nous faisant prendre conscience que notre monde est "
+"fragile et vulnérable, mais qu'ensemble nous pouvons faire en sorte que la "
+"vie soit plus juste et plus humaine."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:46
+msgid ""
+"WR: How can the philosophical thought of the Sarayaku (known as Tiam) help "
+"to combat climate change?"
+msgstr ""
+"WR : En quoi le courant de pensée philosophique Sarayaku (connue sous le nom "
+"de _Tiam_) peut-il aider à lutter contre le dérèglement climatique ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:48
+msgid ""
+"JG: The world of the forest and the ancient cultures that still coexist in "
+"communion with the Living Jungle, the jungle of beings, can inspire complex "
+"and philosophical thoughts. We are inspired to reflect on the cosmos; on "
+"traditional ways of life based on hunting, fishing and agriculture; on "
+"medicine, sacred plants, sociocultural themes, history and spirituality."
+msgstr ""
+"JG : Le monde de la forêt et des cultures ancestrales avec lequel nous "
+"continuons à cohabiter en harmonie avec la forêt vivante, la forêt des "
+"êtres, peuvent susciter des pensées de haute dimension philosophique, nous "
+"inspirant des rélexions sur le cosmos, sur nos modes de vie traditionnels "
+"basés sur la chasse, la pêche et l'agriculture, sur la médecine, les plantes "
+"sacrées, les thématiques sociales et culturelles, l'histoire, la "
+"spiritualité..."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:50
+msgid ""
+"Living off the natural resources of the forest in the 21st Century allows us "
+"to maintain resistance against the aggressive globalized world of the "
+"market, in which most of the citizens of the planet are immersed. This "
+"principle of life has allowed us to think that it is possible to coexist, "
+"respecting the balance of the earth and using only what is necessary to live."
+msgstr ""
+"Vivre des ressources naturelles de la forêt au XXIe siècle nous permet de "
+"résister aux agressions d'un monde marchand et globalisé, dans lequel évolue "
+"la plupart des citoyens de la planète. Ce principe de vie nous permet de "
+"penser qu'il est possible de coexister, en respectant l'équilibre de la "
+"planète, et en n'utilisant que ce qui nous est nécessaire pour vivre."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:52
+msgid ""
+"![Sarayaku on a boat ride in the rainforest](/assets/uploads/imagep.jpg)"
+msgstr ""
+"![Sarayaku on a boat ride in the rainforest](/assets/uploads/imagep.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:54
+msgid ""
+"The people and leaders of Sarayaku do not want to be left behind in a static "
+"conformist way just waiting for solutions. On the contrary, we have decided "
+"to be part of the global solution by contributing with our experience, "
+"thought, knowledge and philosophy of life from the belly of the living "
+"forest. The peoples of the native communities of the Amazon are those in "
+"closest contact with the earth and communion with the beings of the Living "
+"Jungle, and the Sarayaku are among those peoples."
+msgstr ""
+"À Sarayaku, nous refusons d'être laissés pour compte, et d'attendre bien "
+"sagement des solutions. Au contraire, nous voulons contribuer à une solution "
+"mondiale en apportant notre expérience, nos réflexions, nos connaissances et "
+"notre philosophie de vie depuis la matrice de la forêt vivante. Les "
+"communautés autochtones en Amazonie sont celles qui sont le plus connectées "
+"à la terre, vivant en communion avec les entités de la forêt vivante, et "
+"nous, Sarayaku faisons partie de ces peuples."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:56
+msgid ""
+"Climate change will only be resolved if we actively seek solutions. Global "
+"citizens must undertake a long road to resistance and peaceful struggle, "
+"towards a different perspective that we call Tiam. By itself this "
+"philosophical thought is only a form of knowledge, but it can be made "
+"reality if each and every one of us participates in the minga (collective "
+"community work)."
+msgstr ""
+"Nous ne pourrons enrayer le dérèglement climatique que si nous cherchons "
+"activement des solutions. Les citoyens du monde ont un long chemin de "
+"résistance et de lutte pacifique à entreprendre, et qui mène à une "
+"perspective différente que nous appelons _Tiam_. Cette philosophie n'est "
+"elle-même qu'une forme de connaissance, mais elle peut devenir réalité si "
+"nous nous attelons toutes et tous à la _minga_ (ce travail communautaire "
+"collectif)."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:58
+msgid ""
+"Tiam is a counterpoint to the dominant worldview, which sees nature as "
+"“other”; as an object for exploitation. This has led to imbalance and severe "
+"climatic changes, as well as the current pandemic. At the heart of our "
+"philosophy lies the understanding that we live as an embryo in the womb of "
+"the Pachamama (Mother Earth). Only in this way will nature be respected, "
+"will we live harmoniously, benefiting from the resources that the Pachamama "
+"bestows on us. We believe that if the human being accepts this way of life, "
+"the pain of the planetary wound will be felt, healed, and life will be born "
+"again."
+msgstr ""
+"Le Tiam prend le contre-pied d'une vision dominante dans le monde, qui "
+"considère la nature comme une autre entité, comme un objet à exploiter, ce "
+"qui a provoqué ce déséquilibre et ces graves bouleversements climatiques, de "
+"même que la pandémie qui sévit actuellement. Le cœur de notre philosophie "
+"repose dans la compréhension du fait que nous vivons comme un embryon dans "
+"le ventre de la Pachamama (la Terre mère). C'est pour nous le seul moyen de "
+"respecter la nature, de vivre en harmonie, en profitant des ressources que "
+"la Pachamama nous dispense. Nous pensons que si l'humanité acceptait ce mode "
+"de vie, la douleur de la blessure planétaire serait ressentie, pansée, et "
+"que la vie pourrait renaître."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:60
+msgid ""
+"More than ever, we believe that humanity needs to once again feel the earth; "
+"to recognize and declare that the seas, glaciers, volcanoes are alive, "
+"living; to feel coexistence within ourselves; to realize that we are nature "
+"itself."
+msgstr ""
+"Nous croyons que l'humanité a plus que jamais besoin de renouer avec la "
+"terre, de reconnaître et de conférer aux océans, aux glaciers, aux volcans "
+"un statut d'entités vivantes, d'éprouver cette interconnectivité, de "
+"réaliser que nous sommes nous-mêmes la nature."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:62
+msgid ""
+"Tiam proposes the creation of new indicators of wealth and value, which "
+"should measure the richness of a healthy and fertile land, abundant fauna, "
+"uncontaminated rivers, life in solidarity, sharing, unity, and the equitable "
+"distribution of wealth. It suggests radical changes in the global education "
+"system to incorporate this philosophical thought at every stage, from the "
+"family unit, through early educational centres to the highest level of study."
+msgstr ""
+"Tiam propose la création de nouveaux indicateurs de richesse et de valeur, "
+"qui évalueraient la richesse d'une terre saine et fertile, d'une faune "
+"abondante, de rivières non polluées, de la vie en solidarité, du partage, de "
+"l'unité et de la distribution équitable des richesses. Le Tiam suggère des "
+"changements radicaux dans le système éducatif mondial afin d'intégrer cette "
+"pensée philosophique à chaque niveau d'apprentissage, depuis la cellule "
+"familiale, aux études supérieures, en passant par l'équivalent des classes "
+"primaires et secondaires."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:64
+msgid ""
+"Indigenous Peoples are already contributing towards global climate change "
+"solutions by taking care of their territories, which are mega-diversities of "
+"living beings. The Sarayaku conceived the Kawsak Sacha (Living Jungle) life "
+"project as a powerful nucleus and epicentre, so that through these invisible "
+"beings, who are conscious and therefore to legal rights, we can regulate the "
+"balance of the earth and together we can fight climate change."
+msgstr ""
+"Les peuples autochtones contribuent déjà à œuvrer pour enrayer les "
+"dérèglements climatiques partout dans le monde, en prenant soin de leurs "
+"terres, qui s'avèrent être de véritables havres de biodiversité. La Kawsak "
+"Sacha (Jungle vivante) des Sarayaku, a été rédigée pour illustrer le cœur "
+"d'un mode de vie et de pensée, qui fasse office de noyau protecteur, "
+"attribuant à ces êtres invisibles et conscients un statut, et donc des "
+"droits juridiques, afin que nous puissions réguler l'équilibre de la planète "
+"et lutter ensemble contre le dérèglement climatique."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:66
+msgid ""
+"The phenomenon of climate change and the floods we suffered in March do not "
+"surprise us. These are the reactions of a powerful force in response to the "
+"harmful effects it faces. It is the same force invoked by our taytas or "
+"yachaks (shamans) to heal the sick and restore life. Water is a living being "
+"and its form represents health and freshness. Its strength is so powerful "
+"that it can destroy everything, or it can heal and leave the earth clean and "
+"fertile."
+msgstr ""
+"Les phénomènes climatiques extrêmes, et les inondations que nous avons subis "
+"en mars ne nous surprennent pas. Ce sont là les réactions d'une force "
+"puissante face aux impacts nocifs auxquels elle est confrontée. C'est cette "
+"même force qu'invoquent nos taytas ou nos yachaks (nos chamans) pour guérir "
+"les malades, et les ramener à la vie. L'eau est une entité vivante, qui de "
+"par sa forme représente la santé, la fraîcheur. Elle est d'une force si "
+"puissante qu'elle peut tout détruire sur son passage, ou bien elle peut "
+"guérir et purifier, fertiliser la terre."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:68
+msgid ""
+"WR: How have the ancestral stories of the Sarayaku passed from generation to "
+"generation? Is there an ancient story that is most iconic for the Sarayaku?"
+msgstr ""
+"WR : Comment est-ce que les traditions ancestrales des Sarayaku se sont-"
+"elles transmises de génération en génération ? Y a-t-il un récit ancien qui "
+"soit particulièrement cher aux Sarayaku ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:70
+msgid ""
+"JG: History was passed down to us orally by our fathers, mothers and elders. "
+"When we were children, stories were told to us on rainy days, in the chacras "
+"(food gardens), before sleeping, in the hunting houses in the jungle, when "
+"we were plucking out our parents' grey hair, or during jayawaska (ayahuasca) "
+"rituals. This is how we learned from many past lives."
+msgstr ""
+"JG : Notre histoire nous a été transmise oralement par nos pères, nos mères, "
+"nos grand-parents, et nos aînés. Quand nous étions petits, ces histoires "
+"nous étaient racontées les jours de pluie, dans les chacras (potagers), "
+"avant de dormir, dans les huttes de chasse dans la jungle, quand nous "
+"arrachions les cheveux gris de nos parents, ou lors des rituels de jayawaska "
+"(ayahuasca). C'est comme ça que nous avons appris l'histoire de nos ancêtres."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:72
+msgid ""
+"Sadly, these traditions are being lost due to their replacement with the "
+"western educational model. From one to the other, all the ancestral stories "
+"are relevant and fundamental; stories of rivalries, of the skills and "
+"abilities of iconic characters, of legends and origins. Each extended family "
+"has its own history, there is not a single history for the whole community "
+"due to a diversity of human groups that migrated to Sarayaku, such as "
+"Naporunas, colonists, Urayrunas, Sapara, Achuar."
+msgstr ""
+"Hélas, ces traditions se perdent, remplacées par un modèle d'éducation "
+"occidental. Qu'il s'agisse de l'une ou l'autre, toutes ces histoires "
+"ancestrales sont fondamentalement importantes, que ce soit des histoires de "
+"rivalités, des talents et aptitudes de tel ou tel personnage emblématique, "
+"des récits légendaires et originels. Chaque famille élargie a sa propre "
+"histoire, il n'y a pas une seule histoire pour toute la communauté du fait "
+"de la diversité des groupes qui ont migré à Sarayaku, comme les Naporunas, "
+"les colons, les Urayrunas, les Sapara, les Achuar..."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:74
+msgid ""
+"The most important aspect of our history is that Sarayaku was founded by "
+"Ramón Gualinga, father of Baltazar Gualinga. Also called Pandu, Baltazar was "
+"a person who could transform into a jaguar and was King of the wild boars."
+msgstr ""
+"Le plus important, c'est que Sarayaku ait été fondé par Ramón Gualinga, le "
+"père de Baltazar Gualinga. Aussi connu sous le nom de Pandu, Baltazar avait "
+"le pouvoir de se transformer en jaguar, et il était le roi des sangliers."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:76
+msgid ""
+"The elders say that the Sarayaku are the People of Noon, in reference to our "
+"principles, dignity and courage. We are the dutzi llakta (a town and its "
+"people when the sun is in the middle of the sky at a single point). "
+"According to an ancient prophecy, the Sarayaku will resist to the end, even "
+"after other peoples have surrendered."
+msgstr ""
+"Les anciens disent que ''les Sarayaku sont le peuple de midi'',se référant à "
+"nos principes, à notre dignité et à notre courage. Nous sommes les _dutzi "
+"llakta_ (un village quand le soleil est au zénith), selon une ancienne "
+"prophétie, qui prédit que les Sarayaku résisteront jusqu'à la fin, même "
+"après que les autres peuples aient succombé."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:78
+msgid "![Sarayaku meeting on the river](/assets/uploads/imagey.jpg)"
+msgstr "![Sarayaku meeting on the river](/assets/uploads/imagey.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:80
+msgid ""
+"Another story tells of the defeat of the Shirapas, now known as the Shuar, "
+"in a war commanded by Santiago Gualinga, who grew up with his abducted "
+"mother after his father was assassinated."
+msgstr ""
+"Une autre histoire rapporte la défaite des Shirapas, aujourd'hui connus sous "
+"le nom de Shuar, dans une guerre menée par Santiago Gualinga, qui avait "
+"grandi auprès de sa mère, enlevée suite à l'assassinat de son père."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:82
+msgid ""
+"There are two stories that are most relevant for me personally. One is about "
+"my parents, especially my mother, who grew up an orphan in the middle of the "
+"jungle, in a family of very powerful yachaks (shamans), who were at the same "
+"time refuted and persecuted."
+msgstr ""
+"Il y a pour moi deux histoires qui comptent plus particulièrement. L'une "
+"concerne mes parents, en particulier ma mère, qui a grandi orpheline au "
+"milieu de la jungle, dans une famille de yachaks (shamans) très puissants, "
+"qui ont été à la fois réfutés et persécutés."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:84
+msgid ""
+"The other story on to which I have projected my political vision of struggle "
+"is about a person who battles a giant boa to liberate his people. The boa is "
+"devouring everything and the only way to vanquish it is with a bamboo knife, "
+"not an iron knife. This story moved me a lot. We used it as the basis from "
+"which to direct the struggle and peaceful resistance of the Sarayaku people, "
+"as symbolised by the flower, the Living Path of Flowers. After reading the "
+"story, I came to a conclusion about the meaning of the bamboo knife and the "
+"iron one. In the resistance and struggle of Sarayaku and the native peoples, "
+"the bamboo weapon was fundamental because it represents the powerful "
+"knowledge that our world possesses; our wisdom, art, culture, history and "
+"philosophy. The iron knife, in contrast, represents violent struggle; the "
+"armed struggle that causes serious ongoing social and political problems for "
+"so many peoples. The transformative story of the bamboo knife has inspired "
+"our global visions and concrete actions. It gives us the strength to resist "
+"peacefully, without violence."
+msgstr ""
+"L'autre histoire sur laquelle s'est forgée ma vision politique de la lutte, "
+"est celle d'un personnage qui combat un boa géant pour libérer son peuple. "
+"Le boa dévore tout, et la seule façon de le vaincre est d'utiliser un "
+"couteau en bambou, pas un couteau en fer. Cette histoire m'a beaucoup "
+"touché. Nous nous sommes basés dessus pour orienter la lutte et la "
+"résistance pacifique du peuple Sarayaku, symbolisées par la fleur, le chemin "
+"de vie de fleurs. Après avoir lu l'histoire, j'ai pu tirer une conclusion "
+"sur la symbolique illustrée par le couteau en bambou et le couteau en métal. "
+"Dans la résistance et la lutte des Sarayaku et des peuples autochtones, "
+"l'arme en bambou est fondamentale car elle représente la puissante "
+"connaissance de notre monde, notre sagesse, notre art, notre culture, notre "
+"histoire et notre philosophie. Le couteau en fer, lui, représente en "
+"revanche la lutte violente, la lutte armée qui génère de graves "
+"problématiques politiques et sociales au sein de si nombreuses communautés. "
+"L'histoire transcendante du couteau en bambou a inspiré notre vision du "
+"monde et nos actions, nous donnant la force de résister pacifiquement, sans "
+"violence."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:86
+msgid ""
+"WR: According to Sarayaku's worldview, the ability to communicate with the "
+"living jungle is considered the highest form of knowledge, only achieved by "
+"the best yachaks (shamans) like your father, Don Sabino Gualinga. How does "
+"your father see and communicate with the spirits of the forest? Are there "
+"any young shamans with this ability?"
+msgstr ""
+"WR : Selon la vision du monde des Sarayaku, l'aptitude à communiquer avec la "
+"jungle vivante est considérée comme la plus haute forme de connaissance, que "
+"seuls maîtrisent les yachaks (chamans) les plus initiés, comme votre père, "
+"Don Sabino Gualinga. Comment votre père voit-il et communique-t-il avec les "
+"esprits de la forêt ? Y a-t-il de jeunes chamans qui y parviennent aussi ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:88
+msgid ""
+"JG: I consider the philosophical thought of the Kawsak Sacha (Living Jungle) "
+"as the most advanced wisdom on earth. The coexistence with non-visible "
+"beings such as Amazanga, Sacharuna and Nunguly, the protectors of fertility "
+"and the abundance that balances life, is a system of cultural education of "
+"its own. The way of life based on symbiosis with these beings is a "
+"fundamental and concrete principle."
+msgstr ""
+"JG : J'estime que la vision philosophique de la Kawsak Sacha (la jungle "
+"vivante) est la plus haute forme de sagesse sur terre. La coexistence avec "
+"des êtres non visibles tels que l'Amazanga, la Sacharuna et la Nunguly, les "
+"protecteurs de la fertilité et de l'abondance qui équilibrent le Vivant, est "
+"un système d'éducation culturelle en soi. Le mode de vie reposant sur la "
+"symbiose avec ces êtres est un principe fondamental et concret."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:90
+msgid ""
+"Therefore, for us, the lagoons have life, the beings are present there, and "
+"in the swamps. The trees are human beings that, together with the sacred "
+"waterfalls, grasslands and hills, make a daily millennial life system that "
+"continues to maintain the ecological balance of the Living Jungle or the "
+"Pachamama."
+msgstr ""
+"Alors pour nous, les lagons, les marais sont vivants, ces entités y vivent. "
+"Les arbres sont des êtres humains qui, tout comme les cascades sacrées, les "
+"prairies et les collines, forment un écosystème millénaire qui assure encore "
+"l'équilibre écologique de la Jungle vivante ou de la Pachamama au quotidien."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:92
+msgid ""
+"The yachaks intertwine with these beings through visions, communicating and "
+"agreeing to maintain friendship and sustain the balance of abundance and "
+"fertility. The yachaks communicate and transmit these teachings to us and "
+"demand us to respect and be humble in front of these beings, the owners and "
+"masters of life, of biological richness."
+msgstr ""
+"Les yachaks entrent en contact étroit avec ces entités lors de visions, leur "
+"exprimant leur volonté de coopération, et de maintien de l'équilibre d'une "
+"nature abondante et fertile. Les yachaks nous communiquent, et nous "
+"transmettent ces enseignements, et nous demandent de faire preuve de respect "
+"et d'humilité envers ces entités, maîtresses souveraines du Vivant, et des "
+"richesses naturelles."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:94
+msgid "![Sarayaku elder with colourful headdress](/assets/uploads/imager.jpg)"
+msgstr "![Sarayaku elder with colourful headdress](/assets/uploads/imager.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:96
+msgid ""
+"The most important aspect of this knowledge is that the entire society is "
+"educated to comprehend it as a way of life, in order to continue coexisting "
+"in harmony with the Kawsak Sacha (Living Jungle). Don Sabino Gualinga, like "
+"other experts in this field, is a wise man who has always advocated and "
+"spread the concept that the jungle is living, with all the beings, owners "
+"and masters who take care of and guard the source of life."
+msgstr ""
+"L'aspect fondamental, c'est que cette connaissance est transmise à toute "
+"notre communauté, et inculquée comme un mode de vie, pour que nous puissions "
+"continuer à coexister en harmonie avec la Kawsak Sacha (la jungle vivante). "
+"Don Sabino Gualinga, comme d'autres initiés, est un sage qui a toujours "
+"défendu et véhiculé ce concept, selon lequel la jungle est vivante, tout "
+"comme le sont toutes les entités maîtresses et souveraines, protectrices et "
+"gardiennes de la source de vie."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:98
+msgid ""
+"In Sarayaku there are several young people who have started the initiation "
+"process to become yachaks, to become experts in healing and achieving "
+"communion with these beings through visions. However, things have changed "
+"since the yachaks of our parents’ generation, such as Don Sabino, who "
+"followed a long process of abstinence, a strict diet, a hard and sacrificial "
+"apprenticeship."
+msgstr ""
+"À Sarayaku, plusieurs jeunes sont en phase d'initiation pour devenir des "
+"yachaks, des experts en matière de guérison et de communion avec ces êtres "
+"par le biais de visions, mais les choses ont changé depuis les yachaks de la "
+"génération de nos parents, comme Don Sabino, qui a respecté un long "
+"processus d'abstinence, un régime alimentaire strict, une initiation "
+"difficile qui relève de l'ordre du sacrificiel."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:100
+msgid ""
+"Though the knowledge of today’s youth will be renewed and modernised, it is "
+"based on the same principle: that wisdom will continue to be strengthened "
+"via the Living Jungle, including the visions that allow us to enter into "
+"communion with the protective beings."
+msgstr ""
+"Même si les connaissances acquises aujourd'hui ont été un peu revisitées, "
+"modernisées, elles restent basées sur le même principe : cette sagesse "
+"ancestrale continue à être véhiculée par la forêt vivante, et ces visions "
+"qui nous permettent d'entrer en contact et de communier avec les entités "
+"protectrices."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:102
+msgid ""
+"WR: How do the Sarayaku People maintain unity, when other indigenous peoples "
+"have been divided by the oil companies?"
+msgstr ""
+"WR : Comment les Sarayaku parviennent-ils à rester unis, quand d'autres "
+"communautés autochtones ont été divisées par les compagnies pétrolières ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:104
+msgid ""
+"JG: Unity is not based simply on an organizational body of a people, but "
+"instead on a historical and cultural principle. The unity of the Sarayaku "
+"arises from the legacy of our ancestors, from the great stories and "
+"prophecies that have led us to consider ourselves as the People of Noon, "
+"descendants of the Jaguar, children of Amazanga Runa."
+msgstr ""
+"JG : Le fait de rester unis ne relève pas simplement de la façon dont nous "
+"nous organisons en tant que peuple, mais plutôt d'un principe historique et "
+"culturel. L'unité des Sarayaku nous est transmise par l'héritage de nos "
+"ancêtres, des grandes histoires et prophéties qui nous ont amenés à nous "
+"considérer comme le Peuple de Midi, descendants du Jaguar, enfants de "
+"Amazanga Runa."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:106
+msgid ""
+"Other nationalities, let us call them communities or peoples, their unity is "
+"maintained in a superficial way, through an organisation. While the statute "
+"of the organisation may be recognized by the competent authorities, the "
+"people lack the background of using their history and wisdom as a strength. "
+"When the unity of a society, or let's call it a cultural civilization, of "
+"the Amazon forest is founded on historical and cultural principle, the oil "
+"companies cannot break it."
+msgstr ""
+"Au sein d'autres nations, au sein d'autres communautés, d'autres peuples "
+"disons, l'unité est comme dictée par un organe organisationnel, maintenue de "
+"manière superficielle, et même si les autorités reconnaissent le statut de "
+"cet organe, les gens n'ont pas l'habitude de recourir à leur histoire et à "
+"leur sagesse, de les considérer comme une force. Lorsque l'unité d'une "
+"société, d'une communauté culturelle de la forêt amazonienne, est basée sur "
+"des principes historiques et culturels, les compagnies pétrolières ne "
+"peuvent pas la briser."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:108
+msgid ""
+"The Sarayaku act under the principle of symbols and behaviours of different "
+"species, such as the strength of ants, the commands of birds, etc. We are "
+"also guided by our spirituality and use of ayahuasca as the sacred plant "
+"that allows us to orient ourselves in the world."
+msgstr ""
+"Les Sarayaku se fient aussi au symbolisme, et à ce qui leur est transmis par "
+"d'autres formes de vie, par d'autres espèces, se penchant par exemple sur la "
+"force des fourmis, ou sur la façon dont communiquent les oiseaux etc.. et "
+"par la dimension spirituelle et le recours à l'ayahuasca, plante sacrée qui "
+"nous aide à nous orienter et à nous situer dans ce monde."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:110
+msgid ""
+"WR: How could a western activist movement like Extinction Rebellion learn "
+"from the indigenous worldview and be founded on the principle of "
+"interconnectivity rather than individuality?"
+msgstr ""
+"WR : Comment est-ce que les activistes occidentaux d'XR pourraient-ils tirer "
+"des leçons de la vision du monde des peuples autochtones, et se baser sur "
+"ces notions d'interconnectivité plutôt que sur l'éternel individualisme ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:112
+msgid ""
+"It is not necessary to completely adopt the native peoples’ way of thinking. "
+"However, there is a lot of knowledge in our worldview that could contribute "
+"to society and raise awareness in other cultures of the world. If native "
+"peoples, who are also predatory and consumerist human beings, have managed "
+"to preserve forests until today, in the 21st century, that means it must be "
+"possible to find a solution to the climate, social and economic crises that "
+"humanity faces."
+msgstr ""
+"Il n'est pas question d'adopter la philosophie de vie des peuples "
+"autochtones à la lettre. Cependant, notre vision du monde regorge de "
+"nombreuses connaissances qui pourraient bénéficier à la société et "
+"sensibiliser d'autres cultures dans le monde. Si les peuples autochtones, "
+"qui sont aussi des êtres humains prédateurs et consommateurs, ont réussi à "
+"préserver les forêts jusqu'à aujourd'hui, au XXIe siècle, il doit bien y "
+"avoir un moyen de trouver une solution aux crises climatiques, sociales et "
+"économiques auxquelles l'humanité fait face."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:114
+msgid ""
+"What capitalists might call the “subsistence” economic systems of native "
+"peoples may be considered insignificant within a macroeconomic system, but "
+"our economies are based on a structure that is essential to lead an "
+"individual and collective life. Our systems of rotary or circular "
+"agriculture, hunting, fishing and gathering, are in fact economies of "
+"consumption, but their principle of sustainability is what interests us."
+msgstr ""
+"Ce que le capitalisme qualifierait de systèmes économiques de \"subsistance\""
+" des peuples premiers, peut sembler insignifiant au sein d'un système "
+"macroéconomique, mais nos économies reposent sur une structure essentielle "
+"pour mener une vie individuelle et collective. Nos systèmes de cultures "
+"circulaires, de chasse, de pêche et de cueillette, sont bien des économies "
+"de consommation, mais c'est justement leur durabilité qui nous intéresse."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:116
+msgid "![Sarayaku with backpack made from leaves](/assets/uploads/imagez.jpg)"
+msgstr "![Sarayaku with backpack made from leaves](/assets/uploads/imagez.jpg)"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:118
+msgid ""
+"There is much more to the traditional practices of hunting and fishing than "
+"the simple art of killing an animal. These practices go beyond simplistic "
+"food consumption and are, in fact, related to the principle of the Living "
+"Jungle. From her, comes abundance, the market, health, and the connection "
+"with the other beings who regulate the fertility of the earth. So, it is "
+"about the form and conduct of the collective individual who assumes within "
+"himself the wisdom to use this resource that feeds us each day, in a "
+"balanced and rational way."
+msgstr ""
+"Donc pour nous, traditionnellement, la chasse et la pêche ne sont pas juste "
+"centrées sur l'art de tuer un animal. Ces pratiques vont au-delà de la "
+"simple consommation alimentaire, et sont intrinsèquement liées à la forêt "
+"vivante, qui nous prodigue abondance, ressources, santé, et connexion avec "
+"les autres êtres régulateurs de la fertilité de la terre. Il s'agit donc de "
+"la manière dont se comporte le collectif, et de la sagesse dont il fait "
+"preuve en ayant recours à cette ressource qui nous nourrit chaque jour, de "
+"manière équilibrée et rationnelle."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:120
+msgid ""
+"The philosophy of Tiam states that the economic model should be proposed "
+"from this logic, i.e., that the human being is not the priority or essential "
+"factor in society but, on the contrary, the land, the jungle, the rivers, "
+"everything that makes up Life itself, are the fundamentals upon which we "
+"depend. With this shift to a different perspective, a different vision, "
+"society in general would no longer treat the resources of the living forest "
+"as mere objects of market value and exploitation. Human capacity would be "
+"the most advanced, behaving with deep respect to use resources in a "
+"harmonious and necessary way."
+msgstr ""
+"La philosophie du Tiam considère que le modèle économique devrait s'appuyer "
+"sur cette logique, à savoir que l'être humain n'est pas le centre de la "
+"société mais qu'au contraire, la terre, la forêt, les rivières, tout ce qui "
+"constitue le Vivant en soi, sont les fondamentaux dont nous dépendons. Si ce "
+"tournant vers une perspective différente s'opérait, si nous avions une "
+"vision différente, la société dans son ensemble ne considèrerait plus les "
+"ressources de la forêt vivante comme de simples valeurs marchande à "
+"exploiter. Toute l'humanité n'en serait que plus avancée, si elle faisait "
+"preuve d'un profond respect, et n'utilisait avec parcimonie que les "
+"ressources dont elle a réellement besoin."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:122
+msgid ""
+"As you can see, this contribution of knowledge is fundamental, but it’s "
+"difficult to share it in an individualistic and selfish society accustomed "
+"to consumption and competition."
+msgstr ""
+"Comme vous pouvez le constater, ce que nous apporte ces connaissances est "
+"fondamental, mais il est difficile de le partager dans une société "
+"individualiste et égoïste, consumériste et compétitive."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:124
+msgid ""
+"Interconnectivity translates into creating the ability to understand and "
+"connect through invisible networks with cosmic life forms who are similar to "
+"us, but are not visible. These are the protective beings that create "
+"fertility, those who give us the wealth of emotional happiness and spiritual "
+"inspiration, those who orchestrate Sumak Kawsay (Life in Harmony)."
+msgstr ""
+"L'interconnectivité, c'est se donner les moyens de comprendre et de se "
+"connecter via des réseaux invisibles avec des formes de vie cosmiques qui "
+"nous ressemblent, mais qui ne sont pas visibles. Ce sont ces entités "
+"protectrices, matrices de fertilité, qui nous prodiguent richesse du "
+"bonheur, et inspiration spirituelle, ce sont elles qui orchestrent Sumak "
+"Kawsay (la vie en harmonie)."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:126
+msgid "WR: How do the people of Sarayaku make democratic decisions?"
+msgstr ""
+"WR : Comment les habitants de Sarayaku prennent-ils des décisions "
+"démocratiques ?"
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:128
+msgid ""
+"JG: Although decision-making practices can be manifested in a democratic "
+"expression, the word “democracy” is unknown in the Amazonian world."
+msgstr ""
+"JG : Bien que nos processus de décision puissent être qualifiés de "
+"démocratiques, le mot \"démocratie\"en lui-même n'existe pas en Amazonie."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:130
+msgid ""
+"Historically, democratic decisions were made in families and then in "
+"extended families to ultimately reach a decisive conclusion. The social "
+"organization was led by Kurakas, warriors with great talent and wisdom."
+msgstr ""
+"Autrefois, les décisions démocratiques étaient prises au sein des familles, "
+"puis au sein des familles élargies, avant d'aboutir à une décision finale. "
+"L'organisation sociale était dirigée par des Kurakas, des guerriers dotés "
+"d'un grand talent et d'une grande sagesse."
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:132
+msgid ""
+"When the missionaries arrived, they introduced the ceremonial staff as a "
+"substitute for the spear, creating the system of the Barayok (He with the "
+"Staff), with different hierarchical levels, such as Captain, Sheriff and "
+"Prosecutor."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:134
+msgid ""
+"In 1979 we implemented a new form of social organization, the People’s "
+"Assembly, which is more institutional but alien to our traditional way of "
+"organising. Currently, our most important decisions are made in an assembly "
+"or congress of the people. We have a Governing Council that includes "
+"representatives for women, youth and wisdom keepers."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:136
+msgid ""
+"Sarayaku is made up of seven communities, each with its own leader or "
+"Kuraka. These authorities are nominated each year to serve and help the "
+"people (which is the opposite of helping oneself from the people). A Kuraka "
+"must share his entire agricultural economy, such as cassava, during mingas "
+"(collective community work days)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:138
+msgid "![Sarayaku woman with face paint](/assets/uploads/imageajpg.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:140
+msgid ""
+"In decision-making, the voices and decisions of women as well as those of "
+"men, the wisdom keepers and the youth are very important. Elections are "
+"generally by consensus, where necessary by secret ballot. The office of "
+"Kuraka lasts one year, whereas the Tayak Apu (President) and the others "
+"leaders serve for three years."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:142
+msgid ""
+"The People of Sarayaku are masters in the selective use of modern technology "
+"(digital mapping of resources, social networks, etc.) without ever losing "
+"their cultural identity. If you imagine a utopian vision of the future, "
+"which aspects of indigenous wisdom does it include and which aspects of "
+"Western knowledge?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:144
+msgid ""
+"The impact of any technology depends on human behaviour. If well used, "
+"technology can serve to strengthen new processes of collective and organized "
+"adaptation. Based on this logic and analysis, the People of Sarayaku have "
+"adopted certain tools, such as the internet, which we use to disseminate the "
+"processes resistance in defence of our lives; to make known the proposals "
+"that come from within the territory and from the deep jungle. The jungle "
+"society has always been in a state of interaction, active looking for "
+"solutions for threats such as climate change."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:146
+msgid ""
+"Historically, it was impossible to make visible Sarayaku's proposals in a "
+"dominant, complex world, full of wars and devastating economic conflicts. "
+"Now, with these new technologies, we can successfully disseminate "
+"communications on history, culture, proposals, visionary projects to "
+"conserve and protect the balance of the land and ensure the continuity of "
+"the Living Forest."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:148
+msgid ""
+"These technologies have also allowed us to safeguard the memories of art, "
+"culture and stories, so that future generations can continue learning. At "
+"the beginning, stone technologies were inventions that served to advance "
+"society in many ways. Today, the machete serves to prepare the land, a "
+"shotgun to hunt, the internet to communicate and generate social networks. "
+"If badly used these tools become dangerous and violent, like the dollar, but "
+"if well used they can support the demand for rights. We believe that it is "
+"necessary to face the globalized world without creating a jagged wall "
+"because sooner or later that wall would be the end of our history. For us "
+"the strategy is to adapt these tools to strengthen the organization."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:150
+msgid ""
+"The Sarayaku people are currently facing a double disaster. Just after the "
+"pandemic arrived in March, a devastating flood hit the community. Tell us "
+"about the impact of the flood."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:152
+msgid ""
+"Personally, I had a fortunate escape from the flood. On March 17 of this "
+"year, just when the Health Emergency measures were issued, a torrential rain "
+"had fallen on the headwaters of the Bobonaza River. That day, I was due to "
+"travel to Sarayaku by canoe with a group of 11 people, including children, "
+"elderly people and my daughter, Samai. At the Challawayaku port, I found "
+"that the Bobonaza River had not grown much, it was navigable. So, I took the "
+"decision to set sail at 4:30pm, calculating that I could arrive in Sarayaku "
+"after nightfall. However, the canoe’s engine did not start and we had to "
+"sleep outside at the port. This turned out to be a fortunate turn of events "
+"because, had we managed to set out that day, we would surely have perished. "
+"We later discovered that the Bobonaza River had flooded further downstream "
+"and a bridge had collapsed, forming a dam-like barrier across the river. In "
+"the dark, the canoe would inevitably have crashed heavily against the bridge "
+"and sunk. The engine’s failure to start saved all our lives."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:154
+msgid ""
+"Several communities in the Bobonaza river basin faced a double disaster due "
+"to the health emergency and the flood, among them Sarayaku. The major impact "
+"of the flood was on food security, due to the massive destruction of chacras "
+"(food gardens), staple crops such as corn and plantain, chicken coops and "
+"fish ponds."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:156
+msgid ""
+"In Sarayaku, the scene was terrible, truly calamitous. Almost 90% of the "
+"population suffered material and psychological damage. More than thirty "
+"houses were damaged or destroyed. The river also razed several bridges "
+"including the main one that crosses the Bobonaza River, and several "
+"educational centres, including the Tayak Wasi (School of the Living Jungle) "
+"and the Sasi Wasi (the Centre for Strengthening the Practice of Ancestral "
+"Medicine)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:158
+msgid "![Devastation from the flood](/assets/uploads/imageq.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:160
+msgid ""
+"The Tayak Wasi School of the Living Jungle (also known as the School of "
+"Peaceful Resistance) was founded in 1994 to strengthen and teach ancestral "
+"knowledge and bilingual intercultural education (in Kichwa and Spanish). A "
+"new generation of leaders was trained at the school, where they learned "
+"about art, history, knowledge of the forest, philosophy, the Kichwa "
+"worldview, and the philosophical thought of the Living Jungle."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:162
+msgid ""
+"Sadly, the Tayak Wasi school was washed away by the river on March 17 due to "
+"the most severe flooding seen in Sarayaku for 150 years. Now it remains a "
+"memory, a symbol of peaceful struggle, of the formation of thought and "
+"communion with the Living Jungle. The Sasi Wasi, where we conducted "
+"spiritual rituals and studied medicinal and sacred plants and preventive "
+"health, was also reduced to rubble."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:164
+msgid ""
+"The outlook is bleak and sad. The restoration of these places represents a "
+"complex problem. We have decided to relocate them out of the risk zone to "
+"safer areas. This will give the State one less reason to refuse to "
+"administratively recognize the school, which it has already tried to close "
+"for not complying with the official and western teaching model."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:166
+msgid ""
+"Tayak Wasi and Sasi Wasi, two visionary projects for the protection of "
+"culture, biodiversity and life, are part of an important plan of the "
+"Association for the Strengthening of Knowledge & Ancestral Wisdom of "
+"Sarayaku (ATAYAK). Within this plan there are two other important axes: the "
+"Sacharuya (Botanical Center for the Rescue of Biodiversity and Strengthening "
+"of Economic & Food Sovereignty); and the Sisa Ñampi (Living Path of Flowers)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:168
+msgid "WR: How can people in other countries support the Sarayaku struggle?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:170
+msgid ""
+"JG: People can support the Sarayaku’s struggle through dissemination and "
+"creating communication networks. They can carry our message at world "
+"conferences. It is important to denounce the capital of extractive "
+"corporations."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:172
+msgid ""
+"People can financially support our life projects, such as the Living Path of "
+"Flowers and the reconstruction of the Tayak Wasi and Sasi Wasi, which have "
+"been born from Sarayaku’s own vision. It is important to identify the life "
+"projects of indigenous peoples and support their own solutions, in which "
+"they are the principal actor in their own remediation. This support should "
+"be offered without imposition, exercising the true model of democracy, "
+"recognizing the autonomy and self-determination of these peoples. Global "
+"funds should be directed towards the life projects of indigenous peoples, "
+"which are ignored by the State and allied organizations, despite Ecuador "
+"being constitutionally decreed as a “plurinational State”. Our vision is to "
+"establish a territorial indigenous government that breaks the colonial "
+"scheme, restores rights and banishes the institutional discrimination and "
+"marginalization that exists today."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:174
+msgid ""
+"WR: It is possible to make a financial donation to the Sarayaku’s life "
+"projects [here](http://sarayaku.org/donaciones/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:176
+msgid ""
+"For more information, see the Sarayaku [website](http://sarayaku.org/) and "
+"[Facebook page](https://www.facebook.com/defensoresdelaselva/) (both in "
+"Spanish) and the [website for the Kawsak Sacha (Living Forest) Declaration]"
+"(https://kawsaksacha.org/en/) (in English). The Sarayaku’s documentary, "
+"Children of the Jaguar, about their legal battle at the Inter-American Court "
+"of Human Rights, can be watched [here](https://youtu.be/Ma1QSmtuiLQ). José "
+"Gualinga can be contacted via email at [angungualinga@hotmail.com](mailto:"
+"angungualinga@hotmail.com)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:178
+msgid ""
+"José Gualinga was interviewed by Beth Pitts, who has been working with "
+"indigenous communities in Ecuador since 2013, especially those defending "
+"their territories from extractivism. From these defenders, Beth learned that "
+"community-led eco-tourism enables them to protect threatened ecosystems and "
+"unique ways of life. This inspired her to write [Moon Guide to Ecuador & The]"
+"(https://www.amazon.com/Ecuador-Gal%C3%A1pagos-Islands-Travel-Guide/"
+"dp/1631217054/ref=sr_1_1?dchild=1&keywords=moon"
+"+ecuador&qid=1601690745&sr=8-1) [Galapagos Islands (2019)](https://www."
+"amazon.com/Ecuador-Gal%C3%A1pagos-Islands-Travel-Guide/dp/1631217054/"
+"ref=sr_1_1?dchild=1&keywords=moon+ecuador&qid=1601690745&sr=8-1), the first "
+"international guidebook on Ecuador with a focus on ethical travel."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:180
+msgid "![Beth Pitts (author) with Jose Gualinga](/assets/uploads/imagess.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-jose-gualinga-interview.md:181
+msgid ""
+"Beth is part of the Writers Rebel team and is excited by the alchemic "
+"possibilities of uniting the two forces that give her the most hope for the "
+"future: indigenous nature defenders and Extinction Rebellion."
+msgstr ""

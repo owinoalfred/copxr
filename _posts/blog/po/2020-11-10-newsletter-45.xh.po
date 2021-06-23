@@ -1,0 +1,1168 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-15 16:36+0800\n"
+"PO-Revision-Date: 2021-03-18 07:12+0000\n"
+"Last-Translator: Amanda M <amanda.mbalo@gmail.com>\n"
+"Language-Team: Xhosa <http://translate.organise.earth/projects/blog-posts/"
+"2020-11-10-newsletter-45/xh/>\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:12
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Global Newsletter #45: Our Lungs Won't Last\"\n"
+"slug: newsletter-45\n"
+"date: 2020-11-12 16:27\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/41516d9e-c017-4270-8aac-b47e5aea50b9.jpg\n"
+"seoDescription: Politics may feel renewed - but in every corner of the world our\n"
+"  forests are under attack. And when they’re gone, so are we.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:14
+msgid "![](/assets/uploads/41516d9e-c017-4270-8aac-b47e5aea50b9.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:16
+msgid ""
+"(Sign up to the newsletter [here](https://actionnetwork.org/forms/newsletter-"
+"sign-up-17).)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:17
+#, no-wrap
+msgid "Dear rebels,  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:19
+#, no-wrap
+msgid "It took four agonising days to hear them, but the American people have spoken. They have rejected four more years of fossil fuel promotion and climate science denial. They have elected someone who will rejoin the Paris Agreement and has promised a [Clean Energy Revolution](https://joebiden.com/climate-plan/). In doing so, they have given all of us something precious: hope.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:22
+msgid ""
+"Asian politics has also given us reasons to smile. Both [Japan](https://uk."
+"reuters.com/article/japan-politics-suga/update-1-japan-aims-for-zero-"
+"emissions-carbon-neutral-society-by-2050-pm-idUKL4N2HH1AC?utm_campaign=Carbon"
+"%20Brief%20Daily"
+"%20Briefing&utm_content=20201026&utm_medium=email&utm_source=Revue%20Daily) "
+"and [South Korea](https://www.theguardian.com/world/2020/oct/28/south-korea-"
+"vows-to-go-carbon-neutral-by-2050-to-fight-climate-emergency?"
+"utm_campaign=Carbon%20Brief%20Daily"
+"%20Briefing&utm_content=20201028&utm_medium=email&utm_source=Revue%20Daily) "
+"have pledged to reach “carbon neutrality” by 2050, following on from "
+"[China’s](https://www.bbc.co.uk/news/science-environment-54256826) pledge to "
+"do the same before 2060."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:24
+msgid ""
+"Of course, the climate crisis is destroying lives today. It’s too easy for "
+"politicians to set distant targets and draw ambitious roadmaps, when climate "
+"science and lived experience shows action is needed now. And however unified "
+"and well-meaning the pledges of governments appear, they offer little "
+"comfort when environmental destruction continues with such ferocity on the "
+"ground."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:26
+msgid ""
+"![The Red Brigade mourn a forest being cleared for a motorway in Germany. ](/"
+"assets/uploads/002ae9ef-6309-48ba-951e-1f6f4a1d47b6.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:27
+#, no-wrap
+msgid "*The Red Brigade mourn a forest being cleared for a motorway in Germany.*  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:29
+#, no-wrap
+msgid "In this issue, we have stories of forests being destroyed on every continent of the world. Even when we know how vital these habitats are to our collective survival, both in their ability to absorb carbon and contain disease, still their global devastation continues. How long can we prize industry, infrastructure, or even just recreation, above life itself?  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:32
+msgid ""
+"Also in this issue, we cover the rolling rebellions that launched in four "
+"major capitals across Europe, a sign that despite the pandemic, our movement "
+"continues to fight for real political progress on the climate, and real "
+"protection of our precious habitats."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:34
+msgid ""
+"![Italian rebels blockade the HQ of national oil company ENI.](/assets/"
+"uploads/47e5092d-b0f2-4eb3-a669-216e96a8e6f0.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:35
+#, no-wrap
+msgid "*Italian rebels blockade the HQ of national oil company ENI.*  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:38
+msgid ""
+"Shortly before losing the election, the outgoing American President "
+"sanctioned the opening up of [Tongass National park in Alaska](https://www."
+"washingtonpost.com/climate-environment/trump-pushes-to-allow-new-logging-in-"
+"alaskas-tongass-national-forest/2019/08/27/b4ca78d6-c832-11e9-be05-"
+"f76ac4ec618c_story.html) to logging, the largest temperate rainforest in the "
+"world. We should celebrate when destructive personalities are shown the "
+"door. But we have to ensure we are rid of the destructive habits too. The "
+"truth is, civil disobedience is needed today as much as it ever was."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:40
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Ukuba ungathanda ukunceda, nceda ujonge yethu [website](https://rebellion."
+"global) kwaye [learn more about XR.](https://rebellion.global/about-us/)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:42
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"Ukunxibelelana nabavukeli kwindawo yakho yengingqi, nxibelelana neqela "
+"[nearest XR group](https://rebellion.global/branches/). Ukuba akukho qela "
+"lisebenzayo kufutshane nawe, unga [start your own!](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:44
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Ukuba ungathanda ukubona imicimbi yeendaba zangaphambili, ungazifumana [here]"
+"(https://rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:46
+msgid ""
+"This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)."
+msgstr ""
+"Le mvukelo ifuna inkxaso yakho. Ukuba awukwazi ukunika ixesha, cinga "
+"ngokunika [imali](https://chuffed.org/project/xrinternational)."
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:48 2020-11-10-newsletter-45.md:342
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Inkxaso yovukelo](https://chuffed.org/project/xrinternational){.xr-button}"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:49
+#, no-wrap
+msgid "Contents"
+msgstr "Imixholo"
+
+#. type: Title #
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:56
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Amagqabantshintshi eSenzo"
+
+#. type: Title #
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:242
+#, no-wrap
+msgid "XR Unchained"
+msgstr "I-XR ayibotshelelwanga"
+
+#. type: Title #
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:267
+#, no-wrap
+msgid "Announcements"
+msgstr "Iizaziso"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:55 2020-11-10-newsletter-45.md:325
+#, no-wrap
+msgid "Must Reads"
+msgstr "Kufuneka Ufunde"
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:60
+#, no-wrap
+msgid "Fighting for Bugoma Forest"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:63
+msgid "OCT | Bugoma, Uganda & Goma, Democratic Republic of Congo"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:65
+msgid ""
+"Ugandan rebels are racing to stop the clearing of swathes of forest to make "
+"way for a sugarcane plantation."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:67
+msgid ""
+"Conservation experts have long warned that destroying even a small fraction "
+"of Bugoma’s tropical forest ecosystem would have devastating impacts for "
+"flora and fauna, and affect the water levels of the River Nile."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:69
+msgid ""
+"Alongside other environmentalist groups, Ugandan rebels joined a 10km run to "
+"raise awareness about the clearance, and launched a [petition](https://"
+"secure.avaaz.org/community_petitions/en/"
+"uganda_parliamentary_committee_on_natural_resource_save_bugoma_forest_/?"
+"cuwXorb&utm_source=sharetools&utm_medium=copy&utm_campaign=petition-1109973-"
+"save_bugoma_forest_&utm_term=uwXorb%2Ben) to the Ugandan parliament to stop "
+"the destruction."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:71
+msgid ""
+"![Sign reading \"Save Bugoma Forest\"](/assets/uploads/20320c90-5ed1-4e61-"
+"b827-40fac1439261.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:73
+#, no-wrap
+msgid "*Photo: XR Uganda*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:75
+msgid ""
+"As workers began felling the giant trees in the disputed area, activists and "
+"journalists covering the destruction were shot at and arrested by the "
+"military."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:77
+msgid ""
+"However, Ugandan rebels believe that there may be a “ray of hope” as the "
+"world has woken up to their protest. The Ugandan government is being hauled "
+"before the East African Court of Justice and international groups [including "
+"the EU](https://www.newvision.co.ug/news/1530610/eu-bugoma-forest-sugarcane-"
+"project-halted) are condemning the clearance."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:79
+msgid ""
+"The action came mere weeks after rebels in neighbouring DRC took to the "
+"streets. Rebels from [XR Université de Goma](https://www.facebook.com/XR-"
+"Universit%C3%A9-de-Goma-100194634862768/) condemned ongoing attempts to "
+"license oil drilling in Virunga National Park - a UNESCO world heritage site."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:81
+msgid ""
+"Painted green and covered in leaves, the rebels marched through Goma city "
+"and held signs calling for an end to environmental destruction."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:83
+msgid ""
+"Find out more about XR Uganda and their upcoming actions by following them "
+"on [Twitter](https://twitter.com/xrea15?lang=en-gb)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:85
+msgid ""
+"![Boy holding anti-violence sign with XR logo](/assets/"
+"uploads/9a49c230-1d5f-44bd-9e51-ffef70a70fbe.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:87
+#, no-wrap
+msgid "*Photo: XR Université de Goma*\n"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:90
+#, no-wrap
+msgid "Omnibus Bill: Open Season on Indonesia’s Forests"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:93
+msgid "5 OCT | Jakarta, Indonesia"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:95
+msgid "![](/assets/uploads/d23f5b13-664a-4741-ba30-a4738dc25d1e.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:97
+msgid ""
+"A rebel among the protests (‘Mosi Tidak Percaya’ means ‘Motion of No "
+"Confidence’)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:99
+msgid ""
+"The Indonesian government has passed a new law that will devastate the "
+"country’s tropical forests - currently the 3rd largest in the world."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:101
+msgid ""
+"The ‘Omnibus bill’ has been sold to the public as pro-business and necessary "
+"for the nation’s economic recovery after Covid. But the reality is that the "
+"1000-page bill began life before the pandemic, has been rushed through "
+"parliament to avoid scrutiny, and strips away both [environmental "
+"protections](https://asiatimes.com/2020/09/indonesian-bill-an-environmental-"
+"economic-disaster/) and workers rights to such a degree that [even global "
+"investors](https://uk.reuters.com/article/indonesia-economy-law-investors/"
+"update-1-global-investors-warn-indonesia-that-jobs-bill-puts-forests-at-risk-"
+"idUSL8N2GW2NP) are criticising it. Many of the people who drafted the bill "
+"have been [linked to the coal industry](https://www.walhi.or.id/uploads/buku/"
+"Laporan%20OL%20Kitab%20Hukum%20Oligark_BI_FRI-min.pdf)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:103
+msgid ""
+"![Security forces and protesters](/assets/uploads/8d656814-5882-4d49-"
+"ba47-4a8a11bb6157.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:105
+#, no-wrap
+msgid "*Photo: AntaraFoto/Basri Marzuki*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:107
+msgid ""
+"Workers and students across Indonesia have risen up against the bill, but "
+"the brutal police reaction has stopped XR Indonesia from officially joining "
+"the protests. Thousands of Indonesians have been arrested for simply "
+"gathering in public, and [reports of police violence and rioting](https://"
+"www.aljazeera.com/news/2020/10/9/demonstrations-sweep-indonesia-over-"
+"controversial-omnibus-law) are widespread. At least two students have been "
+"[hospitalised with head injuries](https://www.straitstimes.com/asia/se-asia/"
+"clashes-erupt-on-third-day-of-protests-against-new-indonesian-jobs-law)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:109
+msgid ""
+"XR Indonesia is instead coordinating with other environmental groups to hold "
+"a parade through Jakarta later this month. The peaceful demo will be held "
+"the day before the [Asian Climate Rally](https://www.asiaclimaterally.net/) "
+"and echo its 5 key demands - one of which is to repeal all environmentally "
+"damaging laws."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:111
+msgid ""
+"Find out more about XR Indonesia and their upcoming actions by following "
+"their [Instagram](https://www.instagram.com/extinctionrebellion.id/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:113
+msgid ""
+"![Protester in front of building on fire](/assets/"
+"uploads/4b404a96-7e35-40ff-8245-a8270acda254.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:114
+#, no-wrap
+msgid "*Photo: AMW*  \n"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:118
+#, no-wrap
+msgid "Berlin Blockades To Protect The Trees"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:121
+msgid "5 - 9 OCT | Berlin, Germany"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:123
+msgid ""
+"German rebels protested against the [cutting down of ancient forests]"
+"(https://www.greenpeace.org/international/story/45407/motorway-dannenroder-"
+"forest-protect-climate-germany/) to make way for a new motorway by "
+"blockading the state construction company responsible for building it."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:125
+msgid ""
+"Rebels surrounded the Berlin headquarters and used a huge dying tree "
+"sculpture as well as chains and glue to barricade themselves across its "
+"entrance. Several brave rebels stood topless to draw media attention to the "
+"destruction. Flares were let off to symbolise the forest burning."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:127
+msgid ""
+"![The blockade outside DEGES - Germany’s state motorway construction "
+"company.](/assets/uploads/c703c6cd-dbe8-4dca-99f4-545d3b4adac1.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:129
+#, no-wrap
+msgid "*The blockade outside DEGES - Germany’s state motorway construction company.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:131
+msgid ""
+"The Dannenroder forest is the largest to be threatened by the new motorway, "
+"and protestors have built tree houses along the proposed route. The forest "
+"is home to 200 year old trees, endangered animals, and a key regional water "
+"reserve. Treehouse defenders have already been evicted and trees felled in "
+"neighbouring forests."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:133
+msgid ""
+"The blockade marked the final day of the Berlin Rebellion, and it was not "
+"the only blockade to make headlines. Earlier 300 rebels set up roadblocks "
+"that [closed off](https://www.dw.com/en/extinction-rebellion-blocks-german-"
+"parliament/a-55194885) all 5 streets around the national Parliament for "
+"several hours. Angry at their politicians for postponing a promised coal "
+"phase-out, they called for an ecocide law that criminalised climate and "
+"environmental damage."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:135
+msgid ""
+"![Rebels bring the wildfires to Berlin by showing fire on their phones.](/"
+"assets/uploads/de56cfab-72c9-4813-838f-2dcd52a3c681.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:137
+#, no-wrap
+msgid "*Rebels bring the wildfires to Berlin by showing fire on their phones.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:139
+msgid ""
+"The coal lobby was targeted when 30 rebels [occupied](https://www."
+"cleanenergywire.org/news/extinction-rebellion-occupies-lignite-industry-"
+"lobby-offices-berlin) the offices of the German Lignite Industry "
+"Association. Several hundred more rebels blocked the street outside and "
+"demanded transparency and accountability."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:141
+msgid ""
+"Before they were peaceably ejected by police, the office-occupying rebels "
+"threw (fake) documents from the windows - a symbolic freedom of information "
+"on fossil fuel vested interests."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:142
+#, no-wrap
+msgid "As the week progressed, the Rebellion Wave reached the Brazilian embassy to amplify the voices of indigenous defenders and express grief for those who have lost their lives on the climate crisis frontline - people like Macarena Valdes, Paulo Paulino and Zezico Guajajara.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:145
+msgid ""
+"Find out more about XR Germany by visiting their [website](https://"
+"extinctionrebellion.de/) and following them on [Twitter](https://twitter.com/"
+"ExtinctionR_DE)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:148
+#, no-wrap
+msgid "Armed Police Block Rome Rebellion"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:151
+msgid "5 - 12 OCT | Rome, Italy"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:153
+msgid ""
+"![Rebels blockade the headquarters of oil company ENI.](/assets/"
+"uploads/40b670e9-8dac-42d6-aec4-6ccf0cd350b4.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:155
+#, no-wrap
+msgid "*Rebels blockade the headquarters of oil company ENI.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:157
+msgid ""
+"Italian rebels converged on Rome for thier week of Rebellion, and their "
+"first target of protest for Italy’s continued inaction on the climate was "
+"their government."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:158
+#, no-wrap
+msgid "Rebels sang, danced and made speeches on the central Piazza San Silvestro. They then held a mass die-in as the ravishing Red Brigade wandered among them.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:161
+msgid ""
+"When a rebel group headed for the nearby Piazza del Parliament to deliver a "
+"declaration to lawmakers, vehicles full of armed police blocked the way, "
+"responding to the peaceful protestors as if they were some kind of terrorist "
+"group."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:163
+msgid ""
+"![Discobedience dancers](/assets/uploads/58f5e9cf-500f-46ed-"
+"b68a-9504c3bbe116.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:165
+#, no-wrap
+msgid "*Italy’s rebellion opens with a dose of discobedience.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:167
+msgid ""
+"Shaken but undeterred, the Roman rebels used their second day of "
+"disobedience to focus on the media. They massed outside news media giant "
+"GEDI and created a performative barricade to highlight examples of media "
+"greenwashing - notably how GEDI’s leading newspaper has an environmental "
+"section sponsored by a car manufacturer and Italy’s national oil company ENI!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:169
+msgid ""
+"ENI's headquarters got a rebel visit, too. The blockade outside its gates "
+"lasted an impressive 53 hours as 60 chained up rebels sang and played music "
+"to the bitter end. Meanwhile, a rebel letter sent to 2 key finance Ministers "
+"called for the government to divest its 30.33% stake in ENI and recognise "
+"the oil firm’s long track record of corruption and human rights violations."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:171
+msgid ""
+"![Italian rebels standing naked with signs in front of private parts.](/"
+"assets/uploads/ec323991-15c7-40d5-9a5d-b4ce41509ab0.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:173
+#, no-wrap
+msgid "*Italian rebels - the naked truth.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:175
+msgid ""
+"On the penultimate day of Rebellion, around 400 rebels moved onto the iconic "
+"Piazza dell'Esquilino to enact ‘the naked truth’. A few brave rebels bared "
+"their bodies in public to draw attention to the media’s silence on the "
+"climate crisis."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:177
+msgid ""
+"Even with the week of [Rebellion](https://extinctionrebellion.it/xr-"
+"magazine/2020/10/21/non-ce-piu-tempo/) officially over, 8 rebels staged a "
+"final sit-in on the steps of Parliament, explaining to passing politicians "
+"why the Coronavirus economic stimulus package they just voted for was a "
+"betrayal of science and ecology."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:178
+#, no-wrap
+msgid "Find out more about XR Italy by visiting their [website](https://extinctionrebellion.it/) and following them on [Facebook](https://www.facebook.com/XRItaly/).  \n"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:182
+#, no-wrap
+msgid "Rebel Seas Rise Up in Spain"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:185
+msgid "5 - 11 OCT and 1 - 6 NOV | Spain"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:187
+msgid ""
+"![Spain’s blue brigade moving through the streets](/assets/uploads/ebab83d0-"
+"f618-4f6a-9804-27527f9305b4.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:189
+#, no-wrap
+msgid "*Spain’s blue tide flows forward.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:191
+msgid ""
+"Spanish rebels staged local Rebellions across a very impressive 14 cities "
+"over the last month. The action kicked-off with some urgent ‘post’ to the "
+"Department of the Environment in Madrid. Written on dry wood, the text "
+"highlighted the widespread desertification affecting Spain."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:193
+msgid ""
+"Online, there was a lively [Facebook Live](https://www.facebook.com/"
+"esXrebellion/videos/714441815834649/) event exploring the power of "
+"‘Kick(ass)emblea’ (Citizens Assemblies) to unlock democracy. The ‘[Monument "
+"to the Bull Run](https://en.wikipedia.org/wiki/Running_of_the_bulls#/media/"
+"File:Monument_in_Pamplona_IMG_3179.JPG)’ in Pamplona was also re-dedicated "
+"as a warning of the dangers of environmental breakdown."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:195
+msgid ""
+"In Granada, rebels locked-on at a bank, while in Cadiz, traffic was stopped. "
+"But in all Spanish cities, [die-ins](https://twitter.com/i/"
+"status/1318624668799086592) with XR Doctors made visible the past, present "
+"and future climate deaths brought about by their government’s inaction."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:197
+msgid ""
+"![XR Doctors count the cost of climate inaction.](/assets/"
+"uploads/72c548e7-408e-4c06-b29f-b6fc887d70b8.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:198
+#, no-wrap
+msgid "*XR Doctors count the cost of climate inaction.*  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:201
+msgid ""
+"Madrid’s rebels were forced to delay their contribution to the Spanish "
+"Rebellion due to a regional lockdown, but with November started they were "
+"able to launch into some delayed disobedience."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:203
+msgid ""
+"First up they marched out and [glued-on](https://www.elsaltodiario.com/"
+"cambio-climatico/rebelion-contra-extincion-retoma-desobediencia-civil-plena-"
+"pandemia) outside the Ministry of Agriculture - connecting themselves with "
+"plants and leaves to show how biodiversity creates a natural barrier against "
+"pandemics like Covid-19. Simply put, [nature saves lives](https://twitter."
+"com/xrmadrid_/status/1324426257279471616)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:205
+msgid ""
+"Later they created a [giant blue tide](https://twitter.com/i/"
+"status/1323705414127673344) in the capital’s main street to represent how "
+"humanity is drowning, how extreme weather is displacing people, and how we "
+"rebels are rising up!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:206
+#, no-wrap
+msgid "Find out more about XR Spain by visiting their [website](http://www.extinctionrebellion.es/portal/) and following them on [Facebook](https://www.facebook.com/esXrebellion/).  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:209
+msgid ""
+"![A rebellious nature protects the Spanish Ministry of Agriculture.](/assets/"
+"uploads/d6086887-fd28-4577-932d-23586ba4e7e4.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:211
+msgid "A rebellious nature protects the Spanish Ministry of Agriculture."
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:214
+#, no-wrap
+msgid "France Makes a (324m) Stand!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:217
+msgid "11 - 18 OCT | France"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:219
+msgid ""
+"![Photo: Charles Baudry](/assets/uploads/6ba1e04e-913e-4030-ae00-"
+"cef6737ba196.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:221
+#, no-wrap
+msgid "*Photo: Charles Baudry*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:223
+msgid ""
+"Rebels in France issued a [call-to-action](https://twitter.com/i/"
+"status/1325384953811570689) to the whole world at the start of their "
+"Rebellion by revealing their newest recruit - none other than the Eiffel "
+"Tower!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:225
+msgid ""
+"The famous landmark of love urged people everywhere to ‘REBEL’, and 9 other "
+"cities in France heard its call. 150 litres of fake blood were spilled in "
+"central Lille, the University Bridge in Leon was blockaded, and in Orleans "
+"adverts pushing over-consumption were given an XR makeover."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:227
+msgid ""
+"![Rebels “violently resisting” arrest according to French police.](/assets/"
+"uploads/1450226a-e7ac-4358-8320-ff6f4ed96edd.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:229
+#, no-wrap
+msgid "*Rebels “violently resisting” arrest according to French police.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:231
+msgid ""
+"A beautiful action called ‘[The Slow Walk](https://twitter.com/xrFrance/"
+"status/1316738075792416769)’ took place in Paris, with rebels moving "
+"steadily between several symbolic landmarks to highlight our frantic pace of "
+"life and how it stops us from seeing the destruction around us."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:233
+msgid ""
+"But rebel pulses quickened during an action at the Ministry of Ecology. "
+"Rebels sprayed its entrance green and blockaded the roads around it, locking "
+"on and laying down on the rain soaked tarmac. But police [came in hard]"
+"(https://twitter.com/i/status/1315961776547205123), accusing rebels of "
+"‘violently resisting’ for simply lying there. [8 were arrested](https://"
+"twitter.com/T_Bouhafs/status/1315975785627488257) and 6 held in police "
+"custody for over 24 hours."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:235
+msgid ""
+"Construction companies and concrete manufacturers were also called out for "
+"their role in climate breakdown, with concrete production contributing to 8% "
+"of global CO2 emissions. Rebels stopped mixers from leaving concrete and "
+"cement producer LafargeHolcim, significantly delaying construction of an "
+"extension to the Paris Metro."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:237
+msgid ""
+"Find out more about XR France by visiting their [website](https://"
+"extinctionrebellion.fr/) and following them on [Twitter](https://twitter.com/"
+"xrFrance)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:239
+msgid "![](/assets/uploads/1c9c81c0-7c58-4a5c-861c-f958518ba387.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:245
+msgid ""
+"Once again we have too many actions for one newsletter. Have a read of the "
+"[full XR Unchained](https://rebellion.global/blog/2020/11/11/xr-"
+"unchained-18/) for all those beautiful and courageous actions we couldn’t "
+"quite fit in this issue."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:247
+msgid "![](/assets/uploads/52857f30-dbfa-4837-92e5-6af90fad8d75.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:249
+msgid "![](/assets/uploads/18a5a7bb-b85f-45b4-a7d4-513530f88d90.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:251
+msgid ""
+"Last month a 350 year old tree sacred to First Nations People was cut down "
+"and [taken away in trucks](https://www.facebook.com/XRAustralia/photos/"
+"a.368113029869751/3998254726855545/?type=3&__xts__[0]=68."
+"ARBptYaYIwcrsfp_0_vBTuNaOg2WHa71d5BfQRkSAAfjeq5ClJ3UL9WWObJG6VPIPoCvilbHp-"
+"fyN2WsR4tcu7XUZ1iWfGgj04LxGHGhYRA-"
+"Ek_JU8MYJREheLLFVTDwJS7Yyydmt3wyBecYkKxCn1tWRWKMP0PCyzAchsdX62RY7yDQGQHRN8JNE8b23OFFSZ8LaS0SRi9SEFjrOMd-"
+"_9nWsfVhDfeyjNCY5k4D32tfca8Ps2ggSnZYgQYuTUJf8Kq37I6e7z93PfOxU1qlT4pNzY_KmzB3qXCpwuYtXqdzjnG8U66kt4JEcBZ6fCUeDc4M3SvdmE4tkgsMbuKLFnFIAQ) "
+"to expand highways in Victoria, Australia. More trees are under threat - "
+"help [protect them](https://dwembassy.com/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:253
+msgid "![](/assets/uploads/bd61836a-6a2a-4fcc-b3b8-d9bdc34472e3.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:255
+msgid ""
+"Rio de Janeiro’s [Camboatá Forest](http://www.uezo.rj.gov.br/"
+"mais_noticias/2019/julho/areas-verdes-cariocas-floresta-do-camboata.html) is "
+"home to a vast array of endangered wildlife, yet faces being demolished for "
+"a new Formula One racetrack. XR Brazil is [part of the resistance](https://"
+"rebellion.global/press/2020/10/16/sports-ecocide/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:258
+msgid "\\ Photo: Marcio Isensee e Sá"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:260
+msgid "![](/assets/uploads/882297f6-a920-4cb9-9879-dc331e21c0e0.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:261
+#, no-wrap
+msgid "One of the 5 Sydney rebels charged with obscene exposure for gluing themselves to the Independent Planning Commission - the body that approved the Narrabri Coal Seam Gas Project. The rebels were painted to represent the recent mega-fires that ravaged the country.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:264
+msgid "[Discover XR Unchained](../xr-unchained-18)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:269
+#, no-wrap
+msgid "XR Global Blog: New Articles Ahoy!"
+msgstr "XR Global Blog: Amanqaku amatsha Ahoy!"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:272
+msgid "![](/assets/uploads/c22d910a-7a28-4be4-b5d1-8a092712ec27.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:274
+msgid ""
+"New articles are being uploaded to [the XR Global Blog](https://rebellion."
+"global/news/#blog) each week. They cover the climate crisis in a "
+"straightforward way that means no expertise is necessary! Here are four of "
+"our favourites..."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:276
+msgid ""
+"[How to Stop Funding Fossil Fuels by Moving to an Ethical Bank](https://"
+"rebellion.global/blog/2020/09/21/ethical-banks/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:278
+msgid ""
+"Most banks have a very dirty secret. They use your money to fund fossil fuel "
+"projects. Here’s a step-by-step guide showing you how to get your cash back "
+"from climate collapsing banks."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:280
+msgid ""
+"[XR Fundamentals: Act Now](https://rebellion.global/blog/2020/08/31/act-now-"
+"extinction-rebellion-demands/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:282
+msgid ""
+"Have you been trying to explain to a non-XR friend why the work we do is so "
+"important? Here’s something just for them! An article explaining the need to "
+"Act Now to people who aren’t rebels."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:284
+msgid ""
+"[There is Always Hope: How Monterey Bay Came Back From the Brink](https://"
+"rebellion.global/blog/2020/10/10/monterey-bay/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:286
+msgid ""
+"The story of how just one activist transformed Monterey Bay from a giant "
+"sewer into a marine sanctuary, even though she knew she wouldn't live to see "
+"the result."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:288
+msgid ""
+"[15 Examples of Civil Disobedience (Which Have Made a Difference)](https://"
+"rebellion.global/blog/2020/11/03/civil-disobedience-examples/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:290
+msgid ""
+"You’re out protesting, yet nothing seems to change! But look over the last "
+"century and you’ll see a different story. Here are 15 examples of when civil "
+"disobedience actually worked!"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:291
+#, no-wrap
+msgid "XR Writers: We Want Your Wins!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:294
+msgid "![](/assets/uploads/9aefefdf-5938-4262-81f5-b6d1bca70e16.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:295
+#, no-wrap
+msgid "Calling all rebels! XR Writers are collecting XR wins - results of an XR action which embody some kind of positive change. Whether it’s changing a person’s mind or a nation’s laws, we want to hear about your victories!  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:298
+msgid ""
+"Get in touch with us at xrwins@protonmail.com and we'll give you more "
+"details. If you can include when your XR group was established that would be "
+"great to know too!"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:299
+#, no-wrap
+msgid "XR Podcast: Economics For The Planet."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:302
+msgid "![](/assets/uploads/ae6e3179-8b62-46c4-82a2-0101cc28e8bd.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:304
+msgid ""
+"This [episode](https://extinctionrebellion.uk/2020/10/16/doughnut-economics-"
+"kate-raworth/) features an interview with the economist Kate Raworth, author "
+"of the hugely influential book [Doughnut Economics](https://www.kateraworth."
+"com/doughnut/)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:305
+#, no-wrap
+msgid "XR Global Support: Join Us!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:308
+msgid "![](/assets/uploads/54a3b7ab-d078-4db3-a15f-20950390bc41.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:310
+msgid ""
+"Interested in supporting and working with rebels all around the world? XR "
+"Global Support helps resources flow between XR groups and offers support in "
+"the form of training, funding, and more."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:312
+msgid ""
+"Roles are available in a wide range of working groups - Media & Messaging, "
+"Tech, Fundraising, Participative Democracy, Partnerships, Trainings, "
+"Regenerative Cultures, Events, Onboarding."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:314
+msgid ""
+"Check out the [calendar](https://cloud.organise.earth/apps/calendar/p/"
+"iCoaNMwWCwFWbpHw/dayGridMonth/2020-11-01) for the next Interactive "
+"Introduction to XR (a crucial part of the onboarding process) and fill in "
+"[this form](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=433164&lang=en) to let us know you're interested! Email questions "
+"to XRInt-onboarding@protonmail.com."
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:315
+#, no-wrap
+msgid "XR Global Media Library: Free Training Sessions!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:318
+msgid "![](/assets/uploads/aa4918d0-5536-4864-91f3-a0b32ce13bb1.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:320
+msgid ""
+"Want to discover amazing XR media content? Or maybe share your own? Learn "
+"how to use the [XR Global Media Library](https://show.pics.io/xr-global-"
+"media-resources-public) by joining our next training session!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:322
+msgid ""
+"We’ll provide you with everything you need to get started. Just answer [this "
+"quick questionnaire](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=588393&lang=en) and we’ll get in touch."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:327
+#, no-wrap
+msgid "Howdy rebel. This issue we’ve got a US Election special edition of Must Reads! What are the climate ramifications of a Biden presidency? Green New Deal or Same Old Scam? Read on, rebel, read on!  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:333
+msgid ""
+"[Carbon Brief: Climate Experts React to Biden’s Victory.](https://www."
+"carbonbrief.org/us-election-climate-experts-react-to-joe-bidens-victory)\\ "
+"[Naomi Klein: We Have To Recognise How Narrow Biden's Win Was.](https://www."
+"theguardian.com/commentisfree/2020/nov/08/joe-biden-risky-candidate-us-"
+"election)\\ [Chris Hedges: American Requiem](https://scheerpost."
+"com/2020/11/05/chris-hedges-american-requiem/)\\ [Wrong Kind of Green: The "
+"unannounced death of the green new deal](http://www.wrongkindofgreen."
+"org/2020/09/11/the-unannounced-death-of-the-green-new-deal-part-1-what-"
+"happened-to-the-peoples-plan/)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-11-10-newsletter-45.md:336
+#, no-wrap
+msgid "Thank you"
+msgstr "Enkosi"
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:339
+msgid ""
+"Thank you for reading rebel, and keep up the good work! If you have any "
+"questions or feedback, we want to hear from you. Get in touch at [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-11-10-newsletter-45.md:341
+msgid ""
+"We are in a crucial phase of human history, and our movement needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""
+"Sikwinqanaba elibalulekileyo kwimbali yoluntu, kwaye intshukumo yethu ifuna "
+"imali ukwenza umyalezo wethu uve. Nantoni na onokuthi "
+"[uyinike](https://chuffed.org/project/xrinternational) iyaxatyiswa."

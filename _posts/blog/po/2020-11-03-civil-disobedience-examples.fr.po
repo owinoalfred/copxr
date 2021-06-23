@@ -1,0 +1,2229 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-11-12 16:37+0100\n"
+"PO-Revision-Date: 2020-11-16 09:30+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-11-03-civil-disobedience-examples/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:16
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"15 Examples of Civil Disobedience (Which Have Made a Difference) \"\n"
+"author: Caroline Grebbell\n"
+"slug: civil-disobedience-examples\n"
+"date: 2020-11-03 13:36\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/2b72b0c1-83aa-4ae0-8414-fce9c9c1ea0d.jpg\n"
+"seoImage: /assets/uploads/2b72b0c1-83aa-4ae0-8414-fce9c9c1ea0d.jpg\n"
+"seoTitle: \"15 Examples of Civil Disobedience (Which Have Made a Difference) \"\n"
+"seoDescription: \"Refusing to comply with laws seems like a drastic measure. But\n"
+"  these 15 examples of civil disobedience show that doing so can be a crucial\n"
+"  driver of important social change. \"\n"
+msgstr ""
+"lang: fr\n"
+"title: \"15 exemples d'actions de désobeissance civile qui ont changé la "
+"donne\"\n"
+"author: Caroline Grebbell\n"
+"slug: civil-disobedience-examples\n"
+"date: 2020-11-03 13:36\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/2b72b0c1-83aa-4ae0-8414-fce9c9c1ea0d.jpg\n"
+"seoImage: /assets/uploads/2b72b0c1-83aa-4ae0-8414-fce9c9c1ea0d.jpg\n"
+"seoTitle: \"15 exemples d'actions de désobeissance civile qui ont changé la "
+"donne \"\n"
+"seoDescription: \"Refuser d'obtempérer à la loi peut apparaître comme une "
+"mesure radicale, mais \n"
+"  ces  15 exemples de mouvements de désobéissance civile illustrent que cela "
+"peut jouer un rôle déterminant,\n"
+"  et susciter de profonds changements sociétaux. \"\n"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:20
+#, no-wrap
+msgid ""
+"> *It’s not enough to believe in something. You have to be ready to stand for something, if you want change.* \n"
+">\n"
+"> *\\- Edward Snowden* \n"
+msgstr ""
+"> *Il ne suffit pas d'y croire. Pour que les choses changent, il faut être prêt à défendre ses idées.* \n"
+">\n"
+"> *\\- Edward Snowden* \n"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:22
+msgid ""
+"The situation looks bleak and it feels like there is nothing you or I can do."
+msgstr ""
+"La situation semble désespérée, et il apparait que ni vous ni moi ne "
+"puissions y faire quoi que ce soit."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:24
+msgid ""
+"This is not a predicament exclusive to our time. History can point us in the "
+"direction of those who felt exactly the same. Ordinary people who, "
+"constrained by injustice, took action to challenge those who held the power."
+msgstr ""
+"L'époque que nous vivons actuellement n'a pas l'exclusivité de ce sentiment "
+"d'impuissance. L'Histoire regorge de situations similaires et de personnes "
+"qui se disaient la même chose, de citoyens ordinaires qui acculés devant "
+"tant d'injustice, sont passés à l'action pour faire pression sur les tenants "
+"du pouvoir."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:26
+msgid ""
+"It is our right, and our moral obligation, to protest over unjust political, "
+"economic or social conditions. Many of the rights we take for granted came "
+"about as a result of protest—human rights, women’s rights, the rights of "
+"workers."
+msgstr ""
+"Il est de notre devoir, de notre obligation morale, de nous opposer à des "
+"situations des politiques, économiques ou sociales foncièrement injustes. "
+"Nombre des droits que nous considérons comme acquis l'ont été suite à des "
+"mouvements de protestation ayant obtenu gain de cause, qu'il s'agisse des "
+"droits de l'homme, des droits des femmes, des droits des travailleurs..."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:28
+msgid ""
+"It has always been a struggle to bring about change, but it can be achieved."
+msgstr ""
+"Faire advenir le changement ne s'accomplit guère sans lutter, mais c'est "
+"possible."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:29
+#, no-wrap
+msgid "What is civil disobedience?"
+msgstr "Qu'est-ce que la désobéissance civile ?"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:32
+msgid ""
+"Civil disobedience is the active, non-violent refusal to accept the dictates "
+"of governments. It informs them that unjust actions will be opposed and the "
+"people will act illegally if pushed to do so."
+msgstr ""
+"La désobéissance civile, c'est s'opposer activement, et de façon non-"
+"violente aux diktats imposés par les gouvernements. C'est leur faire savoir "
+"que l'on s'oppose à ces injustices, et que les citoyennes et citoyens "
+"enfreindront la loi s'ils y sont poussés."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:34
+msgid ""
+"Civil disobedience causes disruption and focuses attention, while forcing "
+"debate with the aim of bringing about fundamental and progressive changes "
+"within our societies and our world."
+msgstr ""
+"La désobéissance civile génère des perturbations et attire l'attention, tout "
+"en forçant le débat afin de suciter des changements fondamentaux et "
+"progressifs au sein de nos sociétés et dans le monde."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:36
+msgid ""
+"Acts of civil disobedience do not have to be extreme. We can all be "
+"activists. Small actions can lead to larger ones, and can provide "
+"inspiration to individuals who may be unsure where to funnel their concerns. "
+"This in turn can help lay the pathway to further understanding and global "
+"change."
+msgstr ""
+"Les actions de désobéissance civile ne sont pas nécessairement extrêmes. "
+"Nous pouvons toutes et tous nous engager dans l'activisme. Des actions plus "
+"modestes peuvent être suivies d'actions de plus grande envergure, et peuvent "
+"être une source d'inspiration pour les personnes qui ne savent pas où "
+"concentrer leurs vélleités d'engagement, ainsi que contribuer à ouvrir les "
+"esprits, et à générer des changements au niveau mondial."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:38
+msgid ""
+"These fifteen examples of civil disobedience span almost a century. From the "
+"solitary action of a young Montgomery woman to the mass protests of "
+"thousands in Scotland and Sudan, every one of these protestors remain united "
+"in their demand for justice and call for a better world."
+msgstr ""
+"Ces quinze exemples de mouvements de désobéissance civile s'étalent sur près "
+"d'un siècle. De l'action individuelle d'une jeune femme de Montgomery, aux "
+"protestations de masse de milliers de personnes en Écosse et au Soudan, tous "
+"ces militants se sont réunis autour d'une même cause, revendiquant la "
+"justice, et le droit à vivre dans un monde meilleur."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:41
+#, no-wrap
+msgid "1. Fight for Women's Suffrage: UK 1928"
+msgstr "1. La lutte des femmes pour obtenir le droit de vote, Royaume-Uni, 1928"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:44
+msgid ""
+"Considered the inferior sex, women have no vote, no power and no say in how "
+"their world is governed. In the face of injustice, women fight back."
+msgstr ""
+"Considérées comme le sexe faible, les femmes n'ont pas le droit de vote, et "
+"n'ont ni pouvoir, ni leur mot à dire sur la façon dont leur monde est "
+"gouverné. Face à cette injustice, elles décident de riposter."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:45
+#, no-wrap
+msgid "Deeds not Words."
+msgstr "Des actes, pas juste de belles paroles !"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:48
+msgid ""
+"The British fight for women’s suffrage (the legal right to vote) included "
+"groups from the women’s labour movement and the moderate, non-"
+"confrontational National Union of Women's Suffrage Societies (NUWSS). "
+"Believing in civil disobedience, the NUWSS disrupted Parliament, chained "
+"themselves to railings, distributed pamphlets and organised demonstrations "
+"and lectures."
+msgstr ""
+"La lutte pour le droit de vote des femmes au Royaume-Uni a réuni des groupes "
+"du mouvement syndical des femmes, et de la NUWSS (l'Union Nationale des "
+"sociétés pour le droit de vote des femmes. Ayant foi en la désobéissance "
+"civile, la NUWSS a perturbé le Parlement, s'est enchaînée aux grilles, a "
+"distribué des pamphlets, et organisé des manifestations et des conférences."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:50
+msgid ""
+"The more militant Women’s Social and Political Union (WSPU) were prepared to "
+"use any tactic necessary. This included often violent, direct action."
+msgstr ""
+"L'instance plus militante de la WSPU (Union sociale et politique des "
+"femmes), était prête à recourir à toutes les tactiques nécessaires, ce qui "
+"pouvait inclure des actions directes parfois violentes."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:52
+msgid ""
+"When arrested, Suffragettes offered further resistance by going on [hunger "
+"strike](https://www.historyextra.com/period/edwardian/cat-mouse-force-"
+"feeding-suffragettes-hunger-strike/)."
+msgstr ""
+"Lorsqu'elles étaient arrêtées, les suffragettes continuaient à résister en "
+"ayant recours à des [grèves de la faim](https://www.historyextra.com/period/"
+"edwardian/cat-mouse-force-feeding-suffragettes-hunger-strike/)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:54
+msgid ""
+"Although Suffragettes are often portrayed as originating from the ruling "
+"classes, thousands of [brave working class women](https://www.bl.uk/votes-"
+"for-women/articles/women-quite-unknown-working-class-women-in-the-suffrage-"
+"movement) made huge personal sacrifices for the movement, their punishments "
+"often more barbaric than those of higher societal standing."
+msgstr ""
+"Bien que les suffragettes soient souvent présentées comme ayant appartenu "
+"aux classes dominantes, des milliers de [courageuses femmes issues de la "
+"classe ouvrière](https://www.bl.uk/votes-for-women/articles/women-quite-"
+"unknown-working-class-women-in-the-suffrage-movement) ont fait d'énormes "
+"sacrifices personnels pour le mouvement, et les sanctions à leur encontre "
+"étaient souvent plus déshumanisantes que celles infligées aux femmes des "
+"classes dites supérieures."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:56
+msgid ""
+"Not all women could afford the sacrifice. Many were breadwinners, or worked "
+"long shifts as servants or in factories, returning home to care for children "
+"and keep the house."
+msgstr ""
+"Toutes les femmes ne pouvaient pas se permettre ce sacrifice. Beaucoup "
+"avaient une famille à charge, ou travaillaient de longues heures comme "
+"domestiques ou à l'usine, avant de rentrer chez elle s'occuper des enfants "
+"et de leur foyer."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:58
+msgid ""
+"The 1918 Representation of the People Act granted women over the age of 30 "
+"the right to vote in Britain. Full suffrage, that is the right to vote over "
+"the age of 21, in accordance with male voting, was passed in 1928."
+msgstr ""
+"La loi de 1918 sur la représentation du peuple (_Representation of the "
+"People Act_) a accordé aux femmes de plus de 30 ans le droit de vote en "
+"Grande-Bretagne. Le plein suffrage, c'est-à-dire le droit de vote à partir "
+"de 21 ans, a été adopté en 1928, conformément à celui des hommes,."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:60
+msgid ""
+"The Suffragette victory in Britain followed years of protest, struggle and "
+"inconceivable hardship. Each woman chose her role and every role was "
+"important."
+msgstr ""
+"Les suffragettes ont obtenu gain de cause en Grande-Bretagne après des "
+"années de protestation, de lutte et de difficultés incroyables. Chaque femme "
+"avait choisi son rôle, et chaque rôle était important."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:62
+msgid ""
+"Thirty five years previously, in 1893, the women of New Zealand were first "
+"to win the vote. Saudi Arabia granted women suffrage [in 2015](https://www."
+"verdict.co.uk/womens-suffrage-across-world/). Revolution may take decades, "
+"but when it eventually comes, it can have an everlasting impact on the "
+"course of history."
+msgstr ""
+"Trente-cinq ans plus tôt, en 1893, les femmes de Nouvelle-Zélande avaient "
+"été les premières à accéder au droit de vote. Quant à l'Arabie saoudite, "
+"elle a accordé le droit de vote aux femmes [en 2015](https://www.verdict.co."
+"uk/womens-suffrage-across-world/). La révolution peut prendre des décennies, "
+"mais lorsqu'elle a finalement lieu, elle peut influencer durablement le "
+"cours de l'histoire."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:64
+msgid ""
+"![Painting of sufragette](/assets/uploads/d428b3e1-71f9-4fe1-bbfc-"
+"ff96e869a681.jpg)"
+msgstr ""
+"![Painting of sufragette](/assets/uploads/d428b3e1-71f9-4fe1-bbfc-"
+"ff96e869a681.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:66
+#, no-wrap
+msgid "*Laws for women—Written and voted for by men. Public Domain.*\n"
+msgstr "*Droits des femmes—Rédigés et votés par des hommes. Domaine public.*\n"
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:67
+#, no-wrap
+msgid "2.The Salt March: India 1930"
+msgstr "2. La marche du sel, Inde, 1930"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:70
+msgid ""
+"Forced to pay inflated prices for the salt which keeps them alive, thousands "
+"of Indians follow one man on the long road to victory and independence."
+msgstr ""
+"Contraints de payer de payer un impôt extrêmement élevé sur cette denrée de "
+"première nécessité qu'est le sel, des milliers d'Indiens suivent un seul "
+"homme sur le long chemin de la victoire et de l'indépendance."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:71
+#, no-wrap
+msgid "Right against might"
+msgstr "Faire valoir le droit face à l'usage de la force"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:74
+msgid ""
+"The1882 Salt Act prohibited the people of India, while under British rule, "
+"from collecting, producing or selling salt. The poor suffered most as they "
+"could not afford to buy the heavily taxed salt, a mineral vital for human "
+"metabolism in hot, humid climates. Those who broke the law were imprisoned."
+msgstr ""
+"Sous domination britannique, la loi de 1882 sur le sel interdisait aux "
+"Indiens, de collecter, de produire ou de vendre du sel. Les plus pauvres "
+"étaient les plus affectés, ne pouvant pas se permettre d'en acheter, tant ce "
+"minéral vital au métabolisme humain dans les climats chauds et humides , "
+"était lourdement taxé, et ceux qui enfreignaient la loi étaient emprisonnés."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:76
+msgid ""
+"[Mahatma Gandhi](https://www.weforum.org/agenda/2019/10/mahatma-gandhi-150-"
+"anniversary-of-birth/) left his ashram in Sabarmati on 12 March 1930 with 78 "
+"followers, to be joined by tens of thousands of others along the [240 mile "
+"march](https://scholarblogs.emory.edu/postcolonialstudies/2014/06/20/gandhis-"
+"salt-march-to-dandi/) to the Arabian Sea."
+msgstr ""
+"[Le Mahatma Gandhi](https://www.weforum.org/agenda/2019/10/mahatma-"
+"gandhi-150-anniversary-of-birth/) a quitté son ashram à Sabarmati le 12 mars "
+"1930 accompagné de 78 disciples, pour être finalement rejoint par des "
+"dizaines de milliers d'autres tout au long de [cette marche de 380 km]"
+"(https://scholarblogs.emory.edu/postcolonialstudies/2014/06/20/gandhis-salt-"
+"march-to-dandi/) pour gagner l'Océan Indien."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:78
+msgid ""
+"By lifting salt from the ground in the coastal town of Dandi on 6th April, "
+"he openly defied British law. Gandhi had mobilised the satyagrahi, a "
+"philosophy of truth-focused, non-violent non-cooperation."
+msgstr ""
+"En ramassant une poignée de sel à son arrivée dans la ville côtière de Dandi "
+"le 6 avril, Gandhi enfreint ouvertement la loi des britanniques, et instaure "
+"ainsi le satyagraha, un principe philosophique d'opposition non violente, "
+"axé sur la vérité."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:80
+msgid ""
+"As part of the Civil Disobedience Movement, thousands more followed Gandhi's "
+"lead, with salt being made, bought and sold illegally all across India. "
+"60,000 peaceful protestors were arrested, including Gandhi himself, which "
+"raised further global awareness of the situation in India."
+msgstr ""
+"Des milliers d'autres ont suivi l'exemple de Gandhi dans ce mouvement de "
+"désobéissance civile, et produit, acheté et vendu du sel illégalement dans "
+"toute l'Inde. 60 000 contrevenants pacifiques ont été arrêtés, y compris "
+"Gandhi, ce qui a permis de sensibiliser la communauté internationale à la "
+"situation en Inde."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:82
+msgid ""
+"The Salt March and the ensuing Civil Disobedience Movement shook the "
+"foundations of the British Empire, while providing a turning point on the "
+"road to Indian independence in 1947. It was a simple yet defiant act of "
+"civil disobedience by people of conviction and courage, taking a stand "
+"against a giant world power."
+msgstr ""
+"La Marche du sel et le mouvement de désobéissance civile qui s'ensuivit "
+"ébranlèrent les fondations de l'Empire britannique, tout en marquant un "
+"tournant décisif vers la déclaration d'indépendance de l'Inde en 1947. Une "
+"action de désobéissance civile simple qui n'en était pas moins un geste de "
+"défi, entrepris par de valeureux citoyens dotés de fortes convictions, et "
+"s'affirmant courageusement face à une des plus grandes puissances mondiales."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:84
+msgid ""
+"![Gandhi collecting salt on the Gujarat coast](/assets/"
+"uploads/7b1b080b-8704-440c-971a-0a24c02735a2.jpg)"
+msgstr ""
+"![Gandhi collecting salt on the Gujarat coast](/assets/"
+"uploads/7b1b080b-8704-440c-971a-0a24c02735a2.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:86
+#, no-wrap
+msgid "*Gandhi collecting salt on the Gujarat coast. April 1930. Public domain.*\n"
+msgstr "*Gandhi ramassant du sel sur la côte du Gujarat. Avril 1930. Photo libre de droits, domaine public.*\n"
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:87
+#, no-wrap
+msgid "3. Segregation Defiance: USA 1955-56"
+msgstr "3. Défier les lois ségrégationnistes, États-Unis, 1955-56"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:90
+msgid ""
+"When an African American schoolgirl is ordered to give up her seat to a "
+"white woman, the abolitionists provide her with the strength to stay where "
+"she is."
+msgstr ""
+"Le jour où une jeune étudiante noire américaine reçut l'ordre de céder sa "
+"place à une femme blanche dans un bus, les abolitionnistes lui donnèrent la "
+"force de rester à sa place."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:91
+#, no-wrap
+msgid "History Had Me Glued to My Seat"
+msgstr "L'Histoire m'avait collé à mon siège"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:94
+msgid ""
+"At the age of 15, schoolgirl [Claudette Colvin](https://www.youtube.com/"
+"watch?v=V3NvXzFOb6w) became the first African American to refuse to give up "
+"her seat to a white woman on a bus in Montgomery, Alabama."
+msgstr ""
+"Â l'âge de 15 ans, la jeune [Claudette Colvin](https://www.youtube.com/watch?"
+"v=V3NvXzFOb6w) est devenue la première femme noire refusant de céder sa "
+"place à une femme blanche dans un bus de Montgomery, en Alabama."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:96
+msgid ""
+"Colvin stated she felt the hands of abolitionists [Harriet Tubman](https://"
+"www.womenshistory.org/education-resources/biographies/harriet-tubman) and "
+"[Sojourner Truth](https://www.youtube.com/watch?v=q-HfiryNoXY) holding her "
+"down. She was dragged from the bus and subjected to sexist and racist "
+"behaviour before being arrested and held in an adult jail."
+msgstr ""
+"Claudette Colvin a déclaré qu'elle avait senti les mains des abolitionnistes "
+"[Harriet Tubman](https://www.womenshistory.org/education-resources/"
+"biographies/harriet-tubman) et [Sojourner Truth](https://www.youtube.com/"
+"watch?v=q-HfiryNoXY) la maintenir clouée à son siège. Traînée hors du bus, "
+"victime de traitements racistes et sexistes, elle fut arrêtée et enfermée "
+"dans une prison pour adultes."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:98
+msgid ""
+"Following the arrest of [Rosa Parks](https://www.womenshistory.org/education-"
+"resources/biographies/rosa-parks) nine months later for the same action, the "
+"Women’s Political Council (WPC), a group of black women working for civil "
+"rights, circulated 50,000 flyers calling for a boycott of the Montgomery bus "
+"system. As news spread of the boycott, African American leaders across "
+"Montgomery began to lend their support."
+msgstr ""
+"Suite à l'arrestation de [Rosa Parks](https://www.womenshistory.org/"
+"education-resources/biographies/rosa-parks) neuf mois plus tard pour la même "
+"raison, le Conseil politique des femmes (WPC), un groupe de femmes noires "
+"luttant pour les droits civiques, a diffusé 50 000 tracts appelant au "
+"boycott des bus de Montgomery, et lorsque l'annonce du boycott s'est "
+"répandue, les dirigeants noirs américains de Montgomery ont commencé à les "
+"soutenir."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:100
+msgid ""
+"From December 5, 1955 to December 20, 1956, approximately 40,000 African "
+"Americans refused to travel on Montgomery buses. Although many chose to "
+"walk, carpools were organised, with the city’s African American taxi drivers "
+"charging the same price as the bus fare for African American riders."
+msgstr ""
+"Du 5 décembre 1955 au 20 décembre 1956, environ 40 000 noirs américains ont "
+"refusé de voyager dans les bus de Montgomery. Bien que beaucoup aient choisi "
+"de marcher, des covoiturages se sont organisés, et les chauffeurs de taxi "
+"noirs de la ville leur facturaient la course au même prix qu'un ticket de "
+"bus."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:102
+msgid ""
+"The protestors were determined to continue until the city met with their "
+"demands, which included the hiring of black bus drivers and a first-come "
+"first-seated policy. Ultimately a group of five Montgomery women sued the "
+"city in the U.S. District Court, seeking to have the segregation laws "
+"totally invalidated."
+msgstr ""
+"Déterminés à continuer de protester jusqu'à ce que la ville accepte leurs "
+"revendications, ils exigeaient l'embauche de chauffeurs de bus noirs, et une "
+"politique du premier arrivé, premier servi. Finalement, c'est un groupe de "
+"cinq femmes de Montgomery qui a poursuivi la ville devant le tribunal pour "
+"faire totalement invalider les lois ségrégationistes."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:104
+msgid ""
+"In December 1956, the US Supreme Court declared segregation laws in Alabama "
+"to be anti-constitutional (although this did not apply to interstate buses). "
+"The legal case, which ended the boycott, was partially built on the "
+"testimony of [Claudette Colvin](https://www.npr.org/2009/03/15/101719889/"
+"before-rosa-parks-there-was-claudette-colvin?t=1593952359137)."
+msgstr ""
+"En décembre 1956, la Cour suprême des États-Unis déclara que les lois "
+"ségrégationistes sévissant en Alabama étaient anticonstitutionnelles (mais "
+"cela ne s'appliquait hélas pas aux bus qui voyageaient d'état en état). Le "
+"procès, qui met fin au boycott, a en partie été étayé par le témoignage de "
+"[Claudette Colvin](https://www.npr.org/2009/03/15/101719889/before-rosa-"
+"parks-there-was-claudette-colvin?t=1593952359137)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:106
+msgid ""
+"Numerous other mass actions were to follow, including the [Freedom Riders]"
+"(https://www.nytimes.com/2020/07/18/us/politics/freedom-riders-john-lewis-"
+"work.html) of 1961, and [The Birmingham Children’s Crusade](https://www."
+"washingtonpost.com/news/retropolis/wp/2018/02/20/children-have-changed-"
+"america-before-braving-fire-hoses-and-police-dogs-for-civil-rights/), 1963, "
+"which led to hundreds of protestors being violently attacked, arrested and "
+"jailed."
+msgstr ""
+"De nombreuses autres actions s'ensuivirent, notamment celle des [Freedom "
+"Riders](https://www.nytimes.com/2020/07/18/us/politics/freedom-riders-john-"
+"lewis-work.html) en 1961, et la [Marche des enfants à Birmingham](https://"
+"www.washingtonpost.com/news/retropolis/wp/2018/02/20/children-have-changed-"
+"america-before-braving-fire-hoses-and-police-dogs-for-civil-rights/) en 1963 "
+"entre autres, lors desquelles des centaines de personnes furent violemment "
+"agressées, arrêtées, et emprisonnées."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:108
+msgid ""
+"It was not until 1964, with [Jim Crow laws](https://www.history.com/topics/"
+"early-20th-century-us/jim-crow-laws) overturned by the Civil Rights Act, "
+"that segregation was banned."
+msgstr ""
+"Ce n'est qu'en 1964 que les lois ségrégationnistes, connues sous le nom de "
+"[Jim Crow laws](https://www.history.com/topics/early-20th-century-us/jim-"
+"crow-laws) furent définitivement abolies par l'adoption de la loi sur les "
+"droits civiques."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:109
+#, no-wrap
+msgid "4. Wave Hill Walk Off: Australia 1966 - 1975"
+msgstr "4. La grève de Wave Hill, Australie, 1966 - 1975"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:112
+msgid ""
+"Two hundred people turn their back on abuse and move to settle on "
+"traditional land. They refuse to leave, demanding the rightful return of the "
+"land to the indigenous people."
+msgstr ""
+"Deux cents personnes se révoltent contre des conditions de travail "
+"déplorables, et s'installent sur des terres ancestrales, refusant de partir, "
+"tant qu'elles n'auront pas été restituées aux peuples autochtones."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:113
+#, no-wrap
+msgid "Without the land we are nothing"
+msgstr "Sans nos terres, nous ne sommes rien"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:116
+msgid ""
+"Gurindji tribal elder [Vincent Lingiari](https://australianstogether.org.au/"
+"discover/australian-history/wave/) led two hundred pastoral workers away "
+"from the privately owned Wave Hill cattle station in the Northern Territory, "
+"as a protest against low pay, poverty and [decades of abuse](https://www.abc."
+"net.au/news/2016-08-19/the-untold-story-being-the-1966-wave-hill-walk-"
+"off/7764524). The ‘Walk Off Mob’ formed a new settlement at Daguragu, "
+"refusing an order to vacate. The strike lasted seven years."
+msgstr ""
+"[Vincent Lingiari](https://australianstogether.org.au/discover/australian-"
+"history/wave/), chef Gurindji titulaire de l'autorité culturelle de son "
+"peuple, a conduit deux cents employés agricoles autochtones, loin de la "
+"ferme d'élevage de Wave Hill, dans le nord du territoire, pour protester "
+"contre leurs rémunérations dérisoires, leur misère, et des [décennies de "
+"mauvais traitements](https://www.abc.net.au/news/2016-08-19/the-untold-story-"
+"being-the-1966-wave-hill-walk-off/7764524). Ils ont installé un campement à "
+"Daguragu, refusant de partir malgré avoir reçu l'ordre de libérer les lieux, "
+"et leur grève s'est poursuivie pendant sept ans."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:118
+msgid ""
+"Lingiari’s continued lobbying of politicians galvanised the strike and "
+"gained support from non-indigenous Australians. It was the precursor to "
+"lands rights legislation almost ten years later when, in 1975, 3300 square "
+"kilometers of Australian land was the first returned to the Gurindji tribe."
+msgstr ""
+"La mobilisation menée sans relâche par Vincent Lingiari auprès des "
+"dirigeants politiques a intensifié le mouvement de grève, et reçu le soutien "
+"de nombreux australiens n'appartenant pas à la communauté aborigène. Elle "
+"instigua l'instauration des droits sur la terre du Territoire du Nord, "
+"promulgués dix ans plus tard, en 1975, quand 3300 km2 furent les premières "
+"terres restituées au peuple Gurindji."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:120
+msgid ""
+"In 1976, [The Aboriginal Land Rights (Northern Territory) Act](https://www."
+"nma.gov.au/defining-moments/resources/aboriginal-land-rights-act#:~:text=In"
+"%20December%201976%20the%20federal,traditional%20ownership%20could%20be"
+"%20proven.) was signed, allowing indigenous people to claim traditional and "
+"spiritual land."
+msgstr ""
+"En 1976, [la loi sur les droits aborigènes sur la terre -Territoire du Nord]"
+"(https://www.nma.gov.au/defining-moments/resources/aboriginal-land-rights-"
+"act#:~:text=In%20December%201976%20the%20federal,traditional%20 ownership"
+"%20could%20be%20proven.) fut signée, autorisant les autochtones à "
+"revendiquer leurs terres ancestrales."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:122
+msgid "A workers’ rights action resulting in a land rights victory."
+msgstr ""
+"Une mobilisation des droits des travailleurs qui a abouti à une victoire en "
+"matière de revendications de droits à la terre."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:123
+#, no-wrap
+msgid "5. The Sip-in: USA 1966"
+msgstr "5. On voudrait juste boire un verre, États-Unis, 1966"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:126
+msgid ""
+"Four men walk into a bar and ask to be served. Sevice is denied because they "
+"are gay — the men risk arrest to ensure their story is reported and shared."
+msgstr ""
+"Quatre hommes entrent dans un bar et commandent à boire. On refuse de les "
+"servir sous prétexte qu'ils sont homosexuels. Ils sont prêts à être arrêtés "
+"pour s'assurer que leur histoire est relayée et diffusée."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:127
+#, no-wrap
+msgid "We are homosexuals"
+msgstr "Bonjour, nous sommes homosexuels"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:130
+msgid ""
+"In 1966 New York City, serving alcohol to homosexuals was illegal. Under a "
+"disorderly conduct statute, city ‘cleanups’ encouraged the closure of bars "
+"frequented by gays and the arrest of homosexual customers by way of police "
+"entrapment. Many lives were destroyed as a result."
+msgstr ""
+"En 1966, à New York, il était illégal de servir de l'alcool aux homosexuels. "
+"Sous couvert d'une loi sur les troubles à l'ordre public, la ville était "
+"\"nettoyée\", les bars fréquentés par des homosexuels fermés, et leurs "
+"clients arrêtés par la police, ruinant ainsi bon nombre de vies."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:132
+msgid ""
+"[Dick Leitsch](https://makinggayhistory.com/podcast/dick-leitsch/), a "
+"pivotal figure in the fight for gay rights, accompanied by three friends "
+"from the [Mattachine Society](https://www.magellantv.com/articles/the-"
+"mattachine-society-lgbtq-history)—John Timmins, Randy Wicker and CraigRodwell"
+"—entered Julius’ bar in Greenwich Village, declared themselves homosexuals "
+"and asked to be served. This is thought to be the first organised act of "
+"civil disobedience by gay people."
+msgstr ""
+"[Dick Leitsch](https://makinggayhistory.com/podcast/dick-leitsch/), une "
+"figure marquante dans la lutte pour les droits des homosexuels, est entré "
+"dans un bar, le Julius à Greenwich Village, accompagné de trois amis de la "
+"[Mattachine Society](https://www.magellantv.com/articles/the-mattachine-"
+"society-lgbtq-history), John Timmins, Randy Wicker et CraigRodwell. Après "
+"avoir déclaré qu'ils étaient homosexuels , ils ont commandé à boire. On "
+"estime que ce fut la première action de désobéissance civile menée par des "
+"homosexuels."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:134
+msgid ""
+"Service was denied and the incident was widely reported in the press. Within "
+"a year, New York State courts ended the practice of using gay patronage as "
+"an excuse for revoking liquor licences; thus opening the way for licenced "
+"gay bars."
+msgstr ""
+"On a refusé de les servir, et l'histoire a fait le tour des médias. Au bout "
+"d'un an, les tribunaux de l'État de New York ont finalement mis un terme à "
+"cette pratique, consistant à retirer les licences d'alcool à ces bars sous "
+"prétexte de lobbying homosexuel, ouvrant ainsi la voie à l'ouverture "
+"officielle de bars gays autorisés à en vendre."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:136
+msgid ""
+"Leitsch’s further actions were instrumental in putting an end to entrapment "
+"while encouraging legal challenges to charges based solely on police "
+"testimony."
+msgstr ""
+"Les actions de M. Leitsch ont contribué à déjouer les pièges tendus, tout en "
+"encourageant les voies de recours juridiques face à des accusations "
+"uniquement fondées sur des témoignages de la police."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:138
+msgid ""
+"![Dick Leitsch, 1966](/assets/uploads/fa9c2130-8fbe-420c-9e65-6c41d81a2eea."
+"jpg)"
+msgstr ""
+"![Dick Leitsch, 1966](/assets/uploads/fa9c2130-8fbe-420c-9e65-6c41d81a2eea."
+"jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:140
+#, no-wrap
+msgid "*Dick Leitsch, 1966. Photographer unknown.*\n"
+msgstr "*Dick Leitsch, 1966. Photographe inconnu.*\n"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:142
+msgid ""
+"Influenced by the sit-ins at segregated lunch counters by black civil rights "
+"protestors, this was a brilliant example of how the non-violent, courteous "
+"action of four brave individuals led to societal change and the reframing of "
+"public understanding."
+msgstr ""
+"Influencés par les sit-in des activistes noirs du mouvement pour les droits "
+"civiques pour mettre fin à la ségrégation raciale aux comptoirs des "
+"restaurants, ce fut un parfait exemple illustrant combien l'action civile et "
+"non-violente de quatre courageuses personnes, a fini par conduire à un "
+"changement sociétal, et à une réorientation des mentalités au sein du grand "
+"public."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:143
+#, no-wrap
+msgid "6. Navy-Culebra Protests: Puerto Rico 1970"
+msgstr "6. Manifestations pour le retrait de la marine américaine de l'île de Culebra, Porto Rico, 1970"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:146
+msgid ""
+"As a world superpower destroys a tiny island with bombs and bullets, "
+"undeterred inhabitants refuse to surrender the fight to reclaim their home."
+msgstr ""
+"Alors qu'une superpuissance mondiale ravage une petite île à coups de tirs "
+"et de bombardements, ses habitants déterminés refusent d'abandonner le "
+"combat pour récupérer leurs propriétés."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:147
+#, no-wrap
+msgid "Culebra should be for Culebra"
+msgstr "L'île de Culebra pour les insulaires"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:150
+msgid ""
+"In 1970, [Culebra](https://nvdatabase.swarthmore.edu/content/puerto-ricans-"
+"expel-united-states-navy-culebra-island-1970-1974) islanders undertook a "
+"series of protests against the United States Navy for its use of the island "
+"for military training exercises."
+msgstr ""
+"En 1970, les habitants de l'île de [Culebra](https://nvdatabase.swarthmore."
+"edu/content/puerto-ricans-expel-united-states-navy-culebra-island-1970-1974) "
+"ont entamé une série de protestations contre la marine américaine qui avait "
+"fait de l'île une de ses bases d'entraînement militaire."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:152
+msgid ""
+"The Navy expropriated 2000 of the island’s 7000 acres for bombing practice. "
+"Homes were torn down, and targets erected. A three mile exclusion zone was "
+"set around the island, making prisoners of the island's 700 inhabitants. "
+"Little fishing remained and any cattle were grazed on navy owned land."
+msgstr ""
+"La marine s'était appropriée 1000 des 3500 hectares de l'île pour en faire "
+"une base d'entrainement aux tirs et aux bombardements, expropriant nombre "
+"d'habitants, et rasant leurs maisons pour ériger des cibles de tirs. Une "
+"zone d'exclusion de près de 5km a été établie autour de l'île, emprisonnant "
+"les 700 habitants qui y résidaient, qui ne pouvaient quasiment plus pêcher, "
+"et dont les pâtures se retrouvaient sur des terres réquisitionnées par la "
+"marine."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:154
+msgid ""
+"[LIFE](https://books.google.ca/books?id=lVUEAAAAMBAJ&lpg=PA1&pg=PA40-"
+"IA5#v=onepage&q&f=false) magazine reported ‘the crunch of 500-pound bombs..."
+"the whine of jets, echoing machine gun fire, screaming rockets and the "
+"triple-throated boom of naval shells.’ Protestors stated that the bombing "
+"missions, which often occurred seven days a week, placed Culebra in a "
+"‘[deplorable situation](https://voices.revealdigital.org/?"
+"a=d&d=BCHDEAIG19710301.1.4&e=-------en-20--1--txt-txIN---------------1).’"
+msgstr ""
+"Le magazine [LIFE](https://books.google.ca/books?"
+"id=lVUEAAAAMBAJ&lpg=PA1&pg=PA40-IA5#v=onepage&q&f=false) a couvert \"les "
+"déflagrations de bombes de 200 kilos ... les jets déchirant le ciel, les "
+"tirs de mitrailleuses assourdissants, les roquettes hurlantes, les obus "
+"navals à triple explosion\". Les manifestants protestaient contre ces "
+"missions de bombardement, qui se déroulaient souvent sept jours sur sept, et "
+"qui faisaient que l'île de Culebra était devenue [invivable](https://voices."
+"revealdigital.org/?a=d&d=BCHDEAIG19710301.1.4&e=-------en-20--1--txt-"
+"txIN---------------1)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:156
+msgid ""
+"Unwilling to withdraw claims to the whole island, protestors built a chapel "
+"in just three days on Flamingo Beach, a restricted, major target area, using "
+"only crude tools. US Marshals ordered them to leave but they refused and six "
+"people were arrested. Six days later, the navy demolished the chapel."
+msgstr ""
+"Refusant de renoncer à revendiquer l'ensemble du territoire de l'île, les "
+"manifestants ont construit une chapelle en seulement trois jours, et en "
+"n'utilisant que des outils rudimentaires sur Flamingo Beach, une importante "
+"zone de tirs interdite d'accès. Malgré l'ordre de la police fédérale "
+"américaine d'évacuer le site, ils n'ont pas obtempéré, et six personnes ont "
+"été arrêtées. Six jours plus tard, la marine démolissait la chapelle."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:158
+msgid ""
+"Protesters illegally occupied restricted areas, including Flamingo Beach, "
+"remaining there for several weeks. Those who needed new homes squatted on "
+"Navy land, which was also used in the creation of sports areas and "
+"graveyards."
+msgstr ""
+"Les manifestants ont alors illégalement occupé des zones interdites, dont "
+"Flamingo Beach, pendant plusieurs semaines. Ceux qui avaient besoin de "
+"nouvelles maisons squattaient les terres de la marine, sur lesquelles ont "
+"aussi été crées des terrains de sport et des cimetières."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:160
+msgid ""
+"President of the Puerto Rican Independence Party and protest leader, Rubén "
+"Berríos, along with thirteen others, was sentenced to three months in a "
+"Puerto Rico prison for civil disobedience and trespassing."
+msgstr ""
+"Rubén Berríos, le président du Parti de l'Indépendance de Porto Rico et "
+"leader de la protestation, ainsi que treize autres personnes, ont été "
+"condamnés à trois mois de prison à Porto Rico, pour désobéissance civile et "
+"violation de propriété privée."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:162
+msgid ""
+"In 1974, all political parties in Puerto Rico called for the US Navy to "
+"cease operations and leave the island. Finally, in 1974, President Nixon "
+"ordered the Navy to leave the island, which they did in December 1975."
+msgstr ""
+"En 1974, tous les partis politiques de Porto Rico ont demandé que la marine "
+"américaine cesse ses opérations et quitte l'île. Nixon, alors président des "
+"États-Unis fut contraint d'ordonner à la marine de quitter l'île, ce qu'elle "
+"fit finalement en décembre 1975."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:164
+msgid ""
+"Another example of a few hundred brave people standing firm in the shadow of "
+"a world superpower."
+msgstr ""
+"Encore un exemple de quelques centaines de personnes courageuses et "
+"déterminées résistant fermement à une superpuissance mondiale."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:166
+msgid ""
+"![Timber trail at Pureoa Forest Park](/assets/"
+"uploads/8283bd09-8805-4070-934e-03675d6f5835.jpg)"
+msgstr ""
+"![Timber trail at Pureoa Forest Park](/assets/"
+"uploads/8283bd09-8805-4070-934e-03675d6f5835.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:168
+#, no-wrap
+msgid "*Timber trail at Pureoa Forest Park, Waikato. Credit: [Buffy May](https://www.flickr.com/people/buffymay37/)*\n"
+msgstr "*Forêt de Pureora, Waikato, Nouvelle-Zélande. Crédit photo : [Buffy May](https://www.flickr.com/people/buffymay37/)*\n"
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:169
+#, no-wrap
+msgid "7. The Tree Sitters of Pureora: New Zealand 1978"
+msgstr "7. Occupation d'arbres dans la forêt de Pureora, Nouvelle-Zélande, 1978"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:172
+msgid ""
+"A group of friends and activists set up home in the branches of 1000 year "
+"old trees, while below them, bulldozers and chainsaws move to destroy the "
+"forest."
+msgstr ""
+"Un groupe d'amis et d'activistes s'installe dans les branches d'arbres "
+"millénaires, encerclés par des bulldozers et des tronçonneuses qui "
+"s'activent juste en-dessous, prêts à détruire la forêt."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:173
+#, no-wrap
+msgid "There is No Other Way"
+msgstr "Il n'y a pas d'autre recours possible"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:176
+msgid ""
+"In the 1970s, grassroots environmental groups started focusing their actions "
+"on the logging industry in New Zealand. The country had lost two thirds of "
+"its native forest cover as a result of logging since the 19th century. New "
+"Zealand logging is an industry that still accounts for 1.1% of the world's "
+"total supply of industrial wood and 1.3% of the world's trade in forest "
+"[products](https://www.mpi.govt.nz/news-and-resources/open-data-and-"
+"forecasting/forestry/)."
+msgstr ""
+"Dans les années 1970, en Nouvelle-Zélande, des groupes de défense de "
+"l'environnement commencé à cibler leurs actions sur l'exploitation "
+"forestière, responsable de l'éradication des deux tiers des forêts primaires "
+"depuis le XIXème siècle. L'industrie forestière néo-zélandaise représente "
+"toujours à l'heure actuelle 1,1 % du bois industriel produit dans le monde, "
+"et 1,3 % du commerce mondial de [produits dérivés de l'exploitation "
+"forestière](https://www.mpi.govt.nz/news-and-resources/open-data-and-"
+"forecasting/forestry/)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:178
+msgid ""
+"A petition of approximately 350,000 signatures was presented to Parliament, "
+"demanding an end to logging and legal recognition of native forests. Despite "
+"this, the 1000-year old forests of Pureora were to be logged of all "
+"merchantable timber."
+msgstr ""
+"Une pétition comptant environ 350 000 signatures fut présentée au Parlement, "
+"exigeant l'arrêt de l'exploitation forestière, et la reconnaissance "
+"juridique des forêts primaires, mais malgré cela, tout le bois exploitable "
+"des forêts millénaires de Pureora allait être commercialisé."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:180
+msgid ""
+"In the first ever [tree-sitting protest](https://www.nzgeo.com/stories/"
+"occupy-the-forest/), activists [Steven King](https://www.nzgeo.com/stories/"
+"the-future-of-our-forests/), Shirley Guildford and others from the Native "
+"Forest Action Council led the action against the decimation of the Pureora "
+"forest."
+msgstr ""
+"Lors de cette toute première [occupation d'arbres](https://www.nzgeo.com/"
+"stories/occupy-the-forest/), les activistes [Steven King](https://www.nzgeo."
+"com/stories/the-future-of-our-forests/), Shirley Guildford et d'autres "
+"militants du Conseil national de protection des forêts sont passés à "
+"l'action pour lutter contre contre la destruction de la forêt de Pureora."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:182
+msgid ""
+"[Protestors took action quickly](https://www.pottonandburton.co.nz/wp-"
+"content/uploads/2018/10/Fight-for-the-Forest_blad.pdf), obtaining camping "
+"permits for the forest. They climbed into the canopy of six totara trees and "
+"demanded Pureora be spared. Platforms and tree houses were constructed as "
+"protestors occupied the area and refused to leave. Some blocked access to "
+"the trees with their bodies. This definitive, fast response was vital in "
+"that they established themselves before the authorities could respond."
+msgstr ""
+"Obtenant des permis de camper en forêt, [ils ont agi rapidement](https://www."
+"pottonandburton.co.nz/wp-content/uploads/2018/10/Fight-for-the-Forest_blad."
+"pdf), et se sont hissés dans la canopée de six totaras, exigeant que la "
+"forêt de Pureora soit épargnée. Refusant de partir, ils ont construit "
+"cabanes et plateformes dans les arbres de la zone, et certains bloquaient "
+"l'accès aux arbres, faisant rempart de leurs propres corps. Le fait qu'ils "
+"se soient déployés si vite a joué en leur faveur, dans la mesure où ils ont "
+"pu s'installer avant que les autorités ne puissent réagir."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:184
+msgid ""
+"The result of the protest was that both the public and government were "
+"alerted to the destruction of natural habitats, the loss of biodiversity, "
+"and environmental fragility."
+msgstr ""
+"Leur action a permis d'alerter à la fois l'opinion publique et le "
+"gouvernement, sur la destruction des habitats naturels, la perte de "
+"biodiversité, et la vulnérabilité de l'environnement."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:186
+msgid ""
+"This was a small [act of civil disobedience](https://teara.govt.nz/en/"
+"video/34834/pureora-forest-protest-1978?"
+"__cf_chl_jschl_tk__=507533e4ec5a93f62f6460aec03f148bd6db5fc0-1600674528-0-"
+"ASu1HWuR6mM_bg86kaZmLLfLEUTyxn141aFxb7XFiGD1J0U8asXePjVVoTQmtiYq7x_AxXQ1k3FWfTY0hD8ZuXEN-"
+"wcwzVgL-"
+"ahIMFolXZuDWZLfxxCop6hbGCIMo0_qNoxGl310LMWEfQMFOGeqPM6LR7yUUB4TRys4yKr14WEgLb8BIn8kUYtvHEg7Ase6-"
+"vHzX-sydwY9BIFDs0JQHvh_a41E2FrcOWJOEJhjL-o_8UN61ek-"
+"WsOg9RbqwA2ZRc9OPzEILhqadjB2KEWL2YYc43XqFNUj_kDRLOy3zraj16m-"
+"wv8cCSzKVNf3wkeiO9JtvdHuSFcEyVRbHfvHr7E) taken by a few people who knew that "
+"bulldozers and chainsaws do not give way to petitions and prolonged debate. "
+"It led to a government-imposed logging moratorium and, eventually, the end "
+"of native forest logging in the park, with the creation of [Pureora Forest "
+"Park](https://www.doc.govt.nz/parks-and-recreation/places-to-go/waikato/"
+"places/pureora-forest-park/historic-pureora-forest-park/) in 1978. The "
+"Treetop protest platform is still accessible today."
+msgstr ""
+"Cette modeste [action de désobéissance civile](https://teara.govt.nz/en/"
+"video/34834/pureora-forest-protest-1978?"
+"__cf_chl_jschl_tk__=507533e4ec5a93f62f6460aec03f148bd6db5fc0-1600674528-0-"
+"ASu1HWuR6mM_bg86kaZmLLfLEUTyxn141aFxb7XFiGD1J0U8asXePjVVoTQmtiYq7x_AxXQ1k3FWfTY0hD8ZuXEN-"
+"wcwzVgL-"
+"ahIMFolXZuDWZLfxxCop6hbGCIMo0_qNoxGl310LMWEfQMFOGeqPM6LR7yUUB4TRys4yKr14WEgLb8BIn8kUYtvHEg7Ase6-"
+"vHzX-sydwY9BIFDs0JQHvh_a41E2FrcOWJOEJhjL-o_8UN61ek-"
+"WsOg9RbqwA2ZRc9OPzEILhqadjB2KEWL2YYc43XqFNUj_kDRLOy3zraj16m-"
+"wv8cCSzKVNf3wkeiO9JtvdHuSFcEyVRbHfvHr7E) entreprise par une poignée de "
+"personnes qui avaient conscience que ce n'était pas des pétitions ou de "
+"longs débats qui allaient faire reculer les bulldozers et les tronçonneuses, "
+"a conduit le gouvernement à établir un moratoire sur l'exploitation "
+"forestière, et finalement, à l'arrêt de l'exploitation des forêts primaires, "
+"et à la création du [Parc de la forêt de Pureora](https://www.doc.govt.nz/"
+"parks-and-recreation/places-to-go/waikato/places/pureora-forest-park/"
+"historic-pureora-forest-park/) en 1978. La plateforme de protestation "
+"_Treetop_ est toujours accessible de nos jours."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:187
+#, no-wrap
+msgid "8. Resistance to Toxic Mining: Estonia 1987"
+msgstr "8. Résistance à la toxicité de l'exploitation minière, Estonie, 1987"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:190
+msgid ""
+"Students and scientists rise up against the mighty Soviets in a fight to rid "
+"their country of exploitative and polluting large-scale mines."
+msgstr ""
+"Étudiants et scientifiques se soulèvent contre le tout puissant régime "
+"soviétique pour débarrasser leur pays de ces grosses exploitations minières "
+"qui les exploitent et les polluent."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:191
+#, no-wrap
+msgid "Phosphorite - No Thanks!"
+msgstr "Phosphorite ? Non merci !"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:194
+msgid ""
+"In the 1960s, the Soviet Union began exploiting Estonia’s rich phosphorite "
+"deposits for the fertiliser industry. During this time the country’s "
+"groundwater was contaminated by large-scale [fracking](https://www."
+"livescience.com/34464-what-is-fracking.html) (oil shale mining) operations. "
+"Hydraulic fracturing fluid, used during gas extraction, is a cocktail of "
+"chemicals including [biocides](https://pubs.acs.org/doi/full/10.1021/"
+"es503724k), and contaminated ‘flowback’ liquid contains radioactive "
+"material. Other toxic compounds are released into the air during fracking "
+"and these have been linked to birth defects, neurological problems and "
+"cancer."
+msgstr ""
+"Dans les années 60, l'Union soviétique a commencé à exploiter les riches "
+"gisements de phosphorite en Estonie pour approvisionner l'industrie des "
+"engrais chimiques agricoles. À cette période, les nappes phréatiques du pays "
+"ont été contaminées par de vastes opérations de forages par [fracturation "
+"hydraulique](https://www.livescience.com/34464-what-is-fracking.html) "
+"(extraction de gaz de schiste ). Le fluide de fracturation hydraulique, "
+"utilisé pour extraire le gaz, est un cocktail de produits chimiques "
+"comprenant des [biocides](https://pubs.acs.org/doi/full/10.1021/es503724k), "
+"et l'eau de fracturation contaminée contient des matières radioactives. "
+"Cette technique rejette aussi d'autres substances toxiques dans "
+"l'atmosphère, dont il a été établi qu'elles causaient des malformations "
+"congénitales, des problèmes neurologiques, et des cancers."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:196
+msgid ""
+"In 1987, a local news programme enlightened the Estonian people to Soviet "
+"plans to construct a huge phosphorite [mine in Virumaa](http://www.estonica."
+"org/en/Phosphorite_War/). The Soviet Estonian leadership had in the past "
+"been severely criticised for concealing information and this news unleashed "
+"an extensive protest campaign known as The Phosphorite War."
+msgstr ""
+"En 1987, grâce à une chaîne d'infos locales, les estoniens ont eut vent des "
+"plans soviétiques de construction d'une énorme [mine de phosphorite à "
+"Virumaa](http://www.estonica.org/en/Phosphorite_War/). Les dirigeants "
+"soviétiques estoniens avaient déjà été sévèrement critiqués auparavant pour "
+"avoir dissimulé des informations, et cette nouvelle a déclenché une vaste "
+"campagne de protestation connue sous le nom de \"guerre de la phosphorite\"."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:198
+msgid ""
+"At first, Soviet censors silenced the reporting of protestors, but the press "
+"gradually shook off the Communist Party’s censorship and supported the "
+"people’s resistance to the phosphorite mine. Scientists from the Estonian "
+"Academy of Sciences, led by Endel Lippmaa, warned of the contamination of up "
+"to 40 percent of Estonia’s water supply."
+msgstr ""
+"Dans un premier temps, la censure soviétique a bloqué les informations "
+"relatives au mouvement de contestation, mais la presse est progressivement "
+"passée outre la censure du Parti communiste, et a soutenu le mouvement "
+"national s'opposant à la mine de phosphorite. Les scientifiques de "
+"l'Académie des sciences d'Estonie, sous l'égide d'Endel Lippmaa, ont relayé "
+"l'information de la contamination de 40 % des réserves d'eau en Estonie."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:200
+msgid ""
+"The protest culminated in spring 1987, when brave students from Tartu "
+"University organised two peaceful demonstrations. Placards and T-shirts bore "
+"the slogan ‘Phosphorite - No Thanks!’ Declarations and newspaper articles "
+"were distributed. Estonian musicians joined the protest, singing songs that "
+"became symbolic of the struggle."
+msgstr ""
+"Le mouvement de protestation a atteint un pic au printemps 1987, lorsque de "
+"courageux étudiants de l'université de Tartu ont organisé deux "
+"manifestations pacifiques, brandissant des pancartes et portant des T-shirts "
+"avec le slogan \"Phosphorite ? Non merci !\", distribuant tracts et articles "
+"de journaux, et rejoints par des musiciens estoniens entonnant des chants "
+"devenus le symbole de la lutte."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:202
+msgid ""
+"In the [autumn of 1987](https://books.google.co.uk/books?"
+"id=nI73PdnqQlcC&pg=PA20&dq=phosphorite"
+"+war&redir_esc=y#v=onepage&q=phosphorite%20war&f=false), the Estonian "
+"leadership reached an agreement with the mighty Soviet government to halt "
+"the construction of the mine. This was the first extensive protest in Soviet "
+"Estonia. It encouraged resistance against the Soviet Union and led to the "
+"restoration of Estonian independence in 1991."
+msgstr ""
+"À [l'automne 1987](https://books.google.co.uk/books?"
+"id=nI73PdnqQlcC&pg=PA20&dq=phosphorite"
+"+war&redir_esc=y#v=onepage&q=phosphorite%20war&f=false), les dirigeants "
+"estoniens sont parvenus à un accord avec le puissant gouvernement soviétique "
+"pour stopper la construction de la mine. Ce fut la première manifestation "
+"d'ampleur en Estonie, qui encouragea la résistance contre l'Union "
+"soviétique, et conduisit au retour de l'indépendance estonienne en 1991."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:204
+msgid ""
+"The Phosphorite War was one of the most important milestones in Estonian "
+"environmental history. It brought the people of Estonia together with a "
+"renewed sense of identity and proved the power of collective action. Most "
+"significantly, it unlocked the fetters of fear."
+msgstr ""
+"La guerre de la phosphorite a été l'une des étapes les plus importantes de "
+"l'histoire estonienne en matière de protection de l'environnement. Elle a "
+"fédéré le peuple estonien, et régénéré un sentiment d'identité, prouvant "
+"ainsi la puissance de l'action collective, et plus encore le libérant du "
+"joug de la peur."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:206
+msgid ""
+"![‘Our little republic will not be excavated! Enough playing with us! The "
+"outrage is coming!’ Letter written by an Estonian protestor.](/assets/"
+"uploads/2212fb71-7066-4a72-9ea9-1f0d0d303c13.jpg)"
+msgstr ""
+"[Notre petite république ne sera pas forée ! Assez joué avec nous ! "
+"L'indignation monte ! Lettre écrite par un manifestant estonien](/assets/"
+"uploads/2212fb71-7066-4a72-9ea9-1f0d0d303c13.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:208
+#, no-wrap
+msgid "*‘Our little republic will not be excavated! Enough playing with us! The outrage is coming!’ Letter written by an Estonian protestor. Credit: [Triin Tark](http://cultural-opposition.eu/registry/?type=illustration&uri=http://courage.btk.mta.hu/courage/individual/n12811&lang=en).*\n"
+msgstr "*\"Notre petite république ne sera pas forée ! Assez joué avec nous ! L'indignation monte ! Lettre écrite par un manifestant estonien. Crédit photo : [Triin Tark](http://cultural-opposition.eu/registry/?type=illustration&uri=http://courage.btk.mta.hu/courage/individual/n12811&lang=en).*\n"
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:209
+#, no-wrap
+msgid "9. Poll Tax Refusal: United Kingdom 1989 - 1990"
+msgstr "9. Rejet de la _Poll tax_ (impôt individuel), Royaume-Uni, 1989 - 1990"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:212
+msgid ""
+"In a steadfast wave of organised resistance, the United Kingdom comes "
+"together to fight a discriminatory system enforced by a common enemy—the "
+"British Government."
+msgstr ""
+"Tout le Royaume-Uni se rassemble pour organiser une résistance farouche et "
+"lutter contre une mesure discriminatoire imposée par un ennemi commun : le "
+"gouvernement britannique."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:213
+#, no-wrap
+msgid "Can’t Pay! Won’t Pay!"
+msgstr "On ne peut pas payer ! On ne paiera pas !"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:216
+msgid ""
+"[The Poll Tax](https://freedomnews.org.uk/interview-simon-hannah-on-the-"
+"fight-to-stop-the-poll-tax/) (Community Charge) was introduced in Scotland "
+"in 1989, one year before England and Wales. It amounted to a single flat-"
+"rate tax on every adult, irrespective of personal income."
+msgstr ""
+"[L'impôt individuel, ou impôt par tête (poll tax)](https://freedomnews.org."
+"uk/interview-simon-hannah-on-the-fight-to-stop-the-poll-tax/) (_Community "
+"Charge_) a d'abord été instauré en Écosse en 1989, un an avant qu'il soit "
+"mis en place en Angleterre et au Pays de Galles. Il s'agissait d'un impôt "
+"forfaitaire unique dont chaque adulte était redevable indépendamment de ses "
+"revenus."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:218
+msgid ""
+"[This resulted in lower income](https://www.socialist.net/poll-tax-"
+"pamphlet-1990.htm) households being compelled to pay more in tax than higher "
+"earners. It was widely quoted that the billionaire Duke of Westminster would "
+"pay the same tax as his chauffeur."
+msgstr ""
+"[Les ménages à faibles revenus](https://www.socialist.net/poll-tax-"
+"pamphlet-1990.htm) se sont donc retrouvès acculés à devoir payer plus "
+"d'impôts que les foyers plus favorisés. L'exemple du Duc milliardaire de "
+"Westminster qui était redevable de la même somme à payer que son chauffeur a "
+"été largement relayé."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:220
+msgid ""
+"From the day it was implemented, 1st April 1989, the people of Scotland were "
+"fiercely opposed to the poll tax, and they fought long and hard to have it "
+"abolished."
+msgstr ""
+"Dès sa mise en place, le 1er avril 1989, les écossais se sont farouchement "
+"opposés à cet impôt, et ont lutté longuement et ardemment pour qu'il soit "
+"aboli."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:222
+msgid ""
+"On the 31st March 1990 in Glasgow, 50,000 people marched peacefully through "
+"the city centre as part of the city’s poll tax protests. A campaign of "
+"organised resistance made it impossible for the councils to enforce the tax, "
+"and physically impossible for police to arrest mass defaulters. The "
+"blockading of housing estates and private homes from court-appointed "
+"sheriffs was a key part of the Scottish struggle."
+msgstr ""
+"Le 31 mars 1990, à Glasgow, 50 000 personnes ont défilé pacifiquement dans "
+"le centre de la ville pour protester contre cet impôt forfaitaire. Une "
+"campagne de résistance organisée a littéralement empêché les conseils "
+"municipaux de faire appliquer le paiement de cette taxe, et la police était "
+"dans l'impossibilité physique d'arrêter la masse de contrevenants. Bloquer "
+"les maisons et les propriétés privées des shérifs désignés par la cour "
+"furent des actions clefs de cette lutte en Écosse."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:224
+msgid ""
+"The English and Welsh drew inspiration from Scotland's fight but the outcome "
+"was not as peaceful. A London march resulted in the worst riots in the city "
+"for over a century with 340 people arrested and 113 injured."
+msgstr ""
+"Anglais et gallois s'inspirèrent du mouvement de protestation en Écosse, "
+"mais cela ne se passa pas aussi pacifiquement. Une marche à Londres dégénéra "
+"en une des pire émeutes comme la ville n'en avait plus connu depuis un "
+"siècle, et lors de laquelle 340 personnes furent arrêtées et 113 blessées."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:226
+msgid ""
+"Prime Minister Margaret Thatcher was widely criticised for the political and "
+"fiscal disaster, and eventually resigned. Her successor, John Major, "
+"replaced the Community Charge with a system of council tax, a local taxation "
+"system based on property value."
+msgstr ""
+"La Première ministre Margaret Thatcher a été vivement critiquée pour cette "
+"désastreuse mesure politique et fiscale, et a finalement démissionné. Son "
+"successeur, John Major, a remplacé cet impôt forfaitaire par tête, par un "
+"système de taxe communale calculée sur la valeur du patrimoine immobilier."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:228
+msgid ""
+"By the end of 1990, an estimated 4 million people had refused to pay their "
+"poll tax and many of them spent time in jail. This was a passionate [grass "
+"roots protest](https://www.bbc.co.uk/news/uk-38382416), which brought "
+"together people from all parts of society. As with protestors before them, "
+"some saw the only choice being resistance, even if that meant assault, "
+"arrest and time spent in jail."
+msgstr ""
+"Fin 90, on estimait que 4 millions de personnes avaient refusé de payer cet "
+"impôt forfaitaire de la _poll tax_, et beaucoup d'entre elles avaient purgé "
+"des peines de prison. Ce fut un ardent [mouvement de contestation populaire]"
+"(https://www.bbc.co.uk/news/uk-38382416), qui a réuni des personnes de "
+"profils très variés au sein de toute la société. De même que pour les "
+"protestataires cités précédemment, certains ont estimé qu'ils n'avaient "
+"d'autre choix que de résister, même si cela pouvait signifier faire face "
+"face à des attaques, des arrestations, voire des séjours en prison."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:230
+msgid ""
+"It was the refusal to pay the tax that paralysed the system from the inside "
+"out. The machine was brought to a halt."
+msgstr ""
+"C'est le refus de payer cet impôt qui a paralysé le système de l'intérieur, "
+"et réussi à stopper la machine."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:232
+msgid ""
+"![Photo of poll tax protest.](/assets/uploads/2b72b0c1-83aa-4ae0-8414-"
+"fce9c9c1ea0d.jpg)"
+msgstr ""
+"![Photo of poll tax protest.](/assets/uploads/2b72b0c1-83aa-4ae0-8414-"
+"fce9c9c1ea0d.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:234
+#, no-wrap
+msgid "*Poll tax protest. Photographer unknown.*\n"
+msgstr "*Manif contre la _poll tax_. Photographe inconnu.*\n"
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:235
+#, no-wrap
+msgid "10. Unethical patent laws: 1998 - Present day"
+msgstr "10. Droit des brevets et questions éthiques, depuis 1998 jusqu'à aujourd'hui"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:238
+msgid ""
+"Huge corporations seize seeds in a bid to control what we eat. Brave farmers "
+"all over the world risk ruination by refusing to accept this. Little "
+"victories can be inspirational."
+msgstr ""
+"De grands groupes corporatistes s'emparent de la brevetabilité des semences "
+"pour tenter de contrôler notre alimentation. De courageux agriculteurs sont "
+"prêts à tout perdre pour s'y opposer, démontrant ainsi que de petites "
+"victoires peuvent être une grande source d'inspiration."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:239
+#, no-wrap
+msgid "Saving Seeds is a Political Act"
+msgstr "La protection des semences : un acte politique"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:242
+msgid ""
+"As a result of a global legal offensive, farmers who have grown and shared "
+"seeds for thousands of years are fast becoming criminalised for their "
+"actions."
+msgstr ""
+"En vertu de la législation internationale, les agriculteurs qui ont cultivé "
+"et partagé des semences pendant des milliers d'années se voient rapidement "
+"pénalisés pour leurs actions."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:244
+msgid ""
+"The world’s ten largest seed corporations dominate three quarters of the "
+"[commercial seed market](https://en.reset.org/knowledge/privatisation-"
+"seeds). Environmental and Agricultural activist Vandana Shiva urges the "
+"refusal to recognise unethical laws that rob people of the right to save and "
+"exchange seeds. She does this on the basis that those who control the "
+"world’s food [control the world](https://www.youtube.com/watch?"
+"v=jEqS6rnoyYc)."
+msgstr ""
+"Les dix plus grands groupes de production semencière dans le monde ont le "
+"monopole des trois quarts du [marché des semences commercialisées](https://"
+"en.reset.org/knowledge/privatisation-seeds). Vandana Shiva, l'activiste qui "
+"lutte pour la sauvegarde de l'environnement et de la paysannerie, appelle à "
+"refuser de reconnaître des lois contraires à l'éthique qui privent les gens "
+"du droit de conserver, et d'échanger des semences, s'appuyant sur le fait "
+"que ceux qui contrôlent l'alimentation à l'échelle internationale "
+"[contrôlent le monde](https://www.youtube.com/watch?v=jEqS6rnoyYc)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:246
+msgid ""
+"In this environment, farmers lose their autonomy. They must purchase seeds "
+"determined by seed corporations. Terminator seeds, for example, are "
+"genetically modified to become sterile after the first germination. They are "
+"expensive and require herbicides and artificial fertilisers all provided, at "
+"huge cost, by the corporations. The following year the farmer must purchase "
+"more seeds and more fertiliser. Those that are not [ruined by inescapable "
+"debt](https://www.theguardian.com/global-development/gallery/2014/may/05/"
+"india-cotton-suicides-farmer-deaths-gm-seeds) become part of a corporate "
+"production chain."
+msgstr ""
+"Dans un tel contexte, agriculteurs et paysans perdent leur autonomie. Ils "
+"sont obligés d'acheter des semences régulées par les groupes de semenciers. "
+"Les semences Terminator, par exemple, sont génétiquement modifiées pour "
+"devenir stériles après la première germination. Elles sont chères et "
+"requièrent l'utilisation d'herbicides et d'engrais chimiques, évidemment "
+"fournis, à un prix très élevé, par ces mêmes corporations de semenciers. "
+"L'année suivante, l'agriculteur se voit ainsi forcé d'acheter plus de "
+"semences et plus d'engrais. Ceux qui ne sont pas encore [inéluctablement "
+"ruinés](https://www.theguardian.com/global-development/gallery/2014/may/05/"
+"india-cotton-suicides-farmer-deaths-gm-seeds), deviennent un maillon de la "
+"chaîne de production de ces grands groupes corporatistes."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:248
+msgid ""
+"Agricultural biodiversity is vital given the global challenges the world now "
+"faces; new strains of disease, environmental stresses in the face of climate "
+"change, and socio-economic challenges. The ability of crops to adapt is the "
+"cornerstone of the planet’s survival, yet over the course of the 20th "
+"century, according to the FAO, approximately 75% of crop diversity has been "
+"lost as a result of privatisation and monoculture—the growing of a single "
+"crop on the same land year after year."
+msgstr ""
+"Maintenir la biodiversité au sein de l'agriculture est fondamental compte "
+"tenu des enjeux auxquels le monde fait face aujourd'hui : nouvelles souches "
+"de maladies, catastrophes environnementales dues au bouleversement "
+"écologique et climatique, problématiques socio-économiques... La capacité "
+"d'adaptation des cultures est le fondement de la survie de la planète. "
+"Pourtant, au cours du XXe siècle, selon la FAO, environ 75 % de la diversité "
+"des cultures a disparu du fait de la privatisation et de l'extension des "
+"monocultures - la culture d'une seule espèce sur les mêmes terres, année "
+"après année."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:250
+msgid ""
+"[Resistance](https://www.grain.org/article/entries/5142-seed-laws-that-"
+"criminalise-farmers-resistance-and-fightback#1%20making%20seeds%20illegal) "
+"against seed privatisation is global. Farmers are developing local seed "
+"systems, risking fines and imprisonment for storing and sharing seeds. They "
+"are marching, striking, refusing to roll over. They are paying fines and "
+"going to jail, and sometimes they win. The victories may seem small but they "
+"are monumental for those involved."
+msgstr ""
+"[La résistance](https://www.grain.org/article/entries/5142-seed-laws-that-"
+"criminalise-farmers-resistance-and-fightback#1%20making%20seeds%20illegal) à "
+"la privatisation des semences est mondiale. Les agriculteurs développent des "
+"systèmes de semences localement, risquant des amendes et des peines de "
+"prison pour les avoir stockées et partagées. Ils organisent des marches, "
+"font la grève, refusent de céder, paient des amendes, vont en prison, et "
+"parfois ils obtiennent gain de cause ! Ces victoires peuvent sembler "
+"mineures, mais elles sont fondamentales pour celles et ceux qui sont "
+"concernés."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:252
+msgid ""
+"These farmers might not change the world immediately, but they continue to "
+"change their societies, which can and does lead to global change."
+msgstr ""
+"Ces paysans ne changeront peut-être pas le monde d'un coup, mais ils "
+"continuent de contribuer à changer les mentalités, ce qui peut conduire, et "
+"conduit manifestement à changer le monde."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:253
+#, no-wrap
+msgid "11. Peasants revolt: France 1999"
+msgstr "11. La révolte du monde paysan, France, 1999"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:256
+msgid ""
+"A French sheep farmer finds a symbolic way to protest against the influx of "
+"multinationals by taking apart a McDonald’s, one brick at a time."
+msgstr ""
+"Un éleveur de moutons français trouve un moyen symbolique de protester "
+"contre l'invasion de multinationales en démantelant un McDo brique par "
+"brique."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:257
+#, no-wrap
+msgid "Fighting McDomination"
+msgstr "Lutter contre la MacDomination"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:260
+msgid ""
+"In 1999, José Bové, along with 300 collaborators, dismantled a [half-built "
+"McDonald’s](https://www.youtube.com/watch?v=qcLnunXjjTU) in Millau "
+"(Aveyron). This was a symbolic action to protest against globalisation and "
+"the loss of food sovereignty to multinationals—that is the right to healthy, "
+"diverse and culturally appropriate food produced through sustainable "
+"methods. It was an action taken, not only on behalf of traditional French "
+"producers, but for those from all over the world."
+msgstr ""
+"En 1999, José Bové, accompagné de 300 collègues démantèle un [McDonald's en "
+"construction](https://www.youtube.com/watch?v=qcLnunXjjTU) à Millau, dans "
+"l'Aveyron. Une action symbolique pour protester contre la mondialisation et "
+"la disparition de la souveraineté alimentaire au profit des multinationales -"
+"à savoir le droit à une alimentation saine, diversifiée, locale et produite "
+"selon des méthodes durables- menée non seulement au nom des producteurs "
+"français, mais aussi pour ceux du monde entier."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:262
+msgid ""
+"Bové’s action created an army of agricultural activists and was part of a "
+"wider protest aimed at disrupting the influx into Europe of genetically "
+"modified crops and monoculture."
+msgstr ""
+"Cette action de José Bové a mobilisé une armada de paysans activistes, et "
+"s'inscrit plus largement dans le cadre d'un vaste mouvement de protestation "
+"visant à dénoncer et perturber l'introduction massive des monocultures et "
+"des semences génétiquement modifiées en Europe."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:264
+msgid ""
+"On the day of his trial in Millau, Bové arrived in an oxcart, a large wheel "
+"of Roquefort cheese held aloft. Later, dressed as a criminal to start his "
+"three month sentence, Bové was applauded by hundreds of supporters as he "
+"made the six hour journey to prison at the head of a convoy of tractors."
+msgstr ""
+"Le jour de son procès à Millau, José Bové est arrivé dans un char à bœufs, "
+"brandissant une grande meule de Roquefort, après 6 heures de trajet à la "
+"tête d'un convoi de tracteurs. C'est en tenue de bagnard qu'il s'est "
+"présenté devant la prison où il devait purger une peine de trois mois, "
+"acclamé et applaudi par des centaines de sympathisants qui l'avaient escorté "
+"jusque-là."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:266
+msgid ""
+"Bové used non-violent civil disobedience to call attention to injustices, "
+"and by spending time in jail won the support of thousands. He tapped into "
+"deep fears about the safety of the food supply in France, identifying and "
+"challenging what many considered a threat to French cultural identity."
+msgstr ""
+"Il a eu recours à la désobéissance civile non violente pour attirer "
+"l'attention sur les injustices, et en purgeant une peine en prison, il a "
+"obtenu le soutien de milliers de personnes. Il a exploité le terrain des "
+"profondes craintes liées à l'insécurité alimentaire en France, en pointant "
+"et en s'opposant à ce que beaucoup considéraient comme une menace pour le "
+"patrimoine culturel français."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:268
+msgid ""
+"This sheep farmer activist inspired an international protest movement that "
+"included Confederation Paysanne, the [Associations for the Maintenance of "
+"Peasant Agriculture](https://www.theguardian.com/world/2012/apr/10/france-"
+"farming-organic-vegetable-boxes) and [La Via Campesina](https://viacampesina."
+"org/en), the international peasants movement. These organisations continue "
+"to demand protection for human rights, including the right to control the "
+"supply and safety of one's food."
+msgstr ""
+"Cet éleveur de moutons militant, leader de la Confédération Paysanne, a "
+"initié un mouvement de protestation international comprenant les "
+"[Associations pour le maintien de l'agriculture paysanne](https://www."
+"theguardian.com/world/2012/apr/10/france-farming-organic-vegetable-boxes) et "
+"[La Via Campesina](https://viacampesina.org/en), un mouvement paysan "
+"international. Ces organisations continuent de revendiquer la protection des "
+"droits de l'homme, y compris le droit de pouvoir contrôler "
+"l'approvisionnement et la sécurité alimentaires."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:270
+msgid ""
+"Bové was at the forefront of the successful movement against GMOs being "
+"grown in France and Europe. (Spain and Portugal are the only European "
+"countries who grow [GMO crops](https://www.newscientist.com/article/dn28283-"
+"more-than-half-of-european-union-votes-to-ban-growing-gm-crops/)). He served "
+"as a [Member of the European Parliament](https://thenaturalfarmer.org/"
+"article/jose-bove-and-food-sovereignty-an-interview/) with the European "
+"Greens from 2009 - 2019."
+msgstr ""
+"Bové a été un pionnier de la résistance contre la culture des OGM en France "
+"et en Europe, qui a obtenu gain de cause. (L'Espagne et le Portugal sont les "
+"seuls pays européens à autoriser [les cultures d' OGM sur leurs sols]"
+"(https://www.newscientist.com/article/dn28283-more-than-half-of-european-"
+"union-votes-to-ban-growing-gm-crops/)). Il a aussi été [eurodéputé au "
+"Parlement Européen pour le Groupe des Verts/Alliance libre européenne ]"
+"(https://thenaturalfarmer.org/article/jose-bove-and-food-sovereignty-an-"
+"interview/), de 2009 à 2019."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:272
+msgid ""
+"![Homeless man on roadside of Seville, Spain.](/assets/uploads/0eea3184-"
+"eae4-4428-bd4a-be6757b377bf.jpg)"
+msgstr ""
+"![Homeless man on roadside of Seville, Spain.](/assets/uploads/0eea3184-"
+"eae4-4428-bd4a-be6757b377bf.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:274
+#, no-wrap
+msgid "*Seville 2012. Photo: author.*\n"
+msgstr "*Séville 2012. Photo de l'auteure*\n"
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:275
+#, no-wrap
+msgid "12. Eviction Resistance: Spain 2008 - Present day"
+msgstr "12. Résistance aux avis d'expulsion, Espagne, 2008 jusqu'à aujourd'hui"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:278
+msgid ""
+"People take back the power to fight evictions as the government and banks do "
+"nothing to help an increasingly desolate population."
+msgstr ""
+"Citoyennes et citoyens forcés revendiquent leurs droits en luttant contre "
+"les avis d'expulsions, puisque ni le gouvernement ni les banques ne font "
+"quoi que ce soit pour venir en aide à une population de plus en plus démunie."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:279
+#, no-wrap
+msgid "The government bails out banks: PAH bails out people"
+msgstr "Le gouvernement renfloue les banques : La plateforme PAH renfloue les gens"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:282
+msgid ""
+"Around 250,000 seizure orders were served on Spanish properties between 2008 "
+"and 2012. In 2013, there were an average of 184 evictions per day."
+msgstr ""
+"Environ 250 000 saisies de biens immobiliers et avis d'expulsion ont été "
+"prononcés en Espagne entre 2008 et 2012. En 2013, il y a eu une moyenne de "
+"184 expulsions par jour."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:284
+msgid ""
+"Anti-eviction organisations, such as the Platform of People Affected by "
+"Mortgages (PAH), were formed in reaction to the Spanish Government's failure "
+"to uphold the constitutional right for all Spaniards to enjoy stable and "
+"affordable housing."
+msgstr ""
+"La PAH (Plateforme des personnes affectées par les hypothèques (PAH), ainsi "
+"que d'autres instances luttant contre ces avis d'expulsion, ont été créées "
+"en réaction à l'échec du gouvernement espagnol à faire respecter le droit "
+"constitutionnel de ces ressortissants à bénéficier d'un logement pérenne et "
+"abordable."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:286
+msgid ""
+"The [PAH](https://www.youtube.com/watch?v=TkrM-zBGjBQ) aimed to prevent the "
+"[systematic eviction](https://www.smartcitiesdive.com/ex/"
+"sustainablecitiescollective/stopping-housing-evictions-spain-cities/112871/) "
+"of tens of thousands of debtors across Spain and to turn mortgaged homes "
+"into affordable rental properties while reforming the Mortgage Act, which "
+"previously granted banks the right to claim full payment of debt, even after "
+"evicting a property's residents."
+msgstr ""
+"La [PAH](https://www.youtube.com/watch?v=TkrM-zBGjBQ) avait pour objectif "
+"d'empêcher [l'expulsion systématique](https://www.smartcitiesdive.com/ex/"
+"sustainablecitiescollective/stopping-housing-evictions-spain-cities/112871/) "
+"de dizaines de milliers de personnes endettées dans toute l'Espagne, et à "
+"transformer les logements hypothéqués en logements locatifs abordables, tout "
+"en réformant la loi sur les crédits immobiliers, qui accordait aux banques "
+"le droit de réclamer l'intégralité du paiement de la dette, même une fois "
+"que les habitants avaient été expulsés de leurs logements."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:288
+msgid ""
+"The strength of this movement was based on its very broad social foundation. "
+"Weekly meetings empowered the people by sharing knowledge and experience of "
+"the eviction process."
+msgstr ""
+"La puissance de ce mouvement reposait sur de solides fondations sociales, et "
+"les réunions hebdomadaires ont encouragé les gens à partager informations et "
+"expériences relatives au processus d'expulsion."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:290
+msgid ""
+"The PAH could call on [dozens of protestors](http://www.digitaljournal.com/"
+"article/344260) to gather at short notice, blocking entrances to properties "
+"where eviction orders were being delivered. The PAH re-occupied empty "
+"housing owned by banks to provide shelter for evicted families. Eight months "
+"after the start of the collective occupation, 20 housing blocks were "
+"occupied, sheltering 1049 people."
+msgstr ""
+"La PAH avait la capacité de mobiliser très rapidement [des dizaines de "
+"manifestants](http://www.digitaljournal.com/article/344260) et de les "
+"appeler à se rassembler devant les propriétés concernées par des avis "
+"d'expulsion pour faire blocage. La PAH a réoccupé des logements vides "
+"appartenant à des banques pour héberger des familles expulsées. Huit mois "
+"après le début de l'occupation collective, 20 immeubles avaient été occupés "
+"pour abriter 1049 personnes."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:292
+msgid ""
+"These methods of political activism gained widespread legitimacy. Spanish "
+"banks had been bailed out with public funds. The PAH, and their followers, "
+"saw this not as illegal occupation but legitimate recuperation."
+msgstr ""
+"Ces tactiques d'activisme politique se sont vues légitimisées, les banques "
+"espagnoles ayant été renflouées avec des fonds publics. La PAH et ses "
+"sympathisants ne considéraient pas ces occupations comme illégales, mais "
+"comme des réappropriations légitimes."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:294
+msgid ""
+"Along with highly organised demonstrations, manifestos and interaction with "
+"the media and public institutions, the PAH took part in controversial "
+"‘escraches’-- protests staged outside the homes of politicians and the "
+"European Court of Justice, demanding changes to Spanish mortgage legislation."
+msgstr ""
+"En plus de manifestations très organisées, de tribunes, et d'interactions "
+"avec les médias et les institutions publiques, la PAH a pris part à des "
+"\"escraches\" qui ont porté à controverse, devant des maisons de "
+"politiciens, et devant la Cour de justice européenne, pour exiger que la "
+"législation espagnole sur les crédits immobiliers soit modifiée. Le terme "
+"_escraches_ est utilisé dans les pays hispanophones pour désigner des "
+"rassemblements organisés devant les sièges ou propriétés privées de "
+"politiciens ou autres dirigeants, afin de les dénoncer publiquement."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:296
+msgid ""
+"The anti-eviction campaign challenged the rhetoric of the state, the banks, "
+"and property developers. The protests struck at the very core of [Spain’s "
+"power structure](https://www.jacobinmag.com/2015/01/spain-evictions-pah/) in "
+"challenging forms of expropriation by state-backed private finance."
+msgstr ""
+"Cette campagne anti-expulsion est parvenue à remettre en question la "
+"rhétorique de l'État, des banques et des promoteurs immobiliers. Les "
+"protestations ont touché le cœur même de [la structure du pouvoir en Espagne]"
+"(https://www.jacobinmag.com/2015/01/spain-evictions-pah/) en dénonçant les "
+"mesures d'expropriation par des organismes de financement privés soutenus "
+"par l'État."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:298
+msgid ""
+"In 2013, The European Court of Justice declared support for the People’s "
+"Legislative Initiative – drafted by the PAH movement. This obliged the "
+"Spanish government to modify the Mortgage Law and Civil Procedure to adjust "
+"the"
+msgstr ""
+"En 2013, la Cour de justice européenne a apporté son soutien à l'initiative "
+"populaire pour une réforme de la législation, initiée par la PAH, obligeant "
+"le gouvernement espagnol à modifier la loi sur les crédits immobilliers et "
+"la procédure civile afin de rétablir"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:300
+msgid "imbalance between creditor and individual debtor."
+msgstr "un équilibre entre les banques et les personnes endettées."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:301
+#, no-wrap
+msgid "13. Digital civil disobedience: USA 2013"
+msgstr "13. Désobéissance civile numérique, ÉTATS-UNIS, 2013"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:304
+msgid ""
+"One man loses his freedom to expose what our governments are up to—watching "
+"and listening, collecting our data to manipulate and control us."
+msgstr ""
+"Un homme sacrifie sa liberté pour dévoiler ce que nos gouvernements sont en "
+"train de faire, à savoir nous observer, nous écouter, et collecter nos "
+"données pour nous manipuler et nous contrôler."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:305
+#, no-wrap
+msgid "Whistleblowing is democracy’s safeguard of last resort"
+msgstr "Le dernier recours des lanceurs d'alerte, garants de la démocratie"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:308
+msgid ""
+"[Edward Snowden](https://www.wired.com/2014/08/edward-snowden/#ch-2), "
+"cybersecurity expert, copied and handed over a vast cache of [close to ten "
+"thousand](https://www.apnews.com/f8424471585f44da95918c0e784e83af) highly "
+"classified documents taken from the National Security Agency (NSA) when "
+"employed as a contractor with Booz Allen Hamilton."
+msgstr ""
+"[Edward Snowden](https://www.wired.com/2014/08/edward-snowden/#ch-2), "
+"spécialiste en cybersécurité, a rendu publics et révélés [près de dix mille]"
+"(https://www.apnews.com/f8424471585f44da95918c0e784e83af) documents de "
+"l'Agence de sécurité nationale (NSA) classés top-secret lorsqu'il était "
+"employé chez Booz Allen Hamilton."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:310
+msgid ""
+"When his concerns of unethical practice were dismissed, Snowden blew the "
+"whistle on secret details of surveillance programs conducted by the United "
+"States government (with the cooperation of telecommunication companies and "
+"European Governments)."
+msgstr ""
+"Avant de réveler ces informations hautement confidentielles relatives aux "
+"programmes de surveillance menés par le gouvernement des États-Unis (avec la "
+"coopération des sociétés de télécommunications et des gouvernements "
+"européens), Snowden avait pourtant exprimé ses craintes quant à ces "
+"pratiques contraires à l'éthique."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:312
+msgid ""
+"His objective was to alert the world to widespread, unconstitutional "
+"surveillance and invasions of privacy, suggesting that if the governments "
+"will not represent the public interests, it is up to the public to champion "
+"them."
+msgstr ""
+"Son objectif était d'alerter le monde entier sur la surveillance généralisée "
+"et anticonstitutionnelle, ainsi que sur les atteintes à la vie privée que "
+"cela impliquait, estimant que si les gouvernements ne représentaient pas les "
+"intérêts du public, il était de son devoir de le faire."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:314
+msgid ""
+"The Snowden leaks inspired five years of technological change within Silicon "
+"Valley tech giants, keen to regain their users' trust. Apple was the first "
+"to adjust its privacy policy and encryption and security practices."
+msgstr ""
+"Les révélations de Snowden ont initié cinq années de révolution "
+"technologique chez les géants de la Silicon Valley, soucieux de regagner la "
+"confiance de leurs utilisateurs. Apple a été le premier à modifier sa "
+"politique de confidentialité et ses pratiques de cryptage et de sécurité."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:316
+msgid ""
+"The Snowden leaks didn't put an end to government surveillance. The fight "
+"against violation of privacy and the harvesting of data continue, but "
+"Snowden’s actions sparked a cultural shift, raising awareness of government "
+"infraction. They prompted a cultural discussion about government "
+"infringement of civil liberties. Having received death threats and branded a "
+"traitor by many, Snowden still lives in [exile in Moscow.](https://www."
+"theguardian.com/us-news/ng-interactive/2019/sep/13/edward-snowden-interview-"
+"whistleblowing-russia-ai-permanent-record)"
+msgstr ""
+"Ces révélations n'ont certes pas mis fin à la surveillance du gouvernement. "
+"La lutte contre les violations de la vie privée et le recueil de données "
+"continue, mais les agissements de Snowden ont éveillé les consciences, et "
+"sensibilisé les gens aux pratiques délictueuses perpétuées par les "
+"gouvernements, suscitant un débat de fond sur les violations des libertés "
+"civiles. Après avoir été menacé de mort, et qualifié de traître par "
+"beaucoup, Snowden est toujours contraint de vivre en [exil à Moscou.]"
+"(https://www.theguardian.com/us-news/ng-interactive/2019/sep/13/edward-"
+"snowden-interview-whistleblowing-russia-ai-permanent-record)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:318
+msgid ""
+"Edward Snowden was one person taking action to expose, with great bravery "
+"and potential danger to himself, an injustice that affected us all."
+msgstr ""
+"Edward Snowden a agi seul, se mettant très courageusement dans une position "
+"d'extême vulnérabilité, pour dévoiler ces injustices qui nous affectent tous."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:319
+#, no-wrap
+msgid "14. The People’s Revolution: Sudan 2019"
+msgstr "14. La révolution populaire, Soudan, 2019"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:322
+msgid ""
+"After decades of living under a brutal dictatorship, the Sudanese people "
+"rise up in a campaign of disobedience and resistance. It is a hard fight."
+msgstr ""
+"Après des décennies sous le joug d'une dictature brutale, le peuple "
+"soudanais se soulève et se mobilise dans un mouvement de résistance et de "
+"désobéissance civile : un âpre combat."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:323
+#, no-wrap
+msgid "We Will Rebuild Sudan"
+msgstr "Nous reconstruirons le Soudan"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:326
+msgid ""
+"On 11th April 2019, a pro-democratic, non-violent civil uprising involving "
+"thousands of Sudanese people overthrew the most brutal of dictators, Omar al-"
+"Bashir. His 30 year rule, supported by Saudi Arabia and the United Arab "
+"Emirates, decimated the economy, split society and placed barbaric controls "
+"on [women](https://www.dabangasudan.org/en/all-news/article/sudan-one-of-"
+"worst-countries-for-women-s-rights-survey)."
+msgstr ""
+"Le 11 avril 2019, un soulèvement populaire non-violent et pro-démocratique "
+"conduit par des milliers de Soudanais, est parvenu à renverser Omar al-"
+"Bashir, un abject dictateur qui a régné pendant 30 ans, avec l'appui de "
+"l'Arabie saoudite et des Émirats arabes unis. Pendant qu'il était au "
+"pouvoir, l'économie s'est effondrée, la société a été divisée, et [les "
+"droits des femmes honteusement ignorés](https://www.dabangasudan.org/en/all-"
+"news/article/sudan-one-of-worst-countries-for-women-s-rights-survey)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:328
+msgid ""
+"Starting in the provinces in reaction to rising living costs, the uprising "
+"soon moved to the capital, Khartoum. North and south came together, "
+"regardless of class, ethnicity or religious belief in defiance of the "
+"regime. The country’s young professionals were at the forefront of the "
+"insurrection, with women encouraging other women to join them in their "
+"demand for freedom."
+msgstr ""
+"La révolte a commencé dans les provinces en réaction à l'augmentation du "
+"coût de la vie, et s'est rapidement propagée jusqu'à Khartoum, la capitale. "
+"Nord et Sud se sont réunis, sans distinction de classe, d'ethnie ou de "
+"croyance religieuse, pour lutter contre le régime. Les jeunes travailleurs "
+"du pays étaient en première ligne de l'insurrection, et les femmes en "
+"encourageaient d'autres à se joindre à elles pour revendiquer leurs libertés."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:330
+msgid ""
+"Restaurants, banks and businesses were closed down. The streets became "
+"desolate. There were eight months of strikes and demonstrations calling for "
+"democracy, the dissolution of the National Congress Party (NCP), human "
+"rights, economic reforms and the repeal of the public order law, designed to "
+"exclude and intimidate women from actively participating in public life."
+msgstr ""
+"Les restaurants, les banques, les magasins ont dû fermer, et les rues "
+"étaient désertes, pendant huit mois de grèves, et de manifestations qui "
+"exigeaient un système démocratique, la dissolution du Parti du Congrès "
+"national (NCP), le respect des droits de l'homme, des réformes économiques, "
+"et l'abrogation de la loi sur l'ordre public visant à exclure et à intimider "
+"les femmes pour les décourager de participer activement à la vie publique."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:332
+msgid ""
+"Once Bashir was ousted, the Transitional Military Council (TMC) took charge "
+"and it soon became clear that it was not willing to give up power. On 3rd "
+"June, following weeks of peaceful celebration, the [Rapid Support Forces]"
+"(https://www.aljazeera.com/news/2019/6/6/who-are-sudans-rsf-and-their-"
+"commander-hemeti) opened fire on protestors who were holding a prolonged sit-"
+"in outside the military headquarters in Khartoum. The internet was closed "
+"down to suppress sharing of information. Hundreds were killed and raped, in "
+"a bid to break the revolution by traumatising its supporters."
+msgstr ""
+"Une fois Bashir évincé, le Conseil militaire de transition (CMT) a pris les "
+"rênes, et on s'est vite aperçu qu'il n'était pas prêt à abandonner le "
+"pouvoir. Le 3 juin, après des semaines de célébrations pacifiques, les "
+"[forces de soutien rapide](https://www.aljazeera.com/news/2019/6/6/who-are-"
+"sudans-rsf-and-their-commander-hemeti) ont ouvert le feu sur la foule de "
+"manifestants qui faisaientt un sit-in devant le quartier général militaire à "
+"Khartoum. Le réseau internet a été coupé pour empêcher les gens de "
+"communiquer, et de relayer des informations. Des centaines de personnes ont "
+"été massacrées et violées, pour tenter de briser la révolution en en "
+"traumatisant ses partisans."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:334
+msgid ""
+"The people didn't give up. Two weeks after the massacre, [the youth "
+"reorganised](https://www.bbc.co.uk/news/av/world-africa-48818776), calling "
+"for sustained civil disobedience and non-violent resistance, claiming they "
+"would not stop until authority was transferred to a liberal civilian "
+"administration."
+msgstr ""
+"Mais les gens n'ont pas abandonné. Deux semaines après le massacre, [la "
+"jeunesse s'est réorganisée](https://www.bbc.co.uk/news/av/world-"
+"africa-48818776), appelant à une désobéissance civile accrue, et à une "
+"résistance non violente, revendiquant qu'elle ne cesserait pas tant que le "
+"pouvoir ne serait pas transféré à un gouvernement civil libéral."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:336
+msgid ""
+"On 17th July, the TMC and civilian protestors represented by the Forces of "
+"Freedom and Change, signed a [power sharing agreement](https://"
+"theconversation.com/how-the-people-of-sudan-pulled-off-an-improbable-"
+"revolution-132808)."
+msgstr ""
+"Le 17 juillet, le CMT et les Forces de la liberté et du changement "
+"représentant les manifestants, ont signé un [accord pour le partage du "
+"pouvoir](https://theconversation.com/how-the-people-of-sudan-pulled-off-an-"
+"improbable-revolution-132808)."
+
+#. type: Title ##
+#: 2020-11-03-civil-disobedience-examples.md:337
+#, no-wrap
+msgid "15. Gilet Jaunes: France 2018-2019"
+msgstr "15. Les gilet Jaunes, France, 2018-2019"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:340
+msgid ""
+"President Macron—France’s youngest head of state since Napoleon Bonaparte—is "
+"served some grassroots revolution by a discontent and angry population."
+msgstr ""
+"Le président Emmanuel Macron, le plus jeune dirigeant à la tête de la France "
+"depuis Napoleon Bonaparte, face à la colère et à l'acharnement d'un "
+"mouvement de contestation populaire."
+
+#. type: Title ###
+#: 2020-11-03-civil-disobedience-examples.md:341
+#, no-wrap
+msgid "Je suis le peuple. I am the people"
+msgstr "Je suis le peuple."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:344
+msgid ""
+"The Gilet Jaune (Yellow Vest) protest came about as a reaction to changes in "
+"labour laws, in particular a rise in fuel taxes, but grew to demand social "
+"and economic justice. Organised via social media, through colère (anger) "
+"groups, the people of France came together in solidarity, irrespective of "
+"political and social backgrounds."
+msgstr ""
+"Le mouvement des Gilet Jaunes est né d'une opposition à une réforme du droit "
+"du travail, et en particulier à une augmentation des taxes sur les "
+"carburants, mais s'est développé pour revendiquer plus largement la justice "
+"sociale et économique. S'organisant via les réseaux sociaux, ces citoyennes "
+"et citoyens en colère se sont réunis dans un esprit de solidarité, "
+"indépendamment de leurs orientations politiques et de leur statut social."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:346
+msgid ""
+"Following the tax cuts for [France’s millionaires](https://www.independent."
+"co.uk/news/world/europe/emmanuel-macron-french-budget-hero-rich-cut-taxes-"
+"wealthiest-france-left-wing-a7971606.html) in 2017, fiscal demands on "
+"struggling middle classes had increased, while rural populations faced high "
+"unemployment levels and further economic downturn. Cuts in public transport "
+"services across France left much of the population [reliant on cars](https://"
+"www.thelocal.fr/20190808/how-poor-public-transport-in-rural-france-has-led-"
+"to-car-dependency). Rural populations, including those who had been priced "
+"out of living in the big cities, struggled to survive."
+msgstr ""
+"Suite à la suppression de [l'ISF (Impôt Sur la Fortune)](https://www."
+"independent.co.uk/news/world/europe/emmanuel-macron-french-budget-hero-rich-"
+"cut-taxes-wealthiest-france-left-wing-a7971606.html) en 2017, les "
+"revendications fiscales des classes moyennes en difficulté ont augmenté, "
+"tandis que les populations rurales étaient confrontées à un taux de chômage "
+"très élevé, et à un nouveau ralentissement économique. La réduction des "
+"services de transport public dans toute la France a laissé une grande partie "
+"de la population [dépendante de la voiture individuelle](https://www."
+"thelocal.fr/20190808/how-poor-public-transport-in-rural-france-has-led-to-"
+"car-dependency), et les populations rurales, y compris celles qui avaient dû "
+"fuir la chèreté de la vie des grandes villes, luttaient pour survivre."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:348
+msgid ""
+"![Gilet Jaunes roadblock.](/assets/uploads/18344cac-1382-4532-b5ef-"
+"b768a19be156.jpg)"
+msgstr ""
+"![Gilet Jaunes roadblock.](/assets/uploads/18344cac-1382-4532-b5ef-"
+"b768a19be156.jpg)"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:350
+#, no-wrap
+msgid "*Gilet Jaune road block. Photographer unknown.*\n"
+msgstr "*Barrage routier par les gilets jaunes. Photographe inconnu.*\n"
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:352
+msgid ""
+"In October 2018, truck driver Eric Drouet called on the people of France to "
+"block their local roads on 17 November. The aim was to obstruct traffic in "
+"order to get the government’s attention. Approximately 290,000 people took "
+"part."
+msgstr ""
+"En octobre 2018, le chauffeur routier Eric Drouet appelle ses conciyoyens à "
+"bloquer des axes routiers dans leurs localités le 17 novembre. L'objectif "
+"était d'entraver la circulation afin d'attirer l'attention du gouvernement. "
+"Environ 290 000 personnes y ont participé."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:354
+msgid ""
+"Every French motorist is obliged to carry a high-viz jacket—un gilet jaune—"
+"in their vehicle. These ubiquitous garments became the symbol of protest as "
+"drivers displayed them on dashboards, hung them from windows and emblazoned "
+"them with protest slogans. The power of the yellow vest lay in the support "
+"of the population. Within a month, polls showed over [half the country]"
+"(https://harris-interactive.fr/opinion_polls/les-gilets-jaunes-quelle-"
+"perception-de-la-part-des-francais-au-lendemain-de-la-manifestation-du-1er-"
+"decembre-sur-les-champs-elysees/) agreed with the protest."
+msgstr ""
+"En France, la réglementation veut que toute personne motorisée soit munie "
+"d'un gilet jaune de signalisation dans son véhicule. Cet item omniprésent "
+"est devenu le symbole de la protestation, les conducteurs les affichant sur "
+"les tableaux de bord, les accrochant aux fenêtres, et y inscrivant des "
+"slogans pour les porter lors de manifestations. Le soutien majeur de la "
+"population a fait la force du mouvement des gilets jaunes. Au bout d'un "
+"mois, d'après les sondages [la moitié du pays](https://harris-interactive.fr/"
+"opinion_polls/les-gilets-jaunes-quelle-perception-de-la-part-des-francais-au-"
+"lendemain-de-la-manifestation-du-1er-decembre-sur-les-champs-elysees/) "
+"soutenait le mouvement de contestation."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:356
+msgid ""
+"Although built on peaceful, civil disobedience such as road blocks and "
+"building temporary camps on roundabouts, the [yellow vest protests](https://"
+"www.bbc.co.uk/news/resources/idt-sh/yellow_vests) led to some of the worst "
+"civil disorder France has seen. Even though the majority of protestors "
+"distanced themselves from the violent elements of the movement, the French "
+"authorities were accused of [disproportionate use of force](https://www."
+"newstatesman.com/world/europe/2019/11/year-gilets-jaunes-have-lost-24-eyes-"
+"and-five-hands-and-made-deep-mark-french)."
+msgstr ""
+"Bien que les protestations aient commencé par de la désobéissance civile non-"
+"violente, comme les barrages routiers et l'installation de campements "
+"provisoires sur les ronds-points, les [manifestations gilet jaune](https://"
+"www.bbc.co.uk/news/resources/idt-sh/yellow_vests) ont généré violences et "
+"troubles à l'ordre public comme la France n'en avait pas connu depuis belle "
+"lurette, et même si la majorité des manifestants était pacifiste et "
+"condamnait les actions d'éléments violents, les autorités françaises ont eu "
+"recours à [un usage disproportionné de la force ](https://www.newstatesman."
+"com/world/europe/2019/11/year-gilets-jaunes-have-lost-24-eyes-and-five-hands-"
+"and-made-deep-mark-french)."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:358
+msgid ""
+"After four weeks of disruption, and in a significant U-turn, President "
+"Macron was forced to make concessions including the cancellation of the fuel "
+"tax, while launching The Great National Debate inviting citizens to express "
+"their concerns and hopes regarding French politics."
+msgstr ""
+"Au terme de quatre semaines de perturbations, le président Macron s'est vu "
+"contraint à un revirement significatif, et a du faire des concessions, en "
+"annulant la promulgation de la taxe sur les carburants, tout en lançant le "
+"Grand Débat National invitant les citoyens à exprimer leurs préoccupations "
+"et leurs espoirs relatifs aux politiques françaises."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:362
+msgid ""
+"Civil disobedience does not equate to disregard for the law. What lies at "
+"its heart is the separation between the legal and the legitimate. It is used "
+"when traditional methods of protest, such as petitioning, lobbying, "
+"marching, voting and orderly, compliant demonstration have failed."
+msgstr ""
+"La désobéissance civile ne signifie pas mépris de la loi. L'essence de la "
+"désobéissance civile réside dans le fait de différencier ce qui est légal, "
+"de ce qui est légitime. On y a finalement recours lorsque les méthodes de "
+"contestation conventionnelles, telles que pétitions, lobbying, marches, vote "
+"et manifestations autorisées n'ont pas permis d'obtenir gain de cause."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:364
+msgid ""
+"As for Extinction Rebellion, our strategy is one of civil disobedience "
+"grounded in non-violent disruption. There will be occasions when the state "
+"will choose to react with force, but to resort to the same tactics as those "
+"we seek to change is to abandon our moral compass."
+msgstr ""
+"La stratégie d'Extinction Rebellion repose sur la désobeissance civile "
+"disruptive non-violente. Cela n'empêchera pas les gouvernements "
+"d'éventuellement faire usage de la force, mais recourir à des tactiques "
+"violentes, ces mêmes tactiques que nous cherchons à changer, serait renoncer "
+"à notre boussole morale."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:366
+msgid ""
+"Extinction Rebellion will continue to protest in the fight to halt mass "
+"extinction and minimise the risk of social collapse. Rebels refuse to sit "
+"idly by and watch grave injustices unfold. The struggle is one of survival."
+msgstr ""
+"Extinction Rebellion continuera de protester et de lutter pour tenter "
+"d'enrayer l'extinction de masse en cours, et de minimiser le risque "
+"d'effondrement sociétal, ne pouvant se résoudre à rester impassible, les "
+"bras croisés, face aux terribles injustices qui déferlent. C'est une "
+"question de survie."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:368
+msgid ""
+"We are building an inclusive, participatory movement for change—one grown "
+"from grassroots campaigning on the streets and in homes, schools and "
+"workplaces, throughout the web and across the planet, with over 1146 groups "
+"in 72 countries."
+msgstr ""
+"Nous travaillons à créer un mouvement inclusif et participatif pour faire "
+"advenir le changement, un mouvement qui se développe à la base, dans la rue, "
+"dans les foyers, dans les écoles et les lieux de travail, sur internet et "
+"dans le monde entier, et qui compte à présent plus de 1146 groupes dans 72 "
+"pays."
+
+#. type: Plain text
+#: 2020-11-03-civil-disobedience-examples.md:371
+#, no-wrap
+msgid ""
+"> *One has not only a legal, but a moral responsibility to obey just laws. Conversely, one has a moral responsibility to disobey unjust laws.* \n"
+">\n"
+"> *\\- Martin Luther King: A letter from Birmingham Jail.*\n"
+msgstr ""
+"> *L'obéissance aux lois justes n'est pas seulement un devoir juridique, c'est aussi un devoir moral. Inversement, chacun est moralement tenu de désobéir aux lois injustes.* \n"
+">\n"
+"> *\\- Martin Luther King : Lettre de la prison de Birmingham.*\n"
+
+#~ msgid ""
+#~ "The Montgomery bus boycott was an incredibly brave action and is regarded "
+#~ "as the first large-scale U.S. demonstration against segregation and was "
+#~ "pivotal in the Civil Rights Movement, itself a successful and hugely "
+#~ "significant example of the power of civil disobedience."
+#~ msgstr ""
+#~ "Le boycott des bus de Montgomery, cette action incroyablement courageuse, "
+#~ "est considéré comme la première protestation de grande ampleur contre la "
+#~ "ségrégation aux États-Unis, qui a joué un rôle clef au sein du mouvement "
+#~ "pour les droits civiques, constituant lui-même une manifestation "
+#~ "exemplaire et hautement significative de la puissance de la désobéissance "
+#~ "civile."

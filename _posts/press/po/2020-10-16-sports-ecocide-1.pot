@@ -1,0 +1,156 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-16 11:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: Extinction rebellion brazil joins the global fight against the ecocides\n"
+"  of the sports industry\n"
+"slug: sports-ecocide\n"
+"date: 2020-10-16 16:56\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/2020-10-16-sports-ecocide-image4.png\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:13
+msgid ""
+"![Photo of proposed race track](/assets/uploads/2020-10-16-sports-ecocide-"
+"image4.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:15
+#, no-wrap
+msgid "*Photo from: Movimento SOS Floresta do Camboata (Facebook)*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:17
+#, no-wrap
+msgid "**Contact:** Pedro Cunha, Extinction Rebellion Brazil, [sportsagainstecocides@protonmail.com](mailto:sportsagainstecocides@protonmail.com)\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:19
+#, no-wrap
+msgid "**Photos:** Images of the campaign on social media are [available here](https://drive.google.com/drive/folders/1u_Tzx8Hotf946spu1ObdeuLa_SUWQQUP?usp=sharing).\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:21
+#, no-wrap
+msgid "**Rio de Janeiro, Brazil -** Led by local environmentalists and young climate activists from Rio de Janeiro, the movement to block the building of a new racetrack in the Camboatá Forest, one of the last remnants of original tropical forests in Brazil's most iconic city, is gaining global momentum thanks to support from the British F1 star Lewis Hamilton and several members of youth organizations across the world.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:23
+msgid ""
+"It is estimated that the racetrack would lead to the loss of up to 180,000 "
+"of the 200,000 trees of the Camboatá Forest. Even if those trees were indeed "
+"reforested in other areas, as promised by the authors of the project, "
+"studies show that there would be a considerable loss of biodiversity, as "
+"well as impacts to the welfare of the local community, situated in a poor "
+"area of Rio de Janeiro."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:25
+msgid ""
+"From the North American National Hockey League, which has one of the biggest "
+"carbon footprints in world sport, to the Dakar Rally, which estimates say "
+"will produce over 100 tonnes of waste at its next race, the impact of the "
+"global sporting industry on the planet continues to take a devastating toll."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:27
+msgid ""
+"“We had FIFA and the Olympics in Rio de Janeiro. These cases showed me the "
+"way that sporting mega-events, especially in the developing world, can bring "
+"with them a toxic mix of corruption, environmental crimes and human rights "
+"abuses. The same was true of Russia, with Sochi, South Africa with FIFA and "
+"many other cities where such mega events have been held.” said Pedro Cunha, "
+"co-creator of the campaign and Extinction Rebellion member."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:29
+msgid ""
+"Lewis Hamilton's support for the campaign came on October 8th, when the "
+"multiple-times F1 champion declared to journalists: \"I heard it is "
+"potentially going to be a sustainable race but the most sustainable thing "
+"you can do is not tear down any trees.\" He added: \"I don’t think it’s a "
+"smart move. There is a global crisis with deforestation.\""
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:31
+msgid ""
+"Right after Lewis Hamilton's remarks, the campaign to save the Camboatá "
+"Forest gained even more traction on social media as members of the youth "
+"climate movement Fridays for Future in at least 20 countries helped to "
+"spread the hashtag #SportsAgainstEcocides."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:33
+msgid ""
+"“It would be absolutely shameful and evil if this project that will cut down "
+"180,000 trees pushes through, all for the sake of a racing circuit that will "
+"benefit no one. We are in a planetary and climate emergency, ecocide can no "
+"longer be part of our plans. This is not only a crime to the environment, "
+"but to the people. Every single industry should be doing its part in saving "
+"the environment and addressing the climate crisis. I believe that F1 can do "
+"better, F1 needs to do better.\" said Mitzi Jonelle Tan of Youth Advocates "
+"for Climate Action Philippines"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:35
+msgid "![](/assets/uploads/2020-10-16-sports-ecocide-image1.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:37
+#, no-wrap
+msgid "*Photo: Mitzi Jonelle, Youth Advocates for Climate Action Philippines*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:39
+msgid ""
+"This hashtag was created by Extinction Rebellion Brazil and Fridays for "
+"Future Rio de Janeiro as a call for individuals and organizations anywhere "
+"in the world to join the fight for conservation in Brazil. It is also a way "
+"to show global support to the activists resisting the environmentally "
+"destructive policies of Bolsonaro's government and of the government of the "
+"State of Rio de Janeiro."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1.md:40
+msgid ""
+"Anybody can support the campaign on social media to save the Camboatá Forest "
+"by sharing a photo of herself/himself holding a banner with the hashtag: "
+"#SportsAgainstEcocides."
+msgstr ""

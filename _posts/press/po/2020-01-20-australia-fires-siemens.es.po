@@ -1,0 +1,471 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-05 11:25+0200\n"
+"PO-Revision-Date: 2020-07-28 09:50+0000\n"
+"Last-Translator: Helen Harper <hreharper@googlemail.com>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/blog-posts/"
+"2020-01-20-australia-fires-siemens/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion Mobilises Against Australian Government & Siemens as Australia Burns\"\n"
+"slug: australia-fires-siemens\n"
+"date: 2020-01-20 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/01/15/siemens.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: es\n"
+"title: \"Extinction Rebellion se moviliza contra el gobierno australiano y contra Siemens mientras Australia arde\"\n"
+"slug: australia-fires-siemens\n"
+"date: 2020-01-20 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/01/15/siemens.jpg\n"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:15
+msgid ""
+"![Australia Burns](/assets/img/press/2020/01/15/siemens.jpg){:.img-fluid}"
+msgstr ""
+"![Australia Arde](/assets/img/press/2020/01/15/siemens.jpg){:.img-fluid}"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:21
+msgid ""
+"- Over 40 Australian embassies and Siemens offices to be targeted - "
+"Nonviolent actions across the world respond to Australian bushfires and "
+"those complicit in the devastation - As Australia’s government does nothing, "
+"Siemens to supply signage tech for Australian Carmichael coal mine railway, "
+"literally signaling the way to exploitation and devastation - Extinction "
+"Rebellion calls on Rebels around the world to come out in Our Planet’s "
+"defense as time runs out {:.huge .my-3}"
+msgstr ""
+"- Más de 40 embajadas australianas y oficinas de Siemens serán el objetivo\n"
+"- Se realizarán acciones no violentas en todo el mundo en respuesta a los "
+"incendios forestales australianos y a los cómplices de la devastación\n"
+"- Como el gobierno australiano no toma ninguna medida, Siemens suministrará "
+"la tecnología de señalización para el ferrocarril de la mina de carbón "
+"Carmichael en Australia, mostrando literalmente el camino hacia la "
+"explotación y la devastación\n"
+"- Extinction Rebellion hace un llamamiento a los rebeldes de todo el mundo "
+"para que salgan en defensa de Nuestro Planeta porque el tiempo se está "
+"agotando\n"
+"{:.huge .my-3}"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:23
+msgid ""
+"As Australia burns, people of the world are waking up to the realities of "
+"the climate crisis, demanding that governments and media tell the truth "
+"about the climate emergency and its correlation with the bushfires. People "
+"demand that the Australian Government acts now to avoid more devastation and "
+"ultimately, extinction and that companies stop putting profit first"
+msgstr ""
+"Mientras Australia arde, la gente del mundo está empezando a darse cuenta de "
+"la realidad de la crisis climática y exige que los gobiernos y los medios de "
+"comunicación digan la verdad sobre la emergencia climática y su correlación "
+"con los incendios forestales. La gente exige que el Gobierno australiano "
+"actúe ahora para evitar más devastación y, en última instancia, la extinción "
+"y que las empresas dejen de anteponer sus beneficios"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:25
+msgid ""
+"January 16th, 2020 (Australia, Germany, India) - As Australia suffers "
+"devastating bushfires, Extinction Rebellion (XR) climate activists in over "
+"35 countries are holding solidarity actions with Extinction Rebellion "
+"Australia’s Bushfire Rebellion outside Australian embassies and consulates "
+"for the second week in a row. Countries, including Nigeria, Zambia, "
+"Netherlands, Argentina, Uganda and Spain. Extinction Rebellion India, "
+"meanwhile, has been warned by local police not to protest."
+msgstr ""
+"16 de enero de 2020 (Alemania, Australia, India, España) - Mientras "
+"Australia sufre devastadores incendios forestales, activistas climáticos de "
+"Extinction Rebellion (XR) en más de 35 países están llevando a cabo por "
+"segunda semana consecutiva acciones en el exterior de las embajadas y "
+"consulados australianos para solidarizarse con la Rebelión contra los "
+"Incendios Forestales de Extinction Rebellion Australia. Países como Nigeria, "
+"Zambia, Países Bajos, Argentina, Uganda y España. Extinction Rebellion "
+"India, mientras tanto, ha sido advertida por la policía local de no "
+"protestar."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:27
+msgid ""
+"The borderless, nonviolent rebellion comes in response to the Australian "
+"government’s climate inaction and exacerbation of the climate crisis which "
+"has led to the catastrophic bushfire crisis."
+msgstr ""
+"La rebelión no violenta y sin fronteras se produce en respuesta a la "
+"inacción del gobierno australiano y a la exacerbación de la crisis climática "
+"que ha llevado a la catastrófica crisis de los incendios forestales."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:29
+msgid ""
+"The catastrophic mega blaze has already led to what scientists are "
+"describing as an ecosystem and species apocalypse in Australia. Some "
+"estimates state that up to 700 animal species have had their populations "
+"decimated - with many species likely to be pushed to extinction including "
+"the Long-footed potaroo, the Greater glider, the Kangaroo Island dunnart, "
+"and the Black-tailed dusky antechinus, being obliterated from the face of "
+"the Earth. “It would seem the only people willing to dismiss the scientific "
+"correlation between the bushfire crisis and the climate crisis are those "
+"massaged by the fossil fuel industry in the Australian government and those "
+"who believe the propaganda of fossil fuel-interested media,” said Extinction "
+"Rebellion Sydney spokesperson Larissa Payne."
+msgstr ""
+"El catastrófico mega incendio ha llevado a lo que los científicos están "
+"describiendo ya como un apocalipsis para el ecosistema y las especies en "
+"Australia. Algunas estimaciones afirman que hasta 700 especies animales han "
+"visto diezmadas sus poblaciones, y es probable que muchas especies se vean "
+"empujadas a la extinción, entre ellas el pequeño marsupial de patas largas, "
+"el petauro gigante, el ratón marsupial de Isla Kangaroo y el antecino oscuro "
+"de cola negra que están siendo eliminados de la faz de la Tierra. "
+"\"Parecería que las únicas personas dispuestas a descartar la correlación "
+"científica entre la crisis de los incendios forestales y la crisis climática "
+"son aquellas personas del gobierno australiano a las que les dora la píldora "
+"la industria de combustibles fósiles, y aquellas que se creen la propaganda "
+"de los medios de comunicación sometidos a los intereses de los combustibles "
+"fósiles\", dijo la portavoz de Extinction Rebellion Sydney, Larissa Payne."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:31
+msgid ""
+"While we are on the verge of triggering a climatic point of no return, "
+"German company Siemens agreed to participate in the development of the "
+"world's largest coal mine. Siemens will supply the signage technology for "
+"the railway line of the Carmichael coal mine in Galilee Basin, Australia, "
+"quite literally signaling the way to the destruction of life on the Planet. "
+"“Instead of demonstrating climate leadership and turning its back on one of "
+"the many culprits, it chooses to of quite literally fuel fires around the "
+"world, despite warnings from several environmental groups, ongoing protests, "
+"and over 60 companies pulling out of the project. Siemens undoubtedly places "
+"profit over the planet,” explains XR Germany spokesperson Annemarie Botski."
+msgstr ""
+"Mientras estamos a punto de desencadenar un punto climático sin retorno, la "
+"empresa alemana Siemens aceptó participar en el desarrollo de la mayor mina "
+"de carbón del mundo. Siemens suministrará la tecnología de señalización para "
+"la línea de ferrocarril de la mina de carbón de Carmichael en Galilee Basin, "
+"Australia, señalando literalmente el camino hacia la destrucción de la vida "
+"en el planeta. \"En lugar de demostrar su liderazgo climático y dar la "
+"espalda a uno de los muchos culpables, optó por alimentar los incendios en "
+"todo el mundo, a pesar de las advertencias de varios grupos ecologistas, las "
+"continuas protestas y la retirada de más de 60 empresas del proyecto. Sin "
+"duda alguna, Siemens antepone sus beneficios al planeta\", explica la "
+"portavoz de XR Alemania, Annemarie Botski."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:33
+msgid ""
+"Meanwhile, companies from around the world display similar callousness for "
+"life on Earth, even as the island continent’s species go extinct, “In the "
+"same line, the Adani business group has obtained approvals for extracting "
+"coal from the Carmichael coal mines in Australia. Fighting to saving our "
+"planet has rightly turned global because the impact of forest fires in "
+"Brazil, floods in Indonesia or fires in Australia are already being felt all "
+"across our Earth. Such tragedies will only increase in intensity and in "
+"terms of numbers,” says Extinction Rebellion India’s Jeevesh Gupta."
+msgstr ""
+"Mientras tanto, empresas de todo el mundo muestran una falta de sensibilidad "
+"similar por la vida en la Tierra, incluso cuando las especies del continente "
+"insular se extinguen\", \"En la misma línea, el grupo empresarial Adani ha "
+"obtenido autorizaciones para extraer carbón de las minas de carbón de "
+"Carmichael en Australia. La lucha por salvar nuestro planeta se ha "
+"globalizado, con razón, porque el impacto de los incendios forestales en "
+"Brasil, las inundaciones en Indonesia o los incendios en Australia ya se "
+"sienten en toda la Tierra. Tales tragedias sólo aumentarán en intensidad y "
+"en número\", dice Jeevesh Gupta de Extinction Rebellion India."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:35
+msgid ""
+"“It is believed several animal and plant species have been rendered extinct "
+"in the past few weeks. An estimated over half a billion animals have died in "
+"this disaster. Much of the severity of conditions in the southern parts of "
+"Australia can be attributed to massive amounts of land clearing in the past "
+"century, leading to loss of rainfall, and no consultation or respect by "
+"governments of the original Australians’ intact knowledge of caring for and "
+"maintaining the land,” laments Australian First Nation spiritual leader Nick "
+"Tree."
+msgstr ""
+"\"Se cree que varias especies animales y vegetales se han extinguido en las "
+"últimas semanas. Se estima que más de 500 millones de animales han muerto en "
+"este desastre. Gran parte de la severidad de las condiciones en las partes "
+"sureñas de Australia puede atribuirse a las cantidades masivas de desmonte "
+"de tierras en el siglo pasado, lo que llevó a la pérdida de lluvias, y a la "
+"falta de consulta o respeto por parte de los gobiernos del conocimiento "
+"intacto de los australianos originales sobre el cuidado y mantenimiento de "
+"la tierra\", lamenta el líder espiritual de la Primera Nación Australiana, "
+"Nick Tree."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:37
+msgid ""
+"The fires sweeping the country have also pumped out an estimated 400 million "
+"metric tonnes of carbon dioxide into the atmosphere, further fueling climate "
+"change that has already intensified Australia’s devastating fires. The is "
+"equivalent to the total combined annual emissions of 116 low-emitting "
+"countries and nine times the amount of carbon produced during California’s "
+"record-setting 2018 fire season."
+msgstr ""
+"Los incendios que han arrasado el país también han arrojado a la atmósfera "
+"unos 400 millones de toneladas métricas de dióxido de carbono, lo que ha "
+"alimentado aún más el cambio climático que ya ha intensificado los "
+"devastadores incendios de Australia. Esto equivale al total de las emisiones "
+"anuales combinadas de 116 países de bajas emisiones y a nueve veces la "
+"cantidad de carbono producida durante la temporada de incendios de 2018, que "
+"estableció un récord en California."
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:39
+#, no-wrap
+msgid " “The climate crisis cares nothing for borders. We need coordinated, international action to combat this mess. The Bushfire Rebellion is only the beginning. Two thirds of Australians want the government to declare a climate emergency and mobilize at World-war scale. We are living through the tipping point that the scientists have been warning us about - anything less than an emergency response condemns out children to an unlivable future,” concludes XR Australia spokesperson Jane Morton\n"
+msgstr " \"La crisis climática no conoce fronteras. Necesitamos una acción internacional coordinada para combatir este desastre. La Rebelión contra los Incendios Forestales es sólo el comienzo. Dos tercios de los australianos quieren que el gobierno declare una emergencia climática y se movilice a la misma escala que si hubiese una guerra mundial. Estamos viviendo el punto de inflexión sobre el que los científicos nos han estado advirtiendo - cualquier cosa que no sea una respuesta de emergencia condena a nuestros niños a un futuro invivible\", concluye la portavoz de XR Australia, Jane Morton.\n"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:41
+msgid ""
+"Actions to be held on the 16th and 17thJanuary as a continuation of actions "
+"on the 10thJanuary in the following countries:"
+msgstr ""
+"Se realizarán acciones el 16 y 17 de enero como continuación de las acciones "
+"del 10 de enero en los siguientes países:"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:44
+msgid "[Argentina](https://rebellion.global/groups/ar-argentina/)"
+msgstr "[Argentina](https://rebellion.global/groups/ar-argentina/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:46
+msgid "[Brazil](https://rebellion.global/groups/br-brazil/)"
+msgstr "[Brasil](https://rebellion.global/groups/br-brazil/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:48
+msgid "[Canada](https://rebellion.global/groups/ca-canada/)"
+msgstr "[Canadá](https://rebellion.global/groups/ca-canada/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:50
+msgid "[Czech Republic](https://rebellion.global/groups/cz-czech-republic/)"
+msgstr "[República Checa](https://rebellion.global/groups/cz-czech-republic/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:52
+msgid "[Chile](https://rebellion.global/groups/cl-chile/)"
+msgstr "[Chile](https://rebellion.global/groups/cl-chile/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:54
+msgid "[Colombia](https://rebellion.global/groups/co-colombia/)"
+msgstr "[Colombia](https://rebellion.global/groups/co-colombia/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:56
+msgid "[Denmark](https://rebellion.global/groups/dk-denmark/)"
+msgstr "[Dinamarca](https://rebellion.global/groups/dk-denmark/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:58
+msgid "[Finland](https://rebellion.global/groups/fi-finland/)"
+msgstr "[Finlandia](https://rebellion.global/groups/fi-finland/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:60
+msgid "[France](https://rebellion.global/groups/fr-france/)"
+msgstr "[Francia](https://rebellion.global/groups/fr-france/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:62
+msgid "Gambia"
+msgstr "Gambia"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:64
+msgid "[Germany](https://rebellion.global/groups/de-germany/)"
+msgstr "[Alemania](https://rebellion.global/groups/de-germany/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:66
+msgid "[Hungary](https://rebellion.global/groups/hu-hungary/)"
+msgstr "[Hungría](https://rebellion.global/groups/hu-hungary/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:68
+msgid "[India](https://rebellion.global/groups/in-india/)"
+msgstr "[India](https://rebellion.global/groups/in-india/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:70
+msgid "[Indonesia](https://rebellion.global/groups/id-indonesia/)"
+msgstr "[Indonesia](https://rebellion.global/groups/id-indonesia/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:72
+msgid "[Italy](https://rebellion.global/groups/it-italy/)"
+msgstr "[Italia](https://rebellion.global/groups/it-italy/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:74
+msgid "[Japan](https://rebellion.global/groups/jp-japan/)"
+msgstr "[Japón](https://rebellion.global/groups/jp-japan/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:76
+msgid "Nigeria"
+msgstr "Nigeria"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:78
+msgid "[Mexico](https://rebellion.global/groups/mx-mexico/)"
+msgstr "[México](https://rebellion.global/groups/mx-mexico/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:80
+msgid "[Netherlands](https://rebellion.global/groups/nl-netherlands/)"
+msgstr "[Países Bajos](https://rebellion.global/groups/nl-netherlands/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:82
+msgid ""
+"[New Zealand - Auckland, Christchurch, Wellington](https://rebellion.global/"
+"groups/nz-new-zealand/)"
+msgstr ""
+"[Nueva Zelanda - Auckland, Christchurch, Wellington](https://rebellion."
+"global/groups/nz-new-zealand/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:84
+msgid "[Poland](https://rebellion.global/groups/pl-poland/)"
+msgstr "[Polonia](https://rebellion.global/groups/pl-poland/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:86
+msgid "[Portugal](https://rebellion.global/groups/pt-portugal/)"
+msgstr "[Portugal](https://rebellion.global/groups/pt-portugal/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:88
+msgid "Scotland"
+msgstr "Escocia"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:90
+msgid "[Spain - Madrid, Barcelona](https://rebellion.global/groups/es-spain/)"
+msgstr ""
+"[España - Asturias, Barcelona, Madrid, Málaga, Murcia](https://rebellion."
+"global/groups/es-spain/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:92
+msgid "[South Africa](https://rebellion.global/groups/za-south-africa/)"
+msgstr "[Sudáfrica](https://rebellion.global/groups/za-south-africa/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:94
+msgid "[Sri Lanka](https://rebellion.global/groups/lk-sri-lanka/)"
+msgstr "[Sri Lanka](https://rebellion.global/groups/lk-sri-lanka/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:96
+msgid "[Sweden](https://rebellion.global/groups/se-sweden/)"
+msgstr "[Suecia](https://rebellion.global/groups/se-sweden/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:98
+msgid "Tunisia"
+msgstr "Túnez"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:100
+msgid "[Uganda](https://rebellion.global/groups/ug-uganda/)"
+msgstr "[Uganda](https://rebellion.global/groups/ug-uganda/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:102
+msgid ""
+"[United Kingdom - Bristol, London, Lambeth](https://rebellion.global/groups/"
+"gb-united-kingdom/)"
+msgstr ""
+"[Reino Unido - Bristol, Londres, Lambeth](https://rebellion.global/groups/gb-"
+"united-kingdom/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:104
+msgid ""
+"[United States - Los Angeles, New York](https://rebellion.global/groups/us-"
+"united-states/)"
+msgstr ""
+"[Estados Unidos - Houston, Los Angeles, Nueva York, San Francisco, "
+"Washington DC](https://rebellion.global/groups/us-united-states/)"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:105
+#, no-wrap
+msgid "Zambia  \n"
+msgstr "Zambia  \n"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:109
+msgid ""
+"Media contacts for interview requests with Australian or: James Norman +61 "
+"451291775 or Kelly Shields, +61 412 171 989 Email: xrsydney_media@protonmail."
+"com, xrvicmedia@protonmail.com"
+msgstr ""
+"Contactos con los medios de comunicación para solicitar una entrevista con "
+"una persona australiana: o James Norman +61 451291775 o Kelly Shields, +61 "
+"412 171 989 Correo electrónico: xrsydney_media@protonmail.com, "
+"xrvicmedia@protonmail.com"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:111
+msgid ""
+"For international XR spokespeople please write to XRspeaks@protonmail.com"
+msgstr ""
+"Para portavoces internacionales de XR por favor escribe a "
+"XRspeaks@protonmail.com"
+
+#. type: Plain text
+#: 2020-01-20-australia-fires-siemens.md:113
+#, no-wrap
+msgid " [find your events](/events){.xr-button}\n"
+msgstr " [encuentra tus eventos](/eventos){.xr-button}\n"
+
+#~ msgid ""
+#~ "For international XR spokespeople please write to XRspeaks@protonmail.com\n"
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/events\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>{% include translator.html slug=\"find your events\" %}</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "Para contacta con los portavoces internacionales de XR, por favor escriba a XRspeaks@protonmail.com\n"
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/events\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>{% include translator.html slug=\"find your events\" %}</span></a>\n"
+#~ "</div>\n"

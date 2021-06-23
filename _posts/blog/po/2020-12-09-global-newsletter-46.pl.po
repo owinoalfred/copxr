@@ -1,0 +1,1496 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-15 16:36+0800\n"
+"PO-Revision-Date: 2021-03-25 17:23+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Polish <http://translate.organise.earth/projects/blog-posts/"
+"2020-12-09-global-newsletter-46/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:14
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Global Newsletter #46: Put Your Money Where Your Mouth Is!\"\n"
+"slug: global-newsletter-46\n"
+"date: 2020-12-09 17:46\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/women-farmers-pti.jpg\n"
+"seoImage: /assets/uploads/women-farmers-pti.jpg\n"
+"seoTitle: Put Your Money Where Your Mouth Is!\n"
+"seoDescription: Governments’ pledge to cut emissions while their economies\n"
+"  profit from fossil fuels and ecocide with impunity.\n"
+msgstr ""
+"lang: pl\n"
+"title: \"Globalny newsletter #46: Nie wystarczy mówić – trzeba wyłożyć pieniądze!\"\n"
+"slug: global-newsletter-46\n"
+"date: 2020-12-09 17:46\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/women-farmers-pti.jpg\n"
+"seoImage: /assets/uploads/women-farmers-pti.jpg\n"
+"seoTitle: Nie wystarczy mówić – trzeba wyłożyć pieniądze!\n"
+"seoDescription: Rządy deklarują obniżenie emisji, ale prowadzone przez nie gospodarki czerpią korzyści z wydobywania paliw\n"
+"  kopalnych i ekoeksterminacji.\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:16
+msgid ""
+"![](/assets/uploads/women-farmers-pti.jpg \"Women farmers rise up against "
+"sweeping privatisation of Indian agriculture.\")"
+msgstr ""
+"![](/assets/uploads/women-farmers-pti.jpg \"Women farmers rise up against "
+"sweeping privatisation of Indian agriculture.\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:18
+#, no-wrap
+msgid "*Women farmers rise up against sweeping privatisation of Indian agriculture. Photo: PTI*\n"
+msgstr "*Indyjskie rolniczki protestują przeciwko fali prywatyzacji, która pustoszy przemysł. Zdjęcie: PTI*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:20
+msgid ""
+"(Sign up to the newsletter [here](https://actionnetwork.org/forms/newsletter-"
+"sign-up-17).)"
+msgstr ""
+"(Zapisz się do newslettera [tutaj](https://actionnetwork.org/forms/"
+"newsletter-sign-up-17).)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:22
+msgid "Dear rebels,"
+msgstr "Drodzy Rebelianci, Drogie Rebeliantki,"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:24
+#, no-wrap
+msgid "**Governments are pledging to avert a climate crisis while their economies bankroll and intensify it.**\n"
+msgstr "**Rządy obiecują zapobiec kryzysowi klimatycznemu, podczas gdy faktycznie finansują go i nasilają jego skalę ich własne gospodarki.**\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:26
+msgid ""
+"Production of coal, oil, and gas must fall right now to keep global heating "
+"under 1.5C. Yet a new [UN backed report](http://productiongap."
+"org/2020report/) shows how governments across the world are planning to "
+"increase production, while giving much more Covid-recovery money to fossil "
+"fuels than clean energy."
+msgstr ""
+"Aby utrzymać ocieplenie klimatu poniżej 1,5°C, wydobycie węgla, ropy i gazu "
+"musi drastycznie zmaleć. Mimo to nowy [raport, który poparła ONZ](http://"
+"productiongap.org/2020report/), wskazuje na to, że rządy na całym świecie "
+"planują zwiększenie wydobycia surowców naturalnych, a pieniądze z funduszy "
+"odbudowy po pandemii COVID-19 mają zostać przeznaczone na paliwa kopalne – "
+"nie na inwestowanie w ekologiczną energię."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:28
+msgid ""
+"And it’s not just public money that is fuelling the climate crisis. A "
+"startling new [report by the Rainforest Action Network](https://www.ran.org/"
+"bankingonclimatechange2020) shows how 35 top private banks have invested an "
+"eye-watering $2.7 trillion in fossil fuels since the Paris agreement was "
+"adopted five years ago. And those investments are increasing year on year."
+msgstr ""
+"A kryzysu klimatycznego nie finansuje się przecież tylko z publicznych "
+"pieniędzy. Szokujący [raport opublikowany niedawno przez Rainforest Action "
+"Network](https://www.ran.org/bankingonclimatechange2020) ujawnia, że od "
+"podpisania porozumienia paryskiego pięć lat temu 35 największych banków "
+"prywatnych zainwestowało w paliwa kopalne zatrważającą sumę 2,7 trylionów "
+"dolarów. Inwestycje te rosną z roku na rok."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:30
+msgid ""
+"In this special issue on money, we highlight two battles between small bands "
+"of rebels and big bad banks. The State Bank of India, a bank majority-owned "
+"by the Indian Government, wants to loan $1billion to fast track a coal mega-"
+"mine in Western Australia, while Standard Bank in South Africa is funding a "
+"1,445km heated crude oil pipeline that will devastate East Africa’s ecology."
+msgstr ""
+"W tym specjalnym wydaniu newslettera skupiamy się na pieniądzach: piszemy o "
+"dwóch walkach małych rebelianckich grup z wielkimi, niedobrymi bankami. "
+"State Bank of India, którego większość udziałów znajduje się w posiadaniu "
+"indyjskiego rządu, chce udzielić pożyczki na przyspieszenie prac nad ogromną "
+"kopalnią węgla w zachodniej Australii. Jej wysokość? Miliard dolarów. "
+"Standard Bank w Południowej Afryce finansuje natomiast ogrzewany rurociąg "
+"naftowy. Liczący 1445 km projekt zrujnuje wschodnioafrykańską przyrodę."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:32
+msgid ""
+"![Zoe Postman](/assets/uploads/joburg-rebel-zoe-postman.jpg \"A rebel "
+"pickets Standard Bank’s offices in Johannesburg\")"
+msgstr ""
+"![Zoe Postman](/assets/uploads/joburg-rebel-zoe-postman.jpg \"A rebel "
+"pickets Standard Bank’s offices in Johannesburg\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:34
+#, no-wrap
+msgid "*A rebel pickets Standard Bank’s offices in Johannesburg. Photo: Zoe Postman*\n"
+msgstr "*Rebeliantka protestuje przed siedzibą Standard Banku w Johannesburgu. Zdjęcie: Zoe Postman*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:36
+msgid ""
+"We also introduce an exciting new campaign to challenge the global banking "
+"system and its suicidal investment strategies. [Money Rebellion](https://"
+"youtu.be/yvQmU7e_A0I) launched in the UK last month and ushers in a new era "
+"of financial disobedience for our movement. Rebels interested in tax strikes "
+"and redirecting bank loans to green causes should check out our "
+"Announcements section for more."
+msgstr ""
+"Przedstawiamy też ekscytującą nową kampanię sprzeciwiającą się światowemu "
+"systemowi bankowemu oraz jego strategiom inwestycyjnym, które zagrażają "
+"życiu nas wszystkich. [Money Rebellion](https://youtu.be/yvQmU7e_A0I) "
+"powstała w zeszłym miesiącu w Wielkiej Brytanii i zwiastuje erę nowego "
+"nieposłuszeństwa monetarnego w naszym ruchu. Rebeliantki i rebelianci "
+"zainteresowani strajkiem podatkowym czy przeniesieniem kredytu do "
+"ekologicznego banku powinni przeczytać dzisiejsze Ogłoszenia."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:38
+msgid ""
+"And don’t forget little old Must Reads, where you can learn more about which "
+"banks only pay lip service to carbon neutrality, and how you can switch your "
+"account to support the greener ones."
+msgstr ""
+"Nie zapomnijcie przy okazji o Lekturze Obowiązkowej! Dowiecie się w tej "
+"sekcji, które banki jedynie deklarują neutralność węglową oraz przeczytacie "
+"o tym, jak przenieść konto do ekologicznej instytucji."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:40
+msgid ""
+"The forces against our movement can seem insurmountable. But we go into 2021 "
+"with new tactics, new targets, and a dogged determination to make "
+"governments put their money where their mouth is. Our team wishes you all a "
+"very disobedient new year."
+msgstr ""
+"Może wydawać się, że nie jesteśmy w stanie pokonać przeszkód stojących na "
+"drodze naszego ruchu. Ale w nowy rok wkraczamy z nową taktyką, nowymi celami "
+"i niestrudzoną determinacją. Nie wystarczy mówić, trzeba wyłożyć pieniądze – "
+"to właśnie chcemy przekazać naszym rządom. Nasz zespół życzy Wam wszystkim "
+"bardzo nieposłusznego nowego roku."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:42
+msgid ""
+"![](/assets/uploads/young-indonesian-rebel.png \"A young Indonesian rebel "
+"takes part in a Toy Strike on World Children’s Day\")"
+msgstr ""
+"![](/assets/uploads/young-indonesian-rebel.png \"A young Indonesian rebel "
+"takes part in a Toy Strike on World Children’s Day\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:44
+#, no-wrap
+msgid "*A young Indonesian rebel takes part in a Toy Strike on World Children’s Day*\n"
+msgstr "*Młoda indonezyjska rebeliantka bierze udział w proteście Toy Strike, który odbył się w Powszechny Dzień Dziecka*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:46
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Jeśli chcielibyście pomóc, możecie zajrzeć na naszą [stronę](https://"
+"rebellion.global) i [dowiedzieć się więcej o XR.](https://rebellion.global/"
+"about-us/)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:48
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"By połączyć siły z rebelianckimi osobami ze swojej okolicy, skontaktuj się "
+"ze swoją [najbliższą grupą XR](https://rebellion.global/branches/). Jeżeli "
+"blisko ciebie nie ma działającej grupy, [załóż ją!](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:50
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Jeżeli masz ochotę poczytać wcześniejsze numery newslettera, znajdziesz je "
+"[tutaj](https://rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:52
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""
+"Znajdujemy się w kluczowej fazie ludzkiej historii. Abyśmy dalej mogli "
+"szerzyć naszą misję, ruch XR potrzebuje środków finansowych. Docenimy każdą "
+"kwotę, jaką możesz [ofiarować](https://chuffed.org/project/xrinternational)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:54 2020-12-09-global-newsletter-46.md:303
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Wesprzyj Rebelię](https://chuffed.org/project/xrinternational){.xr-button}"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:55
+#, no-wrap
+msgid "Contents"
+msgstr "Spis treści"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:61 2020-12-09-global-newsletter-46.md:62
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Ostatnie akcje"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:61 2020-12-09-global-newsletter-46.md:172
+#, no-wrap
+msgid "Action Round Up"
+msgstr "Podsumowanie akcji"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:61 2020-12-09-global-newsletter-46.md:208
+#, no-wrap
+msgid "Announcements"
+msgstr "Ogłoszenia"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:61 2020-12-09-global-newsletter-46.md:270
+#, no-wrap
+msgid "Must Reads"
+msgstr "Lektury obowiązkowe"
+
+#. type: Title ###
+#: 2020-12-09-global-newsletter-46.md:64
+#, no-wrap
+msgid "State Bank of India: No $1bn Adani Loan!"
+msgstr "State Bank of India: Sprzeciw wobec miliardowej pożyczce dla Adani!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:67
+#, no-wrap
+msgid "**November | India**\n"
+msgstr "**LIS | Indie**\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:69
+msgid ""
+"![](/assets/uploads/farmers-newdelhi-pti.png \"Farmers chant anti-"
+"privatisation slogans on the border of New Delhi\")"
+msgstr ""
+"![](/assets/uploads/farmers-newdelhi-pti.png \"Farmers chant anti-"
+"privatisation slogans on the border of New Delhi\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:71
+#, no-wrap
+msgid "*Farmers chant anti-privatisation slogans on the border of New Delhi. Photo: PTI*\n"
+msgstr "*Rolnicy wykrzykują antyprywatyzacyjne hasła na obrzeżach Nowego Delhi. Zdjęcie: PTI*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:73
+msgid ""
+"Rebels and other activists across India have staged protests outside "
+"branches of the State Bank of India (SBI). Some rebels have escalated "
+"actions by taking part in ‘ATM jams’ where SBI cash machines have truth-"
+"telling flyers super-glued over their screens and card slots blocked."
+msgstr ""
+"Rebelianci i rebeliantki oraz inni aktywiści w całych Indiach zorganizowali "
+"protesty przed siedzibami State Bank of India (SBI). Niektórzy z uczestników "
+"wzięli także udział w akcji „zatykania bankomatów” – ekrany maszyn SBI "
+"zaklejano głoszącymi prawdę ulotkami i blokowano nimi wejścia na kartę."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:75
+msgid ""
+"The SBI, which is majority owned by the Indian government, is planning to "
+"loan Adani, a vast Indian conglomerate that focuses on energy and transport, "
+"$678 million to help open its coal mega-mine in northern Australia."
+msgstr ""
+"SBI, który w większości jest własnością rządu Indii, planuje udzielić "
+"pożyczki przedsiębiorstwu Adani, indyjskiemu gigantowi energetyczno-"
+"transportowemu. Planowana kwota 678 milionów dolarów ma pomóc w otwarciu "
+"ogromnej kopalni węgla w północnej Australii."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:77
+msgid ""
+"SBI had planned to give Adani $1billion for the coal mine in 2014, before "
+"controversy over the project, and accusations of [crony capitalism](https://"
+"www.thehindu.com/news/national/sbiadani-pact-just-a-loan-not-crony-"
+"capitalism-says-jaitley/article6627930.ece) made the bank back away."
+msgstr ""
+"W 2014 roku SBI planował przekazać Adani miliard dolarów na kopalnię, ale "
+"plany ukróciły kontrowersje związane z projektem oraz oskarżenia o "
+"[kapitalizm kolesiowski](https://www.thehindu.com/news/national/sbiadani-"
+"pact-just-a-loan-not-crony-capitalism-says-jaitley/article6627930.ece)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:79
+msgid ""
+"![](/assets/uploads/activists-pune.png \"Activists protest outside an SBI "
+"branch in Pune\")"
+msgstr ""
+"![](/assets/uploads/activists-pune.png \"Activists protest outside an SBI "
+"branch in Pune\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:81
+#, no-wrap
+msgid "*Activists protest outside an SBI branch in Pune*\n"
+msgstr "*Aktywistki protestują przed siedzibą SBI w Pune*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:83
+msgid ""
+"As well as adding 4.6 billion tonnes of carbon to our atmosphere, Adani’s "
+"[Carmichael coal mine](https://www.stopadani.com/why_stop_adani"
+"%E2%80%A8%E2%80%A8) will increase ship traffic by the Great Barrier reef, "
+"risk local aquifers, and destroy ancestral lands."
+msgstr ""
+"Adani nie tylko emituje 4,6 miliardów ton węgla do atmosfery – otwarcie "
+"[kopalni węgla Carmichael](https://www.stopadani.com/why_stop_adani"
+"%E2%80%A8%E2%80%A8) sprawi, że przez Wielką Rafę Koralową przepływać będzie "
+"więcej statków, a warstwa wodonośna i ziemie australijskich przodków ulegną "
+"zniszczeniu."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:85
+msgid ""
+"Adani has been a long-time supporter of India’s PM and is one of a handful "
+"of conglomerates which are [gobbling up contracts and profits](https://www."
+"ft.com/content/474706d6-1243-4f1e-b365-891d4c5d528b) as India undergoes a "
+"major privatisation drive."
+msgstr ""
+"Firma od dawna popiera premiera Indii i jest jednym z niewielu koncernów, "
+"które [zgarniają liczne umowy i zyski](https://www.ft.com/"
+"content/474706d6-1243-4f1e-b365-891d4c5d528b), podczas gdy przez Indie "
+"przechodzi ogromna fala prywatyzacji."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:87
+msgid ""
+"![](/assets/uploads/cricket-protester-ap.png \"A protester in the Sydney "
+"Cricket Ground during a match between India & Australia\")"
+msgstr ""
+"![](/assets/uploads/cricket-protester-ap.png \"A protester in the Sydney "
+"Cricket Ground during a match between India & Australia\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:89
+#, no-wrap
+msgid "*A [protester](https://www.stopadani.com/) in the Sydney Cricket Ground during a match between India & Australia. Photo: AP*\n"
+msgstr "*[Protest](https://www.stopadani.com/) na stadionie Sydney Cricket Ground podczas meczu Indii z Australią. Zdjęcie: AP*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:91
+msgid ""
+"Hundreds of thousands of Punjabi farmers marched to the Indian capital New "
+"Delhi last month [in protest at 3 new bills](https://www.nytimes."
+"com/2020/12/04/world/asia/india-farmers-protest-pollution-coronavirus.html) "
+"that open up Indian agriculture to private investment, and Adani is a likely "
+"benefactor. The company already dominates [India’s food transport sector]"
+"(https://www.freshplaza.com/article/9178088/india-adani-group-forays-into-"
+"cold-chain-logistics-with-2-96-bln-acquisition-of-snowman-logistics/), runs "
+"a quarter of India’s shipping ports, and owns 6 newly privatised airports."
+msgstr ""
+"Setki tysięcy pendżabskich rolników i rolniczek przemaszerowało przez "
+"stolicę Indii w zeszłym miesiącu. [Protestowali oni przeciwko trzem nowym "
+"projektom ustaw](https://www.nytimes.com/2020/12/04/world/asia/india-farmers-"
+"protest-pollution-coronavirus.html), które otworzyły drogę do indyjskiego "
+"rolnictwa prywatnym inwestorom; Adani prawdopodobnie na tym zyska. "
+"Przedsiębiorstwo dominuje już w [indyjskim sektorze transportu żywności]"
+"(https://www.freshplaza.com/article/9178088/india-adani-group-forays-into-"
+"cold-chain-logistics-with-2-96-bln-acquisition-of-snowman-logistics/), "
+"zarządza 25% portów handlowych oraz posiada sześć sprywatyzowanych niedawno "
+"lotnisk."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:93
+msgid ""
+"The 3 bills, rushed through parliament in the summer, will deregulate food "
+"crop markets and remove government-sanctioned minimum pricing. Farmers "
+"believe this will lead to corporate takeovers of their small farms and a "
+"crash in prices."
+msgstr ""
+"Trzy projekty ustaw, które w lecie w ekspresowym tempie przepchnięto przez "
+"parlament, przyczynią się do deregulacji rynku upraw żywności oraz do "
+"obalenia ustanowionych przez rząd cen minimalnych. Według rolników i "
+"rolniczek doprowadzi to do zajęcia małych farm przez korporacje i do "
+"drastycznego spadku cen."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:95
+msgid ""
+"Police used tear gas, water cannon, trucks weighed down with sand, barbed "
+"wire and trenches, but failed to stop the farmers entering the city. A "
+"police request to convert [9 sports stadiums into jails](https://www."
+"hindustantimes.com/delhi-news/farmers-protest-police-eye-delhi-stadiums-as-"
+"temporary-prisons/story-TNki3zKcEDXvv1v6jRjvQJ.html%E2%80%A8%E2%80%A8) was "
+"thankfully rejected by the city council. Meetings between farmer union and "
+"government representatives are ongoing."
+msgstr ""
+"Policja użyła gazu łzawiącego, armatek wodnych, ciężarówek z piaskiem, drutu "
+"kolczastego i rowów, ale nie udało jej się powstrzymać rolników przed "
+"wejściem do miasta. Prośbę policji o przekształcenie [dziewięciu stadionów "
+"sportowych w więzienia](https://www.hindustantimes.com/delhi-news/farmers-"
+"protest-police-eye-delhi-stadiums-as-temporary-prisons/story-"
+"TNki3zKcEDXvv1v6jRjvQJ.html%E2%80%A8%E2%80%A8) na szczęście odrzuciła rada "
+"miasta. Trwają właśnie spotkania związków zawodowych rolników z "
+"przedstawicielami rządu."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:97
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image24.png \"Police try to "
+"disperse farmers protesting on the edge of New Delhi\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image24.png \"Police try to "
+"disperse farmers protesting on the edge of New Delhi\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:99
+#, no-wrap
+msgid "*Police try to disperse farmers protesting on the edge of New Delhi. Photo: PTI*\n"
+msgstr "*Policja próbuje rozgromić rolników protestujących na obrzeżach Nowego Delhi. Zdjęcie: PTI*\n"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:100
+#, no-wrap
+msgid "Standard Bank: Clean Up Your Act!"
+msgstr "Standard Bank: Posprzątajcie swój bałagan!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:103
+#, no-wrap
+msgid "**13 November | Johannesburg, South Africa**\n"
+msgstr "**13 LIS | Johannesburg, Południowa Afryka**\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:105
+msgid ""
+"South African rebels demanded that Standard Bank ditch its funding for the "
+"world’s largest heated oil pipeline."
+msgstr ""
+"Rebelianci i rebeliantki z Południowej Afryki zażądali od Standard Banku, by "
+"ten zaprzestał finansować największy podgrzewany rurociąg na świecie."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:107
+msgid ""
+"[The East Africa Crude Oil Pipeline](https://www.banktrack.org/project/"
+"east_african_crude_oil_pipeline#_) will traverse the renowned [Murchison "
+"Falls National Park](https://globalconservation.org/projects/murchison-falls-"
+"national-park-uganda/). As well as displacing indigenous communities and "
+"threatening endangered species, it will pump thousands of litres of crude "
+"oil a day - a disaster for people, biodiversity and the climate crisis."
+msgstr ""
+"[Rurociąg Wschodnioafrykański](https://www.banktrack.org/project/"
+"east_african_crude_oil_pipeline#_) (East African Crude Oil Pipeline) ma "
+"przebiegać przez teren słynnego [Parku Narodowego Wodospadu Murchisona]"
+"(https://globalconservation.org/projects/murchison-falls-national-park-"
+"uganda/). Projekt nie tylko skutkować będzie przesiedleniem rdzennych "
+"społeczności – ucierpią także zagrożone gatunki. Poza tym codziennie "
+"dystrybuować będzie za pośrednictwem rurociągu tysiące litrów ropy naftowej "
+"– to katastrofa dla ludzkości, różnorodności biologicznej i klimatu."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:109
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image11.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image11.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:111
+#: 2020-12-09-global-newsletter-46.md:119
+#, no-wrap
+msgid "*Photo: Anita*\n"
+msgstr "*Zdjęcie: Anita*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:113
+msgid ""
+"Rebels gathered at Standard Bank’s offices in Johannesburg, carrying "
+"placards that read “we are watching you” and “inaction is a weapon of mass "
+"destruction”. They poured treacle over forecourt flagstones then used it to "
+"leave handprints on the office walls, a symbolic act to show how the bank "
+"has prioritised dirty oil over lives and livelihoods."
+msgstr ""
+"Rebeliantki i rebelianci zebrali się pod siedzibą Standard Banku w "
+"Johannesburgu, w rękach trzymając plakaty z napisami „obserwujemy was” i "
+"„brak działań to broń masowej zagłady.” Na placu przed bankiem wylali syrop "
+"z melasy, a następnie odcisnęli umazane w nim dłonie na ścianach budynku – "
+"symbolizowało to priorytety banku, czyli brudną ropę, a nie ludzi i ich "
+"prawo do godnego życia."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:115
+msgid ""
+"In the midst of this peaceful protest, the rebels were seized by security "
+"and led away with their hands in the air."
+msgstr ""
+"Podczas pokojowego protestu ochrona budynku zatrzymała rebeliantów i "
+"wyprowadziła ich poza teren banku, z rękami trzymanymi nad głową."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:117
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image26.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image26.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:120
+#, no-wrap
+msgid "This action is a small part of XR South Africa’s [ongoing battle](http://extinctionrebellion.org.za/24682/stop-standard-banks-east-african-crude-oil-pipeline-project/) to stop the toxic pipeline. You can [join the digital fight](https://docs.google.com/document/d/1U8vawIqshSomVXfSd1XU7Q386ngKfwWNnhPcusIth3U/edit) and flood the bank’s social media channels with anti-pipeline messages.  \n"
+msgstr "Ta akcja to jedynie niewielka część [trwającej batalii](http://extinctionrebellion.org.za/24682/stop-standard-banks-east-african-crude-oil-pipeline-project/) grupy XR Południowa Afryka, w ramach której działacze i działaczki próbują zatrzymać budowę toksycznego rurociągu. Ty też możesz [dołączyć do cyfrowej walki](https://docs.google.com/document/d/1U8vawIqshSomVXfSd1XU7Q386ngKfwWNnhPcusIth3U/edit) i bombardować media społecznościowe banku wiadomościami sprzeciwiającymi się projektowi.  \n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:123
+msgid ""
+"Find out more about XR South Africa by visiting their [website](http://"
+"extinctionrebellion.org.za/) and following them on [Facebook](https://www."
+"facebook.com/ExtinctionRebellionSouthAfrica)."
+msgstr ""
+"Dowiedz się więcej o grupie XR Południowa Afryka, odwiedzając jej [stronę]"
+"(http://extinctionrebellion.org.za/) i obserwując ją na [Facebooku](https://"
+"www.facebook.com/ExtinctionRebellionSouthAfrica)."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:124
+#, no-wrap
+msgid "Movement of Movements Strive to Protect Sri Lankan Forests"
+msgstr "Ruch nad ruchami próbuje chronić lankijskie lasy"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:127
+#, no-wrap
+msgid "**November | Sri Lanka**\n"
+msgstr "**LIS | Sri Lanka**\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:129
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image22.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image22.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:131
+msgid ""
+"13 environmental groups, including XR Sri Lanka, are fighting to protect "
+"vast regions of the nation’s rainforest from a corporate land grab. The "
+"threatened area [spans 7%](http://www.themorning.lk/controversial-5-2001-"
+"circular-exploring-the-ripple-effect/) of the island’s total landmass."
+msgstr ""
+"Trzynaście grup działających na rzecz środowiska, w tym XR Sri Lanka, walczą "
+"o ochronę ogromnych połaci lankijskich lasów deszczowych przed grabieżą z "
+"rąk korporacji. Zagrożony rejon [zajmuje 7%](http://www.themorning.lk/"
+"controversial-5-2001-circular-exploring-the-ripple-effect/) całej wyspy."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:133
+msgid ""
+"Sri Lanka’s President promised to double the country’s forest cover before "
+"his election, yet his government has abolished legal protections for 700,000 "
+"hectares of [Other State Forests](https://www.newsfirst.lk/2020/11/11/other-"
+"state-forests-not-considered-in-sri-lankas-forest-cover/) (OSF)."
+msgstr ""
+"Prezydent Sri Lanki przed wyborami obiecał podwojenie wielkości terenów "
+"leśnych kraju, ale obecny rząd zniósł ochronę prawną 700 tysięcy hektarów "
+"tak zwanych [pozostałych lasów państwowych](https://www.newsfirst."
+"lk/2020/11/11/other-state-forests-not-considered-in-sri-lankas-forest-"
+"cover/) (OSF)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:135
+msgid ""
+"These unofficial forests, not formally recognised in Sri Lankan law, were "
+"once protected by the national Forest Department. But now a new law has "
+"handed them back to local government officials for ‘economic development’. "
+"Bureaucratic misuse and rapid deforestation is expected."
+msgstr ""
+"Są to nieoficjalne lasy, które formalnie nie podlegają prawu Sri Lanki, a "
+"wcześniej ochronę nad nimi sprawował Departament Leśnictwa. Nowe prawo znów "
+"oddało lasy w ręce samorządów, a te sprawować mają pieczę nad „rozwojem "
+"gospodarczym”. Przewiduje się więc biurokratyczne nadużycia i szybko "
+"postępujące wylesianie."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:137
+msgid ""
+"Among the OSFs are rare [Cloud Forests](https://en.wikipedia.org/wiki/"
+"Cloud_forest) which make up less than 1% of global woodland. Losing them "
+"would drive many endangered and endemic plants and animals to extinction, "
+"not to mention the loss of yet more valuable carbon sinks."
+msgstr ""
+"W skład lasów OSF wchodzą niezwykle rzadkie [lasy mgliste](https://en."
+"wikipedia.org/wiki/Cloud_forest) – zajmują one mniej niż 1% lasów na "
+"świecie. Ich utrata oznaczałaby wyginięcie wielu zagrożonych i endemicznych "
+"roślin oraz zwierząt. Poza tym liczba cennych drzew pochłaniających "
+"dwutlenek węgla zmalałaby jeszcze bardziej."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:139
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image23.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image23.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:141
+msgid ""
+"The move is believed to be the result of corporate lobbying (67% of Sri "
+"Lankan land is state owned). Global fruit and vegetable company Dole Lanka "
+"was recently able to acquire large tracts of land for banana and mango "
+"plantations that was earmarked as a new reserve in Lunugamvehera National "
+"Park."
+msgstr ""
+"Wygląda na to, że zmiany prawne wprowadzono w skutek lobbingu korporacji (są "
+"one właścicielami 67% lankijskiej ziemi). Dole Lanka, globalny producent "
+"owoców i warzyw, uzyskał niedawno ogromny obszar ziemi na rzecz plantacji "
+"bananów i mango – teren ten został wyznaczony jako nowy rezerwat w Parku "
+"Narodowym Lunugamvehera."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:143
+msgid ""
+"Wildlife and Forest Field Officers within Mahaweli Flood Plains National "
+"Park have also suffered verbal abuse from the very State Minister they work "
+"for."
+msgstr ""
+"Pracownicy i pracownice Parku Narodowego Równin Zalewowych Mahaweli "
+"zajmujący się ochroną dzikiej przyrody i lasów spotkali się z werbalną "
+"agresją ze strony ministra, któremu podlegają."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:145
+msgid ""
+"XR Sri Lanka are planning an upcoming Reforest Rebellion, where Rainforest "
+"Protectors will plant hundreds of saplings in Sinharaja Forest Reserve. You "
+"can support them by following them on [Facebook](https://www.facebook.com/"
+"xrebellionlk/) and signing this [online petition](http://chng.it/y2dcVm7g)."
+msgstr ""
+"Grupa XR Sri Lanka planuje nadchodzącą Zalesiającą Rebelię (Reforest "
+"Rebellion), podczas której obrońcy i obrończynie lasów deszczowych zasadzą w "
+"Rezerwacie leśnym Sinharaj setki sadzonek. Możesz okazać im wsparcie, "
+"obserwując ich stronę na [Facebooku](https://www.facebook.com/xrebellionlk/) "
+"i podpisując tę [petycję online](http://chng.it/y2dcVm7g)."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:146
+#, no-wrap
+msgid "XR Philippines: 5 Typhoons in 1 month"
+msgstr "XR Filipiny: Pięć tajfunów w jeden miesiąc"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:149
+#, no-wrap
+msgid "**November | Philippines**\n"
+msgstr "**LIS | Filipiny**\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:151
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image9.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image9.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:153
+msgid ""
+"XR Philippines is urgently requesting donations after their country was hit "
+"by [5 destructive typhoons](https://reliefweb.int/report/philippines/typhoon-"
+"after-typhoon-after-typhoon) in four weeks."
+msgstr ""
+"Grupa XR Filipiny pilnie potrzebuje pomocy po tym, jak przez ich kraj w "
+"ciągu czterech tygodni przeszło [pięć wyniszczających tajfunów](https://"
+"reliefweb.int/report/philippines/typhoon-after-typhoon-after-typhoon)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:155
+msgid ""
+"Those who can’t afford to donate to relief efforts via [one](https://linktr."
+"ee/youthriseph) of these [two](https://yacap.org/relief/) sites can help "
+"spread awareness of the appeal over social media. Visit [XR Philippines "
+"Instagram](https://www.instagram.com/extinctionrebellionph/?hl=en) for more "
+"information."
+msgstr ""
+"Jeśli Twoja sytuacja finansowa jest trudna i nie możesz wesprzeć grupy za "
+"pomocą [jednego](https://linktr.ee/youthriseph) z [dwóch](https://yacap.org/"
+"relief/) portali, możesz powiedzieć światu o sytuacji na swoich mediach "
+"społecznościowych. Odwiedź [Instagramowe konto XR Filipiny](https://www."
+"instagram.com/extinctionrebellionph/?hl=en) i dowiedz się więcej."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:157
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image7.png \"Boy & dog cross "
+"their destroyed village following Typhoon Vamco\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image7.png \"Boy & dog cross "
+"their destroyed village following Typhoon Vamco\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:159
+#, no-wrap
+msgid "*Boy & dog cross their destroyed village following Typhoon Vamco. Photo: Reuters/Eloisa Lopez*\n"
+msgstr "*Chłopiec i pies przemierzają wioskę zniszczoną przez tajfun Vamco. Zdjęcie: Reuters/Eloisa Lopez*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:161
+msgid ""
+"Typhoon [Vamco](https://www.bbc.co.uk/news/world-asia-54934373), the most "
+"recent, slammed northern regions of the country, killing dozens and leaving "
+"thousands struggling to survive as they awaited rescue. Some regions are "
+"still experiencing severe flooding, with waters reaching depths of up to "
+"12m. Media coverage and local relief efforts have been hampered by both the "
+"pandemic and [the current government](https://www.forbes.com/sites/"
+"panosmourdoukoutas/2020/01/24/duterte-is-turning-philippines-into-a-more-"
+"corrupt-and-less-democratic-state/?sh=339284592768)."
+msgstr ""
+"Niedawno północną część kraju spustoszył tajfun [Vamco](https://www.bbc.co."
+"uk/news/world-asia-54934373); zginęły dziesiątki osób, a tysiące Filipinek i "
+"Filipińczyków walczy o przetrwanie, w oczekiwaniu na pomoc. Niektóre regiony "
+"nadal zmagają się z poważnymi powodziami – głębokość wody wynosi niekiedy 12 "
+"metrów. Relacje wydarzeń w mediach oraz pomoc ze strony lokalnych "
+"organizacji utrudniają zarówno pandemia, jak i [obecny rząd](https://www."
+"forbes.com/sites/panosmourdoukoutas/2020/01/24/duterte-is-turning-"
+"philippines-into-a-more-corrupt-and-less-democratic-state/?sh=339284592768)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:163
+msgid ""
+"The Philippines is [no stranger](https://www.arcgis.com/apps/MapJournal/"
+"index.html?appid=586f9150ae87491a8c7f1b86db7952a9) to typhoons, with the "
+"country experiencing 20 in the past year. But as global temperatures rise, "
+"typhoons and storm surges will become even more frequent."
+msgstr ""
+"Tajfuny [nierzadko](https://www.arcgis.com/apps/MapJournal/index.html?"
+"appid=586f9150ae87491a8c7f1b86db7952a9) nawiedzają Filipiny – w ostatnim "
+"roku przez kraj przeszło ich dwadzieścia. Lecz wraz ze wzrostem temperatury "
+"na świecie, tajfuny i huragany staną się jeszcze częstsze."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:165
+msgid ""
+"For the Philippino people on the front line of the climate crisis, the "
+"investment portfolios of global banks, and the reluctance of governments to "
+"bring them to heel, are matters of life and death."
+msgstr ""
+"Dla filipińskiej ludności znajdującej się na pierwszym froncie walki z "
+"kryzysem klimatycznym decyzje inwestycyjne światowych banków oraz niechęć "
+"rządów do przywołania instytucji finansowych do porządku to sprawa życia i "
+"śmierci."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:167
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image3.jpg \"The City of "
+"Manila, capital of The Philippines, underwater after Typhoon Vamco\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image3.jpg \"The City of "
+"Manila, capital of The Philippines, underwater after Typhoon Vamco\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:169
+#, no-wrap
+msgid "*The City of Manila, capital of The Philippines, underwater after Typhoon Vamco. Photo: Reuters*\n"
+msgstr "*Stolica Filipin Manila po przejściu przez miasto tajfunu Vamco Zdjęcie: Reuters*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:175
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image25.png \" Rebels hold a "
+"Toy strike on World Children’s Day\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image25.png \" Rebels hold a "
+"Toy strike on World Children’s Day\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:177
+msgid ""
+"20 Nov | Indonesia - *Rebels hold a Toy strike on World Children’s Day. "
+"Unused toys were donated to several charities.*"
+msgstr ""
+"20 LIS | Indonezja: *Rebeliant podczas protestu Toy Strike w Powszechny "
+"Dzień Dziecka. Niewykorzystane zabawki przekazano kilku organizacjom "
+"charytatywnym.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:179
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image17.jpg \"A Sea of Blood "
+"flows through central Jakarta during the Asia Climate Rally.\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image17.jpg \"A Sea of Blood "
+"flows through central Jakarta during the Asia Climate Rally.\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:181
+msgid ""
+"27 Nov | Indonesia: *A Sea of Blood flows through central Jakarta during the "
+"Asia Climate Rally.*"
+msgstr ""
+"27 LIS | Indonezja: *Podczas Asia Climate Rally przez centrum Dżakarty "
+"przepłynęło Morze Krwi.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:183
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image1.jpg \"Over 200 activists "
+"and residents converged on Haifa Bay to demand the closure of its "
+"petrochemical industry\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image1.jpg \"Over 200 activists "
+"and residents converged on Haifa Bay to demand the closure of its "
+"petrochemical industry\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:185
+msgid ""
+"25 Nov | Israel: *Over 200 activists and residents converged on Haifa Bay to "
+"demand the closure of its petrochemical industry. XR Israel blockaded the "
+"entrance of the local oil refinery.*"
+msgstr ""
+"25 LIS | Izrael: *Ponad 200 aktywistów i aktywistek zebrało się w Zatoce "
+"Hajfy i żądało zamknięcia znajdujących się tam zakładów przemysłu "
+"petrochemicznego. Grupa XR Izrael zablokowała wejście do miejscowej "
+"rafinerii ropy naftowej.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:187
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image4.png \"Rebels & other "
+"activists on Place de la République demonstrate against the new "
+"authoritarian and unjust Global Security Bill.\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image4.png \"Rebels & other "
+"activists on Place de la République demonstrate against the new "
+"authoritarian and unjust Global Security Bill.\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:189
+msgid ""
+"28 Nov | France: R*ebels & other activists on Place de la République "
+"demonstrate against the new [authoritarian and unjust](https://www."
+"opendemocracy.net/en/can-europe-make-it/frances-global-security-bill/) "
+"Global Security Bill.*"
+msgstr ""
+"28 LIS | Francja: *Rebelianci i inne grupy aktywistów demonstrują na Place "
+"de la République przeciwko nowemu, [autorytarnemu i niesprawiedliwemu]"
+"(https://www.opendemocracy.net/en/can-europe-make-it/frances-global-security-"
+"bill/) projektowi ustawy o bezpieczeństwie globalnym.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:191
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image5.png \" Rebels in Sake "
+"city meet with local leaders to spread awareness about Covid-19.\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image5.png \" Rebels in Sake "
+"city meet with local leaders to spread awareness about Covid-19.\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:193
+msgid ""
+"16 Nov | DRC: *Rebels in Sake city meet with local leaders to spread "
+"awareness about Covid-19.*"
+msgstr ""
+"16 LIS | DRK: *Rebeliantki i rebelianci spotykają się w mieście Sake z "
+"lokalnymi przywódcami, by szerzyć świadomość o wirusie COVID-19.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:195
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image19.png \"Rebels in Kampala "
+"hand out face masks and soap to market vendors.\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image19.png \"Rebels in Kampala "
+"hand out face masks and soap to market vendors.\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:197
+msgid ""
+"30 Nov | Uganda: *Rebels in Kampala hand out face masks and soap to market "
+"vendors.*"
+msgstr ""
+"30 LIS | Uganda: *Rebelianci i rebeliantki rozdają maseczki i mydło "
+"sprzedawcom na rynku w Kampali.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:199
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image16.png \"Tasmania declared "
+"it is powered entirely by renewable electricity but Hobart rebels still sat "
+"in silence to support the National Day of Action against Gas.\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image16.png \"Tasmania declared "
+"it is powered entirely by renewable electricity but Hobart rebels still sat "
+"in silence to support the National Day of Action against Gas.\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:201
+msgid ""
+"28 Nov | Australia: *Tasmania declared it is powered [entirely by renewable "
+"electricity](https://reneweconomy.com.au/tasmania-declares-itself-100-per-"
+"cent-powered-by-renewable-electricity-25119/) but Hobart rebels still sat in "
+"silence to support the National Day of Action against Gas.*"
+msgstr ""
+"28 LIS | Australia: *Tasmania ogłosiła, że jest [w całości zasilana energią "
+"odnawialną](https://reneweconomy.com.au/tasmania-declares-itself-100-per-"
+"cent-powered-by-renewable-electricity-25119/), ale mimo to rebeliantki i "
+"rebelianci z Hobart usiedli w ciszy, by uczcić Narodowy Dzień Walki z Gazem.*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:203
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image27.png \"Rebels glue "
+"themselves to Amazon’s Barcelona HQ on Black Friday\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image27.png \"Rebels glue "
+"themselves to Amazon’s Barcelona HQ on Black Friday\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:205
+msgid ""
+"26 Nov | Spain: *Rebels glue themselves to Amazon’s Barcelona HQ on Black "
+"Friday. The online behemoth has destroyed the environment and workers rights "
+"to amass vast profits. Anti-Black Friday actions were also held by rebels in "
+"France, Germany, Netherlands and Poland.*"
+msgstr ""
+"26 LIS | Hiszpania: *Rebeliantki i rebelianci świętują Black Friday, "
+"przyklejając się do szyb w barcelońskiej siedzibie firmy Amazon. Sieciowy "
+"kolos wyniszcza środowisko i kompletnie nie szanuje praw pracowniczych – "
+"wszystko w imię gromadzenia zysków. Akcje przeciwko Black Friday "
+"zorganizowały także grupy rebeliantów we Francji, Holandii, Niemczech i "
+"Polsce.*"
+
+#. type: Title ###
+#: 2020-12-09-global-newsletter-46.md:210
+#, no-wrap
+msgid "Money Rebellion: Join Us!"
+msgstr "Money Rebellion: Dołącz do nas!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:213
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image29.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image29.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:215
+msgid ""
+"[Money Rebellion](http://moneyrebellion.earth) is a new campaign of on-the-"
+"ground, digital, and financial actions to tackle what's really driving the "
+"climate crisis: our economic system."
+msgstr ""
+"[Money Rebellion](http://moneyrebellion.earth) to zupełnie nowa kampania, "
+"która prowadzona będzie na ulicach, w sieci i za pomocą działań finansowych. "
+"Jej cel? Zmierzenie się z największym powodem kryzysu klimatycznego: naszym "
+"systemem gospodarczym."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:217
+msgid ""
+"Money Rebellion was launched in the UK by rebels who would be delighted to "
+"see their campaign of financial disobedience mushroom across the globe. All "
+"rebels are welcome to take and reuse campaign materials - but they will need "
+"to tailor them to their own tax and debt laws."
+msgstr ""
+"Money Rebellion rozpoczęli brytyjscy rebelianci i rebeliantki. Z chęcią będą "
+"patrzeć, jak ich kampania finansowego nieposłuszeństwa rozprzestrzenia się "
+"po świecie. Wszyscy zainteresowani rebelianci mogą do woli korzystać z "
+"materiałów przygotowanych na rzecz kampanii – należy jednak pamiętać, by "
+"dostosować je do panującego w danym kraju prawa podatkowego i ustaw o długu."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:219
+msgid ""
+"Interested? Watch the [introductory talk](https://youtu.be/QjiKLKg_8xc) and "
+"then check out [here](https://extinctionrebellion.uk/act-now/resources/money-"
+"rebellion/) for many more resources."
+msgstr ""
+"To coś dla Ciebie? Obejrzyj [filmik wyjaśniający kampanię](https://youtu.be/"
+"QjiKLKg_8xc). [Tutaj](https://extinctionrebellion.uk/act-now/resources/money-"
+"rebellion/) zapoznasz się z wieloma innymi materiałami."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:221
+msgid ""
+"If you’re interested in co-hosting a future Money Rebellion talk fill in "
+"this [Speaker Interest Form](http://bit.ly/comehaveachat). Perspectives from "
+"the Global South are of particular interest."
+msgstr ""
+"Jeśli chcesz pomóc w prowadzeniu przyszłej prelekcji Money Rebellion, "
+"wypełnij ten [formularz](http://bit.ly/comehaveachat). Perspektywa osób z "
+"krajów Globalnego Południa będzie szczególnie cenna."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:222
+#, no-wrap
+msgid "XR COP: Action Pack!"
+msgstr "XR COP: Zestaw akcji!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:225
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image15.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image15.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:227
+msgid ""
+"On the Anniversary of the Paris Agreement and until November 2021, XR COP "
+"says: *COP26, we are watching you!*"
+msgstr ""
+"W rocznicę podpisania porozumienia paryskiego i aż do listopada przyszłego "
+"roku XR COP powtarzać będzie: *COP26, obserwujemy was!*"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:229
+msgid ""
+"[Open our action pack](https://docs.google.com/document/"
+"d/1F9G6XErXLY7CWz_FrKzW8FlQzk9XlE4l_X6FB0LfYsY/edit) for ways to have your "
+"voice heard too! Includes resources for quick and easy actions, info on COP, "
+"and more. Get your teams in place and start waking up the planet to the fact "
+"that COP26 needs to turn the tide! And watch out for our monthly actions!"
+msgstr ""
+"[Otwórz nasz zestaw akcji](https://docs.google.com/document/"
+"d/1F9G6XErXLY7CWz_FrKzW8FlQzk9XlE4l_X6FB0LfYsY/edit) i dowiedz się, jak "
+"sprawić, by świat też Cię usłyszał! Znajdziesz tam porady na temat tego, ja "
+"zorganizować łatwe i szybkie akcje, informacje o COP i nie tylko. Przygotuj "
+"swój zespół i zacznijcie otwierać światu oczy na to, że COP26 musi zmienić "
+"obrany przez nas kierunek! Bądź też na bieżąco z naszymi comiesięcznymi "
+"akcjami!"
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:230
+#, no-wrap
+msgid "How to Livestream: Free Training!"
+msgstr "Jak prowadzić transmisję na żywo: Darmowa sesja szkoleniowa!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:233
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image13.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image13.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:235
+msgid ""
+"Find out how to livestream XR actions and events in this free skills "
+"training."
+msgstr ""
+"Na tym darmowym szkoleniu dowiesz się, jak prowadzić transmisję na żywo z "
+"akcji i wydarzeń XR."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:237
+msgid ""
+"The workshop will cover preparing for a livestream, the technical skills "
+"needed for live-streaming from your mobile phone, advice on kit, and tips on "
+"how to interview and speak on camera."
+msgstr ""
+"Warsztat obejmować będzie informacje o tym, jak przygotować transmisję na "
+"żywo z telefonu komórkowego, jakich umiejętności technicznych potrzebujesz i "
+"jaki sprzęt wybrać. Podzielimy się z Tobą także wskazówkami o tym, jak "
+"prowadzić wywiady i prezentować przed kamerą."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:239
+msgid ""
+"There will also be training on how to use VMIX software to enable "
+"simultaneous streaming from multiple smartphones located anywhere in the "
+"world (with good wifi)!"
+msgstr ""
+"Powiemy też o tym, jak korzystać z oprogramowania VMIX, które pozwala na "
+"prowadzenie transmisji jednocześnie z kilku telefonów znajdujących się w "
+"różnych miejscach na świecie (należy pamiętać tylko o dobrym dostępie do "
+"WiFi!)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:241
+msgid ""
+"This event is open to all XR groups and will be held on the **15th December."
+"**"
+msgstr ""
+"W wydarzeniu mogą wziąć udział wszystkie grupy XR. Warsztaty odbędą się **15 "
+"grudnia**."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:243
+msgid ""
+"[Sign up here](https://www.eventbrite.co.uk/e/live-streaming-for-extinction-"
+"rebellion-training-tickets-131707724349) and check [Facebook](https://www."
+"facebook.com/events/697781984490252) for future livestream workshops."
+msgstr ""
+"[Zapisz się tutaj](https://www.eventbrite.co.uk/e/live-streaming-for-"
+"extinction-rebellion-training-tickets-131707724349) i nie zapomnij sprawdzać "
+"naszego [Facebooka](https://www.facebook.com/events/697781984490252) – będą "
+"pojawiać się tam informacje o przyszłych szkoleniach tego typu."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:244
+#, no-wrap
+msgid "Writers Rebel: On The Brink"
+msgstr "Strona Writers Rebel: On the Brink"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:247
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image28.png)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image28.png)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:249
+msgid ""
+"30th Nov | A host of world famous authors, artists, and actors read new work "
+"and paid tribute to species facing extinction on Lost Species Day. Watch the "
+"Rebel Writers event [here](https://www.facebook.com/events/1852365411570782)."
+msgstr ""
+"30 LIS | W Dzień Utraconych Gatunków światowej sławy pisarze, artyści i "
+"aktorzy czytali nowe dzieła i złożyli hołd gatunkom, którym grozi wymarcie. "
+"Wydarzenie Writers Rebel obejrzysz [tutaj](https://www.facebook.com/"
+"events/1852365411570782)."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:250
+#, no-wrap
+msgid "XR Global Support: Join Us!"
+msgstr "XR Global Support: Dołącz do nas!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:253
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image2.jpg)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image2.jpg)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:255
+msgid ""
+"Interested in supporting and working with rebels all around the world? XR "
+"Global Support helps resources flow between XR groups and offers support in "
+"the form of training, funding, and more."
+msgstr ""
+"Chcesz wspierać rebelię i pracować z rebeliantkami i rebeliantami z całego "
+"świata? XR Global Support pomaga grupom XR dzielić się materiałami i "
+"zapewnia wsparcie w formie szkoleń, pomocy finansowej i nie tylko."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:257
+msgid ""
+"Roles are available in a wide range of working groups - Media & Messaging, "
+"Tech, Fundraising, Participative Democracy, Partnerships, Trainings, "
+"Regenerative Cultures, Events, Onboarding."
+msgstr ""
+"Można zaangażować się w zespołach pracujących nad: sprawami medialnymi i "
+"wiadomościami, działaniami technicznymi, pozyskiwaniem środków, demokracją "
+"uczestniczącą, szkoleniami, kulturą regeneracji, wydarzeniami oraz "
+"onboardingiem."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:259
+msgid ""
+"Check out the [calendar](https://cloud.organise.earth/apps/calendar/p/"
+"iCoaNMwWCwFWbpHw/dayGridMonth/2020-11-01) for the next **Interactive Intro "
+"to XR** (a crucial part of the onboarding process) and fill in [this form]"
+"(https://forms.organise.earth/index.php?r=survey/index&sid=433164&lang=en) "
+"to let us know you're interested! Email questions to **XRInt-"
+"onboarding@protonmail.com.**"
+msgstr ""
+"Przejrzyj nasz [kalendarz](https://cloud.organise.earth/apps/calendar/p/"
+"iCoaNMwWCwFWbpHw/dayGridMonth/2020-11-01), żeby dowiedzieć się, kiedy "
+"odbędzie się kolejna **interaktywna sesja wprowadzająca do XR** (to ważny "
+"element rozpoczynania działań w naszym ruchu), i wypełnij [ten formularz]"
+"(https://forms.organise.earth/index.php?r=survey/index&sid=433164&lang=en) – "
+"w ten sposób będziemy wiedzieć, że chcesz wziąć udział w wydarzeniu. W razie "
+"pytań napisz do nas na adres: **XRInt-onboarding@protonmail.com**."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:260
+#, no-wrap
+msgid "XR Global Media Library: Free Training!"
+msgstr "Biblioteka XR Global Media Library: Darmowa sesja szkoleniowa!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:263
+msgid "![](/assets/uploads/2020-12-09-newsletter-46-image21.jpg)"
+msgstr "![](/assets/uploads/2020-12-09-newsletter-46-image21.jpg)"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:265
+msgid ""
+"Want to discover amazing XR media content? Or maybe share your own? **Learn "
+"how to use the** [XR Global Media Library](https://show.pics.io/xr-global-"
+"media-resources-public) by joining our next training session!"
+msgstr ""
+"Chcesz odkryć niesamowite treści multimedialne XR? Albo podzielić się czymś "
+"od siebie? **Dowiedz się, jak korzystać z biblioteki** [XR Global Media "
+"Library](https://show.pics.io/xr-global-media-resources-public), dołączając "
+"do następnej sesji szkoleniowej!"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:267
+msgid ""
+"We’ll provide you with everything you need to get started. Just answer [this "
+"quick questionnaire](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=588393&lang=en) and we’ll get in touch."
+msgstr ""
+"Nauczymy Cię wszystkich niezbędnych trików. Wypełnij tylko [ten krótki "
+"formularz](https://forms.organise.earth/index.php?r=survey/"
+"index&sid=588393&lang=en), żebyśmy mogli się z Tobą skontaktować."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:273
+msgid ""
+"Ker-ching! This issue we’ve gone money-mad and so has Must Reads! Find out "
+"which banks are profiting from fossil fuels and planetary destruction, get "
+"your money out of them, and then let your mind be expanded on just what this "
+"whole economy lark is actually all about."
+msgstr ""
+"Słyszymy brzęk monet! W tym wydaniu newslettera jak najęci gadamy o "
+"pieniądzach – nie odstępujemy od tematu nawet w tej sekcji. Dowiedz się, "
+"które banki zyskują na dalszym wydobywaniu paliw kopalnych i destrukcji "
+"naszej planety, wyjmij swoje pieniądze z zarządzanych przez nie kont i "
+"zdobądź wiedzę na temat tego, o co właściwie chodzi z tym całym problemem "
+"gospodarczym."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:276
+msgid ""
+"[Rainforest Action Network:](https://www.ran.org/"
+"bankingonclimatechange2020/) Fossil Fuel Finance Report 2020\\ Find out how "
+"the top banks stack up when it comes to investing in fossil fuels in this "
+"comprehensive report."
+msgstr ""
+"[Rainforest Action Network](https://www.ran.org/"
+"bankingonclimatechange2020/): Fossil Fuel Finance Report 2020 W tym "
+"klarownie napisanym raporcie przeczytasz, w jaki sposób największe banki "
+"przyczyniają się do finansowania przemysłu paliw kopalnych."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:279
+msgid ""
+"[Portfolio Earth](https://portfolio.earth/): Bankrolling Extinction\\ Find "
+"out how the top banks stack up when it comes to biodiversity destruction in "
+"this comprehensive report (in multiple languages)."
+msgstr ""
+"[Portfolio Earth](https://portfolio.earth/): Bankrolling Extinction\n"
+"Z tego jasno przedstawionego raportu (w kilku wersjach językowych) dowiesz "
+"się, w jaki sposób największe banki przyczyniają się do niszczenia "
+"różnorodności biologicznej."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:282
+msgid ""
+"[XR Blog:](https://rebellion.global/blog/2020/09/21/ethical-banks/) How to "
+"Stop Funding Fossil Fuels by Moving to an Ethical Bank\\ Most banks have a "
+"very dirty secret. They use your money to fund fossil fuels. Here’s a step-"
+"by-step guide to getting your cash back from climate collapsing banks."
+msgstr ""
+"[Blog XR](https://rebellion.global/blog/2020/09/21/ethical-banks/): Jak "
+"przestać finansować przemysł paliw kopalnych? Przenosząc konto do etycznego "
+"banku Większość banków skrywa przed światem brudny sekret. Używają Twoich "
+"pieniędzy, by finansować przemysł paliw kopalnych. Oto poradnik krok-po-"
+"kroku, który pomoże Ci przestać finansować banki przyczyniające się do "
+"załamania klimatu."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:285
+msgid ""
+"[Money Rebellion](https://www.facebook.com/pg/moneyrebellion/events/): "
+"Livestream Talks\\ Watch an ongoing series of talks linking the climate "
+"crisis to our economic system. Includes talks on tax disobedience, degrowth "
+"and alternate economies, with guest economists."
+msgstr ""
+"[Money Rebellion](https://www.facebook.com/pg/moneyrebellion/events/): "
+"Prelekcje transmitowane na żywo\n"
+"Obejrzyj trwającą właśnie serię prelekcji, w których opowiadamy o wpływie "
+"naszego systemu gospodarczego na kryzys klimatyczny. Znajdziesz tam między "
+"innymi informacje o nieposłuszeństwie podatkowym, modelu degrowth oraz o "
+"alternatywnej gospodarce. W prelekcjach głos zabierają zaproszone "
+"ekonomistki i ekonomiści."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:288
+msgid ""
+"[Dr. Gail Bradbrook’s ‘Economic Literacy for XR Colleagues’](https://www."
+"loom.com/share/c715cde024984a668ab3f18eb81eaf9d): Livestream Talk\\ Don’t "
+"understand economics? Not sure what a political economy is? Don’t worry! You "
+"are not alone, and it’s probably by design. This short talk by an XR founder "
+"will get you up to speed."
+msgstr ""
+"[„Economic Literacy for XR Colleagues” z udziałem dr Gail Bradbrook](https://"
+"www.loom.com/share/c715cde024984a668ab3f18eb81eaf9d): Prelekcja "
+"transmitowana na żywo\n"
+"Nie rozumiesz ekonomii? Nie do końca wiesz, czym jest ekonomia polityczna? "
+"Nie martw się! Jest nas dużo więcej – i pewnie o to im chodzi. Ten krótki "
+"wykład jednej z założycielek XR wyjaśni Ci wszystko."
+
+#. type: Title ##
+#: 2020-12-09-global-newsletter-46.md:291
+#, no-wrap
+msgid "Thank you"
+msgstr "Dziękujemy"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:294
+msgid ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image18.jpg \"The European Eel "
+"- one of millions of species facing extinction\")"
+msgstr ""
+"![](/assets/uploads/2020-12-09-newsletter-46-image18.jpg \"The European Eel -"
+" one of millions of species facing extinction\")"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:296
+#, no-wrap
+msgid "*The [European Eel](https://www.wwt.org.uk/news/2019/06/14/why-the-once-common-european-eel-is-now-critically-endangered-and-what-can-be-done-about-it/17073/#) - one of millions of species facing extinction.* \n"
+msgstr "*[Węgorz europejski](https://www.wwt.org.uk/news/2019/06/14/why-the-once-common-european-eel-is-now-critically-endangered-and-what-can-be-done-about-it/17073/#) – jeden z milionów gatunków, którym grozi wyginięcie.* \n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:298
+#, no-wrap
+msgid "*Painting: a rebel in Brighton, UK.*\n"
+msgstr "*Wykonanie: osoba z brytyjskiej grupy XR Brighton.*\n"
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:300
+msgid ""
+"Thank you for reading rebel and keep up the good work! If you have any "
+"questions or feedback, we want to hear from you. Get in touch at [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"Dziękujemy za lekturę. Oby tak dalej! Chcesz nas o coś zapytać albo "
+"przekazać nam swoją opinię? Napisz do nas! Na Twoje wiadomości czekamy pod "
+"adresem: [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+
+#. type: Plain text
+#: 2020-12-09-global-newsletter-46.md:302
+msgid ""
+"We are in a crucial phase of human history, and our movement needs money (of "
+"course!) to make our message heard. Anything you can [give](https://chuffed."
+"org/project/xrinternational) is appreciated."
+msgstr ""
+"Znajdujemy się w kluczowej fazie ludzkiej historii. Abyśmy dalej mogli "
+"szerzyć naszą misję, ruch XR potrzebuje środków finansowych. Docenimy każdą "
+"kwotę, jaką możesz [ofiarować](https://chuffed.org/project/xrinternational)."
+
+#~ msgid ""
+#~ "(Sign up to the newsletter [here](https://u1584542.ct.sendgrid.net/mps2/c/"
+#~ "HwE/ni0YAA/t.31w/GBT6p85DSUmfI8KC5zkj8Q/h1/"
+#~ "CA0gLXQEKb6jqGkD7RqZiT8OBkXPvclblsAC2tjBY6R5Bkd2P-2BRftBNBOR8Q2GNbkjGSpM3cpQsQy6wvJII4QstFETLxyoT1Ew8od9poFIBVwN-2FpgUL-2BzWlxACcS7KU87JvRs-2BMVZqGv-2FS4CeQ-2F9Pb5WJrBQrOj9W2Bina-2FCXW7pLvGfVmEVa2shF-2BRgp44IiR6CqlmwE3-2BBTtBaNOHqP4vKuvOGYY8PoUgLgZMgprFVqK2obSDrjRSFHrlli7CQDO5rkoKADdP9jGWEJlwSwge9NWiWZ7C-2FxcI7zOlr3Z8-3D/4QH8). "
+#~ "Read the web version shortly in Czech, English, French, German & Polish, "
+#~ "available in the top right. Thank you XR Translation Team!)"
+#~ msgstr ""
+#~ "(Zapisz się do naszego newslettera [tutaj](https://u1584542.ct.sendgrid."
+#~ "net/mps2/c/HwE/ni0YAA/t.31w/GBT6p85DSUmfI8KC5zkj8Q/h1/"
+#~ "CA0gLXQEKb6jqGkD7RqZiT8OBkXPvclblsAC2tjBY6R5Bkd2P-2BRftBNBOR8Q2GNbkjGSpM3cpQsQy6wvJII4QstFETLxyoT1Ew8od9poFIBVwN-2FpgUL-2BzWlxACcS7KU87JvRs-2BMVZqGv-2FS4CeQ-2F9Pb5WJrBQrOj9W2Bina-2FCXW7pLvGfVmEVa2shF-2BRgp44IiR6CqlmwE3-2BBTtBaNOHqP4vKuvOGYY8PoUgLgZMgprFVqK2obSDrjRSFHrlli7CQDO5rkoKADdP9jGWEJlwSwge9NWiWZ7C-2FxcI7zOlr3Z8-3D/4QH8). "
+#~ "Na naszej stronie przeczytasz wersje w języku angielskim, czeskim, "
+#~ "francuskim, niemieckim i polskim – opcje językowe znajdziesz w prawym "
+#~ "górnym rogu. Dziękujemy naszemu zespołowi tłumaczek i tłumaczy!)"
+
+#~ msgid ""
+#~ "We are in a crucial phase of human history, and our Rebellion needs money "
+#~ "to make our message heard. Anything you can [give](https://u1584542.ct."
+#~ "sendgrid.net/ss/c/Mqag7sW8TIW-nixyBdulQhM4XjyC99qBsEa_nbx5zaM1-"
+#~ "KnZZivB9FtiEcyAAJVXgXioksGz6Xtpy_emLvqYKdHI9fct4zj5NVSVQas-"
+#~ "EbWgGDtncCvyzI9RWftV4sto5Jj7m9haXu8UOGI8ba1hz5DzC1o3yqBlqBViIu1M1oRmVGVjTXiuasmVlfJef_TXrwRCKcfKXLLuw4VNmifhTEx9srSHM9MVNd8whr0LH_C_EXf2P4AZ3DSvTH5mbIEq6ZABreu1tSrPV7NFXm8i-"
+#~ "Py6sUDhF0jxlv4mjtfCzRYY8Gte35O-gyHGwsl0J58La4RzgRXfcnQi4SVtlc337A/35v/"
+#~ "ACWKmpu8QoO9rgS_QGiPyw/h21/Qaa9DvEYCn5p40VdFebjduOAuxJMPUs2sezeEG1334M) "
+#~ "is appreciated."
+#~ msgstr ""
+#~ "Znajdujemy się w kluczowej fazie ludzkiej historii. Abyśmy dalej mogli "
+#~ "szerzyć naszą misję, Rebelia potrzebuje środków finansowych. Docenimy "
+#~ "każdą kwotę, jaką możesz [ofiarować](https://u1584542.ct.sendgrid.net/ss/"
+#~ "c/Mqag7sW8TIW-nixyBdulQhM4XjyC99qBsEa_nbx5zaM1-"
+#~ "KnZZivB9FtiEcyAAJVXgXioksGz6Xtpy_emLvqYKdHI9fct4zj5NVSVQas-"
+#~ "EbWgGDtncCvyzI9RWftV4sto5Jj7m9haXu8UOGI8ba1hz5DzC1o3yqBlqBViIu1M1oRmVGVjTXiuasmVlfJef_TXrwRCKcfKXLLuw4VNmifhTEx9srSHM9MVNd8whr0LH_C_EXf2P4AZ3DSvTH5mbIEq6ZABreu1tSrPV7NFXm8i-"
+#~ "Py6sUDhF0jxlv4mjtfCzRYY8Gte35O-gyHGwsl0J58La4RzgRXfcnQi4SVtlc337A/35v/"
+#~ "ACWKmpu8QoO9rgS_QGiPyw/h21/Qaa9DvEYCn5p40VdFebjduOAuxJMPUs2sezeEG1334M)."
+
+#~ msgid "<table align=\"center\">\n"
+#~ msgstr "<table align=\"center\">\n"
+
+#~ msgid "<tbody>\n"
+#~ msgstr "<tbody>\n"
+
+#~ msgid "<tr>\n"
+#~ msgstr "<tr>\n"
+
+#~ msgid "<td align=\"center\">\n"
+#~ msgstr "<td align=\"center\">\n"
+
+#~ msgid "<div>\n"
+#~ msgstr "<div>\n"
+
+#~ msgid "<!--\\\\\\\\\\[if mso]>\n"
+#~ msgstr "<!--\\\\\\\\\\[if mso]>\n"
+
+#~ msgid ""
+#~ "<v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-"
+#~ "microsoft-com:office:word\" href=\"https://chuffed.org/project/"
+#~ "xrinternational\" style=\"height:50px;v-text-anchor:middle;width:280px;\" "
+#~ "stroke=\"f\" fillcolor=\"#ED9BC4\">"
+#~ msgstr ""
+#~ "<v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-"
+#~ "microsoft-com:office:word\" href=\"https://chuffed.org/project/"
+#~ "xrinternational\" style=\"height:50px;v-text-anchor:middle;width:280px;\" "
+#~ "stroke=\"f\" fillcolor=\"#ED9BC4\">"
+
+#~ msgid "<w:anchorlock></w:anchorlock>\n"
+#~ msgstr "<w:anchorlock></w:anchorlock>\n"
+
+#~ msgid "<center>\n"
+#~ msgstr "<center>\n"
+
+#~ msgid "<!\\\\\\\\\\[endif]-->\n"
+#~ msgstr "<!\\\\\\\\\\[endif]-->\n"
+
+#~ msgid ""
+#~ "<a href=\"https://chuffed.org/project/xrinternational\" target=\"_blank\" "
+#~ "style=\"background-color:#ED9BC4;color:#ffffff;display:block;font-family:"
+#~ "Helvetica,Arial,sans-serif;font-size:23px;line-height:50px;height:50px;"
+#~ "text-align:center;font-weight:bold;text-decoration:none;width:280px;-"
+#~ "webkit-text-size-adjust:none;\">Support the Rebellion</a>\n"
+#~ msgstr ""
+#~ "<a href=\"https://chuffed.org/project/xrinternational\" target=\"_blank\" "
+#~ "style=\"background-color:#ED9BC4;color:#ffffff;display:block;font-family:"
+#~ "Helvetica,Arial,sans-serif;font-size:23px;line-height:50px;height:50px;"
+#~ "text-align:center;font-weight:bold;text-decoration:none;width:280px;-"
+#~ "webkit-text-size-adjust:none;\">Wesprzyj Rebelię</a>\n"
+
+#~ msgid "</center>\n"
+#~ msgstr "</center>\n"
+
+#~ msgid "</v:rect>\n"
+#~ msgstr "</v:rect>\n"
+
+#~ msgid "</div>\n"
+#~ msgstr "</div>\n"
+
+#~ msgid "</td>\n"
+#~ msgstr "</td>\n"
+
+#~ msgid "</tr>\n"
+#~ msgstr "</tr>\n"
+
+#~ msgid "</tbody>\n"
+#~ msgstr "</tbody>\n"
+
+#~ msgid "</table>\n"
+#~ msgstr "</table>\n"

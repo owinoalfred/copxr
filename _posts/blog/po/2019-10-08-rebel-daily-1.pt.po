@@ -1,0 +1,1513 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-18 22:48+0200\n"
+"PO-Revision-Date: 2021-01-04 01:20+0000\n"
+"Last-Translator: dania rodrigues <daniarodrigues@protonmail.com>\n"
+"Language-Team: Portuguese <http://translate.organise.earth/projects/"
+"blog-posts/2019-10-08-rebel-daily-1/pt/>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:13
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Rebel Daily 1: The Sun Rises on a New Wave of Rebellion\"\n"
+"slug: rebel-daily-1\n"
+"date: 2019-10-08 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/10/07/OctReb_BurningEarth_SarahCresswell_071019_02-min.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: /assets/img/blog/2019/10/07/OctReb_BurningEarth_SarahCresswell_071019_02-min.jpg\n"
+msgstr ""
+"layout: page-small-width\n"
+"lang: pt\n"
+"title: \"Diário do Rebelde 1: O Sol Nasce Numa Nova Onda de Rebelião\"\n"
+"slug: rebel-daily-1\n"
+"date: 2019-10-08 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/10/07/"
+"OctReb_BurningEarth_SarahCresswell_071019_02-min.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: /assets/img/blog/2019/10/07/"
+"OctReb_BurningEarth_SarahCresswell_071019_02-min.jpg\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:16
+msgid "October 08, 2019 by Extinction Rebellion"
+msgstr "8 de Outubro, 2019 por Extinction Rebellion"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:20
+#, no-wrap
+msgid ""
+"**International Rebellion is here. And it's bigger and more beautiful\n"
+"than we dared to imagine. This is what mass civil disobedience looks\n"
+"like.**\n"
+msgstr ""
+"**Rebelião Internacional está aqui. E é maior e mais bonita\n"
+"do que tínhamos imaginado. Isto é uma ilustração do que é \n"
+"a desobediência civil em massa .**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:23
+msgid ""
+"![](/assets/img/blog/2019/10/07/OctReb_BurningEarth_SarahCresswell_071019_02-"
+"min.jpg){:.img-fluid style=\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/"
+"OctReb_BurningEarth_SarahCresswell_071019_02-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:25
+msgid "It's happening. It can't be ignored. It's only growing stronger."
+msgstr ""
+"Está a acontecer. Não pode ser ignorado. Torna-se cada vez mais forte a cada "
+"dia que passa."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:27
+msgid "It's a rebellion."
+msgstr "É uma rebelião."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:33
+msgid ""
+"We're back on the roads -- with as much joy, fear, love and courage as ever. "
+"We're shutting down cities -- not because it's fun (though it can be), but "
+"because it's our last option for stopping this toxic system in its tracks. "
+"Our world is dying; to save it, we'll need everyone -- wherever and whoever "
+"you are -- to do your bit."
+msgstr ""
+"Estamos de volta às ruas - com a mesma alegria, medo, amor e coragem de "
+"sempre. Estamos a bloquear cidades -- não porque é divertido (embora o possa "
+"ser), mas porque é a última opção que temos de parar este sistema tóxico. O "
+"nosso mundo está a morrer; para o salvar, precisamos de todos - onde quer "
+"que estejas e quem quer que sejas -- para fazer a tua parte."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:36
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:39
+msgid ""
+"And though we're still somewhat short of the shared, global consciousness we "
+"need, we're getting ever closer."
+msgstr ""
+"E apesar de estarmos ainda de algum modo aquém, da consciência global "
+"partilhada que precisamos, estamos cada vez mais próximo."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:44
+msgid ""
+"This International Rebellion which began on Monday is so vast it's almost "
+"impossible to take it all in. Thousands of people flood 60 cities across the "
+"globe, with over 700 brave rebels arrested as they stand up for their right "
+"to life, and that's just the start."
+msgstr ""
+"Esta Rebelião Internacional que começou segunda-feira é tão vasta que é "
+"quase impossível de abarcar. Centenas de milhares de pessoas inundaram 60 "
+"cidades por todo mundo, com 700 corajosos rebeldes detidos enquanto se "
+"erguiam pelo seu direito á vida, e isto é só o começo."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:47
+msgid ""
+"It's not just a question of quantity. With every season that passes, we grow "
+"more organised, more unified, more creative, more courageous."
+msgstr ""
+"Não é uma questão de números. Cada estação que passa, tornamo-nos mais "
+"organizados, mais unidos, mais corajosos."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:57
+msgid ""
+"Just look at the [11 vibrant sites](https://www.youtube.com/watch?v=tEZki7uI-"
+"bY&feature=youtu.be)  held around the centre of London, the choir of "
+"Amsterdam rebels, the blood [poured on the bull statue](https://www.youtube."
+"com/watch?v=g0bh_LDrxC0&feature=youtu.be) in Wall Street in New York, the "
+"ambition of our banner-hangers, the Red Brigade arriving in Tel Aviv and "
+"Istanbul, underwater protest art in Mexico, the boats of every shape and "
+"size that we are so desperately trying to keep afloat."
+msgstr ""
+"Olha para os [11 locais vibrantes](https://www.youtube.com/watch?v=tEZki7uI-"
+"bY&feature=youtu.be) feitos pelo centro de Londres, o coro dos rebeldes de "
+"Amesterdão, o sangue [derramado sobre a estátua do "
+"touro](https://www.youtube.com/watch?v=g0bh_LDrxC0&feature=youtu.be) em Wall "
+"Street, em Nova York, a ambição dos nossos \"penduradores\" de bandeiras, a "
+"Brigada Vermelha chegando em Tel Aviv e Istambul, a arte subaquática de "
+"protesto no México, os barcos de todas as formas e tamanhos que estamos tão "
+"desesperadamente a tentar manter à tona."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:59
+msgid "We're a movement unlike any other."
+msgstr "Somos um movimento como nenhum outro."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:62
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-2.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:67
+msgid ""
+"This newsletter team will do everything we can to keep up and to showcase "
+"the unreal brilliance of our young movement. We can only apologise in "
+"advance for not capturing every aspect of this glorious, unfathomably "
+"complex process that is our rebellion."
+msgstr ""
+"Esta equipa de newsletter fará tudo o que estiver ao nosso alcance para "
+"acompanhar e mostrar o brilhantismo irreal do nosso jovem movimento. Só "
+"podemos pedir desculpas antecipadamente por não capturar todos os aspectos "
+"deste glorioso e complexo processo que é a nossa rebelião."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:73
+msgid ""
+"We hope that wherever this reaches you -- whether you're superglued to a "
+"road, camping out in the rain, deep in spreadsheets and planning, or at home "
+"drinking your coffee -- you will be touched by what is going on right now "
+"all over the world. We hope you understand that it's for you, and for every "
+"human being alive and not yet alive."
+msgstr ""
+"Esperamos que por onde quer que isto te chegue - quer estejas colado com "
+"super-cola a uma estrada, a acampar à chuva, em planilhas e a planear, ou em "
+"casa a tomar café -- serás tocad@ pelo que está a acontecer agora em todo o "
+"mundo. Esperamos que entendas que é para ti, e para cada ser humano vivo e "
+"ainda não vivo."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:76
+msgid ""
+"You are not alone in this beautiful mess. And it's not too late to join in."
+msgstr ""
+"Não estás só nesta bela confusão. E não é demasiado tarde para te juntares a "
+"nós."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:79
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-3.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:83
+#, no-wrap
+msgid ""
+"*If you'd like to help, please check out our*\n"
+"[*guide*](https://rebellion.global/groups/) *and learn more*\n"
+"[*about XR*](https://rebellion.global/about-us/)*.*\n"
+msgstr ""
+"*Se quiseres ajudar, por favor consulta o nosso*\n"
+"[*guia*](https://rebellion.global/groups/) *e sabe mais*\n"
+"[*sobre XR*](https://rebellion.global/about-us/)*.*\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:89
+#, no-wrap
+msgid ""
+"*To connect to rebels in your local area, get in touch with your*\n"
+"[*nearest XR\n"
+"group*](https://rebellion.global/groups/)*.\n"
+"If there's no active group near you,* [*you can start your\n"
+"own*](https://rebellion.earth/wp-content/uploads/2019/04/How-to-start-a-local-Extinction-Rebellion-group.pdf)!\n"
+msgstr ""
+"*Para te unires aos rebeldes na tua área local, entra em contacto com o teu*"
+"\n"
+"[*grupo XR \n"
+"mais próximo*](https://rebellion.global/groups/)*.\n"
+"Se não houver nenhum grupo ativo perto de ti,* [*podes iniciar o teu\n"
+"próprio*](https://rebellion.earth/wp-content/uploads/2019/04/How-to-start-a"
+"-local-Extinction-Rebellion-group.pdf)!\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:92
+#, no-wrap
+msgid ""
+"*If you'd like to see previous newsletter issues, you can find them*\n"
+"[*here*](https://rebellion.global/newsletters/)*.*\n"
+msgstr ""
+"*Se quiseres ver edições anteriores da newsletter, podes encontrá-las*\n"
+"[*aqui*](https://rebellion.global/newsletters/)*.*\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:96
+#, no-wrap
+msgid ""
+"*As we enter this crucial phase in human history, our Rebellion will\n"
+"need money to make sure our message is heard. Anything you can give is\n"
+"appreciated.*\n"
+msgstr ""
+"*Ao entrarmos nesta fase crucial da história humana, a nossa Rebelião\n"
+"precisará de dinheiro para garantir que a nossa mensagem seja ouvida. "
+"Qualquer coisa que possa dar é\n"
+"muito agradecida.*\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:99 2019-10-08-rebel-daily-1.md:555
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button} {:.text-center}"
+msgstr ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button} {:.text-center}"
+
+#. type: Title -
+#: 2019-10-08-rebel-daily-1.md:101
+#, no-wrap
+msgid "Global Highlights"
+msgstr "Destaques globais"
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:103
+#, no-wrap
+msgid "London Blockades Westminster"
+msgstr "Londres Bloqueia Westminster"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:106
+#, no-wrap
+msgid "**7 OCT \\| London, UK**\n"
+msgstr "**7 de OUT \\| Londres, Reino Unido**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:109
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:111
+msgid "\"How we have grown\" --- The Red Rebel Brigade, London"
+msgstr "\"Como crescemos\" --- A Red Rebel Brigade, Londres"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:118
+msgid ""
+"Over 275 rebels have been arrested on [a momentous day](https://www.youtube."
+"com/watch?v=tEZki7uI-bY&feature=youtu.be) which marks the beginning of XR's "
+"October Rebellion in London. Early on Monday morning, rebels from all over "
+"the country mobilised and successfully took 11 main sites around Westminster "
+"in central London, including two key bridges."
+msgstr ""
+"Mais de 275 rebeldes foram detidos [num dia memorável](https://www.youtube."
+"com/watch?v=tEZki7uI-bY&feature=youtu.be), que marca o início da Rebelião de "
+"Outubro da XR em Londres. No início da manhã de segunda-feira, rebeldes de "
+"todo o país se mobilizaram e conseguiram tomar 11 locais principais à volta "
+"de Westminster, no centro de Londres, incluindo duas pontes cruciais."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:123
+msgid ""
+"Rebels drove a hearse into the 'Burning Earth' site in **Trafalgar Square**, "
+"parked it, and locked and glued themselves to the vehicle. The 'undertaker' "
+"in the drivers' seat D-locked his own neck to the steering wheel."
+msgstr ""
+"Os rebeldes conduziram um carro funerário para o local 'Terra Ardente' em **"
+"Trafalgar Square**, estacionaram-no, e trancaram-se e colaram-se ao veículo. "
+"O \"coveiro\" no banco do condutor prendeu o seu próprio pescoço com um "
+"cadeado ao volante."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:131
+msgid ""
+"[Footage](https://www.youtube.com/watch?v=sjVH0VEmGK4) broadcast on ITV News "
+"shows police officers desperately trying to prevent more rebels gluing "
+"themselves underneath the vehicle, as well as a [deeply moving](https://www."
+"youtube.com/watch?v=sjVH0VEmGK4) moment where a father locked onto the "
+"underside of the hearse reveals why he is taking this drastic measure. In "
+"the back of the hearse, rebels had mounted a coffin painted with the words "
+"'OUR FUTURE'."
+msgstr ""
+"[Imagens](https://www.youtube.com/watch?v=sjVH0VEmGK4) transmitidas na ITV "
+"News mostram agentes da polícia a tentar desesperadamente evitar que mais "
+"rebeldes se colem debaixo do veículo, bem como um momento [profundamente "
+"comovente](https://www.youtube.com/watch?v=sjVH0VEmGK4) em que um pai preso "
+"na parte de baixo do carro funerário revela porque está a tomar essa medida "
+"drástica. No fundo do carro funerário, os rebeldes tinham montado um caixão "
+"pintado com as palavras \"O NOSSO FUTURO\"."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:134
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-1-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:140
+msgid ""
+"Meanwhile, a tower of scaffolding was positioned in the road, which rebels "
+"climbed and glued onto. They held this for most of the day, before being "
+"lifted off in orange sacks by police officers kitted out in climbing gear. "
+"Latest videos show rebels still going strong, including those attached to "
+"and inside the hearse."
+msgstr ""
+"Entretanto, uma torre de andaimes foi posicionada na estrada, na qual os "
+"rebeldes subiram e se colaram. Eles mantiveram-se durante a maior parte do "
+"dia, antes de serem levantados em sacos cor-de-laranja por agentes da "
+"polícia, montados em equipamento de escalada. Os vídeos mais recentes "
+"mostram os rebeldes ainda em força, incluindo aqueles presos ao carro "
+"funerário e dentro dele."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:146
+msgid ""
+"In an exciting turn of events, [a rebel wedding](https://www.youtube.com/"
+"watch?time_continue=1&v=zXlwIWFtLMI)  was held in the middle of the blocked "
+"**Westminster Bridge** (a first for the bridge, as far as we know!) to the "
+"sound of XR cheers and a feisty brass band. Love was truly in the air."
+msgstr ""
+"Numa emocionante reviravolta de eventos, [um casamento "
+"rebelde](https://www.youtube.com/watch?time_continue=1&v=zXlwIWFtLMI) foi "
+"realizado no meio da bloqueada **ponte Westminster** (pela primeira vez para "
+"a ponte, tanto quanto sabemos!) ao som de aplausos de XR e uma banda de "
+"metais combativa. O amor estava verdadeiramente no ar."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:152
+msgid ""
+"Also seen on the bridge were yoga enthusiasts, a ceilidh with bagpipes, and, "
+"floating beneath the bridge, an XR boat headed for the Houses of Parliament. "
+"XR filled the road outside Downing Street, blockaded Westminster Bridge "
+"nearby, and a stream of tents and campers continued from there all the way "
+"to Lambeth Bridge."
+msgstr ""
+"Também foram vistos na ponte entusiastas do yoga, um evento com gaita-de-"
+"foles e, flutuando por baixo da ponte, um barco XR que se dirigia para as "
+"Casas do Parlamento. O XR encheu a estrada ao pé da Downing Street, bloqueou "
+"a ponte Westminster nas proximidades, e um fluxo de tendas e campistas "
+"continuou de lá até à ponte Lambeth."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:155
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-min-2.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:161
+msgid ""
+"Despite the efforts of peacefully protesting rebels in London today, pre-"
+"planned and persistent police confiscations have left blockades lacking "
+"infrastructure and amenities. However, officers failed to confiscate the "
+"rebel spirit, which lives on in furious love and determination."
+msgstr ""
+"Apesar dos esforços dos rebeldes em protestar pacificamente em Londres hoje, "
+"os confiscos policiais pré-planeados e persistentes deixaram bloqueios sem "
+"infraestrutura e mantimentos. No entanto, os oficiais não conseguiram "
+"confiscar o espírito rebelde, que vive em fúria de amor e determinação."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:163
+msgid "The Rebellion is alive and well. Join us in London!"
+msgstr "A Rebelião está viva e de boa saúde. Junte-se a nós em Londres!"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:165
+msgid "For a fuller update with news from all the sites, click this button:"
+msgstr ""
+"Para uma atualização mais completa com notícias de todos os locais, clique "
+"neste botão:"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:167
+msgid ""
+"[More London Site News!](https://rebellion.earth/2019/10/08/london-is-alive-"
+"with-rebellion/)"
+msgstr ""
+"[Mais Notícias De Londres](https://rebellion.earth/2019/10/08/"
+"london-is-alive-with-rebellion/)"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:173
+#, no-wrap
+msgid ""
+"*London rebels, check out our* [*Rebellion\n"
+"Needs*](https://rebellion.earth/2019/10/06/rebellion-needs-uk/) *for\n"
+"practical ways you can help rebels on the ground right now. Priorities\n"
+"are furniture for blockades and hot water and ready-to-eat vegan food\n"
+"for the campers!*\n"
+msgstr ""
+"*Rebeliões de Londres, vejam o nosso* [*Necessidades da\n"
+"Rebelião*](https://rebellion.earth/2019/10/06/rebellion-needs-uk/) *para\n"
+"maneiras práticas de ajudar os rebeldes no terreno agora mesmo. Prioridades\n"
+"são móveis para bloqueios e água quente e comida vegan pronta para comer\n"
+"para os campistas!*\n"
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:174
+#, no-wrap
+msgid "Paris -- \"Occupation pour la suite du monde\" -- April's boat crosses the channel"
+msgstr ""
+"Paris -- \"Occupation pour la suite du monde\" -- O barco de Abril atravessa "
+"o canal"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:177
+#, no-wrap
+msgid "**7 OCT   \\| 15:00 onwards   \\| Place de Chatelet, Paris, France**\n"
+msgstr "**7 OUT a partir das 15:00 \\| Place de Chatelet, Paris, França**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:180
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-1-min-2.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:186
+msgid ""
+"XR France managed to [block and occupy Paris' most central and busiest "
+"intersection](https://extinctionrebellion.fr/evenements/2019/09/05/"
+"occupation-pour-la-suite-du-monde.html), near the Nôtre-Dame cathedral. "
+"Rebels, aware of the sensitivity of the site, kept the location secret until "
+"the last minute and attached themselves to flower planters to complicate "
+"police efforts to remove them."
+msgstr ""
+"XR France conseguiu [bloquear e ocupar o cruzamento mais central e "
+"movimentado de Paris](https://extinctionrebellion.fr/evenements/2019/09/05/"
+"occupation-pour-la-suite-du-monde.html), perto da catedral de Nôtre-Dame. Os "
+"rebeldes, conscientes da sensibilidade do local, mantiveram o local em "
+"segredo até o último minuto e agarraram-se a vasos de flores para complicar "
+"a sua remoção pelos agentes da polícia."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:191
+msgid ""
+"Rebels reminiscent of the now symbolic pink boat *Berta Cáceres* that "
+"reigned over London's Oxford Circus during the last international rebellion "
+"can be reassured -- its blue brother has crossed the channel for this "
+"October and cast its anchor in Parisian waters."
+msgstr ""
+"Os rebeldes lembram o agora simbólico barco cor-de-rosa *Berta Cáceres* que "
+"reinou sobre o Circo Oxford de Londres durante a última rebelião "
+"internacional pode estar tranquilo-- seu irmão azul cruzou o canal para este "
+"outubro e lançou sua âncora em águas parisienses."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:195
+msgid ""
+"As we are \"all in the same boat\", its DJs and dancers are inviting passers-"
+"by to join this festive occupation in all of its creativity, and keep the "
+"troops energized and regenerated for a lasting rebellion."
+msgstr ""
+"Como estamos \"todos no mesmo barco\",os seus DJs e dançarinos estão a "
+"convidar quem passa ali para se juntar a esta ocupação festiva em toda a sua "
+"criatividade, e manter as tropas energizadas e regeneradas para uma rebelião "
+"duradoura."
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:196
+#, no-wrap
+msgid "Climate Camp Berlin"
+msgstr "Acampamento Climático de Berlim"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:199
+#, no-wrap
+msgid "**7 OCT \\| Berlin, Germany**\n"
+msgstr "**7 OUT \\| Berlim, Alemanha**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:202
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-4.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:207
+msgid ""
+"Our uprising begins. From early morning, 1000 rebels blocked the \"Big Star"
+"\" roundabout surrounding Berlin's Siegessäule as well as a key junction at "
+"Potsdamer Platz. As the sun rose, peaceful rebels danced and sang."
+msgstr ""
+"A nossa revolta começa. Desde manhã cedo, 1000 rebeldes bloquearam a rotunda "
+"\"Big Star\" em torno da Siegessäule de Berlim, bem como uma junção chave na "
+"Potsdamer Platz. Quando o sol nasceu, os pacíficos rebeldes dançaram e "
+"cantaram."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:215
+msgid ""
+"Our ship, the Arche Rebella, has been put together once again in a new "
+"location. \"Captain\" Carola Rackete stated the simple truth: \"The "
+"situation is more than severe: ecosystems and species are threatened by the "
+"climate catastrophe and the actions of mankind. The planet and its natural "
+"resources are our basis of life -- if it is not in balance, the consequences "
+"will be catastrophic for the planet and for all of humanity.\""
+msgstr ""
+"A nossa nave, a Arche Rebella, foi novamente montada num novo local. \""
+"Capitã\" Carola Rackete afirmou a simples verdade: \"A situação é mais do "
+"que grave: ecossistemas e espécies estão ameaçados pela catástrofe climática "
+"e pelas ações da humanidade. O planeta e seus recursos naturais são as "
+"nossas base de vida - se não estiverem em equilíbrio, as consequências serão "
+"catastróficas para o planeta e para toda a humanidade.\""
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:218
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-5.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:220
+msgid "Berlin rebellion takes to the air!"
+msgstr "A rebelião de Berlim vai para o ar!"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:225
+msgid ""
+"3000 rebels held Potsdamer Platz -- with the help of lots of potted plants "
+"and a Red Rebel Brigade --  and the site was buzzing. Rebels continued to "
+"hold the Platz for longer than expected, with some chaining themselves "
+"together."
+msgstr ""
+"3000 rebeldes seguraram Potsdamer Platz -- com a ajuda de muitas plantas em "
+"vaso e uma Brigada Vermelha Rebelde -- e o local estava agitado. Os rebeldes "
+"continuaram a segurar o Platz por mais tempo do que o esperado, com alguns "
+"se encadeando."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:229
+msgid ""
+"Even as police threatened rebels with physical violence if they failed to "
+"clear the blockade, our mood could not be beaten!  We were dancing, singing "
+"and sending out a strong signal about the climate crisis."
+msgstr ""
+"Mesmo quando a polícia ameaçou os rebeldes com violência física se eles não "
+"conseguissem desobstruir o bloqueio, o nosso humor não poderia ser abalado! "
+"Estávamos a dançar, a cantar e a enviar um sinal forte sobre a crise "
+"climática."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:233
+msgid ""
+"It was early evening before police were able to begin slowly clearing "
+"rebels. Two thousand rebels remained and the good mood continued as food was "
+"shared, even as police began confiscating our equipment."
+msgstr ""
+"Era início da noite antes que a polícia pudesse começar lentamente a "
+"desobstruir os rebeldes. Dois mil rebeldes permaneceram e o bom humor "
+"continuou à medida que a comida era partilhada, mesmo quando a polícia "
+"começou a confiscar o nosso equipamento."
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:234
+#, no-wrap
+msgid "Madrid -- Dia Uno"
+msgstr "Madrid -- Dia Uno"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:237
+#, no-wrap
+msgid "**7 OCT   \\| Madrid, Spain**\n"
+msgstr "**7 OUT \\| Madrid, Espanha**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:240
+msgid ""
+"![](/assets/img/blog/2019/10/07/jhbn.jpg){:.img-fluid style=\"width:750px;"
+"\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/jhbn.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:247
+msgid ""
+"Madrid rebels had a dramatic first day of Rebellion! 300 rebels surrounded a "
+"pink boat to block a bridge and were greeted by an alarming police response "
+"that included twisting arms, pressing thumbs into rebels' eyes and putting "
+"pressure under their jaws. 10 rebels were hospitalised and many others "
+"suffered minor injuries. There were 43 arrests that day in Madrid."
+msgstr ""
+"Os rebeldes de Madrid tiveram um primeiro dia dramático de Rebelião! 300 "
+"rebeldes cercaram um barco cor-de-rosa para bloquear uma ponte e foram "
+"recebidos por uma resposta policial alarmante que incluiu torcer braços, "
+"pressionar os polegares nos olhos dos rebeldes e colocar pressão sob suas "
+"mandíbulas. 10 rebeldes foram hospitalizados e muitos outros sofreram "
+"ferimentos leves. Nesse dia, houve 43 detenções em Madrid."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:253
+msgid ""
+"But their spirits were not broken. The rebels went onto cause further "
+"disruption and set up camp in front of Spain's Ministry of Ecological "
+"Transition. Rebels dressed in red, blue and brown -- representing forest "
+"fires, rising sea levels and desertification -- stalked others dressed in "
+"animal costumes in a striking performance about mass extinction."
+msgstr ""
+"Mas os seus espíritos não tinham sido abalados. Os rebeldes foram causar "
+"mais perturbações e montaram acampamento em frente ao Ministério da "
+"Transição Ecológica da Espanha. Rebeldes vestidos de vermelho, azul e "
+"castanho -- representando incêndios florestais, elevação do nível do mar e "
+"desertificação - perseguiram outros vestidos com trajes de animais em uma "
+"performance impressionante sobre a extinção em massa."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:256
+msgid ""
+"Read the full story [here](https://docs.google.com/document/"
+"d/1b5dTrHcNDLJpOVNosA3U9iARdRSzNZ-hqA6V14CgrD4/edit#)."
+msgstr ""
+"Leia a história completa [aqui](https://docs.google.com/document/d/"
+"1b5dTrHcNDLJpOVNosA3U9iARdRSzNZ-hqA6V14CgrD4/edit#)."
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:257
+#, no-wrap
+msgid "Amsterdam"
+msgstr "Amsterdão"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:260
+#, no-wrap
+msgid "**7 OCT   \\| Amsterdam, The Netherlands**\n"
+msgstr "**7 OUT | Amsterdão, Países Baixos**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:263 2019-10-08-rebel-daily-1.md:386
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-2-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:269
+msgid ""
+"Amsterdam rebelled against a ban imposed by the mayor and police[](https://"
+"www.parool.nl/amsterdam/extinction-rebellion-gaat-ondanks-verbod-toch-"
+"protesteren~b81d35e4/)and brought non-violent direct action to the heart of "
+"the city. In the early hours, eager rebels gathered to block off roads in "
+"front of the city's famous museums."
+msgstr ""
+"Amesterdão revoltou-se contra uma proibição imposta pelo presidente da "
+"câmara e pela polícia[](https://www.parool.nl/amsterdam/extinction-rebellion-"
+"gaat-ondanks-verbod-toch-protesteren~b81d35e4/)o que levou a uma ação direta "
+"não violenta no centro da cidade. Pela madrugada, rebeldes ávidos se "
+"reuniram para bloquear as estradas em frente aos famosos museus da cidade."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:274
+msgid ""
+"In addition to beautiful paintings by Vermeer and Van Gogh, tourists viewed "
+"a modern day decor of brave earth-protectors fighting for their democracy "
+"and freedom of speech. The site then toured around the Heineken Experience "
+"to make sure any tourists there didn't miss out."
+msgstr ""
+"Além de belos quadros de Vermeer e Van Gogh, os turistas viram uma decoração "
+"moderna de bravos protetores da Terra a lutar pela sua democracia e "
+"liberdade de expressão. O local então percorreu pela \"Heineken Experience\" "
+"para garantir que nenhum turista de lá perdesse."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:278
+msgid ""
+"In a miscalculated response, the police blocked off the first protest site, "
+"playing into our rebels' hands, who staged an impromptu die-in on the Dam "
+"square instead."
+msgstr ""
+"Numa resposta mal calculada, a polícia bloqueou o primeiro local de "
+"protesto, servindo os nossos rebeldes, que encenaram uma morte improvisada "
+"na praça Dam."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:282
+msgid ""
+"The protests ended in over 100 arrests with [rebels responding to police "
+"aggression by collectively chanting '*We are peaceful, what are you?*]"
+"(https://www.facebook.com/ExtinctionRebellionNL/videos/497162334471282/)'"
+msgstr ""
+"Os protestos terminaram com mais de 100 detenções com [rebeldes respondendo "
+"à agressão policial cantando coletivamente '*Somos pacíficos, o que é que "
+"você é?*](https://www.facebook.com/ExtinctionRebellionNL/videos/"
+"497162334471282/)'"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:286
+msgid ""
+"Four large city buses transported the arrestees away. Cries of peaceful "
+"resistance and tunes from the busses echoed far and wide through the "
+"capital's narrow streets and over the canals."
+msgstr ""
+"Quatro grandes autocarros urbanos transportaram os detidos para longe. "
+"Gritos de resistência pacífica e melodias dos autocarros ecoaram longe pelas "
+"ruas estreitas da capital e sobre os canais."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:292
+msgid ""
+"The first reports of[smiley rebels released from custody](https://twitter."
+"com/NLRebellion/status/1181210158724194305) are already in! After a good "
+"night's sleep in the newly established rebel town in front of the "
+"Rijksmusuem, Dutch rebels will bring back the action tomorrow with a "
+"gathering at the Vondelpark."
+msgstr ""
+"Os primeiros relatos de [rebeldes libertados de custódia](https://twitter."
+"com/NLRebellion/status/1181210158724194305) já foram publicados! Depois de "
+"uma boa noite de sono na recém estabelecida cidade rebelde em frente ao "
+"Rijksmusuem, os rebeldes holandeses trarão a ação de volta amanhã com uma "
+"reunião no Vondelpark."
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:293
+#, no-wrap
+msgid "The Bull of Wall Street"
+msgstr "O Touro de Wall Street"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:296
+#, no-wrap
+msgid "** 7 OCT   \\| New York, USA**\n"
+msgstr "** 7 OUT \\| Nova Iorque, EUA**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:299
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-5-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:305
+msgid ""
+"[Around 90](https://www.nytimes.com/2019/10/07/nyregion/extinction-rebellion-"
+"nyc-protest.html)  New Yorker rebels were arrested yesterday after they "
+"launched a wave of actions in the city's famous financial district. "
+"Protesters poured fake blood over Wall Street's iconic Bull statue, held a "
+"very bloody die-in outside the New York stock exchange, and then blocked a "
+"nearby road."
+msgstr ""
+"[Cerca de 90](https://www.nytimes.com/2019/10/07/nyregion/extinction-"
+"rebellion-nyc-protest.html)  Os rebeldes nova-iorquinos foram detidos ontem "
+"depois de terem lançado uma onda de ações no famoso distrito financeiro da "
+"cidade. Protestantes derramaram sangue falso sobre a icónica estátua do "
+"touro de Wall Street, encenaram uma morte sangrenta fora da bolsa de Nova "
+"York e depois bloquearam uma estrada próxima."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:313
+msgid ""
+"The die-in was attended by the stunning Red Brigade, and featured a New "
+"Orleans funeral band that got the hundreds of rebellious mourners dancing in "
+"the streets. Tombstones mentioning hurricanes and fires made worse by the "
+"climate crisis were held aloft, along with a coffin with the words \"Our "
+"future\" written on the side. Once the fun was over, rebels clean-up crews "
+"stepped in to mop the fake blood away."
+msgstr ""
+"A encenação de morte foi assistida pela impressionante Brigada Vermelha, e "
+"contou com uma banda funerária de Nova Orleães que fez com que centenas de "
+"lamentadores rebeldes dançassem nas ruas. Lápides mencionando furacões e "
+"incêndios agravados pela crise climática foram levantados, juntamente com um "
+"caixão com as palavras \"Nosso futuro\" escritas de lado. Terminada a "
+"diversão, as equipas de limpeza dos rebeldes entraram para limpar o sangue "
+"falso."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:319
+msgid ""
+"Police set up a perimeter and arrested rebels in waves. Despite the high "
+"arrest count, the sunkissed rebellion base in nearby Washington Square park "
+"was buzzing. Actions will be continuing here over the coming days, and are "
+"expected to spread to Chicago and Washington DC later in the week."
+msgstr ""
+"A polícia montou um perímetro e deteve rebeldes em ondas. Apesar da alta "
+"contagem de detenções, a base de rebeldes à luz do sol no parque vizinho "
+"Washington Square estava agitada. As ações continuarão aqui nos próximos "
+"dias, e espera-se que se espalhem para Chicago e Washington DC no final da "
+"semana."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:322
+msgid ""
+"For more details on what the rebels of New York are up to, check out their "
+"own [daily updates.](https://www.xrebellion.nyc/)"
+msgstr ""
+"Para mais detalhes sobre o que os rebeldes de Nova York estão a fazer, "
+"consulte as suas próprias [atualizações diárias.](https://www.xrebellion.nyc/"
+")"
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:323
+#, no-wrap
+msgid "A new chapter for XR Canada"
+msgstr "Um novo capítulo para a XR Canada"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:326
+#, no-wrap
+msgid "**7 OCT \\| Toronto, Canada**\n"
+msgstr "**7 OUT \\| Toronto, Canadá**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:329
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-6.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:334
+msgid ""
+"XR Toronto gathered at Playter Gardens in the city's east end for a day of "
+"October Rebellion. After an early morning debriefing, protesters took to the "
+"Bloor Viaduct with banners, signs, and megaphones, numbers bolstered by "
+"other groups and allies."
+msgstr ""
+"XR Toronto reuniu-se no Playter Gardens, no extremo leste da cidade, para um "
+"dia de Rebelião de Outubro. Depois de um debriefing matinal, os "
+"manifestantes se dirigiram ao Viaduto Bloor com bandeiras, cartazes e "
+"megafones, números reforçados por outros grupos e aliados."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:342
+msgid ""
+"There, they cordoned off the bridge and nearby Danforth Avenue from rush "
+"hour traffic, allowing the space to play host to a multitude of activities. "
+"In addition to activist speeches and performances, the group participated in "
+"[singing](https://twitter.com/XR_Toronto/status/1181232133534371841), "
+"meditation and yoga sessions while other protestors chalked key messages "
+"along the concrete."
+msgstr ""
+"Aí, eles isolaram a ponte e a vizinha Avenida Danforth do trânsito da hora "
+"de ponta, permitindo que o espaço fosse palco de uma multidão de atividades. "
+"Além de discursos e apresentações de ativistas, o grupo participou em "
+"sessões de [canto](https://twitter.com/XR_Toronto/status/1181232133534371841)"
+", de meditação e yoga, enquanto outros manifestantes escreviam a giz "
+"mensagens importantes no pavimento de alcatrão."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:346
+msgid ""
+"Looming over the action were Extinction Rebellion banners and messages, "
+"draped across the Viaduct walls, and the organization's iconic hourglass "
+"logo set at an impressive height."
+msgstr ""
+"A acção foi acompanhada por bandeiras e mensagens da Extinction Rebellion, "
+"cobrindo as paredes do Viaduto, e pelo emblema icónico da ampulheta da "
+"organização, colocado a uma altura impressionante."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:354
+msgid ""
+"As the morning wore on, police announced a request for dispersal, yet "
+"several rebels  remained. This group sat or stood in front of large, red and "
+"yellow \"Act Now\" block letters while the rest of the protesters swelled to "
+"either side of Danforth Avenue with songs of peace and hope.  Arrestees -- "
+"all nonviolent -- were eventually taken into police cars and driven off; the "
+"remaining group returned to Playter Gardens for camaraderie and regeneration."
+msgstr ""
+"Com o passar da manhã, a polícia anunciou um pedido de dispersão, mas vários "
+"rebeldes permaneceram. Este grupo sentou-se ou ficou em frente às grandes "
+"letras de bloco vermelhas e amarelas \"Act Now\", enquanto o resto dos "
+"manifestantes enchiam ambos os lados da Danforth Avenue com canções de paz e "
+"esperança.  Detidos- todos não-violentos - foram eventualmente levados em "
+"carros da polícia e expulsas; o grupo restante voltou para Playter Gardens "
+"para camaradagem e regeneração."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:359
+msgid ""
+"Toronto's action upon the Viaduct reached a wide audience of receptive "
+"hearts. Hard work is ahead but another river has undoubtedly been crossed. "
+"With actions from Halifax to Victoria, today marked a new chapter of XR's "
+"fight for climate justice in Canada."
+msgstr ""
+"A ação de Toronto sobre o Viaduto atingiu um vasto público de corações "
+"receptivos. O trabalho duro está pela frente, mas outro rio foi sem dúvida "
+"atravessado. Com ações de Halifax a Victoria, hoje marcou um novo capítulo "
+"da luta da XR pela justiça climática no Canadá."
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:360
+#, no-wrap
+msgid "Aussie rebels bring the heat"
+msgstr "Os rebeldes australianos agitam"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:363
+#, no-wrap
+msgid "**7 OCT \\| Melbourne, Australia**\n"
+msgstr "**7 OUT \\| Melbourne, Austrália**\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:366
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-3-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:371
+msgid ""
+"The day began with a sacred ceremony on the steps of Parliament House, when "
+"rebels, still waking up, took gum leaves and received the welcome via smoke "
+"cleansing before moving back to the central campsite of Carlton Gardens."
+msgstr ""
+"O dia começou com uma cerimónia sagrada nos degraus do Parlamento, quando os "
+"rebeldes, ainda acordando, pegaram folhas de chiclete e receberam as boas-"
+"vindas através da limpeza de fumo antes de voltarem para o acampamento "
+"central de Carlton Gardens."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:376
+msgid ""
+"Inside the gardens there were family events, talks, training sessions and a "
+"choir. A massive Declaration of Rebellion was made against the criminal "
+"inaction of the world's governments on the climate and ecological emergency."
+msgstr ""
+"Dentro dos jardins havia eventos familiares, palestras, sessões de treino e "
+"um coro. Foi feita uma Declaração de Rebelião maciça contra a inação "
+"criminosa dos governos do mundo sobre o clima e a emergência ecológica."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:383
+msgid ""
+"Upwards of a thousand people came together at 16:00 for a march through the "
+"CBD (Central Business District), which was successfully disrupted from 16:00 "
+"-- 19:00, in a colourful, energetic, peaceful, respectful action. Some "
+"carried a glass coffin, like a fish tank, filled with aquatic plants and "
+"rocks to illustrate concern for about the impact of climate change on oceans."
+msgstr ""
+"Mais de mil pessoas se reuniram às 16:00 para uma marcha pelo CBD (Central "
+"Business District), que foi interrompida com sucesso das 16:00 às 19:00, "
+"numa ação colorida, enérgica, pacífica e respeitosa. Alguns carregavam um "
+"caixão de vidro, como um tanque de peixes, cheio de plantas aquáticas e "
+"rochas para ilustrar a preocupação com o impacto das mudanças climáticas nos "
+"oceanos."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:392
+msgid ""
+"The plan was to march through the city creating swarms in key intersections "
+"as a taste of actions that will follow for the entire week. The police had a "
+"strong presence, including mounted officers. At least 10 rebels were "
+"arrested, sacrificing their liberty to draw attention to the climate "
+"emergency and the need to act."
+msgstr ""
+"O plano era marchar pela cidade criando ajuntamentos em interseções chave "
+"como que um sabor das ações que se seguirão durante toda a semana. A polícia "
+"tinha uma forte presença, incluindo agentes montados. Pelo menos 10 rebeldes "
+"foram presos, sacrificando a sua liberdade para chamar a atenção para a "
+"emergência climática e para a necessidade de agir."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:397
+msgid ""
+"Extinction Rebellion Victoria acknowledges that Camp Carlton and the Spring "
+"Rebellion take place on the stolen land of the Boon Wurrung and Woiwurrung "
+"(Wurundjeri) peoples of the Kulin Nation. Sovereignty was never ceded."
+msgstr ""
+"Extinction Rebellion Victoria reconhece que o Campo Carlton e a Spring "
+"Rebellion ocorrem nas terras roubadas dos povos Boon Wurrung e Woiwurrung "
+"(Wurundjeri) da Nação Kulin. Soberania nunca foi cedida."
+
+#. type: Title -
+#: 2019-10-08-rebel-daily-1.md:399
+#, no-wrap
+msgid "XR Unchained"
+msgstr "XR Unchained"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:403
+#, no-wrap
+msgid ""
+"*Read more about the beautiful and courageous action from the\n"
+"International Rebellion in XR Unchained. There is so much to tell.*\n"
+msgstr ""
+"*Ler mais sobre a bela e corajosa ação da\n"
+"Rebelião Internacional em XR Unchained. Há tanto para contar.*\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:409
+msgid ""
+"Excitingly, XR India and Sri Lanka held their first ever XR actions on the "
+"6th -- rebels acted with incredible heart and courage even amidst possible "
+"police interference. Meanwhile in New Zealand, rebels blockaded a crucial "
+"street outside the Ministry of Business, Innovation and Employment with the "
+"iconic pink boat."
+msgstr ""
+"Emocionantemente, XR Índia e Sri Lanka realizaram as suas primeiras ações XR "
+"no dia 6 - rebeldes agiram com incrível empatia e coragem mesmo na "
+"possibilidade de uma possível interferência policial. Enquanto isso, na Nova "
+"Zelândia, os rebeldes bloquearam uma rua crucial às portas do Ministério do "
+"Comércio, Inovação e Emprego com o icónico barco cor-de-rosa."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:414
+msgid ""
+"In Latin America, rebels turned out in Chile, Colombia, and Mexico to call "
+"for immediate action from their governments. Brazilian rebels held a die-in "
+"on Copacabana beach and XR Argentina held three different rebellious actions "
+"in Buenos Aires."
+msgstr ""
+"Na América Latina, os rebeldes apresentaram-se no Chile, Colômbia e México "
+"para pedir ação imediata aos seus governos. Os rebeldes brasileiros "
+"realizaram uma encenação de morte na praia de Copa-cabana e a XR Argentina "
+"realizou três ações rebeldes diferentes em Buenos Aires."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:418
+msgid ""
+"Europe truly outdid itself this time, with creative actions happening all "
+"over, including Athens, Vienna, Rome, Istanbul, and Moldova (to name but a "
+"few)."
+msgstr ""
+"Desta vez, a Europa superou-se verdadeiramente a si mesma, com ações "
+"criativas a acontecer por todo o lado, incluindo Atenas, Viena, Roma, "
+"Istambul e Moldávia (para citar apenas algumas)."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:423
+#, no-wrap
+msgid ""
+"Across the globe, rebels took to the streets with love and rage to call\n"
+"upon their governments and politicians to   #ActNow to mitigate the\n"
+"climate and ecological crisis. International Rebellion will continue\n"
+"with even more brilliant events in the coming weeks.\n"
+msgstr ""
+"Por todo o mundo, os rebeldes tomaram as ruas com amor e raiva "
+"reinvindicando\n"
+"aos seus governos e políticos para #ActNow para mitigar o\n"
+"crise climática e ecológica. A Rebelião Internacional vai continuar\n"
+"com eventos ainda mais brilhantes nas próximas semanas.\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:426
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-6-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:428
+msgid "Blood runs over Italian rebels in front of Montecitorio Palace, Rome."
+msgstr ""
+"O sangue corre sobre os rebeldes italianos em frente ao Palácio "
+"Montecitorio, em Roma."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:431
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-7.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:434
+msgid ""
+"Everyone puts their oar in to help block this intersection in Wellington, "
+"New Zealand. 45 were arrested on the first day."
+msgstr ""
+"Todos meteram o bedelho para ajudar a bloquear este cruzamento em "
+"Wellington, na Nova Zelândia. 45 pessoas foram presas no primeiro dia."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:437
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-8.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:440
+msgid ""
+"Rebels in Los Cabos, Mexico, perform underwater in a stunning piece about "
+"modern life called 'The vanity, the distraction, the blindness'"
+msgstr ""
+"Rebeldes em Los Cabos, México, atuam debaixo de água numa peça espantosa "
+"sobre a vida moderna chamada \"A vaidade, a distracção, a cegueira\""
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:443
+msgid ""
+"![](/assets/img/blog/2019/10/07/austria-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:447
+msgid ""
+"In Vienna, rebels turned out in their hundreds to [peacefully disrupt]"
+"(https://twitter.com/XRebellionAT/status/1181165918862417921)  the city. 70 "
+"rebels were arrested."
+msgstr ""
+"Em Viena, os rebeldes mobilizaram-se às centenas para [perturbar "
+"pacificamente](https://twitter.com/XRebellionAT/status/1181165918862417921) "
+"a cidade. 70 rebeldes foram presos."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:450
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-9.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:453
+msgid ""
+"Argentine rebels proudly hung a banner off this lovely tower in Retiro, "
+"Buenos Aires"
+msgstr ""
+"Rebeldes argentinos penduram orgulhosamente uma faixa nesta linda torre em "
+"Retiro, Buenos Aires"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:456
+msgid ""
+"![](/assets/img/blog/2019/10/07/unnamed-10-min-min.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/img/blog/2019/10/07/unnamed-min.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:459
+msgid ""
+"Sri Lankan rebels braving the torrential rain to launch their first ever XR "
+"action"
+msgstr ""
+"Rebeldes cingaleses lutam, enfrentando até a chuva torrencial, para lançar "
+"sua primeira ação XR"
+
+#. type: Title -
+#: 2019-10-08-rebel-daily-1.md:461
+#, no-wrap
+msgid "Announcements"
+msgstr "Anúncios"
+
+#. type: Title ###
+#: 2019-10-08-rebel-daily-1.md:463
+#, no-wrap
+msgid "Rebelling Remotely"
+msgstr "Rebelião à distância"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:469
+msgid ""
+"We know that many of our readers who are unable to participate directly in "
+"one of our big actions are still really keen to get involved. The great news "
+"is that there are plenty of other ways in which you can make a really "
+"valuable contribution, wherever you are."
+msgstr ""
+"Sabemos que muitos dos nossos leitores que não podem participar diretamente "
+"numa de nossas grandes ações ainda estão realmente interessados em se "
+"envolver. A grande notícia é que existem muitas outras formas de dar uma "
+"contribuição realmente valiosa, onde quer que esteja."
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:477
+#, no-wrap
+msgid ""
+"**Volunteer for a support role with XR** -- [many can be done\n"
+"remotely](https://rebellionroles.earth/remote-workers/), so you can\n"
+"still take an active role even if you live a long way from the major\n"
+"centres and protest sites. For example, this newsletter is put together\n"
+"by people from all over the world -- if you think you could help with\n"
+"the newsletter team, please fill in [this\n"
+"form](https://docs.google.com/forms/d/1zMVBbTq1bwM9NexXnvLY3o-pNCAW5_M-wTWmFCTbTsM/edit#responses).\n"
+msgstr ""
+"**Voluntarie-se e apoie a XR** -- [muita coisa pode ser feita\n"
+"remotamente](https://rebellionroles.earth/remote-workers/), para que possa\n"
+"ter um papel ativo, mesmo que viva longe dos\n"
+"centros e locais de protesto. Por exemplo, esta newsletter é elaborada\n"
+"por pessoas de todo o mundo - se acha que poderia ajudar com\n"
+"a equipa da newsletter, por favor preencha [este\n"
+"formulário](https://docs.google.com/forms/d/"
+"1zMVBbTq1bwM9NexXnvLY3o-pNCAW5_M-wTWmFCTbTsM/edit#responses).\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:485
+#, no-wrap
+msgid ""
+"**Raise local awareness** -- we need people to understand why we're\n"
+"taking action and why they should join or support us. The easiest way to\n"
+"do this is simply discussing it with family, friends, neighbours and\n"
+"colleagues. You could also hand out leaflets and talk to people in your\n"
+"local area, organise a \"Heading for Extinction\" talk, or even [form a\n"
+"local\n"
+"group](https://rebellion.earth/wp-content/uploads/2019/04/How-to-start-a-local-Extinction-Rebellion-group.pdf)!\n"
+msgstr ""
+"**Sensibilize a consciência local*** -- precisamos que as pessoas entendam "
+"porque é que estamos\n"
+"a tomar medidas e porque é que devem juntar-se a nós ou apoiar-nos. A "
+"maneira mais fácil de\n"
+"fazer isto é simplesmente discuti-lo com a família, amigos, vizinhos e\n"
+"colegas. Também poderia distribuir folhetos e falar com as pessoas na sua\n"
+"área de residência, organizar uma palestra \"Caminhando para a Extinção\", "
+"ou mesmo [formar um\n"
+"grupo\n"
+"local](https://rebellion.earth/wp-content/uploads/2019/04/How-to-start-a"
+"-local-Extinction-Rebellion-group.pdf)!\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:492
+#, no-wrap
+msgid ""
+"**Make a donation** -- you can donate money to support our activities\n"
+"[through our website](https://chuffed.org/project/xrinternational). You can also\n"
+"contribute to groups in many different ways, such as helping out\n"
+"with printing or providing a meeting space. In some locations, supplies\n"
+"and equipment are being confiscated in an effort to stop our protests --\n"
+"by providing replacement items you can help them continue.\n"
+msgstr ""
+"**Faça uma doação*** -- pode doar dinheiro para apoiar nossas atividades\n"
+"[através do nosso site](https://chuffed.org/project/xrinternational). Também "
+"pode\n"
+"contribuir para grupos de muitas maneiras diferentes, como por exemplo, "
+"ajudar\n"
+"na impressão ou fornecendo um espaço de reunião. Em alguns locais, "
+"materiais\n"
+"e equipamento estão a ser confiscados com o objetivo de parar os nossos "
+"protestos--\n"
+"ao fornecer itens de reposição, pode ajudá-los a continuar.\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:495
+msgid ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200-10.jpg){:.img-fluid style="
+"\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/pasted%20image%200.jpg){:.img-fluid style=\""
+"width:750px;\"} {:.text-center}"
+
+#. type: Title -
+#: 2019-10-08-rebel-daily-1.md:497
+#, no-wrap
+msgid "XR Content"
+msgstr "Conteúdo XR"
+
+#. type: Bullet: '-   '
+#: 2019-10-08-rebel-daily-1.md:510
+msgid ""
+"A great piece on the motivations of spiritual leaders from diverse faiths "
+"and denominations [rebelling together in London](https://extinction-"
+"resilience.org/wordpress/?p=65)"
+msgstr ""
+"Um grande artigo sobre as motivações dos líderes espirituais de diversas "
+"religiões e denominações [rebelando-se juntos em Londres](https://extinction-"
+"resilience.org/wordpress/?p=65)"
+
+#. type: Bullet: '-   '
+#: 2019-10-08-rebel-daily-1.md:510
+msgid ""
+"The London arrestees from April now [going through the courts](https://"
+"members.tortoisemedia.com/2019/10/01/xr-in-the-dock-190930/content.html?"
+"sig=G6wyTjhNHy_LhKHakErE0hzH19D-"
+"TE2jIDioHXO_yVs&utm_source=Twitter&utm_medium=Social&utm_campaign=1Oct2019-"
+"therebels&utm_content=the_rebels)"
+msgstr ""
+"Os detidos londrinos de abril agora [a passar pelos "
+"tribunais](https://members.tortoisemedia.com/2019/10/01/"
+"xr-in-the-dock-190930/content.html?sig=G6wyTjhNHy_LhKHakErE0hzH19D-TE2jIDioHX"
+"O_yVs&utm_source=Twitter&utm_medium=Social&utm_campaign=1Oct2019-therebels&ut"
+"m_content=the_rebels)"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:510
+#, no-wrap
+msgid ""
+"-   For those thinking about joining the action, a rebel shares[insights\n"
+"    and encouragement from his experience of the April uprising](https://medium.com/@doran.amos/extinction-rebellion-creating-a-climate-for-change-5fd07fa71368)\n"
+"-[We will never surrender](https://xrcreative.org/2019/09/24/we-will-never-surrender/)\n"
+"    -- a song for the cause\n"
+"-[Arrestables photo essay](https://www.theguardian.com/environment/2019/oct/07/extinction-rebellion-arrestables-photo-essay)\n"
+"    by The Guardian\n"
+msgstr ""
+"- Para aqueles que pensam em entrar na ação, um rebelde compartilha[breves "
+"notas\n"
+"    e encorajamento vindas da sua experiência da revolta de "
+"Abril](_COPY11@doran.amos/extinction-rebellion-creating-a-climate-for-change-"
+"5fd07fa71368)\n"
+"-[Nós nunca nos renderemos](https://xrcreative.org/2019/09/24/"
+"we-will-never-surrender/)\n"
+"    -- uma canção para a causa\n"
+"-[ensaio fotográfico \"Arrestables\"(Os Detiveis)](https://www.theguardian."
+"com/environment/2019/oct/07/extinction-rebellion-arrestables-photo-essay)\n"
+"    por The Guardian\n"
+
+#. type: Title -
+#: 2019-10-08-rebel-daily-1.md:512
+#, no-wrap
+msgid "Humans of XR"
+msgstr "Humanos de XR"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:516
+msgid ""
+"![](/assets/img/blog/2019/10/07/191007%20humans%20of%20xr%20compressed.jpg)"
+"{:.img-fluid style=\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/191007%20humans%20of%20xr%20compressed.jpg"
+"){:.img-fluid style=\"width:750px;\"} {:.text-center}"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:518
+msgid "London"
+msgstr "Londres"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:533
+#, no-wrap
+msgid ""
+"> 'Hi, I'm Nathaniel. I will be turning one during the Rebellion. My mummy\n"
+"is an XR fundraiser and my daddy teaches social justice at University.\n"
+"My older sister went to the Youth Climate Strike, although she is a bit\n"
+"too young to understand the urgency of the situation, let alone the\n"
+"politics behind it. I am way too little to comprehend any of it, but I\n"
+"like mummy's pink book with the funny sign on the back cover.\n"
+">\n"
+">I don't understand any of these things because I'm a baby. You do. I\n"
+"can't act, because I can't even walk yet. You can. I can't speak up for\n"
+"the world, because I only know one word. You can.\n"
+">\n"
+">Why don't you?\n"
+">\n"
+">For my 1st birthday I want CHANGE.'\n"
+msgstr ""
+"> Olá, eu sou o Nathaniel. Vou fazer um ano durante a Rebelião. A minha mãe\n"
+"é uma angariadora de fundos XR e o meu pai ensina justiça social na "
+"Universidade.\n"
+"A minha irmã mais velha foi à Youth Climate Strike(Greve Climática Jovem), "
+"embora ela seja um pouco\n"
+"jovem demais para compreender a urgência da situação, quanto mais a\n"
+"a política por detrás disso. Eu sou muito novo para entender alguma coisa "
+"disso, mas eu...\n"
+"gosto do livro cor-de-rosa da mamã com o sinal engraçado na contracapa.\n"
+">\n"
+">Não percebo nada disto porque sou um bebé. Tu compreendes. Eu\n"
+"não posso agir, porque ainda nem consigo andar. Tu consegues. Eu não posso "
+"falar pelo\n"
+"o mundo, porque eu só sei uma palavra. Você pode.\n"
+">\n"
+">Porque não o faz?\n"
+">\n"
+">Para o meu 1º aniversário eu quero MUDANÇA'.\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:536
+#, no-wrap
+msgid ""
+"[#EverybodyNow](https://www.facebook.com/hashtag/everybodynow?source=feed_text&epa=HASHTAG)\n"
+"  @extinctionrebellion\n"
+msgstr ""
+"[#EverybodyNow](https://www.facebook.com/hashtag/"
+"everybodynow?source=feed_text&epa=HASHTAG)\n"
+"  @extinctionrebellion\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:539
+#, no-wrap
+msgid ""
+"*To read more human stories -- or to write your own -- join our*\n"
+"[*Facebook group*](https://www.facebook.com/groups/468678977056685/)*.*\n"
+msgstr ""
+"*Para ler mais histórias humanas -- ou para escrever as suas próprias -- "
+"junte-se ao nosso*\n"
+"[*grupo de Facebook*](https://www.facebook.com/groups/468678977056685/)*.*\n"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:542
+msgid ""
+"![](/assets/img/blog/2019/10/07/OctReb-7Oct19-Westminster-Bridge-teddave-1-"
+"min.jpg){:.img-fluid style=\"width:750px;\"} {:.text-center}"
+msgstr ""
+"![](/assets/img/blog/2019/10/07/OutReb-7Oct19-Westminster-Bridge-"
+"teddave-1-min.jpg){:.img-fluid style=\"width:750px;\"} {:.text-center}"
+
+#. type: Title ##
+#: 2019-10-08-rebel-daily-1.md:545
+#, no-wrap
+msgid "**Thank you**"
+msgstr "**Agradecemos**"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:548
+msgid ""
+"Thank you for reading. This rebellion has been magnificent so far -- and "
+"it's only Day 1!"
+msgstr ""
+"Agradecemos a leitura. Esta rebelião tem sido magnífica até agora - e é "
+"apenas o primeiro dia!"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:550
+msgid "Keep up the good work!"
+msgstr "Continue com o bom trabalho!"
+
+#. type: Plain text
+#: 2019-10-08-rebel-daily-1.md:553
+#, no-wrap
+msgid ""
+"If you have any questions or queries, please get in touch at\n"
+"<xr-newsletter@protonmail.com>.\n"
+msgstr ""
+"Se tiver alguma pergunta ou dúvida, por favor entre em contacto através do\n"
+"<xr-newsletter@protonmail.com>.\n"

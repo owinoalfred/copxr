@@ -1,0 +1,519 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-18 22:44+0200\n"
+"PO-Revision-Date: 2021-01-21 19:20+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/"
+"press-releases/2020-02-06-phoenix/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Joaquin Phoenix makes film with Extinction Rebellion & Amazon Watch\"\n"
+"slug: joaquin-phoenix-xr\n"
+"date: 2020-02-06 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/02/06/banner.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: es\n"
+"title: \"Joaquin Phoenix protagoniza un cortometraje con Extinction Rebellion y Amazon Watch\"\n"
+"slug: joaquin-phoenix-xr\n"
+"date: 2020-02-06 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/02/06/banner.jpg\n"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:15
+msgid "![banner](/assets/img/press/2020/02/06/banner.jpg){:.img-fluid .my-4}"
+msgstr "![banner](/assets/img/press/2020/02/06/banner.jpg){:.img-fluid .my-4}"
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"Guardians of Life, starring Joaquin Phoenix, Rosario Dawson, Matthew Modine "
+"Oona Chaplin, Adria Arjona, Albert Hammond Jr & Q’orianka Kilcher, urges "
+"action on the Climate and Ecological Emergency."
+msgstr ""
+"Guardians of Life (Guardianes de la Vida), con Joaquin Phoenix, Rosario "
+"Dawson, Matthew Modine, Oona Chaplin, Adria Arjona, Albert Hammond Jr y "
+"Q’orianka Kilcher, reclama acciones urgentes ante la emergencia climática y "
+"ecológica."
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"Amazon Watch and Extinction Rebellion film is an alarm call for "
+"deforestation, biodiversity loss and wildfires across the globe."
+msgstr ""
+"El cortometraje de Extinction Rebellion y Amazon Watch es un aviso de alarma "
+"ante la deforestación, la pérdida de biodiversidad y los numerosos incendios "
+"en todo el planeta."
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"The film is the first of twelve in a planned series which will explore the "
+"most pressing issues facing us in this vital decade for the survival of all "
+"life."
+msgstr ""
+"Es el primero de una serie de doce cortometrajes que abordarán los temas más "
+"relevantes a los que nos enfrentamos en esta década vital en la lucha por la "
+"supervivencia."
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"More stars are being lined up to take part as Hollywood begins to use its "
+"influence to address the Climate and Ecological Emergency, the gravest "
+"crisis that humanity has ever faced."
+msgstr ""
+"Hay más estrellas preparadas para participar en esta serie, ahora que "
+"Hollywood empieza a ejercer su influencia para afrontar la emergencia "
+"climática y ecológica, la crisis más grave a la que humanidad jamás se ha "
+"enfrentado."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:22
+#, no-wrap
+msgid ""
+"-   To watch the film click [here](http://www.mobilize.earth)\n"
+"{:.huge .my-3}\n"
+msgstr ""
+"-   Para ver el corto pulsa [aquí](http://www.mobilize.earth)\n"
+"{:.huge .my-3}\n"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:24
+msgid "![cast](/assets/img/press/2020/02/06/CastTurn.jpg){:.img-fluid .my-4}"
+msgstr "![cast](/assets/img/press/2020/02/06/CastTurn.jpg){:.img-fluid .my-4}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:26
+msgid ""
+"Oscar nominee Joaquin Phoenix has unveiled his next film after Joker - a "
+"short film urging action on the Climate and Ecological Emergency, with "
+"[Extinction Rebellion](https://rebellion.global/) and [Amazon Watch](https://"
+"amazonwatch.org/)."
+msgstr ""
+"El actor favorito para ganar el Oscar, Joaquin Phoenix, ha revelado que su "
+"próxima aparición en las pantallas después de su papel protagonista en la "
+"película Joker, será en un cortometraje que reclama pasar urgentemente a la "
+"acción para afrontar la emergencia climática y ecológica, con [Extinction "
+"Rebellion](https://rebellion.global/) y [Amazon Watch](https://amazonwatch."
+"org/)."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:28
+msgid ""
+"Phoenix is joined in the film, entitled Guardians of Life, by an array of "
+"Hollywood stars including Rosario Dawson, Matthew Modine, Q'orianka Kilcher, "
+"Oona Chaplin, Adria Arjona, and Albert Hammond Jr. of The Strokes."
+msgstr ""
+"Un elenco de estrellas de Hollywood que incluye a Rosario Dawson, Matthew "
+"Modine, Q'orianka Kilcher, Oona Chaplin, Adria Arjona, y Albert Hammond Jr. "
+"del grupo de rock The Strokes, acompañará a Phoenix en el cortometraje "
+"titulado Guardianes de la Vida (Guardians of Life)."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:30
+msgid ""
+"The 2 minute short film, set in an Emergency Room, launches a new campaign "
+"to engage the public in different aspects of the Climate and Ecological "
+"Emergency. It acts as a Public Service Announcement (PSA) for the plight of "
+"the Amazon and its indigenous communities, and an alarm call for "
+"deforestation and biodiversity loss taking place in every corner of the "
+"globe, as a result of devastating wildfires, droughts, floods and storms."
+msgstr ""
+"El cortometraje de 2 minutos, filmado en una sala de urgencias, es el "
+"primero de una nueva campaña cuyo objetivo es que el público se involucre en "
+"diversos aspectos relacionados con la emergencia climática y ecológica. Hace "
+"las veces de anuncio de servicio público (PSA, por sus siglas en inglés) que "
+"denuncia la urgencia que vive el Amazonas y sus comunidades indígenas y es "
+"un llamada de alarma ante la deforestación y pérdida de biodiversidad que "
+"tiene lugar en todos los rincones del planeta, como resultado de "
+"devastadores incendios forestales, sequías, inundaciones y tormentas."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:34
+msgid ""
+"The involvement of Joaquin Phoenix comes as no surprise, given his history "
+"of activism. Phoenix was recently arrested at a protest organised by the "
+"actress Jane Fonda in Washington DC, where he spoke about the link between "
+"climate change and animal agriculture.  ![joaquin-phoenix-xr](/assets/img/"
+"press/2020/02/06/JoaquinStill_006.jpg){:.img-fluid .my-4} Commenting on the "
+"film Phoenix said: “It’s really a call to action. I did it to raise "
+"awareness about the meat and dairy industry’s effect on climate change. The "
+"fact is we are clear cutting and burning rainforests and seeing the negative "
+"effects of those actions worldwide. People don’t realize there’s still time, "
+"but only if we act now and make sweeping changes to our consumption. We "
+"can’t wait for governments to solve these problems for us. We can’t wait "
+"until the election to try to make these changes. We have a personal "
+"responsibility to make changes in our own lives and act now.\""
+msgstr ""
+"La participación de Joaquin Phoenix no sorprende dado su historial como "
+"activista. Phoenix fue arrestado recientemente en una protesta organizada "
+"por la actriz Jane Fonda en Washington DC, donde habló sobre el vínculo "
+"existente entre el cambio climático y la ganadería intensiva.  ![joaquin-"
+"phoenix-xr](/assets/img/press/2020/02/06/JoaquinStill_006.jpg){:.img-fluid ."
+"my-4} Para Phoenix, este cortometraje: “es una llamada a la acción total. Lo "
+"hice para concienciar acerca de los efectos que las industrias cárnica y "
+"láctea tienen sobre el cambio climático. La realidad es que estamos talando "
+"y quemando bosques tropicales y notamos los efectos negativos que esto tiene "
+"en todo el mundo. La gente no se da cuenta de que aún estamos a tiempo, pero "
+"sólo si actuamos ya y cambiamos radicalmente nuestros hábitos de consumo. No "
+"podemos esperar a que los gobiernos resuelvan estos problemas por nosotros. "
+"No podemos esperar hasta las próximas elecciones para intentar que se "
+"produzcan estos cambios. Tenemos la responsabilidad personal de empezar a "
+"realizar transformaciones en nuestras propias vidas y actuar ya.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:36
+msgid ""
+"Shaun Monson, the film’s Director, said he felt compelled to make the film "
+"as previous documentary style PSAs had failed to move audiences to take "
+"action: “so instead of focusing on deforestation, ice melting and species "
+"extinction, we use a story as a metaphor. The Amazon has been called the "
+"lungs of the world, or the heart of the world, but instead of documentary "
+"footage we proposed an ER setting with doctors and nurses trying to save an "
+"unseen patient with systemic heart failure. The twist is not only who one of "
+"the paramedics is, but what they were really fighting to save all along.”"
+msgstr ""
+"El Director del cortometraje, Shaun Monson, dijo que sintió la necesidad de "
+"realizar este corto ya que otros PSAs anteriores en forma de documental "
+"fracasaron a la hora de motivar al público a pasar a la acción: “entonces, "
+"en lugar de concentrarnos en la deforestación, el deshielo y la extinción de "
+"especies, decidimos contar una historia como metáfora. Al Amazonas se le "
+"considera los pulmones o el corazón de la tierra, y en lugar de filmar en "
+"estilo documental, nos planteamos una escena en una sala de urgencias con "
+"doctores y enfermeras que intentan salvar a un paciente oculto que presenta "
+"un fallo cardiaco agudo. El giro consiste en revelar no sólo la identidad de "
+"uno de los asistentes, sino también qué es lo que todos están luchando por "
+"salvar.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:38
+msgid ""
+"Leila Salazar-López of Amazon Watch believes the film is an example of art "
+"reflecting life: “An indigenous woman saving the Amazon is not a metaphor: "
+"it is a daily reality as the rainforest is razed and indigenous lands are "
+"invaded for profit. The Amazon rainforest is the heart of our world, and "
+"indigenous forest guardians are central to its well-being and to our "
+"collective future.”"
+msgstr ""
+"Leila Salazar López, de Amazon Watch cree que el corto es un ejemplo del "
+"arte como reflejo de la vida: “una mujer indígena salvando al Amazonas no es "
+"una metáfora; es la realidad cotidiana cuando vemos que los bosques "
+"tropicales están siendo arrasados y las tierras de las comunidades indígenas "
+"son invadidas para obtener beneficios. La selva tropical del Amazonas son "
+"los pulmones del planeta, y los guardianes indígenas de la selva son vitales "
+"para mantenerla a salvo y para salvaguardar nuestro futuro.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:40
+msgid ""
+"Sônia Guajajara, Executive Coordinator of the Articulation of Brazil’s "
+"Indigenous Peoples (APIB) said: “This film is very important for us at this "
+"moment. It demonstrates the artists' engagement in Amazon protection by "
+"showing the key role indigenous peoples play in defending the forests, the "
+"planet, and life itself.”"
+msgstr ""
+"Según Sônia Guajajara, coordinadora ejecutiva de la Articulación de los "
+"Pueblos Indígenas de Brasil (APIB): “este cortometraje es muy importante "
+"para nosotros en este momento. Demuestra que los actores están comprometidos "
+"con la protección del Amazonas y señala el papel clave que juegan los "
+"pueblos indígenas en la defensa de la selva, el planeta y la vida misma.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:43
+msgid ""
+"The film is the first of a twelve-part series planned by Extinction "
+"Rebellion, in collaboration with Mobilize Earth. Each will tell a story "
+"about the most pressing issues facing the human species as we move into what "
+"most scientists, politicians and the public see as the make or break decade "
+"for the survival of life on the planet.  For Matthew Modine, one of the "
+"film’s stars, the Climate and Ecological Emergency means: “children "
+"inheriting a world unrecognizable to the one I was born into … this PSA is "
+"one way of opening people’s eyes to see what is actually happening right in "
+"front of us.”"
+msgstr ""
+"Se trata del primero de una serie de doce cortos que Extinction Rebellion "
+"tiene previsto realizar en colaboración con Mobilize Earth. Cada historia "
+"tratará uno de los temas más relevantes a los que se enfrenta la especie "
+"humana a medida que nos adentramos en lo que la mayor parte de los "
+"científicos, políticos y el público en general considera la década crucial "
+"en la lucha por la preservación de la vida en este planeta.  Para Matthew "
+"Modine, uno de los protagonistas del corto, la emergencia climática y "
+"ecológica significa que “los niños heredarán un mundo irreconocible "
+"comparado con el mundo en el que yo nací. Este anuncio de servicio público "
+"intenta abrir los ojos de la gente para que se den cuenta de qué es lo que "
+"está sucediendo realmente.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:47
+msgid ""
+"Gail Bradbrook, Co-Founder of Extinction Rebellion, hopes that this is one "
+"of the first signs of Hollywood beginning to use its influence to tell the "
+"truth about the gravity of the Climate and Ecological Crisis: “There is "
+"still a disconnect between how bad things are and the action that needs to "
+"happen. But that gap is narrowing. There are more significant people "
+"starting to break ranks, to tell the truth and act as if it is real.” !"
+"[Q'orianka](/assets/img/press/2020/02/06/QoriankaTurn.jpg){:.img-fluid ."
+"my-4} The film’s female lead, Q’orianka Kilcher said: “As an indigenous "
+"actress I feel a strong responsibility to use my public platform to help "
+"amplify the voices who are seldom heard including all the indigenous "
+"defenders around the world who are the protectors of our Mother Earth, the "
+"Amazon Rainforest, and all the biodiversity and animals.”"
+msgstr ""
+"Gail Bradbrook, Co-Fundadora de Extinction Rebellion, espera que esta sea "
+"una señal de que Hollywood empezará a usar su influencia para decir la "
+"verdad acerca de la gravedad de la crisis climática y ecológica: “todavía "
+"existe una desconexión entre la gravedad de lo que está sucediendo y las "
+"acciones que necesitamos realizar. Sin embargo, esa brecha se está "
+"estrechando. Cada vez hay más personas influyentes que se desmarcan para "
+"contar la verdad y actuar ante la realidad de los hechos.” ![Q'orianka](/"
+"assets/img/press/2020/02/06/QoriankaTurn.jpg){:.img-fluid .my-4} La "
+"protagonista femenina de la película, Q'orianka Kilcher declaró: \"como "
+"actriz indígena siento la gran responsabilidad de usar mi plataforma pública "
+"para ayudar a amplificar las voces que rara vez se escuchan, incluyendo a "
+"todos los defensores indígenas del mundo que son los protectores de nuestra "
+"Madre Tierra, la selva amazónica y toda la biodiversidad y los animales.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:49
+msgid ""
+"Jonathan Mintram, the Executive Producer, was keen to stress that: “This "
+"film features fires in the Amazon and Australia, but we must not forget the "
+"other devastating fires from Angola and The Congo to Siberia and California.”"
+msgstr ""
+"El productor ejecutivo del film, Jonathan Mintram, recalcó que “aunque este "
+"corto denuncia los incendios en el Amazonas y en Australia, no debemos "
+"olvidar los otros incendios devastadores que están ocurriendo desde Angola y "
+"El Congo a Siberia y California.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:51
+msgid ""
+"The funding for the film has come from a variety of organisations including "
+"the UK-based Catalysts Foundation, as well as the global Climate Save "
+"Movement. The website for the film [www.mobilize.earth](http://www.mobilize."
+"earth)  aims to raise awareness, action and donations, which will go towards "
+"the work of [Amazon Watch](https://amazonwatch.org/) and [Extinction "
+"Rebellion](https://rebellion.global/)."
+msgstr ""
+"La financiación del corto procede de diversas organizaciones, incluyendo la "
+"británica Catalysts Foundation, así como la organización global Climate Save "
+"Movement. El sitio web del corto [www.mobilize.earth](http://www.mobilize."
+"earth) busca concienciar, llamar a la acción y recaudar fondos para apoyar "
+"el trabajo de [Amazon Watch](https://amazonwatch.org/) y [Extinction "
+"Rebellion](https://rebellion.global/)."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:53
+msgid ""
+"Additional supporters include the Artists for the Amazon campaign, and "
+"Environmental Media Association."
+msgstr ""
+"Entre otros colaboradores adicionales se encuentran el proyecto Artists for "
+"the Amazon y la asociación Environmental Media."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:55
+msgid ""
+"![south america fire](/assets/img/press/2020/02/06/SouthAmericaFire.jpg){:."
+"img-fluid .my-4}"
+msgstr ""
+"![south america fire](/assets/img/press/2020/02/06/SouthAmericaFire.jpg){:."
+"img-fluid .my-4}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:57
+msgid ""
+"The next film in the 12-part series will deal with the topic of denial, "
+"asking why we as a species choose to ignore the warning signs rather than "
+"deciding to act now on the Climate & Ecological Emergency."
+msgstr ""
+"El próximo corto de esta serie de 12 abordará el tema del negacionismo, y se "
+"preguntará por qué nuestra especie decide ignorar las señales de advertencia "
+"en lugar de actuar ante la emergencia climática y ecológica."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:59
+msgid ""
+"For more information about how you can join us in fighting this emergency, "
+"visit the XR About Us page and Amazon Watch"
+msgstr ""
+"Para más información sobre cómo puedes unirte a la lucha contra esta "
+"emergencia, visita la sección About Us de XR y Amazon Watch"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:62
+msgid ""
+"[Watch the film](http://www.mobilize.earth){:.o-button-pink .btn-block .text-"
+"center}"
+msgstr ""
+"[Ver la película](http://www.mobilize.earth){:.o-button-pink .btn-block ."
+"text-center}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:65
+msgid ""
+"[More about Extinction Rebellion](https://rebellion.global/about-us){.xr-"
+"button}"
+msgstr "[Más sobre Amazon Watch](https://rebellion.global/about-us){.xr-button}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:68
+msgid "[More About Amazon Watch](https://amazonwatch.org/){.xr-button}"
+msgstr "[Más sobre Amazon Watch](https://amazonwatch.org/){.xr-button}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:72
+msgid "Notes to editor:"
+msgstr "Notas al editor:"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:74
+msgid ""
+"Mobilize Earth is setting out on a new course to mitigate the climate and "
+"ecological emergency by bringing together people from all walks of life. We "
+"are working to engage everyone - industry, activists, politicians, farmers, "
+"immigrants - to respond to the climate and ecological emergency. We work to:"
+msgstr ""
+"Mobilize Earth está organizando un nuevo curso para mitigar la emergencia "
+"climática y ecológica uniendo a gente de distintos ámbitos de la vida. Nos "
+"estamos esforzando para involucrar a todo el mundo: gente de la industria, "
+"activistas, políticos, agricultores, inmigrantes... Para que respondan a la "
+"emergencia climática y ecológica. Algunos de nuestros objetivos son:"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:76
+msgid "-Tell the truth about the climate and ecological emergency."
+msgstr "-Contar la verdad sobre la emergencia climática y ecológica."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:78
+msgid ""
+"-Engage and connect individuals and organizations across industries, "
+"cultures and political divides and work towards tangible responses to the "
+"climate and ecological emergency."
+msgstr ""
+"-Involucrar y conectar a personas y organizaciones de diferentes sectores "
+"económicos, culturas y grupos políticos para llevar a cabo respuestas "
+"tangibles a la emergencia climática y ecológica."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:80
+msgid ""
+"-Design a future in which we can all thrive by working with leaders, "
+"scientists, entrepreneurs and activists."
+msgstr ""
+"-Planificar un futuro en el que todos podamos prosperar con la colaboración "
+"de líderes, científicos, empresarios y activistas."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:83
+msgid "Press Contacts:"
+msgstr "Contactos de prensa:"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:85
+msgid ""
+"Film: Jonathan Mintram [mobilize.earth@gmail.com](mailto:mobilize."
+"earth@gmail.com) +44(0) 7802530272"
+msgstr ""
+"Cortometraje : Jonathan Mintram [mobilize.earth@gmail.com](mailto:mobilize."
+"earth@gmail.com) +44(0) 7802530272"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:87
+msgid ""
+"Beverley Luckings +44(0) 7472 916283 [beverley@beverleyluckings.com](mailto:"
+"beverley@beverleyluckings.com)"
+msgstr ""
+"Beverley Luckings +44(0) 7472 916283 [beverley@beverleyluckings.com](mailto:"
+"beverley@beverleyluckings.com)"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:89
+msgid ""
+"Extinction Rebellion): Howard Rees [press@risinguppress.org.uk](mailto:"
+"press@risinguppress.org.uk) +44(0) 7459 055152"
+msgstr ""
+"Extinction Rebellion : Howard Rees [press@risinguppress.org.uk](mailto:"
+"press@risinguppress.org.uk) +44(0) 7459 055152"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:91
+msgid ""
+"Amazon Watch: John Quigley [spectralq@aol.com](mailto:spectralq@aol.com) +1 "
+"(310) 927-3013"
+msgstr ""
+"Amazon Watch : John Quigley [spectralq@aol.com](mailto:spectralq@aol.com) +1 "
+"(310) 927-3013"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:92
+msgid ""
+"Julia Jaye Posin [jjposin@amazonwatch.org](mailto:jjposin@amazonwatch.org) "
+"+1 (949) 939-4770"
+msgstr ""
+"Julia Jaye Posin [jjposin@amazonwatch.org](mailto:jjposin@amazonwatch.org) "
+"+1 (949) 939-4770"
+
+#~ msgid ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"http://www.mobilize.earth\" class=\"o-button-pink btn-block "
+#~ "text-center\" style=\"max-width: 350px;\"><span>Watch the film</span></"
+#~ "a>\n"
+#~ "</div>\n"
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green "
+#~ "btn-block text-center\" style=\"max-width: 350px;\"><span>More about "
+#~ "Extinction Rebellion</span></a>\n"
+#~ "</div>\n"
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://amazonwatch.org/\" class=\"o-button-yellow btn-"
+#~ "block text-center\" style=\"max-width: 350px;\"><span>More About Amazon "
+#~ "Watch</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"http://www.mobilize.earth\" class=\"o-button-pink btn-block "
+#~ "text-center\" style=\"max-width: 350px;\"><span>Ver el corto</span></a>\n"
+#~ "</div>\n"
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green "
+#~ "btn-block text-center\" style=\"max-width: 350px;\"><span>Más información "
+#~ "sobre Extinction Rebellion</span></a>\n"
+#~ "</div>\n"
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://amazonwatch.org/\" class=\"o-button-yellow btn-"
+#~ "block text-center\" style=\"max-width: 350px;\"><span>Más información "
+#~ "sobre Amazon Watch</span></a>\n"
+#~ "</div>\n"

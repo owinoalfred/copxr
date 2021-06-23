@@ -1,0 +1,401 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-12 18:08+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: xh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'XR Unchained #15'\n"
+"slug: xr-unchained-15\n"
+"date: '2020-06-18 16:04'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/UnchainedImage1.jpg\n"
+"seoImage: /assets/uploads/UnchainedImage1.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:14
+msgid "15 MAY | Christchurch, New Zealand"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:16
+msgid ""
+"![Rebels protesting against a coal mine](/assets/uploads/UnchainedImage1.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:18
+msgid ""
+"Ten rebels from [Extinction Rebellion Christchurch](https://www.facebook.com/"
+"XR.Chch/) ([Ōtautahi](https://www.facebook.com/XR.Chch/)) [took a colourful "
+"stand](https://www.youtube.com/watch?v=RScq_9ekt5o&feature=youtu.be) against "
+"Bathurst Resources Ltd’s plan to increase production from its open-cast coal "
+"mine at Coalgate and extend its life from 2022 to 2035. The bulk of the coal "
+"goes to heat and dry milk powder at Fonterra dairy factories. [Fonterra Co-"
+"operative Group](https://en.wikipedia.org/wiki/Fonterra), a [](https://en."
+"wikipedia.org/wiki/New_Zealand) [multinational](https://en.wikipedia.org/"
+"wiki/Multinational_corporation) [dairy](https://en.wikipedia.org/wiki/Dairy) "
+"[company](https://en.wikipedia.org/wiki/Co-operative) owned by around 10,500 "
+"New Zealand farmers, is responsible for approximately 30% of the world's "
+"dairy exports and is New Zealand's largest company."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:20
+msgid "7 JUN | Quito, Ecuador"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:22
+msgid ""
+"![rebels in front of a pair of shoes](/assets/uploads/UnchainedImage2.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:24
+msgid ""
+"Masked and distanced rebels placed pairs of shoes on the road outside "
+"Ecuador’s National Assembly to remember those who have died defending nature "
+"and human rights in the country. They include:"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:26
+msgid ""
+"José Tendetza, from the Shuar people of Tundayme, murdered for defending "
+"their land."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:28
+msgid ""
+"Edgar Yucailla, a peasant leader in Guamote, killed during the National "
+"Strike last year."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:30
+msgid ""
+"Enrique Piaguaje, a traditional doctor from the Siekopai people, who died "
+"during the Covid-19 pandemic due to state negligence."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:32
+msgid "6 JUNE | Rome, Italy"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:34
+msgid ""
+"![Rebels protesting againg the climate collapse](/assets/uploads/"
+"UnchainedImage3.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:36
+msgid ""
+"Roman rebels stood on the parapet of Ponte Sant'Angelo, an ancient bridge "
+"crossing the river Tiber, to show how humanity is on the edge of climate "
+"collapse."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:38
+msgid ""
+"They held up signs telling their government to stop procrastinating and "
+"fulfil its moral duty to protect the Italian people from disaster. You can "
+"watch a [beautiful video](https://www.facebook.com/ExtinctionRebellionRoma/"
+"videos/2324621394501185/) of this bold action. Photo: Stella Levantesi"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:40
+msgid "20 MAY | Imo State, Nigeria"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:42
+msgid ""
+"![Rebels holding extinction rebellion signs](/assets/uploads/UnchainedImage4."
+"jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:44
+msgid ""
+"Extinction Rebellion Nigeria celebrated World Bee Day with a talk show, "
+"public enlightenment, and a visit to the Ministry of Environment of Imo "
+"State in south-eastern Nigeria."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:46
+msgid "22 MAY | Zagreb, Croatia"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:48
+msgid "![Rebels protesting](/assets/uploads/UnchainedImage5.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:50
+msgid ""
+"Rebels staged a performance outside the National and University Library in "
+"Zagreb to protest against oil company INA’s sponsorship of Croatia’s "
+"presidency of the EU Council. The Croatian government part owns INA and "
+"recently extended its permits to drill for oil and gas in and around the "
+"Adriatic sea."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:52
+msgid "19 MAY | Europe"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:54
+msgid ""
+"On the day the Royal Dutch Shell oil company held a virtual Annual "
+"Shareholders meeting at its headquarters in The Hague, rebels and [Shell "
+"Must Fall](https://www.facebook.com/shellmustfall/) activists across Europe "
+"blocked Shell petrol stations and held a series of protests and "
+"demonstrations."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:56
+msgid "![Rebels protesting against Shell](/assets/uploads/Unchained6.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:58
+msgid "Shell headquarters, The Hague, Netherlands"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:60
+msgid "![Rebels protesting against Shell](/assets/uploads/UnchainedImage7.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:62
+msgid "Germany"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:64
+msgid "![Rebel protesting against Shell](/assets/uploads/Unchainedimage8.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:66
+msgid "Czech Republic. The sign reads: “Shell already knew it in 1986”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:68
+msgid "1 JUN | Horse Hill, near Gatwick Airport, UK"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:70
+msgid ""
+"![Rebels protesting against fracking](/assets/uploads/UnchainedImage9.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:72
+msgid ""
+"From before dawn brave rebels blocked the entrance to the Horse Hill oil "
+"fracking site operated by UK Oil & Gas Investments (UKOG) to protest the "
+"continued extraction of fossil fuels and prevent tankers going in and out."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:74
+msgid "5 JUN | Budapest, Hungary"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:76
+msgid "![Rebels pouring oil on a globe](/assets/uploads/Unchainedimage10.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:78
+msgid ""
+"On [World Environment Day](https://www.worldenvironmentday.global/) "
+"Hungarian rebels poured oil on the Earth in order to draw attention to the "
+"need for systemic change. “The fossil energy industry,” they said, “is "
+"taking us closer and closer to a climate catastrophe at an accelerating "
+"pace. We demand that policymakers prioritize a green and fair transition "
+"rather than bailing out polluting companies!” Photo: Péter Lakatos"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:80
+msgid "21 MAY | New York City, USA"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:82
+msgid ""
+"![Rebels protesting against Blackrock](/assets/uploads/UnchainedImage11.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:84
+msgid ""
+"Physically distancing activists brought a hot air balloon to Black Rock "
+"headquarters in New York to tell its boss, Larry Fink, that the company is "
+"full of hot air on climate! In January [Fink announced that Black Rock]"
+"(https://www.theguardian.com/environment/2020/jan/15/blackrock-climate-"
+"change-environment-divestment-coal), the world’s largest investment "
+"corporation with $7 trillion in assets, would reduce its investments in "
+"carbon-intensive energy companies. American rebels say this is just a load "
+"of greenwash."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:86
+msgid ""
+"![Rebels protesting against Blackrock](/assets/uploads/UnchainedImage12.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:88
+msgid "22 May, San Francisco"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:90
+msgid "29 MAY | Oslo, Norway"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:92
+msgid "![Rebels protesting in Norway](/assets/uploads/UnchainedImage13.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:94
+msgid ""
+"Rebels went to the Ministry of Finance, the Ministry of Agriculture and "
+"Food, the Ministry of Climate and Environment, and the Storting (parliament) "
+"to protest against the Norwegian government’s ‘green’ crisis package. Only "
+"3.6 billion Norwegian krone were set aside for green initiatives, whereas "
+"the oil industry has received 100 billion and the airline industry 6 "
+"billion. XR Norway said: “The Norwegian authorities consistently choose "
+"industry and short-term profits ahead of climate and the environment. The "
+"‘green transition’ is in reality black. Norway continues to fuel global "
+"overheating and does little for ecosystems in crisis.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:96
+msgid "29 MAY | Spain"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:98
+msgid "![Rebels protesting in Spain](/assets/uploads/UnchainedImage14.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:100
+msgid ""
+"Spanish activists placed pairs of shoes in front of town halls in Madrid "
+"(above) and 10 other cities to demand citizen participation in developing a "
+"green recovery from the pandemic."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:102
+msgid "5 JUN | Athens, Greece"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:104
+msgid "![Rebels protesting in Greece](/assets/uploads/UnchainedImage15.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:106
+msgid ""
+"Greek rebels continue to demand the withdrawal of the so-called "
+"Modernization of Environmental Legislation law which in fact withdraws "
+"environmental regulations, permitting oil exploration in Greek waters and "
+"construction in protected parts of the countryside."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:108
+msgid "![Rebel holding an Act Now sign](/assets/uploads/UnchainedImage16.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:110
+msgid ""
+"“Come to Parliament! It is dawn and now we need you more than ever to be "
+"able to continue! We kept the road closed all night! The road remains closed "
+"for 12 hours! We are not leaving until the anti-environmental law of Mr. "
+"Kostis Hatzidakis is repealed.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:112
+msgid "25 MAY | Poznan, Poland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:114
+msgid "![Rebel Protesting in Poland](/assets/uploads/UnchainedImage17.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:116
+msgid "“Covid Today. Climate Tomorrow. Act Now.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:118
+msgid "19 MAY | near Brno, Czech Republic"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:120
+msgid ""
+"![Crop Circle in the shape of the Extinction Rebellion symbol](/assets/"
+"uploads/UnchianedImage18.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-xr-unchained-15.md:121
+msgid ""
+"“Today, a circle in rapeseed with our logo of an hourglass appeared near "
+"Brno. What is the more advanced civilization trying to tell us? 👽 Probably "
+"the fact that in the Czech Republic rapeseed cultivation occupies about 15% "
+"of arable land - much more than we need. Rapeseed requires a high degree of "
+"chemicals, which are lethal to bees, and the herbicides used end up in "
+"groundwater.”"
+msgstr ""

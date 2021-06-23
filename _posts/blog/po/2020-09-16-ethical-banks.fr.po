@@ -1,0 +1,1325 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-11-12 16:37+0100\n"
+"PO-Revision-Date: 2020-11-16 09:07+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-09-16-ethical-banks/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:15
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: How to stop funding fossil fuels by moving to an ethical bank\n"
+"author: Neil Simpson\n"
+"slug: ethical-banks\n"
+"date: 2020-09-21 13:09\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/firebill.jpg\n"
+"seoImage: /assets/uploads/firebill.jpg\n"
+"seoTitle: How to stop funding fossil fuels by moving to an ethical bank\n"
+"seoDescription: One of the most important acts of collective power we can make\n"
+"  in the fight against climate change is to switch banks.\n"
+msgstr ""
+"lang: fr\n"
+"title: Arrêter de financer l'industrie fossile en optant pour une banque "
+"éthique\n"
+"author: Neil Simpson\n"
+"slug: ethical-banks\n"
+"date: 2020-09-16 21:10\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/firebill.jpg\n"
+"seoImage: /assets/uploads/firebill.jpg\n"
+"seoTitle: How to Clean up the Dirty Banks\n"
+"seoDescription: Changer de banque est un des pouvoirs citoyens les plus "
+"efficaces que nous pouvons exercer \n"
+"  pour lutter contre le bouleversement climatique.\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:17
+msgid ""
+"Plant trees. Get arrested. Stop eating meat. Say no to plastic. Abseil down "
+"a government building in a bumble bee costume. Close a road with a broken "
+"caravan and two tambourines. There are many ways to fight for climate "
+"justice, but each of us possesses a powerful, often-forgotten weapon: our "
+"money. Is your bank funding climate chaos right now? How do you switch to an "
+"ethical bank? Find out here."
+msgstr ""
+"Planter des arbres. Se faire arrêter. Arrêter de manger de la viande. "
+"Refuser le plastique. Descendre en rappel la façade d'un bâtiment du "
+"gouvernement déguisé en abeille. Bloquer une route avec une caravane "
+"disloquée et deux tambourins. Il existe de nombreuses façons de s'engager "
+"pour la justice climatique, mais chacun d'entre nous possède une arme "
+"puissante, souvent oubliée : notre argent. Votre banque finance-t-elle "
+"actuellement le chaos climatique ? Comment passer à une banque éthique ? "
+"Découvrez-le ici."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:19
+msgid ""
+"![100 US dollar bills burning into ashes](/assets/uploads/be06f3b5-"
+"c76a-4783-89b2-53512d2cb563.jpg)"
+msgstr ""
+"![100 US dollar bills burning into ashes](/assets/uploads/be06f3b5-"
+"c76a-4783-89b2-53512d2cb563.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:21
+#, no-wrap
+msgid " *Jp Valery, [Unsplash](https://unsplash.com/photos/hfrDZAXwb5c)* \n"
+msgstr " *Jp Valery, [Unsplash](https://unsplash.com/photos/hfrDZAXwb5c)* \n"
+
+#. type: Title ##
+#: 2020-09-16-ethical-banks.md:22
+#, no-wrap
+msgid "Where is your money?"
+msgstr "Où va notre argent ?"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:25
+msgid ""
+"When was the last time you considered what banks are for? I haven’t deeply "
+"thought about it since I opened my first-ever bank account as a child. Banks "
+"offer an alternative to keeping your cash hidden in the freezer. Great! "
+"Banks reward you for storing your money with them by paying you interest. "
+"Great! Banks invest in thousands of projects and loan your money to others. "
+"Great? Not always..."
+msgstr ""
+"À quand remonte la dernière fois où vous vous êtes demandé à quoi servaient "
+"les banques ? Je n'y avais pas songé plus que ça depuis mon enfance, à "
+"l'époque où j'ai ouvert mon tout premier compte. Les banques nous proposent "
+"une alternative au fait de garder notre argent liquide caché dans le "
+"congélateur. Super ! Les banques nous récompensent d'avoir placé notre "
+"argent chez elles en nous versant des intérêts. Super ! Les banques "
+"investissent dans des milliers de projets, et prêtent notre argent à "
+"d'autres. Super ? Pas toujours..."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:27
+msgid ""
+"In February, I read an article by The Guardian called [50 Simple Ways To "
+"Make Your Life Greener](https://www.theguardian.com/environment/2020/"
+"feb/29/50-ways-to-green-up-your-life-save-the-planet#comment-138576391). The "
+"British journalist Donna Ferguson writes in this article that ‘nearly £150 "
+"billion \\[British pounds] has been invested in fossil fuels by UK banks "
+"since the Paris climate agreement was adopted in 2016’."
+msgstr ""
+"En février, j'ai lu un article dans le Guardian intitulé [50 Simple Ways To "
+"Make Your Life Greener (50 trucs simples pour être plus écolo)](https://www."
+"theguardian.com/environment/2020/feb/29/50-ways-to-green-up-your-life-save-"
+"the-planet#comment-138576391). La journaliste britannique Donna Ferguson "
+"écrit dans cet article que les banques britanniques ont investi \"près de "
+"150 milliards de livres sterling dans les énergies fossiles depuis "
+"l'adoption de l'accord de Paris sur le climat en 2016\"."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:29
+msgid ""
+"A massive number of bank account holders in the UK (my home country) have "
+"loaned almost ONE HUNDRED AND FIFTY BILLION POUNDS to the fossil fuels "
+"industry in the past four years. And that’s just the UK."
+msgstr ""
+"Un nombre considérable de titulaires de comptes bancaires au Royaume-Uni "
+"(mon pays d'origine) ont donc prêté près de CENT CINQUANTE MILLIARDS DE "
+"LIVRES à l'industrie fossile lors des quatre dernières années. Et on ne "
+"parle ici que du Royaume-Uni."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:31
+msgid ""
+"![Chase retail bank on a main road with a white van parked out front](/"
+"assets/uploads/9f2cfc5e-5ae4-4ea2-8b3f-a60407671967.jpg)"
+msgstr ""
+"![Chase retail bank on a main road with a white van parked out front](/"
+"assets/uploads/9f2cfc5e-5ae4-4ea2-8b3f-a60407671967.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:33
+#, no-wrap
+msgid "*Ashim D’Silva, [Unsplash](https://unsplash.com/photos/DYsV3ifO5E4)*\n"
+msgstr "*Ashim D’Silva, [Unsplash](https://unsplash.com/photos/DYsV3ifO5E4)*\n"
+
+#. type: Title ##
+#: 2020-09-16-ethical-banks.md:34
+#, no-wrap
+msgid "Banking around the world"
+msgstr "Les systèmes bancaires dans le monde"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:37
+msgid ""
+"California’s [Rainforest Action Network](https://www.ran.org/) (RAN) reports "
+"on the investment activities of banks, globally. Since 2009, RAN has "
+"published the annual [Banking on Climate Change](https://www.ran.org/"
+"bankingonclimatechange2020/) report, in collaboration with the Indigenous "
+"Environmental Network (USA), Oil Change International (USA), Reclaim Finance "
+"(France), Sierra Club (USA) and BankTrack (The Netherlands)."
+msgstr ""
+"En Californie, le RAN [Rainforest Action Network](https://www.ran.org/) "
+"tient le registre des investissements bancaires dans le monde, et publie "
+"depuis 2009 un rapport annuel [Banking on Climate Change](https://www.ran."
+"org/bankingonclimatechange2020/), en collaboration avec les réseaux "
+"Indigenous Environmental Network (États-Unis), Oil Change International "
+"(États-Unis), Reclaim Finance (France), Sierra Club (États-Unis), et "
+"BankTrack (Pays-Bas)."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:39
+msgid ""
+"In 2020, Banking on Climate Change concluded that banks’ support for fossil "
+"fuels is rising. According to the report, the world’s top 35 fossil fuel "
+"financers are based in either Canada, China, Europe, Japan or the USA. Here "
+"are the top ten, ranked by how much each has invested in fossil fuels since "
+"late 2015. This date is used because that’s when the UN Framework Convention "
+"on Climate Change’s Paris Agreement commenced:"
+msgstr ""
+"En 2020, le rapport 'Banking on Climate Change' concluait que les "
+"investissements bancaires dans le secteur des énergies fossiles "
+"augmentaient. Selon ce rapport, les 35 premiers financeurs de combustibles "
+"fossiles dans le monde sont basés au Canada, en Chine, en Europe, au Japon "
+"ou aux États-Unis. Voici les dix premiers, classés selon le montant investi "
+"dans les énergies fossiles par chacun d'entre eux depuis fin 2015. On "
+"retiendra que l'on se réfère à cette date qui marque le début de la "
+"Convention-cadre des Nations unies sur les changements climatiques, et la "
+"signature de l'accord de Paris :"
+
+#. type: Bullet: '1. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "JPMorgan Chase, USA: 269 billion US Dollars"
+msgstr "JPMorgan Chase, États-Unis : 269 milliards de dollars"
+
+#. type: Bullet: '2. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Wells Fargo, USA: US$ 198 billion"
+msgstr "Wells Fargo, États-Unis : 198 milliards de dollars"
+
+#. type: Bullet: '3. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Citi, USA: US$ 188 billion"
+msgstr "Citi, États-Unis : 188 milliards de dollars"
+
+#. type: Bullet: '4. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Bank of America, USA: US$ 157 billion"
+msgstr "Bank of America, États-Unis : 157 milliards de dollars"
+
+#. type: Bullet: '5. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "RBC, Canada: US$ 141 billion"
+msgstr "RBC, Canada : 141 milliards de dollars"
+
+#. type: Bullet: '6. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "MUFG, Japan: US$ 119 billion"
+msgstr "MUFG, Japon : 119 milliards de dollars"
+
+#. type: Bullet: '7. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Barclays, Europe: US$ 118 billion"
+msgstr "Barclays, Europe : 118 milliards de dollars"
+
+#. type: Bullet: '8. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Toronto-Dominion, Canada: US$ 103 billion"
+msgstr "Toronto-Dominion, Canada : 103 milliards de dollars"
+
+#. type: Bullet: '9. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Mizuho, Japan: US$ 103 billion"
+msgstr "Mizuho, Japon : 103 milliards de dollars"
+
+#. type: Bullet: '10. '
+#: 2020-09-16-ethical-banks.md:50
+msgid "Scotiabank, Canada: US$ 98 billion"
+msgstr "Scotiabank, Canada : 98 milliards de dollars"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:52
+msgid ""
+"To make it as globally relevant as possible, Banking on Climate Change looks "
+"at the world’s top 20 commercial and investment banks according to asset-"
+"size. An additional 16 banks from the world’s top 60 are included, which are "
+"selected due to their major presence in key parts of the world."
+msgstr ""
+"Pour que ces données soient aussi pertinentes que possible au niveau "
+"mondial, le rapport examine les 20 premières banques commerciales et "
+"d'investissement du monde en fonction de la taille des actifs, et inclut "
+"seize autres des 60 premières banques, du fait de leur importante présence "
+"dans des régions clés du monde."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:54
+msgid ""
+"I talked to RAN spokesperson Laurel Sutherlin about the purpose of Banking "
+"on Climate Change:"
+msgstr ""
+"J'ai échangé avec Laurel Sutherlin, porte-parole du RAN, sur les positions "
+"des banques par rapport au bouleversement climatique :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:56
+msgid ""
+"‘This report makes it clear which institutions are most responsible for "
+"endangering our collective future. We hope readers will use this information "
+"as a tool and join the growing international movement mobilizing people and "
+"piling pressure on the financial sector to stop funneling hundreds of "
+"billions of dollars into the fossil fuel industry."
+msgstr ""
+"Ce rapport indique clairement quelles sont les institutions les plus "
+"responsables mettant en danger notre avenir collectif. Nous espérons que les "
+"lecteurs utiliseront ces informations comme un outil, et rejoindront ce "
+"mouvement international grandissant de citoyens qui se mobilisent, et font "
+"pression sur le secteur financier pour qu'il cesse d'injecter des centaines "
+"de milliards de dollars dans l'industrie fossile."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:58
+msgid ""
+"‘In particular, we hope people will lend their support and solidarity to the "
+"many Indigenous and community-led resistance efforts directly confronting "
+"the human impact of big banks' investment decisions. For example, the "
+"campaigns to stop projects concerning the Line 3, Keystone XL and Coastal "
+"GasLink pipelines in the US, or the exploitation of Indigenous territories "
+"in the Amazon.’"
+msgstr ""
+"\"Nous espérons surtout que les gens feront preuve de soutien et de "
+"solidarité à l'égard des luttes menées par les communautés, et les "
+"populations autochtones directement touchées par les décisions "
+"d'investissement des grandes banques. Les campagnes visant à stopper les "
+"projets concernant les gazoducs Line 3, Keystone XL et Coastal GasLink aux "
+"États-Unis, ou l'exploitation des terres des peuples autochtones en "
+"Amazonie, par exemple.\""
+
+#. type: Title ##
+#: 2020-09-16-ethical-banks.md:59
+#, no-wrap
+msgid "Why is this so bad?"
+msgstr "En quoi est-ce si grave ?"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:62
+msgid ""
+"By investing in or lending money to the fossil fuels industry, these "
+"unethical banks are funding the continued mining and burning of oil, coal "
+"and gas. When these materials are burned, they release greenhouse gases that "
+"steadily increase temperatures on earth. These temperature increases lead to "
+"drought, floods, extreme weather and more."
+msgstr ""
+"En investissant ou en prêtant de l'argent à l'industrie fossile, ces banques "
+"non éthiques financent la poursuite de l'extraction et de la combustion du "
+"pétrole, du charbon et du gaz. Lorsque ces matériaux sont brûlés, ils "
+"libèrent des gaz à effet de serre qui font augmenter la température moyenne "
+"globale sur terre. Ces hausses de température entraînent sécheresses, "
+"inondations, phénomènes météorologiques extrêmes..."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:64
+msgid ""
+"For anybody who is concerned about the climate crisis, RAN’s report is "
+"incredibly bad news."
+msgstr ""
+"Pour qui se sent concerné par la crise climatique, le rapport du RAN est "
+"vraiment une très mauvaise nouvelle."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:66
+msgid ""
+"![Grey office building with classical pillars](/assets/uploads/a6d10c08-"
+"e8d9-4dbe-b2b9-e156df669a67.jpg)"
+msgstr ""
+"![Grey office building with classical pillars](/assets/uploads/a6d10c08-"
+"e8d9-4dbe-b2b9-e156df669a67.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:68
+#, no-wrap
+msgid "*Etienne Martin,* *[Unsplash](https://unsplash.com/photos/2_K82gx9Uk8)*\n"
+msgstr "*Etienne Martin,* *[Unsplash](https://unsplash.com/photos/2_K82gx9Uk8)*\n"
+
+#. type: Title ##
+#: 2020-09-16-ethical-banks.md:69
+#, no-wrap
+msgid "Take back your power"
+msgstr "Reprenons nos pouvoirs"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:72
+msgid ""
+"So, what power do we have to reduce fossil fuel financing? As consumers "
+"living in capitalist societies, we have almost all the power – but we’ve "
+"given It away. It is up to us to rediscover our power and harness it for "
+"good causes."
+msgstr ""
+"De quels pouvoirs disposons-nous donc pour réduire les montants investis "
+"dans l'industrie fossile ? En tant que consommateurs au sein de sociétés "
+"capitalistes, nous avons presque tous les pouvoirs - mais nous y avons "
+"renoncé. Il ne tient qu'à nous de nous réapproprier ces pouvoirs, et de les "
+"employer à de bonnes causes."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:74
+msgid ""
+"I spoke to Ernst-Jan Kuiper, a Climate Campaigner at BankTrack (and the "
+"national representative for Extinction Rebellion Netherlands) who is an "
+"expert in ethical banking matters:"
+msgstr ""
+"J'ai discuté avec Ernst-Jan Kuiper, un responsable de la campagne sur le "
+"climat de BankTrack (et coordinateur national au sein d' Extinction "
+"Rebellion Pays Bas) qui est expert en matière d'éthique bancaire :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:76
+msgid ""
+"‘In almost every western country, consumers can switch to an ethical bank. "
+"Banks do not have a legal obligation to tell their customers how they make "
+"investments or who they finance. However, they could be much more open than "
+"they are, as we can see from some ethical banks that publish full details of "
+"all their business customers.’"
+msgstr ""
+"\"Dans presque tous les pays occidentaux, les consommateurs peuvent opter "
+"pour une banque éthique. Les banques n'ont pas l'obligation légale de dire à "
+"leurs clients dans quoi elles investissent, ni qui elles financent. "
+"Néanmoins, elles pourraient être beaucoup plus transparentes qu'elles ne le "
+"sont, comme c'est le cas de certaines banques éthiques qui publient tous les "
+"informations relatives à leurs partenaires commerciaux.\""
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:78
+msgid ""
+"A bank’s power lies in having financial knowledge and expertise that we do "
+"not. Banks can make this topic confusing and it benefits them to do so. "
+"Luckily, Ernst also has some brilliant clarity to offer amongst this maze of "
+"confusion:"
+msgstr ""
+"Une banque est puissante dans la mesure où elle possède des connaissances et "
+"expertises financières que nous n'avons pas. Les banques savent rendre ce "
+"sujet confus, et elles en tirent avantage. Heureusement, Ernst a lui aussi "
+"des lumières à apporter pour éclairer ces méandres :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:80
+msgid ""
+"‘If a bank does not clearly state that it does not finance the fossil fuel "
+"industry, then you can assume that it does.’"
+msgstr ""
+"\"Si une banque ne stipule pas clairement qu'elle ne finance pas l'industrie "
+"fossile, on peut juste supposer qu'elle le fait.\""
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:82
+msgid "This advice is golden and I urge you to remember it."
+msgstr "C'est le conseil que je vous invite à retenir !"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:84
+msgid ""
+"![Crowds of people walking over a busy zebra crossing crosswalk](/assets/"
+"uploads/9c2874e3-5a40-4400-b6f3-0c8675d93529.jpg)"
+msgstr ""
+"![Crowds of people walking over a busy zebra crossing crosswalk](/assets/"
+"uploads/9c2874e3-5a40-4400-b6f3-0c8675d93529.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:86
+#, no-wrap
+msgid "*Ryoji Iwata, [Unsplash](https://unsplash.com/photos/IBaVuZsJJTo)* \n"
+msgstr "*Ryoji Iwata, [Unsplash](https://unsplash.com/photos/IBaVuZsJJTo)* \n"
+
+#. type: Title ##
+#: 2020-09-16-ethical-banks.md:87
+#, no-wrap
+msgid "The 5 steps to positive action"
+msgstr "Les 5 étapes pour passer à l'action"
+
+#. type: Title ###
+#: 2020-09-16-ethical-banks.md:89
+#, no-wrap
+msgid "1. Investigate your bank"
+msgstr "1. Enquêter sur sa banque"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:92
+msgid ""
+"I have mentioned some already, but there are many online tools and campaign "
+"groups that might provide information about your bank. They can help you to "
+"figure out if you are using an ethical bank or not. Here are some useful "
+"links:"
+msgstr ""
+"J'en ai déjà mentionné quelques-uns, mais il existe de nombreux outils en "
+"ligne, et des campagnes qui pourraient vous fournir des informations sur "
+"votre banque, et vous aider à évaluer si vous adhérez à une banque éthique "
+"ou non. Voici quelques liens utiles :"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:94
+msgid ""
+"[](http://www.banktrack.org/)[www.banktrack.org](http://www.banktrack.org)"
+msgstr ""
+"[](http://www.banktrack.org/)[www.banktrack.org](http://www.banktrack.org)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:97
+#, no-wrap
+msgid ""
+"  Bank Track keeps records for hundreds of banks around the world, including ‘dodgy deals’ (and good bank news, too)\n"
+"* [www.marketforces.org.au](http://www.marketforces.org.au)\n"
+msgstr ""
+"  Bank Track tient le compte des registres de centaines de banques dans le monde entier, y compris en ce qui concerne les \"transactions douteuses\", et des bonnes nouvelles du système bancaire aussi. \n"
+"* [www.marketforces.org.au](http://www.marketforces.org.au)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:100
+#, no-wrap
+msgid ""
+"  Market Forces primarily investigates Australian banks but also conducts research in Indonesia, Japan, Singapore and Vietnam, as well as offering excellent practical advice\n"
+"* [](http://www.reclaimfinance.org/)[www.reclaimfinance.org](http://www.reclaimfinance.org)\n"
+msgstr ""
+"  Market Forces examine principalement les banques en Australie, mais poursuit aussi ses recherches en Indonésie, au Japon, à Singapour et au Vietnam, et propose d'excellents conseils pratiques\n"
+"* [](http://www.reclaimfinance.org/)[www.reclaimfinance.org](http://www.reclaimfinance.org)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:103
+#, no-wrap
+msgid ""
+"  Reclaim Finance specialises in highlighting the good, the bad and the ugly of the French financial system, including a tool that explains banks’ policies related to coal mining\n"
+"* [](http://www.thegoodshoppingguide.com/)[www.thegoodshoppingguide.com](http://www.thegoodshoppingguide.com)\n"
+msgstr ""
+"  Reclaim Finance s'est spécialisé dans l'exposition des bons, des mauvais et des affreux côtés du système financier français, et  propose un outil qui énonce les politiques des banques en matière d'extraction du charbon\n"
+"* [](http://www.thegoodshoppingguide.com/)[www.thegoodshoppingguide.com](http://www.thegoodshoppingguide.com)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:106
+#, no-wrap
+msgid ""
+"  This London-based organisation supplies a very simple and user-friendly UK banks comparison guide on its website\n"
+"* [www.fossilfreefunds.org](https://fossilfreefunds.org/)\n"
+msgstr ""
+"  Cette organisation basée à Londres propose sur son site web un guide comparatif très simple et accessible des banques britanniques\n"
+"* [www.fossilfreefunds.org](https://fossilfreefunds.org/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:108
+#, no-wrap
+msgid "  If you have money invested in a mutual fund in the USA, Fossil Free Funds is a tool that rates the options to help you can make the best choice\n"
+msgstr "  Si vous avez de l'argent dans un fonds d'investissement aux États-Unis, Fossil Free Funds est un outil qui évalue les différentes options pour vous aider à faire le meilleur choix\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:110
+msgid ""
+"You could also talk directly to your bank. My bank in England is NatWest, so "
+"I checked its website. I couldn’t find anything there that helped me to "
+"understand what happens to my money, so I called the NatWest customer "
+"service line:"
+msgstr ""
+"Vous pouvez également en parler directement à votre banque. Ma banque en "
+"Angleterre est NatWest, j'ai donc consulté leur site web. Je n'y ai rien "
+"trouvé indiquant ce qu'il advenait de mon argent, alors j'ai appelé le "
+"service clientèle de NatWest :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:112
+msgid "Me: Hello, I would like to know what NatWest is doing with my money."
+msgstr "Moi : Bonjour, je voudrais savoir ce que NatWest fait de mon argent."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:114
+msgid "NatWest: Hello. What do you mean?"
+msgstr "NatWest : Bonjour. Qu'est-ce que vous voulez dire ?"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:116
+msgid ""
+"Me: I have money in several accounts with you, which you use to invest and "
+"lend to companies and projects. Is that right?"
+msgstr ""
+"Moi : J'ai de l'argent sur plusieurs comptes chez vous, que vous investissez "
+"dans des projets, que vous prêtez à des grands groupes, c'est bien ça ?"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:118
+msgid "NW: …yes, that’s right."
+msgstr "NW : ...oui, c'est exact."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:120
+msgid ""
+"Me: I would like to know what those companies and projects are, so that I "
+"can understand what my money is being used for."
+msgstr ""
+"Moi : J'aimerais savoir quelles sont ces entreprises et ces projets pour "
+"comprendre à quoi sert mon argent."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:122
+msgid "NW: Ok… please hold while I try to find out who to transfer you to…"
+msgstr ""
+"NW : Mmm... ne quittez pas, j'essaie de vous mettre en contact avec "
+"quelqu'un…"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:124
+msgid ""
+"This phone call was difficult, presumably because NatWest (and probably a "
+"lot of banks) does not get asked questions like this by its customers. "
+"Talking directly to your bank about this subject is complicated, but at "
+"least they will know that you are concerned – and that’s a fantastic way to "
+"speed up the change that we all desperately need."
+msgstr ""
+"Ce n'a pas été un appel facile, d'abord parce que les clients de NatWest (et "
+"de la plupart des banques sans doute) ne posent pas ce genre de questions. "
+"En parler directement à votre banque est délicat, mais au moins ils sauront "
+"que vous vous en inquiétez, et c'est un excellent moyen d'accélérer le "
+"changement dont nous avons tous désespérément besoin."
+
+#. type: Title ###
+#: 2020-09-16-ethical-banks.md:125
+#, no-wrap
+msgid "2. Don’t be intimidated"
+msgstr "2. Ne pas se laisser intimider"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:128
+msgid ""
+"Do you feel silly asking your bank what they are doing with your money? "
+"That’s totally normal! I felt quite silly. But without our money, banks "
+"simply would not exist. They serve us, so they should answer our questions. "
+"In my case, NatWest eventually asked me to email its Communications and "
+"Corporate Affairs department. This is the email I sent:"
+msgstr ""
+"Vous n'êtes pas à l'aise avec le fait de demander à votre banque ce qu'elle "
+"fait de votre argent ? C'est tout à fait normal ! Je n'en menais pas large "
+"non plus, mais sans notre argent, les banques n'existeraient tout simplement "
+"pas. Elles proposent un service et se doivent donc de répondre à nos "
+"questions. En ce qui me concerne, NatWest m'a finalement conseillé d'envoyer "
+"un e-mail au service de communication. Le voici :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:138
+#, no-wrap
+msgid ""
+"> Dear XXX,\n"
+">\n"
+"> Thank you for your time on the phone earlier today. I have been a NatWest account holder for most of my life and I recently realised that I don't know what NatWest uses my money for.\n"
+">\n"
+"> I would like to know, but I'm struggling to find information about it on the NatWest website. Can you please tell me what NatWest uses my money for?\n"
+">\n"
+"> Yours sincerely,\n"
+">\n"
+"> Neil\n"
+msgstr ""
+"> Cher XXX,\n"
+">\n"
+"> Suite à notre conversation téléphonique, je vous remercie du temps que vous m'avez accordé. J'ai eu de l'argent sur des comptes chez NatWest pendant presque toute ma vie, et je me suis récemment rendu compte que je ne savais pas ce que NatWest faisait de mon argent.\n"
+">\n"
+"> J'aimerais bien le savoir, mais j'ai du mal à trouver des informations à ce sujet sur votre site web. Pourriez-vous me renseigner, et me dire à quoi NatWest utilise mon argent ?\n"
+">\n"
+"> Cordialement,\n"
+">\n"
+"> Neil\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:140
+msgid ""
+"This began a long but informative email conversation with NatWest, which is "
+"excellent. The information NatWest shared with me included its annual "
+"report, as well as links to many other documents. I am not an expert and "
+"this information was confusing at first, so I chatted about it with a friend "
+"who works in finance. If you know anybody with knowledge of the banking "
+"industry, talk to them. You will learn a lot and knowledge is power."
+msgstr ""
+"Ce fut le début d'un long, mais très intéressant échange de mails avec "
+"NatWest. Des informations dont le rapport annuel de NatWest m'ont été "
+"communiquées, ainsi que des liens vers de nombreux autres documents. Je ne "
+"suis pas un expert, et n'y comprenait pas tout au début, mais j'en ai parlé "
+"avec un ami qui travaille dans la finance. Si vous connaissez quelqu'un qui "
+"connaît le secteur bancaire, parlez-en avec lui. Vous apprendrez beaucoup de "
+"choses, et la connaissance est un pouvoir."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:142
+msgid ""
+"![Smoke rising from a factory in a green field](/assets/uploads/image7i.jpg)"
+msgstr ""
+"![Smoke rising from a factory in a green field](/assets/uploads/image7i.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:144
+#, no-wrap
+msgid "*Johannes Plenio, [Unsplash](https://unsplash.com/photos/5_9inhy4NSE)*\n"
+msgstr "*Johannes Plenio, [Unsplash](https://unsplash.com/photos/5_9inhy4NSE)*\n"
+
+#. type: Title ###
+#: 2020-09-16-ethical-banks.md:145
+#, no-wrap
+msgid "3. Don’t let them distract you"
+msgstr "3. Ne pas se laisser distraire"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:148
+msgid ""
+"Many banks are now making a big effort to be ‘green’ and ‘sustainable’, "
+"which is a distraction from the purposes of this article: you simply want to "
+"know if your bank is using your money to fund activities that contribute to "
+"the climate crisis."
+msgstr ""
+"Beaucoup de banques s'efforcent maintenant de paraître \"écolo\" et "
+"\"durables\", ce qui détourne l'attention du sujet de cet article : vous "
+"voulez simplement savoir si votre banque utilise votre argent pour financer "
+"des activités qui contribuent à la crise écologique et climatique."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:150
+msgid ""
+"Here are some examples of the distraction tactics that NatWest’s "
+"Communications and Corporate Affairs department used while we were emailing "
+"each other:"
+msgstr ""
+"Voici quelques exemples de tactiques de disversion utilisées par le service "
+"de Communications de NatWest tirés de notre échange d'emails :"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:152
+msgid ""
+"We don't publish a list of all the companies we lend money to, however we do "
+"publish our Environmental, Social and Ethical policies, which clarify "
+"Prohibited and Restricted areas of lending across a number of sectors"
+msgstr ""
+"Nous ne publions pas la liste de toutes les entreprises auxquelles nous "
+"prêtons de l'argent, mais nous publions nos directives environnementales, "
+"sociales et éthiques, qui précisent que les prêts sont interdits ou limités "
+"dans un certain nombre de secteurs."
+
+#. type: Bullet: '  * '
+#: 2020-09-16-ethical-banks.md:156
+msgid ""
+"This is a distraction: I want to know how much money NatWest lends to "
+"particular industries, but instead it’s describing its positive policies to "
+"me."
+msgstr ""
+"C'est faire diversion : Je veux savoir combien d'argent NatWest prête à des "
+"secteurs en particulier, mais on me répond à côté, en soulignant les "
+"directives positives prises par la banque."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:156
+#, no-wrap
+msgid ""
+"  * This is not an answer to my original question.\n"
+"* NatWest will provide an additional £20bn in funding and financing for Climate and Sustainable finance between now and 2022\n"
+msgstr ""
+"  * Cela ne répond pas à ma question initiale.\n"
+"* NatWest investira 20 milliards de livres supplémentaires pour financer des projets climat et développement durable d'ici 2022.\n"
+
+#. type: Bullet: '  * '
+#: 2020-09-16-ethical-banks.md:160
+msgid ""
+"This is great news. If NatWest is able to describe these figures to me, "
+"however, why can’t NatWest give me any figures on how much it has lent to "
+"companies in the gas, oil or coal industries?"
+msgstr ""
+"Une excellente nouvelle ! Mais si NatWest peut me fournir ces chiffres, "
+"pourquoi ne peut-on pas me donner de chiffres sur les sommes prêtées aux "
+"industries du gaz, du pétrole ou du charbon ?"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:160
+#, no-wrap
+msgid ""
+"  * This is not an answer to my original question\n"
+"* We are making our own operations net carbon zero in 2020 and climate positive by 2025\n"
+msgstr ""
+"  * Cela ne répond pas à ma question initiale.\n"
+"* Nous travaillons à ce que nos opérations atteignent la neutralité carbone en 2020.\n"
+
+#. type: Bullet: '  * '
+#: 2020-09-16-ethical-banks.md:162
+msgid ""
+"This is also great news, but this is not an answer to my original question"
+msgstr ""
+"Ça aussi c'est une excellente nouvelle ma foi, mais cela ne répond toujours "
+"pas à ma question."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:164
+msgid ""
+"Twenty billion pounds in funding and finance for ‘climate and sustainable "
+"finance’ by 2022 and net carbon zero operations by 2020 are both good "
+"policies. But if my bank is also pumping billions of pounds into gas, oil "
+"and coal, it is still financing the climate crisis."
+msgstr ""
+"Vingt milliards de livres investis pour \"le climat et le financement durable"
+"\" d'ici 2022, et des opérations neutres en carbone d'ici 2020 sont certes "
+"des directives fort louables, mais en injectant aussi des milliards de "
+"livres dans le gaz, le pétrole et le charbon, ma banque continue à financer "
+"la crise climatique."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:166
+msgid ""
+"In general, be wary of the term ‘sustainable’. For example, a sustainable "
+"bank could say ‘we are sustainable because we recycle all of our waste and "
+"use solar energy to power our offices’. If that bank is also helping others "
+"to extract fossil fuels however, it might as well put its solar panels in a "
+"cave on the moon. ‘Ethical’ can be a more reliable term, especially when "
+"investigating banks."
+msgstr ""
+"En règle générale, méfions-nous du terme \"durable\". Une banque durable "
+"pourrait par exemple affirmer \"nous sommes une banque durable, car nous "
+"recyclons tous nos déchets, et que nos bureaux sont alimentés par de "
+"l'énergie solaire .\" Mais si cette banque collabore avec d'autres banques à "
+"financer des activités extractivistes, elle pourrait tout aussi bien placer "
+"ses panneaux solaires dans une grotte sur la lune. On peut se fier un peu "
+"plus au terme \"éthique\", surtout lorsque l'on se renseigne sur des banques."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:168
+msgid ""
+"When you begin talking to your bank about this, I advise saying nothing "
+"about the climate crisis or fossil fuels. You simply want to know which "
+"sectors your bank is financing with your money. When I first called NatWest, "
+"I mentioned the climate crisis. I really regretted saying this, because they "
+"simply began trying to distract me with their environmentally-friendly "
+"activities."
+msgstr ""
+"Quand vous commencerez à en parler à votre banque, je vous conseillerais de "
+"ne pas mentionner d'emblée la crise climatique, les énergies fossiles. Vous "
+"voulez simplement savoir quels sont les secteurs financés par votre banque, "
+"avec votre argent. Lorsque j'ai appelé NatWest pour la première fois, j'ai "
+"parlé de crise climatique, et je l'ai vraiment regretté, parce qu'ils ont "
+"juste essayé de faire diversion avec leurs activités respectueuses de "
+"l'environnement."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:170
+msgid ""
+"I think banks would like their customers to be confused about these matters. "
+"If you’re confused, it’s more difficult to challenge your bank. I know "
+"NatWest is much, much better than some banks, but the environment is "
+"certainly not one of its primary concerns. For example:"
+msgstr ""
+"Je pense que les banques préfèrent maintenir leurs clients dans le flou à ce "
+"sujet. Si elles ne sont pas clairement énoncées, il est plus difficile de "
+"dénoncer les pratiques d'une banque. Je sais que NatWest fait beaucoup, "
+"beaucoup mieux que certaines banques, mais l'environnement n'est certes pas "
+"une de ses principales préoccupations. Par exemple :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:172
+msgid ""
+"NatWest will stop lending to and underwriting companies with more than 15% "
+"of activities related to coal, unless they have a credible transition plan "
+"in line with 2015 Paris Agreement by end of 2021; full phase-out from coal "
+"by 2030."
+msgstr ""
+"NatWest va arrêter les prêts et financements d'entreprises dont les "
+"activités sont liées au charbon à plus de 15 %, à moins qu'elles ne "
+"disposent d'un plan de transition crédible conforme à l'accord de Paris de "
+"2015 d'ici fin 2021 ; stipulant l'arrêt complet du recours au charbon d'ici "
+"2030."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:174
+msgid ""
+"NatWest will stop lending to and underwriting major oil and gas producers "
+"unless they have a credible transition plan in line with the 2015 Paris "
+"Agreement by the end of 2021."
+msgstr ""
+"NatWest va arrêter les prêts et financements de gros groupes producteurs de "
+"gaz et de charbon, à moins qu'ils ne disposent d'un plan de transition "
+"crédible conforme à l'accord de Paris de 2015 d'ici fin 2021."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:176
+msgid ""
+"After several phone conversations and two long and complicated emails, these "
+"extracts show NatWest finally telling me that it lends money to the fossil "
+"fuels industry. Not only that, but NatWest is not in a very big hurry to "
+"stop this lending. I finally have a partial answer to my original question. "
+"I don’t think NatWest is an ethical bank."
+msgstr ""
+"Au terme de plusieurs échanges téléphoniques, et d'emails longs et "
+"compliqués, NatWest consent enfin à réveler que non seulement elle prête de "
+"l'argent à l'industrie des combustibles fossiles, mais qu'en plus NatWest "
+"n'est pas très pressée de mettre fin à ces prêts. Cela répond finalement en "
+"partie à ma question initiale, et je ne pense pas donc pas que NatWest soit "
+"une banque éthique."
+
+#. type: Title ###
+#: 2020-09-16-ethical-banks.md:177
+#, no-wrap
+msgid "4. Find an ethical bank"
+msgstr "4. Trouver une banque éthique"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:180
+msgid ""
+"Whether or not you are satisfied with your bank’s activities is completely "
+"your decision. I hope I have shown that there are many things to consider "
+"and there are no simple answers."
+msgstr ""
+"Libre à vous de décider si les activités de votre banque vous conviennent. "
+"J'espère que j'ai pu exposé le fait qu'il y a plusieurs choses à prendre en "
+"compte, et qu'il n'y a pas de réponses simples."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:182
+msgid ""
+"If you do decide to find a more ethical bank and move your money, it can be "
+"quite challenging, depending on where you live."
+msgstr ""
+"Si vous décidez de chercher une banque plus éthique et de transférer votre "
+"argent, cela peut s'avérer un peu difficile en fonction de là où vous vivez."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:184
+msgid ""
+"For example, I am temporarily living in Australia and I needed to open a "
+"bank account. I used campaign group [Market Forces’ step-by-step guide]"
+"(https://www.marketforces.org.au/wp-content/uploads/2019/09/How-to-Switch-"
+"Banks-and-Make-it-Count.pdf) to find [Australia Bank](https://www.bankaust."
+"com.au/personal/). On its website, Australia Bank clearly states that:"
+msgstr ""
+"Par exemple, je vis temporairement en Australie, et j'avais besoin d'ouvrir "
+"un compte bancaire. J'ai consulté [le guide de Market Forces](https://www."
+"marketforces.org.au/wp-content/uploads/2019/09/How-to-Switch-Banks-and-Make-"
+"it-Count.pdf) pour en savoir plus sur [Australia Bank](https://www.bankaust."
+"com.au/personal/). Sur son site web, Australia Bank indique clairement :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:186
+msgid ""
+"We're working to create a healthier planet by refusing to put money into the "
+"fossil fuel industry. It's an important part of what makes us a responsible "
+"bank, and why we're recommended by fossil fuel divestment advocate Market "
+"Forces as a green banking alternative."
+msgstr ""
+"Nous œuvrons pour une planète plus saine en refusant d'investir dans "
+"l'industrie fossile. C'est un facteur important qui fait de nous une banque "
+"responsable, et c'est pourquoi 'Market Forces' qui milite pour le "
+"désinvestissement des secteurs de l'industrie fossile nous recommande, en "
+"tant qu'alternative bancaire 'verte'."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:188
+msgid ""
+"Simple! Unfortunately, it was difficult to find similar banking solutions "
+"for many other countries. That does not mean that there are no solutions in "
+"your local area, but you will need to do some research."
+msgstr ""
+"Aussi simple que ça ! Malheureusement, il m'a été difficile de trouver des "
+"alternatives bancaires similaires pour de nombreux autres pays. Cela ne veut "
+"pas dire qu'il n'existe pas de solutions dans votre pays, mais que vous "
+"devrez faire quelques recherches."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:190
+msgid ""
+"Here are some leads, ideas and inspiration to help you find an ethical bank:"
+msgstr ""
+"Quelques pistes et idées pour vous aider à trouver une banque éthique :"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:192
+msgid "[www.gabv.org](http://www.gabv.org/)"
+msgstr "[www.gabv.org](http://www.gabv.org/)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:194
+#, no-wrap
+msgid "  The Global Alliance for Banking on Values represents 62 financial institutions and 16 strategic partners in Asia, Africa, Australia, Latin America, North America and Europe\n"
+msgstr "  La _Global Alliance for Banking on Values_ représente 62 institutions financières, et 16 partenaires stratégiques en Asie, en Afrique, en Australie, en Amérique latine, en Amérique du Nord et en Europe\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:197
+#, no-wrap
+msgid ""
+"  Each member is committed to delivering sustainable economic, social and environmental development through finance\n"
+"* [www.greenamerica.org/getabetterbank](http://www.greenamerica.org/getabetterbank)\n"
+msgstr ""
+"  Chaque membre s'engage à un développement économique, social et environnemental durable via son système financier\n"
+"* [www.greenamerica.org/getabetterbank](http://www.greenamerica.org/getabetterbank)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:200
+#, no-wrap
+msgid ""
+"  A location-based ethical banking tool for consumers in the USA\n"
+"* [www.switchit.money](https://www.switchit.money/)\n"
+msgstr ""
+"  Un outil de localisation de banque éthique pour les consommateurs aux États-Unis\n"
+"* [www.switchit.money](https://www.switchit.money/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:203
+#, no-wrap
+msgid ""
+"  A very easy-to-use tool for UK residents who wish to know if their bank’s activities support a sustainable future or not\n"
+"* [www.ethicalconsumer.org](https://www.ethicalconsumer.org/)\n"
+msgstr ""
+"  Un outil très facile d'utilisation à destination des britanniques qui souhaitent savoir si les activités de leurs banques s'inscrivent ou non dans un avenir durable\n"
+"* [www.ethicalconsumer.org](https://www.ethicalconsumer.org/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:206
+#, no-wrap
+msgid ""
+"  This UK-based news source, campaign group and magazine publisher has been showing consumers how to make ethical choices since 1989. Its annual subscription costs £29.95, but you’ll receive lots of resources in return\n"
+"* [Triodos](https://www.triodos.com/)\n"
+msgstr ""
+"  Cette source d'information, groupe de campagne et éditeur de magazine basé au Royaume-Uni accompagne les consommateurs dans des choix éthiques depuis 1989. L'abonnement annuel est de 29,95 £, mais vous recevrez de nombreuses informations en échange\n"
+"* [Triodos](https://www.triodos.com/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:209
+#, no-wrap
+msgid ""
+"  This ethical Dutch bank operates in the Netherlands, Belgium, the UK, Spain and Germany and it has an agency in France\n"
+"* [The Co-Operative Bank](https://www.co-operativebank.co.uk/)\n"
+msgstr ""
+"  On trouve cette banque éthique néerlandaise aux Pays-Bas, en Belgique, au Royaume-Uni, en Espagne, en Allemagne et elle a aussi une agence en France\n"
+"* [La banque coopérative](https://www.co-operativebank.co.uk/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:212
+#, no-wrap
+msgid ""
+"  This ethical bank operates in the UK, although its 2013 purchase by USA hedge funds left a proportion of customers unhappy\n"
+"* [GLS Bank](https://www.gls.de/)\n"
+msgstr ""
+"  Cette banque éthique est basée au Royaume-Uni, bien que son rachat en 2013 par des fonds spéculatifs américains ait déplu à une partie de ses clients \n"
+"* [GLS Bank](https://www.gls.de/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:215
+#, no-wrap
+msgid ""
+"  Ethical German bank\n"
+"* [La Nef](https://www.lanef.com/)\n"
+msgstr ""
+"  La banque éthique allemande \n"
+"* [La Nef](https://www.lanef.com/)\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:217
+#, no-wrap
+msgid "  Ethical French bank\n"
+msgstr "  La banque éthique française\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:219
+msgid ""
+"![Yellow diggers working in a quarry](/assets/uploads/6857b2b8-81a5-4df1-"
+"bbdf-24590e4b47df.jpg)"
+msgstr ""
+"![Yellow diggers working in a quarry](/assets/uploads/6857b2b8-81a5-4df1-"
+"bbdf-24590e4b47df.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:221
+#, no-wrap
+msgid "*Dominik Vanyi, [Unsplash](https://unsplash.com/photos/Mk2ls9UBO2E)* \n"
+msgstr "*Dominik Vanyi, [Unsplash](https://unsplash.com/photos/Mk2ls9UBO2E)* \n"
+
+#. type: Title ###
+#: 2020-09-16-ethical-banks.md:222
+#, no-wrap
+msgid "5. Tell your old bank why you left"
+msgstr "5. Dire à sa banque pourquoi on la quitte"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:225
+msgid ""
+"Market Forces – the Australian campaign group that I mentioned earlier – "
+"does a brilliant job of explaining why this final step is also the most "
+"important step:"
+msgstr ""
+"Market Forces, le groupe de campagne australien que j'ai mentionné plus haut "
+"- fait un travail remarquable pour expliquer pourquoi cette dernière étape "
+"est aussi la plus importante :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:227
+#, no-wrap
+msgid "> If your bank doesn’t know why you’re closing your account and taking your money elsewhere, they can’t be expected to know how they need to change. Contact them before you start the bank switching process to let them know why you’re unhappy about their support of the fossil fuel industry. When they write back, keep up the dialogue – it only helps to emphasise that you care about the issue. Throughout the process, and when you leave the bank, contact them again to remind them why.\n"
+msgstr "> Si votre banque ne sait pas pourquoi vous fermez votre compte, et transférez votre argent ailleurs, on ne peut pas s'attendre à ce qu'elle comprenne en quoi elle doit changer. Contactez-les avant de commencer à changer de banque pour leur exprimer votre désaccord quant aux financements de l'industrie fossile. Quand ils vous répondront, poursuivez le dialogue, même une fois votre compte fermé- cela ne fera que leur rappeler, et souligner l'intérêt que vous portez à la question.\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:229
+msgid ""
+"The more that customers speak up, the more the bank will be convinced that "
+"it is not worth lending to fossil fuels anymore."
+msgstr ""
+"Plus les clients s'exprimeront à ce sujet , plus la banque sera convaincue "
+"qu'elle doit renoncer à financer des activités extractivistes."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:231
+msgid ""
+"If you are already talking to your bank (like I was with Natwest), remember "
+"to tell them that you’re leaving and why. Try to make sure that your reasons "
+"for leaving are recorded somewhere official and in writing. For example, ask "
+"to leave a complaint, state your reasons clearly in a letter or an email, or "
+"perhaps ask to speak to a senior member of staff on the phone. It is very "
+"important to make sure that the most powerful people at your bank receive "
+"your message."
+msgstr ""
+"Si vous êtes déjà en contact avec votre banque (comme moi avec Natwest), "
+"n'oubliez pas de préciser que vous fermez vos comptes, et pour quelles "
+"raisons. Idéalement, faites en sorte que les raisons de votre départ soient "
+"consignées dans un document officiel écrit. Demandez par exemple à déposer "
+"une plainte, exposez clairement vos raisons dans une lettre ou un email, ou "
+"bien demandez à parler à un responsable au téléphone. Il est primordial que "
+"votre message parvienne aux dirigeants de la banque."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:233
+msgid ""
+"If, however, you already know that you want to switch banks and don’t need "
+"to talk to your old bank about its activities, don’t forget to tell them why "
+"you are leaving before you do. Market Forces has excellent resources to "
+"guide you through the process of moving to an ethical bank, including this "
+"letter/email template that you could send to your old bank."
+msgstr ""
+"Néanmoins, si vous avez déjà décidé de changer de banque, et que vous "
+"n'estimez pas le besoin de parler de ses activités à votre ancienne banque, "
+"ne manquez tout de même pas de leur dire pourquoi vous partez. Market Forces "
+"dispose d'excellentes ressources pour vous guider dans ce processus de "
+"passage à une banque éthique, dont ce modèle de lettre/email que vous "
+"pourriez envoyer à votre ancienne banque en l'occurrence."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:235
+msgid ""
+"Even though I’ve included this template, please know that an original letter "
+"you’ve written yourself will always make a bigger impact. Companies develop "
+"workable strategies to deal with a wave of template letters, but these "
+"strategies cannot be applied to original letters. So if you can, take this "
+"letter as inspiration then write your own, because it will be more time-"
+"consuming for your banks and there make a bigger impact:"
+msgstr ""
+"J'inclus ce modèle, mais il va sans dire qu'une lettre que vous auriez vous-"
+"même écrite aura toujours plus d'impact et de poids. Les entreprises "
+"développent des stratégies efficaces pour faire face à des vagues de lettres "
+"types, mais ces stratégies ne sont pas applicables aux courriers "
+"personnalisés. Vous pouvez donc vous inspirer de ce modèle, et rédiger votre "
+"propre lettre. Cela demandera plus de temps à votre banque, et aura un "
+"impact plus fort :"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:249
+#, no-wrap
+msgid ""
+"> To the Sustainability Manager,\n"
+">\n"
+"> I am writing to ensure you are aware of why I have decided to close my bank accounts and leave your bank.\n"
+">\n"
+"> I have become aware of the extent to which your bank is involved with financing fossil fuel projects. Coal and gas are driving an array of unacceptable environmental risks. I don’t want my money helping an institution that is funding such destruction, especially when there is a wealth of clean, renewable energy alternatives available.\n"
+">\n"
+"> I also consider it an economic risk to retain my money with your bank. There is a growing awareness of the fact that fossil fuel assets will become risky investments as the world moves to combat climate change. I do not want my money with a bank that is investing in assets that may soon become stranded, and investing in companies whose value may plummet as the world turns away from fossil fuels.\n"
+">\n"
+"> I am moving my money to ensure my own finances do not support an industry that is polluting the environment, and I hope my action will also make your bank reconsider future investments in the fossil fuel sector. I hope you do not have to receive too many more letters like mine before you realise that investing in fossil fuels is no longer morally responsible or financially viable.\n"
+">\n"
+"> If there is anything you would like to say directly in relation to this letter, you are welcome to write back to me.\n"
+">\n"
+"> Yours sincerely, XXXX\n"
+msgstr ""
+"> Au responsable du développement durable,\n"
+">\n"
+"> Je vous écris pour m'assurer que vous sachiez pourquoi j'ai décidé de fermer mes comptes bancaires, et de quitter votre banque.\n"
+">\n"
+"> J'ai pris conscience du degré d'implication de votre banque dans le financement de projets de l'industrie fossile. L'extraction du charbon et du gaz génère une multitude de risques environnementaux inacceptables. Je ne veux pas que mon argent soit employé par une institution qui finance de telles destructions, surtout alors qu'il existe une multitude d'alternatives d'énergies renouvelables.\n"
+">\n"
+"> Je pense aussi que laisser mon argent dans votre banque représente un risque économique. Il est de plus en plus avéré que les placements liés aux combustibles fossiles deviendront des investissements hasardeux, au fur et à mesure que le monde s'engagera dans la lutte contre le changement climatique. Je ne souhaite pas que mon argent soit placé dans une banque qui investit dans des secteurs qui pourraient bientôt être abandonnés, et dans des entreprises susceptibles de chuter à mesure que le monde se détournera des énergies fossiles.\n"
+">\n"
+"> Je transfère donc mon argent pour m'assurer qu'il ne cautionne pas une industrie qui pollue l'environnement, et j'espère que ma démarche vous amènera également à reconsidérer de futurs investissements dans le secteur des combustibles fossiles. En espérant que vous ne recevrez pas trop de lettres comme la mienne, avant de prendre conscience qu'investir dans l'industrie des combustibles fossiles n'est plus moralement responsable voire financièrement viable.\n"
+">\n"
+"> N'hésitez pas à me répondre si vous aviez quelque chose à ajouter à cette lettre, \n"
+">\n"
+"> Bien cordialement, XXXX\n"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:251
+msgid ""
+"You can find Market Forces’ full, step-by-step guide to switching your bank "
+"at [www.marketforces.org.au/info/switch-banks](https://www.marketforces.org."
+"au/info/switch-banks/). Here is a brief rundown of the steps:"
+msgstr ""
+"Le guide complet de _Market Forces_ pour changer de banque sur leur site : "
+"[www.marketforces.org.au/info/switch-banks](https://www.marketforces.org.au/"
+"info/switch-banks/). Un bref aperçu des étapes :"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Choose a new, ethical bank"
+msgstr "Choisir une nouvelle banque éthique"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Open a new account"
+msgstr "Ouvrir un nouveau compte"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Identify regular transactions"
+msgstr "Identifier les transactions régulières"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "For example, your salary, subscriptions, bills or monthly donations"
+msgstr ""
+"Par exemple, votre salaire, vos abonnements, vos factures ou vos dons "
+"mensuels"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Move regular transactions to your new account"
+msgstr "Déplacer ces opérations courantes vers votre nouveau compte"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid ""
+"Temporarily leave some money in your old bank to cover any regular payments "
+"that might come out before you have fully transferred to your new account"
+msgstr ""
+"Laissez un peu d'argent sur votre ancien compte afin de couvrir d'éventuels "
+"paiements réguliers avant de tout transférer sur votre nouveau compte"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Close your old bank account"
+msgstr "Fermer l'ancien compte bancaire"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Tell your old bank why you are leaving them"
+msgstr "Faire part des raisons du départ à son ancienne banque"
+
+#. type: Bullet: '* '
+#: 2020-09-16-ethical-banks.md:261
+msgid "Share your experience with friends, family and online"
+msgstr "Partager cette expérience avec des amis, des proches, et en ligne"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:263
+msgid ""
+"![Kristen Visbal’s Fearless Girl bronze sculpture outside the New York Stock "
+"Exchange on Wall Street](/assets/uploads/image2e.jpg)"
+msgstr ""
+"![Kristen Visbal’s Fearless Girl bronze sculpture outside the New York Stock "
+"Exchange on Wall Street](/assets/uploads/image2e.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:265
+#, no-wrap
+msgid "*Monjur Hasan, [Unsplash](https://unsplash.com/photos/yjB0IyajERc)*\n"
+msgstr "*Monjur Hasan, [Unsplash](https://unsplash.com/photos/yjB0IyajERc)*\n"
+
+#. type: Title ##
+#: 2020-09-16-ethical-banks.md:266
+#, no-wrap
+msgid "The single most powerful thing an individual can do"
+msgstr "L'action la plus puissante que l'on peut mener individuellement"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:269
+msgid ""
+"Stopping airport expansion, campaigning for renewable energy, or protesting "
+"governments that accept donations from fossil fuel companies are all worthy "
+"and essential causes. They are also all time-consuming and incredibly "
+"challenging. Challenging or even changing your bank, however, is a simpler "
+"activity – and each of us can make a massive difference by joining in."
+msgstr ""
+"Mettre un terme aux extensions d'aéroports, promouvoir les énergies "
+"renouvelables, ou dénoncer les gouvernements qui acceptent des dons de "
+"l'industrie fossile sont autant de causes justes et fondamentales. Ces "
+"luttes sont extrêmement difficiles et chronovores, alors que se renseigner "
+"sur sa banque, voire en changer peut s'avérer plus simple, une action "
+"individuelle que chacun peut entreprendre, et qui pourrait vraiment changer "
+"la donne."
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:271
+msgid "Here’s a recap of those steps to challenging and changing your bank:"
+msgstr ""
+"Petit récapitulatif des étapes à suivre pour réfuter sa banque et en "
+"changer :"
+
+#. type: Bullet: '1. '
+#: 2020-09-16-ethical-banks.md:278
+msgid "Investigate your bank – ask them what they are using your money for"
+msgstr ""
+"Se renseigner sur sa banque - demandez-leur à quoi ils emploient notre argent"
+
+#. type: Bullet: '2. '
+#: 2020-09-16-ethical-banks.md:278
+msgid "Don’t be intimidated"
+msgstr "Ne pas se laisser intimider"
+
+#. type: Bullet: '3. '
+#: 2020-09-16-ethical-banks.md:278
+msgid "Don’t let your bank distract you to avoid answering your questions"
+msgstr ""
+"Ne pas les laisser faire diversion pour éviter de répondre aux questions"
+
+#. type: Bullet: '4. '
+#: 2020-09-16-ethical-banks.md:278
+msgid "Find a new, ethical bank"
+msgstr "Trouver une nouvelle banque éthique"
+
+#. type: Bullet: '5. '
+#: 2020-09-16-ethical-banks.md:278
+msgid "Tell your old bank why you left"
+msgstr "Dire à sa banque pourquoi on la quitte"
+
+#. type: Bullet: '6. '
+#: 2020-09-16-ethical-banks.md:278
+msgid "Share your experience with your friends, family and online"
+msgstr "Partager cette expérience avec des amis, des proches, et en ligne"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:280
+msgid ""
+"Extinction Rebellion has proved that people power can change conversations, "
+"priorities and policies. We the public must change the system, because the "
+"system will not change itself. We have more power than we realise – "
+"especially when it comes to institutions such as banks – and that is a "
+"beautiful thing to remember. Enjoy using your power!"
+msgstr ""
+"Extinction Rebellion a démontré que les citoyens ont le pouvoir d'orienter "
+"les débats, les priorités et les politiques. Nous, les citoyens, devons "
+"changer le système, car le système ne changera pas tout seul. Nous avons "
+"plus de pouvoir que nous n'en avons conscience, surtout vis-à-vis "
+"d'instances comme les banques - et c'est très bon à savoir. Profitons de ce "
+"pouvoir !"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:282
+msgid ""
+"![Climate crisis protest banner](/assets/uploads/64d93e46-228e-41b9-8aab-"
+"cef9ad988ae3.jpg)"
+msgstr ""
+"![Climate crisis protest banner](/assets/uploads/64d93e46-228e-41b9-8aab-"
+"cef9ad988ae3.jpg)"
+
+#. type: Plain text
+#: 2020-09-16-ethical-banks.md:283
+#, no-wrap
+msgid "*Markus Spiske, [Unsplash](https://unsplash.com/photos)*\n"
+msgstr "*Markus Spiske, [Unsplash](https://unsplash.com/photos)*\n"

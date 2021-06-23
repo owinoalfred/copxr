@@ -1,0 +1,149 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-12-13 17:02+0800\n"
+"PO-Revision-Date: 2020-12-30 23:50+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-12-13-cop26-action/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: Extinction Rebellion launches global action calling on world leaders "
+"to\n"
+"  fight for 1.5°C\n"
+"slug: cop26-action\n"
+"date: 2020-12-13 00:24\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/xrcop26_banner2.png\n"
+msgstr ""
+"lang: fr\n"
+"title: Une action internationale d'XR exhortant les dirigeants du monde  \n"
+"  à lutter pour se maintenir sous le seuil des 1.5°C\n"
+"slug: cop26-action\n"
+"date: 2020-12-13 00:24\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/xrcop26_banner2.png\n"
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:15
+msgid "![cop26 banner](/assets/uploads/xrcop26_banner2.png)"
+msgstr "![cop26 banner](/assets/uploads/xrcop26_banner2.png)"
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:17
+msgid ""
+"On December 11th, the eve of the 5th anniversary of the signing of the Paris "
+"Climate Agreement, Extinction Rebellion launched ‘COP26: We Are Watching "
+"You,’ a series of global synchronised projections drawing attention to the "
+"lack of action, missed ambitions and broken promises from world leaders."
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:19
+msgid ""
+"Over several nights, a video was projected in 14 cities across the globe "
+"including Paris, Glasgow, Washington, Buenos Aires, Mumbai and London. The "
+"video carried the message: “COP26: We Are Watching You. Don’t Let Us Down.” "
+"The groups intend to raise awareness to issues in COP26 every month in the "
+"lead up to the Glasgow summit to offer a message of community and courage "
+"during these dark times. The message hopes to stress the deeply "
+"interconnected humanitarian nature of the crisis, a crisis which will "
+"require all countries coming together to find solutions."
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:21
+msgid ""
+"The project was developed by 20 countries, some of them already deeply "
+"affected by climate change. The video focuses on how complex and "
+"interconnected issues caused by climate change are disrupting food security, "
+"livelihoods and homes around the world. The action aims to highlight the "
+"role of COP26 in limiting climate breakdown and compelling governments to "
+"take stronger action towards this. Some famous landmarks that displayed the "
+"projections include the SEC in Glasgow where COP26 will be held, the Newseum "
+"a few blocks from the Capitol in Washington, government and embassy "
+"buildings in London, and the Obelisco in Argentina."
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:23
+msgid ""
+"Cathy Allen from XRCOP stated: *“The 25 meetings of COP have so far only "
+"achieved the Paris Agreement. Though a start in terms of coming together, "
+"the Paris Agreement is not nearly enough to protect humanity. The world is "
+"watching as time runs out. Fires, floods, sea level rise, heat waves, "
+"drought, food insecurity - all these are happening now. But just around the "
+"corner, we can see that much worse is coming. COP26 is a historic "
+"opportunity for a just and fair agreement to control climate heating to 1.5 "
+"degrees Celsius. The COP26 process is under global scrutiny.”*"
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:25
+msgid ""
+"The aim of the Paris Agreement is (to) ‘strengthen the global response to "
+"climate change’ and ‘pursuing efforts to limit the temperature increase to "
+"1.50C above pre-industrial levels’. However, as Antonio Guterres, UN "
+"Secretary General outlined on December 2, 2020, global increase in "
+"temperature is already 1.20C and rising. ‘*In fact emissions are now 62% "
+"higher than they were at the start of COP negotiations in 1990…the world "
+"needs to decrease fossil fuel production by roughly 6 per cent every* *year "
+"between now and 2030. Instead the world is going in the opposite direction – "
+"planning an annual increase of 2 per cent.*’ The Glasgow COP26 faces "
+"significant challenges as, currently, few countries, and no G20 country, "
+"have targets in line with a 1.5OC temperature "
+"rise. (<https://climateactiontracker.org/countries/>) In addition, the "
+"$100billion per year promised in the Paris Agreement for climate finance to "
+"vulnerable countries, is not being met."
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:27
+#, no-wrap
+msgid ""
+"**For footage and photographs, see** "
+"[](https://cloud.extinctionrebellion.in/index.php/s/bQdz5b5zLe2AbDM?path=%2FPress%20Release) "
+"[here](https://cloud.extinctionrebellion.in/index.php/s/bQdz5b5zLe2AbDM?path=%2FPress%20Release)\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:29
+#, no-wrap
+msgid ""
+"**To see the video that was projected, see** "
+"[here](https://cloud.extinctionrebellion.in/index.php/s/bQdz5b5zLe2AbDM?path=%2FPress%20Release) "
+"(will be posted as of December 12)\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:31
+#, no-wrap
+msgid ""
+"**For information on how to get involved, see** "
+"[here](https://www.instagram.com/cop26_extinctionrebellion/)\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-12-13-cop26-action.md:32
+#, no-wrap
+msgid "**Please direct any media enquiries to**: xrcop26hub@protonmail.com\n"
+msgstr ""

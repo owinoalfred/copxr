@@ -1,0 +1,410 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-15 16:36+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:16
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: Does Extinction Rebellion Offer Any Solutions?\n"
+"author: Rob Renouf\n"
+"slug: xr-any-solutions\n"
+"date: 2021-03-12 15:30\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/2021-03-11-xr-any-solutions-image2.png\n"
+"seoImage: /assets/uploads/2021-03-11-xr-any-solutions-image2.png\n"
+"seoTitle: \"\"\n"
+"seoDescription: People sometimes ask why XR doesn’t propose specific solutions\n"
+"  to the climate and ecological emergency - the answer is that it’s a deliberate\n"
+"  choice and it isn’t just because it’s too difficult...\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:18
+msgid ""
+"It’s sometimes asked why Extinction Rebellion (XR) doesn’t set out any "
+"solutions to the climate and ecological emergency. Some critics argue that "
+"highlighting the problems is easy, but that XR isn’t doing the difficult "
+"part: providing the answers. It’s true that attempting to tackle the climate "
+"and ecological emergency is an incredibly complex and challenging task, but "
+"it isn’t an impossible mountain to climb."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:20
+msgid ""
+"The truth is that the solutions already exist - what doesn’t currently exist "
+"is the political will to implement them rapidly enough - changing this is "
+"what XR aims to do. XR is trying to force action, rather than just "
+"highlighting the failure of government and institutions."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:22
+msgid "![](/assets/uploads/2021-03-11-xr-any-solutions-image3.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:24
+#, no-wrap
+msgid "*© XR Jamaica*\n"
+msgstr ""
+
+#. type: Title ##
+#: 2021-03-11-xr-any-solutions-1.md:25
+#, no-wrap
+msgid "We already know what the solutions are"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:28
+msgid ""
+"One reason we’re not proposing solutions is that they’re already well known. "
+"There is little benefit in us trying to reinvent the wheel when deliverable "
+"solutions exist and are [well documented](https://www.un.org/en/un75/climate-"
+"crisis-race-we-can-win)."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:30
+msgid ""
+"We know that climate change is being driven by emissions of greenhouse gases "
+"such as carbon dioxide, and that these are increasing as a result of human "
+"activity. In order to prevent further global warming we need to reduce these "
+"emissions. Organisations like the [Centre for Alternative Technology]"
+"(https://www.cat.org.uk/info-resources/zero-carbon-britain/research-"
+"reports/) in Wales have set out in detail how we can achieve the necessary "
+"reductions in emissions. This will require systemic actions such as [ending "
+"the use of fossil fuels](https://www.nrdc.org/stories/fossil-fuels-dirty-"
+"facts) and individual changes like [reducing our consumption of meat and "
+"dairy](https://www.theguardian.com/environment/2018/may/31/avoiding-meat-and-"
+"dairy-is-single-biggest-way-to-reduce-your-impact-on-earth)."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:32
+msgid ""
+"Another major component of the climate and ecological emergency is the [loss "
+"of biodiversity](https://rebellion.global/blog/2021/01/18/biodiversity-"
+"definition-losing-importance/). We’re currently in the midst of our planet’s "
+"[sixth mass extinction](https://www.un.org/sustainabledevelopment/"
+"blog/2019/05/nature-decline-unprecedented-report/) event and once again the "
+"primary driver for this is human activity. We know that loss of biodiversity "
+"is being caused by things such as loss of habitats, use of chemicals and "
+"climate change. Knowing what’s causing it means we also know exactly what "
+"needs to change in order to prevent it."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:34
+msgid ""
+"The problem isn’t being unaware of the solutions, it’s the dangerous "
+"unwillingness to implement them. This is the problem that XR is addressing."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:36
+msgid "![](/assets/uploads/2021-03-11-xr-any-solutions-image5.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:38
+#, no-wrap
+msgid "*© Shiraaz Mohamed*\n"
+msgstr ""
+
+#. type: Title ##
+#: 2021-03-11-xr-any-solutions-1.md:39
+#, no-wrap
+msgid "You don’t have any solutions*"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:42
+#, no-wrap
+msgid "***(*that I like)***\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:44
+msgid ""
+"When people complain about a lack of solutions, this often translates into "
+"either:"
+msgstr ""
+
+#. type: Title ###
+#: 2021-03-11-xr-any-solutions-1.md:47 2021-03-11-xr-any-solutions-1.md:48
+#, no-wrap
+msgid "“I don’t know enough about this subject”"
+msgstr ""
+
+#. type: Title ###
+#: 2021-03-11-xr-any-solutions-1.md:47 2021-03-11-xr-any-solutions-1.md:54
+#, no-wrap
+msgid "“I don’t like the solutions that exist”"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:51
+msgid ""
+"A quick Google search of “what are the solutions to climate change?” offers "
+"plenty of answers. This obviously comes with the standard health warning "
+"that not everything on the internet is true. However, sticking with "
+"[reputable sources](https://www.un.org/en/climatechange/climate-solutions) "
+"tends to result in similar solutions coming up fairly consistently. These "
+"same suggestions can also be found in numerous books, [articles such as this "
+"one](https://www.nationalgeographic.com/climate-change/how-to-fix-it/index."
+"html), TV programmes and films on the subject. You’re also likely to find "
+"some of them in the environmental action plans of governments and businesses "
+"(albeit, often in a more limited or diluted form than the situation "
+"demands). Greater caution is advisable when looking at these; in some cases "
+"their inclusion stems from a genuine desire to protect the planet, but in "
+"others they’re just [greenwashing](https://www.ethicalconsumer.org/transport-"
+"travel/what-greenwashing). So, the truth is, we know what needs to be done - "
+"absence of solutions isn’t the issue, it’s unwillingness to put them into "
+"practice at the scale and pace that’s required."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:53
+msgid ""
+"XR’s first demand is that governments [Tell the Truth](https://rebellion."
+"global/blog/2020/12/11/tell-the-truth/) about the climate and ecological "
+"emergency. Doing this will help address the problem of people not knowing "
+"enough about the subject. We need as many people as possible to understand "
+"our present situation and the actions needed to prevent it getting worse. "
+"Our second demand is that governments [Act Now](https://rebellion.global/"
+"blog/2020/08/31/act-now-extinction-rebellion-demands/) and take immediate "
+"action on the massive scale that’s required to address the climate and "
+"ecological emergency."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:57
+msgid ""
+"Given the solutions are well documented and many are already being "
+"implemented to some extent, lack of awareness often isn’t the issue. The "
+"problem is that these solutions aren’t ones that many individuals, "
+"politicians or businesses want to hear or implement."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:59
+msgid ""
+"For example, there’s widespread understanding that air travel generates "
+"harmful emissions and that reducing it would be good for the environment. "
+"Research has shown that [a large proportion of these emissions are generated "
+"by a small minority](https://www.theguardian.com/business/2020/nov/17/people-"
+"cause-global-aviation-emissions-study-covid-19). There’s little argument "
+"that the solution requires reductions in air travel and the primary obstacle "
+"is reluctance to do this. This manifests itself not only in the "
+"unwillingness of some individuals to amend their behaviour, but also the "
+"reluctance of governments to incentivise or force change through means such "
+"as frequent flyer levies or other legislation."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:61
+msgid "![](/assets/uploads/2021-03-11-xr-any-solutions-image4.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:63
+#, no-wrap
+msgid "*‘Save the World or Aviation’* *©* *XR Sverige*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:65
+msgid ""
+"It’s a mistake to assume that people in organisations such as XR like these "
+"solutions any more than anyone else does. It may be the case, but sometimes "
+"the only difference is an acceptance of their necessity. This can simply be "
+"the result of a greater appreciation of the terrible consequences of "
+"inaction."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:67
+msgid ""
+"This [interview with an airline pilot](https://southeastasiabackpacker.com/"
+"climate-change-travel/) illustrates how someone can love travelling and be "
+"reliant on the airline industry for their income, yet still recognise the "
+"need for change. Accepting that something needs to happen and liking it are "
+"not the same thing."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:69
+msgid ""
+"Air travel also provides a perfect example of the dangers of being drawn "
+"towards seductive hypothetical solutions that don’t currently exist. There’s "
+"very little prospect of cost-effective low emission airliners being "
+"available anytime soon, yet many people still prefer to focus on this as the "
+"way forward. It may happen in the future, but the time-frame is incompatible "
+"with the speed at which we need to reduce emissions to prevent catastrophic "
+"climate change."
+msgstr ""
+
+#. type: Title ##
+#: 2021-03-11-xr-any-solutions-1.md:70
+#, no-wrap
+msgid "Changing how we think about the climate and ecological emergency"
+msgstr ""
+
+#. type: Title ###
+#: 2021-03-11-xr-any-solutions-1.md:72
+#, no-wrap
+msgid "The glass is half full"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:75
+msgid ""
+"Think of the climate and ecological emergency like an illness: climate "
+"scientists are telling us that our planet is seriously unwell. However, the "
+"good news is that most don’t think it’s terminal (at least not yet) and "
+"there are still plenty of things we can do about it. As a patient, once we’d "
+"got past the initial shock of learning we were ill, we’d probably be very "
+"glad to hear that treatments were available that could save us. It’s also "
+"likely that we’d want to get started with our treatment as soon as possible."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:77
+msgid ""
+"This is exactly the position we’re in with the climate and ecological "
+"emergency, but we’re not responding to it in the same way. Rather than "
+"feeling positive that a cure exists, there’s often a focus on the downsides "
+"of the treatment. Like treatment for a serious illness, solutions to the "
+"climate crisis may have a negative impact on our lives. They may mean that "
+"individuals in wealthier countries are no longer able to lead the same "
+"lifestyles as before; or that governments can no longer rely on the same "
+"cheap, dirty fuel sources. However, these undesirable consequences are much "
+"easier to accept once we recognise the simple truth that they’re necessary "
+"in order to save ourselves and others."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:79
+msgid "![](/assets/uploads/2021-03-11-xr-any-solutions-image2.png)"
+msgstr ""
+
+#. type: Title ###
+#: 2021-03-11-xr-any-solutions-1.md:80
+#, no-wrap
+msgid "Act now"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:83
+msgid ""
+"We know that many people are [already suffering the consequences](https://"
+"www.ucsusa.org/climate/impacts) of the levels of global warming happening "
+"today. However, many still seek to delay action, even though the projected "
+"consequences of doing so are much worse. When a person is diagnosed with "
+"cancer, the aim is normally to treat it as quickly as possible. In most "
+"circumstances people don’t ask how long they can delay treatment or how far "
+"they could allow the illness to progress."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:85
+msgid ""
+"We need to think about climate change in the same way we think about cancer "
+"- there isn't a safe level, which is why we need to take immediate action "
+"before it gets even worse. Another sobering parallel is that we can’t say "
+"with certainty at what point a cure will no longer be possible. There are "
+"incredibly [complex inter-relationships](https://climate.nasa.gov/"
+"nasa_science/science/) in the natural world and potential for climate "
+"feedback loops to become established. This complexity means that it’s "
+"impossible to predict with any confidence when tipping points might occur "
+"that could leave us powerless to prevent further climate change. What we do "
+"know is that delay reduces the chances of a positive outcome and that it "
+"will mean that more extreme action is required."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:87
+msgid ""
+"With a life threatening illness, very few of us would reject existing "
+"treatments and gamble on a better cure being developed in the near future. "
+"Yet this is what we risk by investing too much confidence in new "
+"technologies such as [carbon removal](https://carbonremovalcentre.com/). "
+"Carbon removal is currently unproven at anything like the scale required to "
+"have a real impact on climate change. It may indeed prove to be a solution "
+"in the future, but it’s completely irresponsible to bank on this. If we "
+"think of the climate and ecological emergency like a life threatening "
+"illness, then going with the best solutions currently available [represents "
+"the most prudent way forward](https://www.nature.com/articles/"
+"s41560-019-0365-7?platform=hootsuite&platform=hootsuite&dom=prime&src=syn)."
+msgstr ""
+
+#. type: Title ##
+#: 2021-03-11-xr-any-solutions-1.md:88
+#, no-wrap
+msgid "XR’s role"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:91
+msgid ""
+"We are creating solutions to address inaction on the climate and ecological "
+"emergency - not technical solutions to climate change and loss of "
+"biodiversity, as we already have those."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:93
+msgid "![](/assets/uploads/2021-03-11-xr-any-solutions-image1.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:95
+msgid ""
+"Another reason XR isn’t advocating specific solutions is that our third "
+"demand is for the creation of [citizens' assemblies](https://rebellion."
+"global/blog/2021/01/05/citizens-assembly-climate-change/). A citizens’ "
+"assembly involves a representative cross section of ordinary people learning "
+"about a subject and then coming up with recommendations on the way forward. "
+"Allowing normal people to determine our collective future offers a far "
+"better way forward than relying on politicians fearful of losing votes or a "
+"handful of billionaires to make all the difficult decisions. We believe that "
+"once people are given sufficient information and understand the options, "
+"they’ll be able to determine the best course of action. It isn’t appropriate "
+"for us to tell them what their answer should be before they get started."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:97
+msgid ""
+"XR aims to increase awareness and understanding of the crisis, while also "
+"directly addressing the immoral lack of urgency to act. We want governments "
+"and the media to be completely open and honest about the full extent of the "
+"crisis we face, so that everyone understands its severity and the causes "
+"(Tell the Truth). This is so we can all push governments to take action at "
+"the speed the situation demands (Act Now). The solutions are all there and "
+"we want ordinary people (not just XR members) to make informed decisions on "
+"implementing them through citizens’ assemblies."
+msgstr ""
+
+#. type: Plain text
+#: 2021-03-11-xr-any-solutions-1.md:98
+msgid "Doesn’t sound too unreasonable or extreme, does it?"
+msgstr ""

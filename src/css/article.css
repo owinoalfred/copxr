@@ -1,0 +1,73 @@
+.article-content {
+    word-break: break-word;
+    word-wrap: break-word;
+}
+
+.article-content .huge {
+    @apply text-xl;
+}
+
+.article-content .hero-text {
+    @apply my-10 !important;
+    @apply text-3xl text-center;
+}
+
+.article-content .text-left {
+    @apply text-left;
+}
+
+.article-content img {
+    @apply max-w-full;
+    display: block;
+    margin: 0 auto;
+    max-height: 75vh;
+}
+
+.article-content pre {
+    display: block;
+    font-size: .875rem;
+    line-height: 1.25;
+    white-space: pre-wrap;
+    word-wrap: break-word
+}
+
+hr {
+    background-image: -webkit-gradient(linear, left top, right top, from(transparent), color-stop(rgba(0, 0, 0, .5)), to(transparent));
+    background-image: linear-gradient(90deg, transparent, rgba(0, 0, 0, .5), transparent);
+    border: 0;
+    height: 1px;
+    margin-bottom: 2rem;
+    margin-top: 2rem
+}
+
+.article-content a {
+    @apply text-green-500 font-semibold;
+}
+
+.article-content a:hover {
+    @apply underline;
+}
+
+.article-content blockquote {
+    @apply p-4 bg-green-100 align-middle rounded text-green-900 my-4 shadow-lg;
+}
+
+.article-content blockquote a {
+    @apply text-green-500;
+}
+
+.article-content blockquote p:first-child {
+    @apply mt-0;
+}
+
+.article-content blockquote p:last-child {
+    @apply mb-0;
+}
+
+a.xr-button {
+    @apply bg-green-500 shadow-md text-white font-header text-3xl px-4 py-2 mt-2 inline-block;
+}
+
+.hero-text {
+    @apply my-10 text-3xl text-center;
+}

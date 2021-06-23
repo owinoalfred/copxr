@@ -1,0 +1,994 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-27 21:17+0200\n"
+"PO-Revision-Date: 2020-06-11 21:06+0000\n"
+"Last-Translator: Dom <dom@dominicporter.co.uk>\n"
+"Language-Team: Italian <http://translate.organise.earth/projects/blog-posts/"
+"2020-01-28-newsletter-35/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:14
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Newsletter 35: Erasing our voices won't change anything\"\n"
+"slug: newsletter-35\n"
+"date: 2020-01-28 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2020/01/29/image1.jpg\n"
+"seoImage: /assets/img/blog/2020/01/29/image1-cropped.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:17
+msgid ""
+"Disruption in Brussels, disappointment in Davos. Spain declares a climate "
+"crisis, but where is the action? Another issue bursting with announcements "
+"and news from XR activity around the world."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:20
+msgid ""
+"![School Strike Week 75, Davos](/assets/img/blog/2020/01/29/image1.jpg){:."
+"img-fluid} School Strike Week 75, Davos"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:22
+msgid "Dear Rebels,"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:24
+msgid ""
+"We'd love to report that the new decade has brought a wave of sweeping "
+"change to the world's policymakers. Sadly, this is not the case. Instead, "
+"**it's still business as usual** for our supposed leaders and those who "
+"spread their message."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:26
+msgid ""
+"This week's issue is particularly rife with reports of the media and its "
+"tendency towards misrepresentation. **The act and art of telling the truth "
+"has never seemed so vital or so distant.** In Davos, we saw the cropping out "
+"of African activist [Vanessa Nakate](https://twitter.com/vanessa_vash?"
+"ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) from her place in a "
+"photo alongside some of **the planet's youngest and bravest campaigners.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:29
+msgid ""
+"![XR Spain](/assets/img/blog/2020/01/29/image2.jpg){:.img-fluid} XR Spain"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:31
+msgid ""
+"Elsewhere, the Spanish government has tentatively announced a Climate "
+"Emergency. While this is progress of a sort, we respond by saying: **Good, "
+"but not good enough.** Words and gestures are useless without significant "
+"action to underpin the statement."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:33
+msgid ""
+"On the topic of actions matching words, this week's [History Corner]"
+"(#history) tells the **extraordinary story of the environmental victory "
+"every forgot:** a welcome reminder that change *is* possible!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:35
+msgid ""
+"In other news, we celebrate the bravery and creativity of XR Belgium, who "
+"carried out a **powerful action at a car show involving over 180 arrests.** "
+"What a way to start the new year! Meanwhile, rebels in Norway have seen some "
+"success in campaigning against one of the leading media conglomerates of the "
+"country, **demanding truth and justice for the planet.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:38
+msgid ""
+"![XR Belgium](/assets/img/blog/2020/01/29/image3.jpg){:.img-fluid} XR Belgium"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:41
+msgid ""
+"Finally, in line with our efforts to reach rebels in all parts of the world, "
+"we are pleased to announce that **the International Newsletter is now being "
+"translated into over six languages!** The amazing XR Translators team have "
+"been working tirelessly, and are currently **seeking volunteer translators "
+"from outside of the West/Global North.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:43
+msgid ""
+"See **Announcements** for a celebratory message from the team, and see [here]"
+"(https://rebellion.global/blog/) for previous Newsletter issues in multiple "
+"languages &#8211; you can change languages using the button in the top-right "
+"corner!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:46
+msgid ""
+"![](/assets/img/blog/2020/01/29/image4.jpg){:.img-fluid} **Amsterdam, The "
+"Netherlands**. The theme for this year's Amsterdam Light Festival was "
+"“Disrupt!” Naturally, XR Rebels felt compelled to make [an appearance]"
+"(https://twitter.com/NLRebellion/status/1218971196445818880)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:48
+#, no-wrap
+msgid "*If you'd like to help, please check out our [guide](https://cloud.organise.earth/s/jGSWEoJ9PW65xLc) and [learn more about XR](https://rebellion.global/the-emergency/).*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:50
+#, no-wrap
+msgid "*To connect to rebels in your local area, get in touch with your [nearest XR group](https://rebellion.global/groups/). If there's no active group near you, [you can start your own!](https://rebellion.global/groups/)*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:52
+#, no-wrap
+msgid "*Sign up to the newsletter [here](https://actionnetwork.org/forms/newsletter-sign-up-17?clear_id=true&amp;source=direct_link), and if you'd like to see previous issues, you can find them [here](https://rebellion.global/blog/).*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:54
+#, no-wrap
+msgid "***This Rebellion needs your support. If you can't give time, please consider giving money.***\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:57 2020-01-28-newsletter-35.md:307
+#, no-wrap
+msgid " [Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-button}\n"
+msgstr ""
+" [Sostieni la Ribellione](https://chuffed.org/project/xrinternational){.xr-"
+"button}\n"
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:60
+#, no-wrap
+msgid "Contents"
+msgstr "Contenuti"
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:67
+msgid ""
+"Action Highlights * Announcements * History Corner * XR Content * Humans of "
+"XR"
+msgstr ""
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:69
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Azioni Principali"
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:72
+#, no-wrap
+msgid "Shell-Shocking Scenes at Brussels Motor Show!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:75
+#, no-wrap
+msgid "**18 JAN** \\| **Brussels, Belgium**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:77
+msgid ""
+"[Extinction Rebellion Belgium](https://www.facebook.com/"
+"ExtinctionRebellionBE/posts/on-saturday-18th-of-january-2020-extinction-"
+"rebellion-belgium-organised-a-mass-a/619926678837109/) **organised a "
+"powerful and striking mass-action of civil disobedience** on the busiest day "
+"of the Brussels Autosalon. About 250 rebels participated, **with 185 arrests."
+"**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:79
+msgid ""
+"Its purpose: **'to correct [the deceitful image](https://www.france24.com/"
+"en/20200118-extinction-rebellion-protest-disrupts-brussels-motor-show)** "
+"**the car industry portrays of itself** … [to denounce] the many lies which "
+"car manufacturers keep selling to the public, to increase their sales at the "
+"cost of the environment, people&#8217;s health and social justice.'"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:81
+msgid "![](/assets/img/blog/2020/01/29/image5.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:83
+msgid ""
+"Die-ins were staged, **vehicles smeared with fake blood** and rebels chained "
+"themselves to steering wheels."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:85
+msgid ""
+"The Shell stand was a main focus. Rebels held a **'Shell Kills'** placard, "
+"wore masks made from the company logo and handed out leaflets highlighting "
+"the **auto industry greenwash** e.g. – **The use of environmentalist "
+"rhetoric while simultaneously producing and selling huge numbers of heavily "
+"polluting vehicles.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:87
+msgid "![](/assets/img/blog/2020/01/29/image6.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:89
+msgid ""
+"At the entrance and exit to the show, dozens of rebels, **many of whom were "
+"teenagers**, staged a mass die-in. An XR banner was unfurled, and in the car "
+"park, **fake parking tickets placed on windows of vehicles.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:91
+msgid ""
+"The XR actions were described as 'anecdotiques' (trivial) by FEBIAC, the "
+"organisers of the show, yet they previously **applied for a judgement to "
+"prohibit and/or place heavy fines on civil disobedience during the motor "
+"show, claiming it would suffer irreparable damage.** [XR lawyers are "
+"presently analysing the order](https://www.facebook.com/"
+"ExtinctionRebellionBE/posts/febiac-the-event-manager-of-autosalon-takes-"
+"abusive-legal-action-against-extinct/621889405307503/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:93
+msgid ""
+"It is/was [never the intention of XR to cause damage](https://www.hln.be/in-"
+"de-buurt/brussel/extinction-rebellion-verstoort-autosalon-187-actievoerders-"
+"opgepakt~a2d5693b/), nor to block the fair or target visitors, but to raise "
+"awareness and call for a **new model of transport which respects the "
+"ecological and social good.**"
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:95
+#, no-wrap
+msgid "Snow Rebellion: The Long Road to Davos"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:98
+#, no-wrap
+msgid "**21 - 24 JAN** \\| **Davos, Switzerland**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:101
+msgid ""
+"![XR Switzerland](/assets/img/blog/2020/01/29/image7.jpg){:.img-fluid} Photo "
+"by XR Switzerland."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:102
+#, no-wrap
+msgid "Rebels, Climate Strikers, and other environmental activists converged on a remote ski resort in Switzerland last week to **speak truth to the most powerful people on the planet**.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:105
+msgid ""
+"The annual **World Economic Forum** in Davos attracts presidents, princes "
+"and business billionaires. Traditionally, they have ignored environmental "
+"concerns to champion unfettered economic growth before flying home on "
+"private jets."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:107
+msgid ""
+"But this year's conference showed a new direction. Finally there was a "
+"**focus on the climate emergency, with sessions on sustainability, cutting "
+"emissions, and the financial instability** the global crisis will bring."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:109
+msgid ""
+"Determined rebels reached the ski resort after braving the cold on a three-"
+"day hike across the Swiss Alps. Their message to the delegates was simple. "
+"**Business as usual is no longer acceptable**. [100 companies are "
+"responsible for 71% of carbon emissions since 1988](https://"
+"b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/"
+"cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?"
+"1499691240). They all attended the World Economic Forum."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:111
+msgid ""
+"But after four days, **it was clear they weren't prepared to make any real "
+"change.** While some attendees talked the talk when it came to the "
+"ecological and climate emergency, the deadlines for action remained the "
+"insanely distant 2050, and no major concessions were made to cut current "
+"emissions."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:113
+msgid ""
+"A rebel who attended the conference told reporters, “**If you're in an "
+"emergency, you don't let it get worse for thirty years before tackling it… "
+"We need to be carbon zero by 2025**.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:115
+msgid ""
+"For the second year running, Climate Strike activist Greta Thunberg made a "
+"key speech at the four day conference, [batted away insults](https://www."
+"theguardian.com/business/2020/jan/23/greta-thunberg-told-to-study-economics-"
+"by-us-treasury-secretary-steven-mnuchin) from those who should know better "
+"and ultimately left the event feeling [frustrated](https://www.theguardian."
+"com/business/2020/jan/24/greta-thunberg-davos-leaders-ignored-climate-"
+"activists-demands)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:118
+msgid ""
+"![](/assets/img/blog/2020/01/29/image8.jpg){:.img-fluid} Photo by XR "
+"Switzerland."
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:124
+#, no-wrap
+msgid "Cropped out of the Conversation"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:127
+#, no-wrap
+msgid "**24 JAN** \\| **Davos, Switzerland &amp; Uganda**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:129
+msgid "![](/assets/img/blog/2020/01/29/image9.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:131
+msgid ""
+"At the World Economic Forum in Davos, Ugandan [Vanessa Nakate was **cropped "
+"out**](https://www.bbc.com/news/world-africa-51242972?"
+"at_custom4=4B1E29B2-3ED6-11EA-92AF-6EE04744363C&amp;at_medium=custom7&amp;"
+"at_custom3=BBC%20Africa&amp;at_campaign=64&amp;at_custom1=%5Bpost%20type"
+"%5D&amp;at_custom2=twitter)  **of a headlining Associated Press image "
+"featuring a group of prominent climate activists.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:133
+msgid ""
+"She was in Davos to [bring global attention](https://www.rollingstone.com/"
+"politics/politics-features/davos-climate-change-roundtable-youth-"
+"activists-941166/) to the **climate-related struggles of the African people "
+"and to the plight of the Congo Rainforest**, the second largest rainforest "
+"in the world."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:135
+msgid ""
+"”Africa is the least emitter of carbons, but **we are the most affected by "
+"the climate crisis.** You erasing our voices won't change anything,” she "
+"said in her [compelling video response](https://www.youtube.com/watch?"
+"v=y6ksiL-02q4) to having her presence removed from the image."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:137
+msgid ""
+"Nakate has been [protesting in front of the Ugandan Parliament](https://"
+"observer.ug/lifestyle/60884-22-year-old-nakate-takes-on-lone-climate-fight) "
+"every week since January, 2019, demanding the country's leadership declare a "
+"climate emergency. She has persevered, despite the wariness of parliamentary "
+"security. **“In Uganda, people who protest in large groups are at risk of "
+"being arrested,” she said.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:139
+msgid "![](/assets/img/blog/2020/01/29/image10.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:141
+msgid ""
+"In her efforts, **she highlights the injustice of climate change.** Many "
+"Ugandans depend heavily on agriculture for their livelihood. Alternating "
+"floods and droughts devastate crops and raise food prices. The most "
+"privileged, the biggest carbon emitters, can weather the fluctuations. "
+"[Whereas, she says](https://www.democracynow.org/2019/12/12/"
+"cop25_vanessa_nakate_uganda), “Literally, in my country, **a lack of rain "
+"means starvation and death for the less privileged.**”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:143
+msgid ""
+"Starting in October, 2019, Nakate has been [striking daily for the Congo "
+"Rainforest](https://www.thedailyvox.co.za/ugandan-climate-activist-vanessa-"
+"nakate-is-fighting-for-the-congo/). Since 2001, [about 6% of the rainforest "
+"has been lost](https://www.economist.com/middle-east-and-africa/2019/10/17/"
+"congos-enormous-rainforest-is-getting-smaller) – an area roughly the size of "
+"England. The main agents: [industrial logging, mining, urban expansion, and "
+"large-scale agriculture](https://rainforests.mongabay.com/congo/). The "
+"charcoal trade cuts into the rainforest as well. Most of the region's poor "
+"rely on charcoal for cooking, **reminding us of the importance of an "
+"equitable transition to ecological justice.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:145
+#, no-wrap
+msgid "**The movement Nakate started with her lone protests has gained momentum.** She has since founded Youth for Future Africa and the Rise Up Movement. Globally, people have joined her [campaign to Save the Congo Rainforest](https://twitter.com/hashtag/SaveCongoRainforest?src=hashtag_click).\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:147
+#, no-wrap
+msgid "**Follow Vanessa Nakate** on [Twitter](https://twitter.com/vanessa_vash?lang=en) and [Instagram](https://twitter.com/vanessa_vash?lang=en). \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:149
+msgid ""
+"[XR Uganda](https://www.facebook.com/XR-Uganda-102138614626015/) is also in "
+"open **rebellion against the current climate crisis.** After months of "
+"extraordinary rainfall, many people lost their lives and their homes to "
+"[heavy flooding in the Bundibugyo district](https://www.independent.co.uk/"
+"news/world/africa/uganda-floods-rain-deaths-bundibugyo-a9238101.html). **XR "
+"Uganda mourns in solidarity with Bundibugyo.** They are campaigning to raise "
+"money for the victims and their families."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:151
+msgid "![](/assets/img/blog/2020/01/29/image11.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:153
+#, no-wrap
+msgid "Spain Declares a Lacklustre Climate Emergency"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:156
+#, no-wrap
+msgid "**21 JAN** \\| **Spain**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:158
+msgid "![](/assets/img/blog/2020/01/29/image12.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:160
+msgid ""
+"The Spanish government has **[declared a climate emergency,](https://apnews."
+"com/1e946085841af1e942659d4154d75d03)** taking the country's first small "
+"steps towards **action on climate change.** The left-wing coalition says it "
+"will bring forward legislation within its first 100 days in office that will "
+"**work towards transitioning the country to renewable energy.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:162
+msgid ""
+"Environment Minister Teresa Ribera said Spain was **[inspired by actions in "
+"France](https://www.euronews.com/2019/06/24/french-national-assembly-"
+"expected-to-declare-climate-emergency)** **and will follow suit by creating "
+"a public advisory panel.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:164
+msgid ""
+"The climate emergency declaration came on **January 21,** as powerful storm "
+"Gloria battered much of eastern Spain, **killing at least 13 people, "
+"flooding miles of crop fields and prompting the government to call an "
+"emergency meeting to deal with the impact of the storm.** Collapsed bridges, "
+"damaged railway lines and entire beaches were wiped away, with hundreds of "
+"dead fish being washed ashore and a waist-deep carpet of seafoam engulfing "
+"entire streets."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:166
+msgid ""
+"Scientists warn climate targets must be reached or **southern Spain could be "
+"reduced to a desert by the end of the century.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:168
+msgid "![](/assets/img/blog/2020/01/29/image13.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:170
+msgid ""
+"[Extinction Rebellion Spain](https://mailchi.mp/c4cd1cbd4cbe/extinction-"
+"rebellion-sobre-la-declaracin-de-emergencia-climtica) responded by saying: "
+"'**Good, but lacking ambition. We continue.'**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:172
+msgid ""
+"Rebels are focusing on the enactment of an effective citizen's assembly: 'A "
+"citizen's assembly shows that **people can act directly in public decision-"
+"making at the national level** and that the institutional design taken by "
+"the Spanish government guarantees that participation. We will work to ensure "
+"the effectiveness of this Citizen Assembly.'"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:174
+#, no-wrap
+msgid "**Spain now joins the European Union and nine other countries worldwide in declaring a climate emergency.** So far, national [climate emergency declarations](https://climateemergencydeclaration.org/) have been made by Argentina, Austria, Bangladesh, Canada, France, Ireland, Malta, Portugal, and the United Kingdom. \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:176
+msgid ""
+"In 2019, **the final year of the hottest decade on record,** climate "
+"emergency declarations sounded the alarm, with thousands of cities around "
+"the world declaring an emergency. About 800 million people around the world "
+"now live in places that have declared a climate emergency – **that's one in "
+"ten people on the planet.**"
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:178
+#, no-wrap
+msgid "XR Norway Pushing for the Truth"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:181
+#, no-wrap
+msgid "**12 JAN** \\| **Norway**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:183
+msgid ""
+"In Norway, the average temperature for January has been **more than 7 "
+"degrees above normal. There is no snow,** and a group of rebel skiers made "
+"this very clear, as they slogged along on asphalt outside the **NRK: "
+"Norwegian Broadcasting Corporation.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:185
+msgid "![](/assets/img/blog/2020/01/29/image14.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:187
+msgid ""
+"Norway has become rich as a major exporter of oil (exporting one third of "
+"European oil) and gas (**third largest gas exporter in the world**) as well "
+"as being one of the largest producers of fertiliser. The government aims to "
+"keep producing until at least **2070,** with several ministers for oil "
+"having declared that **“we'll take up all the oil and gas we find”.** Whilst "
+"seen as a “green” country, Norway is the [**seventh largest GHG emitter in "
+"the world if you include the “exported” emissions.**](https://"
+"energytransition.org/2018/10/norways-climate-hypocrisy/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:189
+msgid ""
+"Rebels have also targeted one of the nation's largest media conglomerates, "
+"**the Schibsted group**, who own newspapers, online news sites and other "
+"media, and are supportive of Norway's oil and gas industry. This support "
+"includes the promotion of regular advertorials favouring **major fossil fuel "
+"exporter Equinor, which is active in 26 countries.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:192
+msgid ""
+"![](/assets/img/blog/2020/01/29/image15.jpg){:.img-fluid} *Rebels under the "
+"redesigned logos at the offices of Schibsted.*"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:196
+msgid ""
+"Stein from **XR Norway** commented: We demanded that the work for "
+"**Equinor** should cease and that environmental groups should be given space "
+"to counter the propaganda. (&#8230;) The action got a lot of attention and, "
+"by Friday, the Schibsted group declared that the **Equinor campaign had "
+"reached its end and that future advertorials would be easier to distinguish "
+"from the editorial content of the papers!”**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:198
+msgid ""
+"This is a **major success** in challenging the media practice of spreading "
+"positive messages about the fossil fuel industry and promoting climate "
+"change denying opinions."
+msgstr ""
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:200
+#, no-wrap
+msgid "Announcements "
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:203
+#, no-wrap
+msgid "XR Translators"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:206
+msgid "![](/assets/img/blog/2020/01/29/image16.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:208
+#, no-wrap
+msgid "**Celebrating the amazing work of XR Translators**!\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:210
+msgid ""
+"XR Translators are a newly incubated and growing team inside the I &amp; I "
+"(Information and Infrastructure) working group. They work with approx **50 "
+"volunteer translators in around 10 languages** and are looking **to welcome "
+"new people and new languages**, especially those from Asia and the Global "
+"South!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:212
+msgid ""
+"If you're interested in getting involved with XR Translators, **please "
+"email** <translations@organise.earth>."
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:214
+#, no-wrap
+msgid "'We are the Dead Canaries!' UK action"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:217
+msgid "![](/assets/img/blog/2020/01/29/image17.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:219
+msgid ""
+"Every Wednesday in February, UK rebels will be putting pressure on the "
+"powers that be to oppose the extension of an opencast mine in County Durham "
+"in the north of England."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:221
+msgid ""
+"Coal is killing us, destroying communities and ecosystems and the air that "
+"we breathe."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:223
+msgid ""
+"Check out their [Facebook](https://www.facebook.com/"
+"events/1512073822291869/), [Telegram](https://t.me/joinchat/"
+"HIqFeRXk59EzjXJV4O1CvA) group, and [Crowd Funder](https://www.gofundme.com/"
+"f/2-stop-the-expansion-of-bradley-opencast-coal-mine?"
+"utm_medium=copy_link&amp;utm_source=customer&amp;utm_campaign=p_lico"
+"%20header) for more info."
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:225
+#, no-wrap
+msgid "Radiation in the Oil and Gas Industry: Q&amp;A"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:228
+msgid "![](/assets/img/blog/2020/01/29/image18.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:230
+#, no-wrap
+msgid "**Oil-and-gas wells produce nearly a trillion gallons of toxic waste a year**!\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:232
+msgid ""
+"On **Thursday 30th Jan at 6pm GMT**, XR UK will host [an online call]"
+"(https://www.facebook.com/events/523915858481151/) open to any member of XR "
+"where you can hear author Justin Nobel discuss **levels of toxic waste "
+"produced by the oil &amp; gas industry.**"
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:234
+#, no-wrap
+msgid "XR Podcast "
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:237
+msgid "![](/assets/img/blog/2020/01/29/image19.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:239
+#, no-wrap
+msgid "**Send us your audio recordings from actions around the** **world!**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:241
+msgid ""
+"The **XR Podcast** are doing a live event as part of **XR&#8217;s "
+"Decarbonise! Decolonise!** programme of talks and panels at [London's VAULT "
+"Festival on March 1st](https://rebellion.earth/2020/01/23/extinction-"
+"rebellion-joins-vault-festival-as-part-of-packed-programme-of-climate-"
+"related-shows/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:243
+msgid ""
+"We are looking to create a soundscape featuring audio taken at actions from "
+"around the world, to highlight what it's like to be a part of XR globally."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:245
+#, no-wrap
+msgid "**Please send us clips recorded from around the world,** stating where and when they were taken, to <xr-podcast@protonmail.com> by February 10th.\n"
+msgstr ""
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:247
+#, no-wrap
+msgid "**History Corner**"
+msgstr ""
+
+#. type: Title ###
+#: 2020-01-28-newsletter-35.md:250
+#, no-wrap
+msgid "The Ozone Layer: The Environmental Victory Everyone Forgot  "
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:253
+msgid "![](/assets/img/blog/2020/01/29/image20.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:255
+msgid ""
+"Imagine this: there's a terrifying environmental threat caused by chemical "
+"emissions that could destroy all life on earth. The companies producing the "
+"emissions put out all the disinformation they can to keep their businesses "
+"going. However, the governments of the world unite to remove those chemicals "
+"from production, and **the world, miraculously, heals.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:257
+#, no-wrap
+msgid "**This isn't a fairytale about climate change**. This is the real story of a grave environmental threat that was at the top of everyone's mind in the 1980s, but has been largely forgotten by the public today. Here's the story about how the people won a victory and protected our planet from the holes in the ozone layer.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:259
+msgid ""
+"Read in full [here](https://rebellion.earth/2020/01/28/the-ozone-layer-the-"
+"environmental-victory-everyone-forgot/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:261
+#, no-wrap
+msgid "*This piece was brought to you by the Rebel Writers. Anyone from anywhere can join us [here](https://organise.earth/signup_user_complete/?id=kg9rn5ssw78cdqcq6eju41gy3r), or read our [guide](https://docs.google.com/document/d/1WXqbc1DBF0W1PPD2JA2qTqlP3MZDbW4K8gNkR0UyQJ8/edit?usp=sharing) for more information.*\n"
+msgstr ""
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:263
+#, no-wrap
+msgid "XR Content  "
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:266
+msgid ""
+"[Tens of Millions form human chain in India's Bihar state](https://uk.news."
+"yahoo.com/tens-millions-form-human-chain-120000515.html?guccounter=2)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:268
+msgid ""
+"[First 'Heading for Extinction' talk given in China](https://v.qq.com/x/page/"
+"t3033cyd9uf.html)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:270
+msgid ""
+"['A year inside XR'](https://www.fairplanet.org/op-ed/a-year-inside-"
+"extinction-rebellion/): Reflections from a rebel in XR UK"
+msgstr ""
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:272
+#, no-wrap
+msgid "Humans of XR"
+msgstr "Membri di XR"
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:275
+msgid "![](/assets/img/blog/2020/01/29/image21.jpg){:.img-fluid}"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:277
+msgid ""
+"'We were on the streets for **two weeks in October to speak to Government**, "
+"but now we're here to **speak to corporations and industries**, especially "
+"firms like BlackRock who have a massive impact through their investments."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:279
+#, no-wrap
+msgid "**As we move into climate and ecological collapse,** companies like BlackRock keep financing companies like JBS and Cargill – both among the world's largest meat producers – pouring money into them when they're fully aware that these companies are responsible for the majority of Amazon deforestation.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:281
+#, no-wrap
+msgid "**Animal Rebellion is a sister movement to XR**, we share the same values and principles and we share the same goals. **We ask Government to tell the truth, but we also ask that they tell the truth about the livestock industries' contribution to climate change.** We believe that the second demand of XR cannot be achieved without putting an end to the intensive livestock and fishing industries.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:283
+#, no-wrap
+msgid "**Since I joined XR and Animal Rebellion, I've found a place of acceptance as well as an overwhelming sense of power to change things.** I've also extended my compassion to humanity and opened my eyes to the rest of the world rather than just my immediate surroundings. **Now I feel that I can sense the interconnectedness of people and animals and other natural systems.'**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:285
+msgid "Dora, Software Engineer. London via Hungary"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:287
+#, no-wrap
+msgid "*We are receiving amazing human stories and we want to know yours. To read more – or to write your own – join our [Facebook group](https://www.facebook.com/groups/468678977056685/).*\n"
+msgstr "*Stiamo ricevendo storie di individui straordinari e vogliamo sentire le vostre. Per continuare a leggere - o condividere la vostra esperienza - unitevi al nostro [gruppo Facebook](https://www.facebook.com/groups/468678977056685/).*\n"
+
+#. type: Title ##
+#: 2020-01-28-newsletter-35.md:291
+#, no-wrap
+msgid "Thank you"
+msgstr "Grazie"
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:294
+msgid ""
+"Whomever you are, wherever you’re from… Extinction Rebellion needs your help!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:296
+msgid ""
+"Our movement is made up of people from all walks of life, contributing in "
+"different ways with the time and energy they can spare. Chances are, we have "
+"a local group close to you, and we would love to hear from you."
+msgstr ""
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:298
+msgid "Time is running out, so join us in fighting this planetary emergency:"
+msgstr ""
+"Il tempo sta scadendo, unisciti a noi per combattere questa emergenza "
+"planetaria:"
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:301
+#, no-wrap
+msgid " [find your group](/groups){.xr-button}\n"
+msgstr " [trova il tuo gruppo](/groups){.xr-button}\n"
+
+#. type: Plain text
+#: 2020-01-28-newsletter-35.md:304
+msgid ""
+"If you’d prefer to assist in other ways, please consider making a donation."
+msgstr ""
+"Se preferisci contribuire in altro modo, puoi supportarci con una donazione."
+
+#~ msgid ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/groups\" class=\"o-button-green "
+#~ "btn-block text-center\" style=\"max-width: 350px;\"><span>{% include "
+#~ "translator.html slug='find your group' %}</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/groups\" class=\"o-button-green "
+#~ "btn-block text-center\" style=\"max-width: 350px;\"><span>{% include "
+#~ "translator.html slug='find your group' %}</span></a>\n"
+#~ "</div>\n"
+
+#~ msgid ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://chuffed.org/project/xrinternational\" class=\"o-"
+#~ "button-yellow btn-block text-center\" style=\"max-width: 350px;"
+#~ "\"><span>Support the Rebellion</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://chuffed.org/project/xrinternational\" class=\"o-"
+#~ "button-yellow btn-block text-center\" style=\"max-width: 350px;"
+#~ "\"><span>Support the Rebellion</span></a>\n"
+#~ "</div>\n"

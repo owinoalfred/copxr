@@ -1,0 +1,118 @@
+site_url: https://web-staging.dev.rebellion.global
+display_url: https://web-staging.dev.rebellion.global
+logo_url: /assets/img/logos/xr-logo-black.svg
+backend:
+    name: gitlab
+    repo: xr-global/xr-vue
+    branch: staging
+    auth_type: implicit
+    app_id: cda5c704cb6d27844121a0f2c2c541b2c204670cf43433f8e26f6e14a0b63673
+    api_root: https://code.organise.earth/api/v4
+    base_url: https://code.organise.earth
+    auth_endpoint: oauth/authorize
+media_folder: "public/assets/uploads"
+public_folder: "/assets/uploads"
+collections:
+    -   name: "blog"
+        label: "Blog"
+        folder: "_posts/blog"
+        create: true
+        slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
+        preview_path: "/blog/{{year}}/{{month}}/{{day}}/{{fields.slug}}"
+        preview_path_date_field: 'date'
+        fields:
+            - {label: "Language", name: "lang", widget: "string", required: true, hint: "2 letter language code from https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes (en for English)", pattern: ['^[a-z]{2}$', 'Language code must be two lowercase letters']}
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Author", name: "author", widget: "string", required: false, hint: 'Defaults to "Extinction Rebellion" if left blank'}
+            - {label: "Slug", name: "slug", widget: "string", required: true, hint: 'This is what will be shown in the url. Eg. newsletter-01'}
+            - {label: "Publication Date", name: "date", required: true, widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'HH:mm', format: "YYYY-MM-DD HH:mm"}
+            - {label: 'Publish', name: 'published', widget: "boolean", required: false}
+            - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["blog", "press"]}
+            - {label: 'Main Image', name: 'image', widget: "image", required: true, media_library: {config: {multiple: false}}}
+            - {label: 'Social Image (shown during social shares)', name: 'seoImage', widget: "image", required: false, media_library: {config: {multiple: false}}}
+            - {label: "Social Title", name: "seoTitle", widget: "string", required: false, hint: 'Optional (clickbait!) title for social shares. If left blank will default to the article title'}
+            - {label: "Social Description", name: "seoDescription", widget: "string", required: false, hint: 'Description for social shares of the article + search engine results'}
+            - {label: "Body", name: "body", widget: "xr-markdown"}
+    -   name: "press"
+        label: "Press"
+        folder: "_posts/press"
+        create: true
+        slug: "{{year}}-{{month}}-{{day}}-{{fields.slug}}"
+        preview_path: "/press/{{year}}/{{month}}/{{day}}/{{fields.slug}}"
+        preview_path_date_field: 'date'
+        fields:
+            - {label: "Language", name: "lang", widget: "string", required: true, hint: "2 letter language code from https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes (en for English)", pattern: ['^[a-z]{2}$', 'Language code must be two lowercase letters']}
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Author", name: "author", widget: "string", required: false, hint: 'Defaults to "Extinction Rebellion" if left blank'}
+            - {label: "Slug", name: "slug", widget: "string", required: true, hint: 'This is what will be shown in the url. Eg. newsletter-01'}
+            - {label: "Publication Date", name: "date", required: true, widget: 'datetime', date_format: 'YYYY-MM-DD', time_format: 'HH:mm', format: "YYYY-MM-DD HH:mm"}
+            - {label: 'Publish', name: 'published', widget: "boolean", required: false}
+            - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["blog", "press"]}
+            - {label: 'Social Image (shown during social shares)', name: 'seoImage', widget: "image", required: false, media_library: {config: {multiple: false}}}
+            - {label: "Body", name: "body", widget: "xr-markdown"}
+    -   name: "groups"
+        label: "Country / Regional / Local Group"
+        folder: "_groups"
+        create: true
+        slug: "{{countrycode}}-{{name}}"
+        identifier_field: 'name'
+        preview_path: "/groups/{{slug}}"
+        fields:
+            - { label: 'Name', name: 'name', widget: 'string', hint: "don't add XR as a prefix", required: true }
+            - { label: 'City', name: 'city', widget: 'string', required: false }
+            - { label: 'Region', name: 'region', widget: 'string', required: false }
+            - { label: 'Country', name: 'country', widget: 'string', required: true }
+            - { label: 'Is this a Country level Group? e.g. XR Australia?', name: 'iscountry', widget: 'boolean', required: false }
+            - { label: 'Country Code', name: 'countrycode', widget: 'string', required: true, hint: "2 letter country code from https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes"}
+            - { label: 'Latitude', name: 'latitude', widget: 'number', required: true, valueType: 'float', min: -90, max: 90}
+            - { label: 'Longitude', name: 'longitude', widget: 'number', required: true, valueType: 'float', min: -180, max: 180}
+            - { label: 'Group Email', name: 'email', widget: 'string', required: false, pattern: ['^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$', 'Email must be valid']}
+            - { label: 'Permission granted to display Group Email on rebellion.global?', name: 'publiciseemail', widget: 'boolean', required: false }
+            -   name: 'links'
+                label: 'Social Links'
+                widget: 'object'
+                fields:
+                    - { label: 'Website', name: 'website', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Facebook', name: 'facebook', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Twitter', name: 'twitter', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Diaspora', name: 'diaspora', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Mastodon', name: 'mastodon', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Peertube', name: 'peertube', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Youtube', name: 'youtube', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Instagram', name: 'instagram', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+    -   name: "community"
+        label: "Community Group"
+        folder: "_groups/communities"
+        create: true
+        slug: "{{name}}"
+        identifier_field: "name"
+        preview_path: "/groups/{{slug}}"
+        fields:
+            - { label: 'Name', name: 'name', widget: 'string', hint: "eg. XR Scientists", required: true }
+            - { label: 'isCommunity', name: 'isCommunity', widget: 'hidden', default: true }
+            - { label: 'Group Email', name: 'email', widget: 'string', required: true, pattern: ['^[a-zA-Z0-9.!#$%&’*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$', 'Email must be valid']}
+            - { label: 'Permission granted to display Group Email on rebellion.global?', name: 'publiciseemail', widget: 'boolean', required: false }
+            -   name: 'links'
+                label: 'Social Links'
+                widget: 'object'
+                fields:
+                    - { label: 'Website', name: 'website', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Facebook', name: 'facebook', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Twitter', name: 'twitter', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Diaspora', name: 'diaspora', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Mastodon', name: 'mastodon', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Peertube', name: 'peertube', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Youtube', name: 'youtube', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+                    - { label: 'Instagram', name: 'instagram', widget: 'string', required: false, pattern: ['^(http|https)://', 'Links must start with http:// or https://'] }
+    -   name: "docs"
+        label: "Documentation"
+        folder: "_docs"
+        create: true
+        slug: "{{slug}}"
+        preview_path: "/docs/{{slug}}"
+        fields:
+            - {label: "Title", name: "title", widget: "string"}
+            - {label: "Description", name: "description", widget: "string"}
+            - {label: "Language", name: "lang", widget: "string", required: true, hint: "2 letter language code from https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes (en for English)", pattern: ['^[a-z]{2}$', 'Language code must be two lowercase letters']}
+            - {label: "Categories", name: "categories", widget: "select", required: false, multiple: true, options: ["about_xr", "join_us", "our_demands"]}
+            - {label: "Body", name: "body", widget: "xr-markdown"}

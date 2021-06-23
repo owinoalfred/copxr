@@ -1,0 +1,80 @@
+.custom-scrollbar {
+    -webkit-overflow-scrolling: touch;
+    scrollbar-color: #F6C24A; /* color of find your local group button */
+    scrollbar-width: thin; /* eg firefox */
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+    height: 3px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 6px;
+}
+
+.nav-gradient-green-500-right {
+    background: linear-gradient(to right, #4EA648, #4EA64800)
+}
+
+.nav-gradient-green-500-left {
+    background: linear-gradient(to left, #4EA648, #4EA64800)
+}
+.nav-gradient-blue-300-right {
+    background: linear-gradient(to right, #8ACFED, #8ACFED00)
+}
+.nav-gradient-blue-300-left {
+    background: linear-gradient(to left, #8ACFED, #8ACFED00)
+}
+.nav-gradient-red-400-right {
+    background: linear-gradient(to right, #de7345, #de734500)
+}
+.nav-gradient-red-400-left {
+    background: linear-gradient(to left, #de7345, #de734500)
+}
+.nav-gradient-red-500-right {
+    background: linear-gradient(to right, #CD5824, #CD582400)
+}
+.nav-gradient-red-500-left {
+    background: linear-gradient(to left, #CD5824, #CD582400)
+}
+.nav-gradient-yellow-500-right {
+    background: linear-gradient(to right, #F6C24A, #F6C24A00)
+}
+.nav-gradient-yellow-500-left {
+    background: linear-gradient(to left, #F6C24A, #F6C24A00)
+}
+.nav-gradient-purple-500-right {
+    background: linear-gradient(to right, #a77fad, #a77fad00)
+}
+.nav-gradient-purple-500-left {
+    background: linear-gradient(to left, #a77fad, #a77fad00)
+}
+
+.bg-opaque:hover{
+    background-color: rgba(0,0,0,0.05);
+}
+
+.show-banner-state {
+    display: none;
+}
+
+.show-banner-target {
+    bottom: 0;
+    left: 50%;
+    animation: 0.5s 1s forwards top-down;
+    transition: all 1s ease;
+}
+
+@keyframes top-down {
+    from {
+        transform: translate(-50%, 0);
+    }
+    to {
+        transform: translate(-50%, 100%);
+    }
+}
+
+.show-banner-state:checked ~ .show-banner-target {
+    display: none;
+}

@@ -1,0 +1,627 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-09 16:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: lg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'XR Unchained #16'\n"
+"slug: xr-unchained-16\n"
+"date: '2020-07-16 17:17'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/pic15.jpg\n"
+"seoImage: /assets/uploads/pic15.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:15
+msgid "![Rebels with their heads in the sand](/assets/uploads/pic15.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:17
+#, no-wrap
+msgid "*XR Ibiza*\n"
+msgstr ""
+
+#. type: Title ###
+#: 2020-07-16-xr-unchained-16.md:18
+#, no-wrap
+msgid "South America"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:21
+#, no-wrap
+msgid "**28 JUNE | Quito, Ecuador**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:23
+msgid "![Rebels shaking hands](/assets/uploads/pic1.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:25
+msgid ""
+"[Extinction Rebellion Ecuador](https://www.facebook.com/XREcuador/) carried "
+"out a symbolic, peaceful action in front of the headquarters of the state "
+"oil company, Petroecuador."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:27
+msgid ""
+"They were drawing attention to the lack of response by government and oil "
+"companies to the desperate situation of communities affected by the [April 7 "
+"oil "
+"spill](https://news.mongabay.com/2020/05/massive-erosion-likely-due-to-hydropower-dam-causes-oil-spill-on-ecuadors-coca-river/) "
+"in the northern Amazon. Some 15,000 barrels of crude oil poured into two of "
+"the country’s most important rivers, affecting over 2,000 indigenous "
+"families and leaving 120,000 people without access to the rivers’ fresh "
+"water."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:29
+msgid ""
+"XR Ecuador stands in solidarity with the indigenous peoples, who [filed a "
+"lawsuit](https://www.downtoearth.org.in/news/environment/indigenous-peoples-sue-ecuador-govt-oil-firms-over-spill-70803) "
+"against the Ecuadorian government and private and state oil companies on "
+"April 29, 2020. Photo: Ivan Castaneira."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:31
+#, no-wrap
+msgid "**7 JULY | Paris, France**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:33
+msgid "![Rebels holding signs](/assets/uploads/pic9.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:35
+msgid ""
+"Colombian activists and members of the Colombian diaspora of Paris, "
+"supported by Extinction Rebellion Paris, demonstrated in front of the "
+"Colombian consulate to denounce the use of **sexual violence as a weapon of "
+"war and intimidation** against indigenous peoples by the Colombian armed "
+"forces."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:37
+msgid ""
+"On June 21, 2020, a 13-year-old child, a member of the Embera Katio "
+"ancestral people, [was "
+"raped](https://www.theguardian.com/global-development/2020/jun/26/fury-in-colombia-as-soldiers-admit-of-12-year-old-indigenous-girl?via=webuproar) "
+"by seven members of the Colombian army. A few days later, newspapers "
+"reported that last September a young Kille of the Nukak ethnic group, then "
+"aged 12, was kidnapped and raped for six days by the same army."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:39
+msgid ""
+"At present, [118 members of the military are being "
+"investigated](https://www.theguardian.com/world/2020/jul/01/colombia-army-chief-soldiers-sexual-abuse-minors) "
+"for acts of sexual violence."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:41
+msgid ""
+"The indigenous peoples [Embera "
+"Katio](https://en.wikipedia.org/wiki/Ember%C3%A1_people) and [Nukak "
+"Maku](https://en.wikipedia.org/wiki/Nukak) are among 38 indigenous peoples "
+"declared by the Colombian Constitutional Court to be in imminent risk of "
+"extinction as a result of colonisation, which has changed in form but not in "
+"substance."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:43
+msgid ""
+"The militarisation of indigenous territories by armed groups that covet "
+"natural resources and control of territories not only endangers the "
+"existence of these peoples, but also the havens of biodiversity that they "
+"protect by their presence."
+msgstr ""
+
+#. type: Title ###
+#: 2020-07-16-xr-unchained-16.md:44
+#, no-wrap
+msgid "Africa"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:47
+#, no-wrap
+msgid "**30 JUNE | Khartoum, Sudan**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:49
+msgid "![Rebels demonstrating in Khartoum](/assets/uploads/pic8.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:51
+msgid "Rebels from Extinction Rebellion Sudan demonstrate in Khartoum."
+msgstr ""
+
+#. type: Title ###
+#: 2020-07-16-xr-unchained-16.md:52
+#, no-wrap
+msgid "New Zealand"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:55
+#, no-wrap
+msgid "**9 JULY | Canterbury, New Zealand**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:57
+msgid "![Rebels dressed as cows](/assets/uploads/pic3.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:59
+msgid ""
+"The giant global dairy corporation "
+"[Fonterra](https://en.wikipedia.org/wiki/Fonterra) was greeted with [drums, "
+"cow costumes, placards and a pile of "
+"coal](https://www.facebook.com/XR.Chch/videos/1468110950055597/), as "
+"Extinction Rebellion Ōtautahi (Christchurch) asked the question, Why are "
+"Fonterra still using coal in a climate emergency?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:61
+msgid ""
+"[Fonterra](https://en.wikipedia.org/wiki/Fonterra) is responsible for "
+"approximately 30% of the world's dairy exports. A cooperative owned by "
+"10,500 New Zealand farmers, it is New Zealand’s largest company."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:63
+msgid ""
+"The demonstration follows Bathurst Resources’ application to expand the "
+"Canterbury coal mine, with most of its coal going to Fonterra’s nearby "
+"factory to dehydrate milk."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:65
+msgid ""
+"An [XR Ōtautahi](https://www.facebook.com/XR.Chch/) spokesperson said: “The "
+"proposed expansion of the Canterbury coal mine has everything to do with "
+"[Fonterra’s addiction to "
+"coal.](https://thedailyblog.co.nz/2020/07/10/fonterra-milk-and-coal-dont-mix-extinction-rebellion/) "
+"They are burning coal to dry out milk. Why are we seeing these irresponsible "
+"decisions in the middle of a climate crisis?”"
+msgstr ""
+
+#. type: Title ###
+#: 2020-07-16-xr-unchained-16.md:66
+#, no-wrap
+msgid "Europe 1"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:69
+msgid ""
+"Groups of rebels from all over Europe mobilised from June 29 to July 3 to "
+"denounce the aberrations of a system which destroys the conditions of our "
+"lives a little more every day. This first Europe-wide campaign enabled many "
+"countries to unite their voices to express the same message: instead of "
+"industries, **it’s the planet that needs a recovery plan.**"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:71
+msgid "![\"Bail Out The Planet\" XR Poster](/assets/uploads/pic11.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:73
+#, no-wrap
+msgid "**4 JULY | Tours, France**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:75
+msgid "![French rebels demonstrating](/assets/uploads/pic10.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:77
+msgid ""
+"Rebels protested against the millions of euros in bailouts granted by the "
+"French government to low-cost airlines. The woman’s placard compared the "
+"30-euro price of a 1015-kilometre flight from Tours airport to Porto in "
+"Portugal with the same price for a train ticket from Tours to Paris (240km)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:79
+#, no-wrap
+msgid "**30 JUNE | Paris, France**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:81
+msgid ""
+"![French rebels, almost nude, wtih a large puddle of fake blood in "
+"front](/assets/uploads/pic5.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:83
+msgid ""
+"French rebels [stripped to their underwear and poured "
+"‘blood’](https://www.facebook.com/xrfrance/videos/581976525837039/) outside "
+"the French Ministry of Economy and Finance. Their goal: to ‘point the "
+"finger’ at political leaders injecting billions into a deadly ‘revival’ of "
+"the old normality instead of investing in the climate, biodiversity and "
+"other vital needs such as health, food security and employment. Seven rebels "
+"were arrested."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:85
+#, no-wrap
+msgid "**2 JULY | Helsinki, Finland**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:87
+msgid "![Finnish rebels laying down in the street](/assets/uploads/pic19.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:89
+msgid ""
+"Finnish rebels lay down in the street to block the cars of government "
+"ministers from entering the Senate building. They were demanding that "
+"politicians recognise that the economy can no longer be run as it was before "
+"the Covid-19 "
+"crisis.[](https://twitter.com/hashtag/BailOutThePlanet?src=hashtag_click)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:91
+#, no-wrap
+msgid "**2 JUL | Berlin, Germany**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:93
+msgid ""
+"Berlin rebels [entered Germany’s "
+"parliament](https://twitter.com/XRBerlin/status/1278613793090699264) to "
+"protest a disastrous new law that would allow coal to be burned until 2039 - "
+"far too long if the country is to meet its Paris Agreement commitments."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:95
+msgid ""
+"Rebels let it rain with leaflets and told the startled MPs that a citizens’ "
+"assembly was needed to take the necessary steps to tackle the climate "
+"crisis. The politicians ratified the new law anyway. As well as setting a "
+"phase-out deadline a decade too late, the law [pledges €4.35 billion in "
+"compensation](https://www.euractiv.com/section/climate-environment/opinion/new-coal-law-will-be-canary-in-a-coal-mine-moment-for-german-presidency/) "
+"for the coal industry. Germany holds the EU presidency and is the 4th "
+"largest CO2 emitter in the world - its cosy attitude to coal sets a terrible "
+"example."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:97
+msgid "![Rebels dressed as spacemen demonstrating](/assets/uploads/pic14.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:99
+msgid "Space age rebels protest the coal law after it was passed by parliament."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:101
+#, no-wrap
+msgid "**3 JULY | Munich, Germany**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:103
+msgid ""
+"![German rebels winding green thread around an "
+"entrance](/assets/uploads/pic12.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:105
+msgid ""
+"Rebels wound 4 km of green thread between two columns at the entrance to the "
+"Munich offices of the European Commission to draw attention to the fact that "
+"the supposed [European Green "
+"Deal](https://www.youtube.com/watch?v=cBU48JHJ-4M) is not very green at all "
+"and current EU climate policy is leading to disaster."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:107
+#, no-wrap
+msgid "**4 JULY | Budapest, Hungary**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:109
+msgid "![Hungarian rebels demonstrating.](/assets/uploads/pic6.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:111
+#, no-wrap
+msgid "*‘A Lifebelt for the Planet.’ Photo: Czele Annamária.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:113
+msgid ""
+"As part of the Europe-wide actions, Hungarian rebels demonstrated in front "
+"of the Ministry of Finance. “Our governments provide unconditional support "
+"to save polluting industries such as the automotive industry or aviation. We "
+"demand that the Hungarian government focus on providing human needs such as "
+"health, food supply and the environment,” they said."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:115
+#, no-wrap
+msgid "**29 JUNE | Turin, Italy**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:117
+msgid "![Semi-nude rebels protesting outside a bank](/assets/uploads/pic21.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:119
+msgid ""
+"’Intesa is naked’ read the signs, referring to the Italian bank Intesa "
+"SanPaolo. Turin rebels expressed their opposition outside its offices to the "
+"restart of the economy at the expense of planetary ecosystems and human "
+"lives."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:121
+#, no-wrap
+msgid "**5 JULY | Palermo, Sicily**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:123
+msgid "![Rebels holding up a big rainbow banner](/assets/uploads/pic4.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:125
+#, no-wrap
+msgid "*‘No Rainbow on a Planet With No Rain’.*\n"
+msgstr ""
+
+#. type: Title ###
+#: 2020-07-16-xr-unchained-16.md:126
+#, no-wrap
+msgid "Europe 2"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:129
+msgid ""
+"More actions took place around Europe before and after the week-long Bail "
+"Out The Planet mobilisation."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:131
+#, no-wrap
+msgid "**7 JULY | Baltic pipeline, Denmark**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:133
+msgid "![Rebels blocking a construction site](/assets/uploads/pic7.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:135
+msgid ""
+"Fifteen rebels were arrested when they blocked a construction site for the "
+"new [Baltic Pipe](https://en.wikipedia.org/wiki/Baltic_Pipe)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:137
+msgid ""
+"Due for completion in October 2022, the pipeline will carry [natural "
+"gas](https://en.wikipedia.org/wiki/Natural_gas) from the "
+"[Norwegian](https://en.wikipedia.org/wiki/Norway) sector of the [North "
+"Sea](https://en.wikipedia.org/wiki/North_Sea) to "
+"[Poland](https://en.wikipedia.org/wiki/Poland) via Denmark. The project is "
+"being developed by Danish operator "
+"[Energinet](https://en.wikipedia.org/wiki/Energinet) and Poland’s "
+"[Gaz-System](https://en.wikipedia.org/wiki/Gaz-System). It received 215m "
+"euros of EU funding in 2019."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:139
+#, no-wrap
+msgid "**18 JUNE | State Forestry Management Centre, Estonia**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:141
+msgid "![Estonian rebels demonstrating](/assets/uploads/pic20.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:143
+msgid ""
+"About [100 rebels and environmental activists "
+"marched](https://www.facebook.com/watch/?v=252483676051498) around the "
+"headquarters of Estonia’s State Forestry Management Centre (RMK). They were "
+"protesting against the mass clear-cutting of Estonian forests, in spite of "
+"warnings from prominent scientists and environmental organisations."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:145
+msgid ""
+"The rebels disobediently planted an oak tree to symbolise the need to care "
+"for our forests instead of turning them into quick profits for corrupt "
+"institutions. Established in 1999, RMK made a profit of 43.2m euros in 2019 "
+"and was one of the top 10 companies in Estonia."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:147
+#, no-wrap
+msgid "**24 JUNE | Gdansk, Poland**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:149
+msgid "![Rebels demonstrating in Poland](/assets/uploads/pic17.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:151
+msgid ""
+"Rebels outside the Board of Education in Gdańsk. Together with the Polish "
+"Youth Climate Strike, they were protesting education material prepared by "
+"the Ministry of National Education in which global warming is described as "
+"bringing benefits to the planet! Photo: Pamela Gasiorowski."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:153
+#, no-wrap
+msgid "**27 JUN | Place de l’Europe, Lausanne, Switzerland**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:155
+msgid ""
+"![Rebels lying \"dead\" in the shape of the XR "
+"logo](/assets/uploads/pic13.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:157
+msgid ""
+"Doctors for XR Switzerland held [a powerful symbolic "
+"performance](https://www.facebook.com/doctors4xr.ch/videos/328387768152848/) "
+"in Lausanne to highlight [links between ecological catastrophe and human "
+"health "
+"problems](https://www.theguardian.com/environment/2020/mar/18/tip-of-the-iceberg-is-our-destruction-of-nature-responsible-for-covid-19-aoe?CMP=Share_iOSApp_Other), "
+"including the spread of infectious diseases like Covid-19."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:159
+msgid ""
+"More than 80 medical rebels in white coats and doctors’ paraphernalia "
+"gathered at the Place de l’Europe to lead a funeral procession with coffin, "
+"skull and stained-glass sand timer before lying down dead in the shape of "
+"the XR logo to represent the dangers of [global "
+"heating.](https://www.theguardian.com/environment/2020/jul/14/livestock-farming-and-fossil-fuels-could-drive-4c-global-heat-rise?CMP=Share_iOSApp_Other)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:161
+#, no-wrap
+msgid "**12-21 JUNE | Germany**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:163
+msgid "![Rebels dancing on a bridge amongst bubbles](/assets/uploads/pic16.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:165
+#, no-wrap
+msgid "*Discobedience on the Oberbaum Bridge, Berlin*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:167
+msgid ""
+"Last month saw XR Germany launch its Rebellion Wave, a 9-day action "
+"extravaganza organised by groups across the country. The decentralised wave "
+"encompassed both digital and physical disruption. Highlights included "
+"blocking access to coal-fired power plants and mass ‘discobedience’ in "
+"central Berlin."
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:169
+msgid "![Rebels blocking access to a power plant](/assets/uploads/pic18.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:171
+#, no-wrap
+msgid ""
+"*50 rebels block access to the Lippendorf coal-fired power plant near "
+"Leipzig.*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:173
+#, no-wrap
+msgid "**27 JUNE | Prague, Czech Republic**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:175
+msgid "![Rebels lying down in a square in Prague](/assets/uploads/pic2.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-07-16-xr-unchained-16.md:176
+msgid ""
+"‘Let’s have a picnic in Prague Castle’. Concluding a series of "
+"socially-distanced actions since early May, Czech Republic rebels keep "
+"demanding that President Zeman meets with them to discuss the climate "
+"crisis."
+msgstr ""

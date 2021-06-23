@@ -1,0 +1,173 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-22 11:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:13
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion Launches Biggest Climate Hunger Strike in History\"\n"
+"slug: biggest-climate-hunger-strike-in-history\n"
+"date: 2019-11-15 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/10/31/hunger-skull-cropped.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:16
+msgid ""
+"![Extinction Rebellion Launches Biggest Climate Hunger Strike in History](/"
+"assets/img/blog/2019/10/31/hunger-skull-cropped.jpg \"Extinction Rebellion "
+"Launches Biggest Climate Hunger Strike in History\"){:.img-fluid}"
+msgstr ""
+
+#. type: Title ##
+#: 2019-11-19-hunger-strike.md:18
+#, no-wrap
+msgid "Extinction Rebellion Launches Biggest Climate Hunger Strike in History"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:20
+msgid ""
+"[Facebook](https://www.facebook.com/events/2637555322972382/) \\| [Instragam]"
+"(https://www.instagram.com/extinctionrebellion/) \\| [Twitter](https://"
+"twitter.com/ExtinctionR) \\| [Website](https://rebellion.global/"
+"newsletters/2019/10/31/global-hunger-strike/) \\| [Photographs](https://"
+"drive.google.com/open?id=1Q2Vyaa5Fq406Kx8x4YLRjzOzFH6EEKrT)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:22
+#, no-wrap
+msgid "**Earth, November 18** - Hundreds of XR  rebels in 27 countries on six continents went on hunger strike today to demand governments take immediate action to end the climate and ecological emergency.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:26
+#, no-wrap
+msgid "**WHAT:** More than 400 hunger strikers with Extinction Rebellion are demanding governments enact Extinction Rebellion’s [three demands](https://rebellion.global/our-demands/). They want to highlight the devastating impact that the climate and ecological emergency is already having on global food supplies.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:30
+#, no-wrap
+msgid "**WHEN:** November 18 to November 25\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:34
+#, no-wrap
+msgid "**WHERE:** Australia, Austria, Belgium, Canada, Democratic Republic of the Congo, Denmark, Ecuador, France, Germany, Ghana, Holland, India, Ireland, Italy, Mexico, New Zealand, Nigeria, Norway, Pakistan, Poland, Portugal, South Africa, Spain, Sweden, Turkey, United Kingdom, United States.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:38
+#, no-wrap
+msgid "**WHY:** Time has almost run out to address the ecological crisis, which includes the 6th mass species extinction, global pollution, and abrupt, runaway climate change. Scientists and other experts see societal collapse and mass death as inevitable, with human extinction a possibility, unless rapid action is taken.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:42
+#, no-wrap
+msgid "**WHO:** [Extinction Rebellion](https://rebellion.global/) believes it is a citizen’s duty to rebel, using peaceful civil disobedience, when faced with criminal inactivity by their Government. Extinction Rebellion’s key demands are:\n"
+msgstr ""
+
+#. type: Bullet: '1.  '
+#: 2019-11-19-hunger-strike.md:44
+msgid ""
+"Government must tell the truth by declaring a climate and ecological "
+"emergency, working with other institutions to communicate the urgency for "
+"change."
+msgstr ""
+
+#. type: Bullet: '2.  '
+#: 2019-11-19-hunger-strike.md:46
+msgid ""
+"Government must act now to halt biodiversity loss and reduce greenhouse gas "
+"emissions to net zero by 2025."
+msgstr ""
+
+#. type: Bullet: '3.  '
+#: 2019-11-19-hunger-strike.md:48
+msgid ""
+"Government must create and be led by the decisions of a Citizens’ Assembly "
+"on climate and ecological justice."
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:51
+msgid ""
+"[What Emergency?](https://rebellion.global/the-emergency/) \\| [Extinction "
+"Rebellion in Numbers](https://docs.google.com/document/"
+"d/11E9MUhXWyxweCDKwJqBRZEDLGam268iwUqVAAUG8dus/) \\| [This Is Not A Drill: "
+"An Extinction Rebellion Handbook](https://www.penguin.co.uk/books/314/314671/"
+"this-is-not-a-drill/9780141991443.html)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:53
+msgid ""
+"For press release: [https://rebellion.global/newsletters/2019/10/31/global-"
+"hunger-strike/](https://rebellion.global/newsletters/2019/10/31/global-"
+"hunger-strike/)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:55
+msgid ""
+"For photographs and video from the Global Hunger Strike, please click [here]"
+"(https://drive.google.com/drive/folders/1Q2Vyaa5Fq406Kx8x4YLRjzOzFH6EEKrT)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:57
+msgid "#GlobalHungerStrike #ExtinctionRebellion"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:59
+#, no-wrap
+msgid "**CONTACTS:**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:61
+msgid ""
+"Nick Brana: [nickbrana@protonmail.com](mailto:nickbrana@protonmail.com) and "
+"+1 (571) 218-6213"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:63
+msgid ""
+"Miles Amoore: [xrdcmedia@protonmail.com](mailto:xrdcmedia@protonmail.com) "
+"and +1 (202) 867-6080"
+msgstr ""
+
+#. type: Plain text
+#: 2019-11-19-hunger-strike.md:64
+msgid ""
+"Marijn van de Geer: [marijnvandegeer@googlemail.com](mailto:"
+"marijnvandegeer@googlemail.com) and +44(0) 7979 971209"
+msgstr ""

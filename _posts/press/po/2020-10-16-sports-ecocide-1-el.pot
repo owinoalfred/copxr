@@ -1,0 +1,178 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-01-07 12:27+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:11
+#, no-wrap
+msgid ""
+"lang: el\n"
+"title: To Extinction rebellion της Βραζιλίας εννώνεται στην μάχη κατά της "
+"οικολογικής καταστροφής \n"
+"  που διαιωνίζει η βιομηχανία του αθλητισμού \n"
+"slug: sports-ecocide\n"
+"date: 2020-10-16 16:56\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/image4.png\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:13
+msgid "![Photo of proposed race track](/assets/uploads/image4.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:15
+#, no-wrap
+msgid "*Φωτογραφία από: Movimento SOS Floresta do Camboata (Facebook)*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:17
+#, no-wrap
+msgid ""
+"**Επικοινωνία:** Pedro Cunha, Extinction Rebellion Brazil, "
+"[sportsagainstecocides@protonmail.com](mailto:sportsagainstecocides@protonmail.com)\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:19
+#, no-wrap
+msgid ""
+"**Φωτογραφίες:** Εικόνες από την καμπάνια στα μέσα κοινωνικής δικτύωσης "
+"είναι [διαθέσιμες "
+"εδώ](https://drive.google.com/drive/folders/1u_Tzx8Hotf946spu1ObdeuLa_SUWQQUP?usp=sharing).\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:21
+#, no-wrap
+msgid ""
+"**Rio de Janeiro, Brazil -** Καθοδηγούμενο από τοπικούς περιβαλλοντολόγους "
+"και νέους ακτιβιστές και ακτιβίστριες για το κλίμα από το Ρίο ντε Τζανέιρο, "
+"το κίνημα που έχει θέσει ως στόχο την παρεμπόδιση του διοικητικού κτηρίου "
+"της νέας πίστας αγώνων στο δάσος Camboatá,-το τελευταίο απομυνάρι αυθεντικού "
+"τροπικού δάσους, στην εμβληματικότερη πόλη της Βραζιλίας, αποκτά ορμή χάρις "
+"την υποστήριξη του βρετανού Lewis Hamilton της F1 και άλλων μελών νεανικών "
+"οργανώσεων όλου του κόσμου.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:29
+msgid ""
+"Εκτιμάται ότι η πίστα θα οδηγήσει στην απώλεια 180.000 χιλιάδων δέντρων από "
+"τα 200.000 που υπάρχοτν συνολικά στο δάσος Camboatá. Ακόμα και αν αυτά τα "
+"δέντρα αναδασώνονταν σε άλλες περιοχές, όπως υποσχέθηκαν οι συγγραφείς του "
+"έργου, μελέτες δείχνουν ότι θα υπάρχει αξιοσημείωτη απώλεια τηε "
+"βιοποικιλότητας της περιοχής, όπως επίσης θα υπάρξουν και επιπτώσεις στην "
+"ευημερία της τοπικής κοινότητας, που βρίσκεται σε μία φτωχή περιοχή του Ρίο "
+"ντε Τζανέιρο."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:35
+msgid ""
+"Από το National Hockey League της Βόρειας Αμερικής, που έχει ένα από τα "
+"μεγαλύτερα ανθρακικά αποτυπώματα στον κόσμο του αθλητισμόυ, μέχρι το Ράλι "
+"Ντακάρ, που εκτιμάται ότι θα παράξει 100 τόνους απόβλητων στους επόμενους "
+"αγώνες του, το αποτύπωμα της παγκόσμιας αθλητικής βιομηχανίας στον πλανήτη "
+"έχει ολέθριες συνέπειες."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:44
+msgid ""
+"\"Είχαμε το FIFA και τους Ολυμπιακούς Αγώνες στο Ρίο ντε Τζανέιρο. Εκέι "
+"διαβεβαιώθηκα, ότι τέτοιες τεράστιες, αθλητικές εκδηλώσεις, ειδικά στον "
+"αναπτυσσόμενο κόσμο, μπορούν να φέρουν μαζί τους ένα τοξικό μείγμα "
+"διαφθοράς, περιβαλλοντικών εγλημάτων και παραβιάσεις των ανθρωπίνων "
+"δικαιωμάτων. Το ίδιο ισχύει για την Ρωσία στο Σότσι, την Νότια Αφρική με το "
+"FIFA και άλλες μεγάλες πόλεις όπου τέτοιες εκδηλώσεις πραγματοποιούνται.\" "
+"αναφέρει ο Pedro Cunha, συνδημιουργός της καμπάνιας και μέλος του Extinction "
+"Rebellion."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:51
+msgid ""
+"Η υποστήριξη του Lewis Hamilton για την καμπάνια γνωστοποιήθηκε στις 8 "
+"Οκτωβρίου , όπου ο πρωταθλητής της F1 ανακοίνωσε στους δημοσιογράφους: \"Έχω "
+"ακούσει ότι θα γίνουν κάποιοι βιώσιμοι αγώνες, αλλά η πιο βιώσιμη κίνηση που "
+"μπορόυμε να κάνουμε είναι να μην κατεδαφίσουμε τα δέντρα.\" Πρόσθεσε: \"Δεν "
+"πιστεύω πως είναι μία έξυπνη κίνηση. Με την αποξύλωση, βιώνουμε μία "
+"παγκόσμια κρίση.\""
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:57
+msgid ""
+"Μόλις ο Lewis Hamilton έκανε αυτήν την δήλωση, η καμπάνια για την σωτηρία "
+"του δάσους Camboatá απέκτησε ακόμα μεγαλύτερη έλξη στα μέσα κοινωνικής "
+"δικτύωσης καθώς μέλη του μαθητικού κινήματος Fridays for Future σε "
+"τουλάχιστον 20 χώρες βοήθησαν με την προώθηση του hashtag "
+"#SportsAgainstEcocides."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:68
+msgid ""
+"\"Θα ήταν απολύτως αισχρό και κακό αν αυτό το project, που θα κατεδαφίσει "
+"180.000 δέντρα περάσει, όλο για χάριν μίας αγωνιστικής πίστας που δεν θα "
+"οφελήσει κανέναν. Είμαστε σε μία πλανητική και κλιματική κατάσταση έκτακτης "
+"ανάγκης, η οικοκτονία δεν πρέπει να παραμένει μέρος των σχεδίων μας. Αυτό "
+"δεν είναι μόνο ένα έγκλημα κατά του περιβάλλοντος, αλλά και όλης της "
+"ανθρωπότητας. Όλες οι βιομηχανίες θα έπρεπε να κάνουν το καθήκον τους για "
+"την σωτηρία του πλανήτη και την αντιμετώπιση της κλιματικής κρίσης. Πιστεύω "
+"ότι η F1 μπορεί να κάνει και καλύτερα, ότι η F1 πρέπει να κάνει καλύτερα.\" "
+"είπε ο Mitzi Jonelle Tan, της ομάδας Youth Advocates for Climate Action "
+"Philippines"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:70
+msgid "![](/assets/uploads/image1.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:72
+#, no-wrap
+msgid ""
+"*Φωτογραφία: Mitzi Jonelle, Youth Advocates for Climate Action "
+"Philippines*\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:80
+msgid ""
+"Αυτό το hashtag δημιουργήθηκε από το Extinction Rebellion Βραζιλίας και το "
+"Fridays for Future του Ρίο ντε Τζανέιρο, ως μία παράκληση σε ατομα και "
+"οργανώσεις οπουδήποτε στον κόσμο, για να ενσωματωθούν στον αγώνα προστασίας "
+"του περιβάλλοντος της Βραζιλίας. Είναι επίσης ένας τρόπος να δείξουν "
+"παγκόσμια υποστήριξη στους ακτιβιστές που αντιστέκονται στην περιβαλλοντικά "
+"καταστροφική πολιτική που ακολουθεί η κυβέρνηση Μπολσονάρο και η τοπική "
+"κυβέρνηση του Ρίο ντε Τζανέιρο."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-16-sports-ecocide-1-el.md:83
+msgid ""
+"Ο καθένας μπορεί να υποστηρίξει την καμπάνια στα μέσα κοινωνικής δικτύωσης "
+"για την σωτηρία του δάσους Camboatá κοινοποιώντας μία φωτογραφία του εαυτού "
+"του/της κρατώντας ένα μικρό πανό με το hashtag: #SportsAgainstEcocides."
+msgstr ""

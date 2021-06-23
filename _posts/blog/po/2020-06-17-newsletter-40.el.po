@@ -1,0 +1,1023 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-16 11:42+0800\n"
+"PO-Revision-Date: 2021-02-13 00:09+0000\n"
+"Last-Translator: Eleftheria Sofou <eleftheriasofou@gmail.com>\n"
+"Language-Team: Greek <http://translate.organise.earth/projects/blog-"
+"posts/2020-06-17-newsletter-40/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'Global Newsletter #40: The World is Still Sick'\n"
+"slug: newsletter-40\n"
+"date: '2020-06-18 16:12'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/NewsletterImage1.jpg\n"
+"seoImage: /assets/uploads/NewsletterImage1.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:13
+msgid "![Rebels pouring oil on a globe](/assets/uploads/NewsletterImage1.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:15
+msgid "Photo: Péter Lakatos, XR Hungary"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:17
+msgid "Dear rebels,"
+msgstr "Αγαπητοί επαναστάτες,"
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:19
+msgid ""
+"Many countries may now be coming out of quarantine, but the world is still "
+"sick. Now, more than ever, it’s time to rebel."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:21
+msgid ""
+"The last few weeks have seen a near-endless parade of atrocities which only "
+"serve to highlight the injustices and social inequalities of our time. [This "
+"statement](https://xrisnetwork.wixsite.com/xrisn/post/there-comes-a-time-"
+"when-silence-is-betrayal) from XRISN focuses on the need for XR to be an "
+"[‘umbrella canopy’](https://www.youtube.com/watch?v=iLDansB4c3Y) with "
+"diversity and freedom at its core. Ultimately, it is our duty as rebels (and "
+"as human beings) to work toward making the world a safer, fairer, and "
+"greener place."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:23
+msgid ""
+"Yet amid all the sadness and tumult, there are some bright things happening. "
+"Have you seen [The Gigantic Change](https://www.youtube.com/watch?"
+"v=wf6VXXNjML0&feature=youtu.be), featuring the wonderful Whoopi Goldberg? "
+"How about [The Condor & The Eagle](https://thecondorandtheeagle.com/"
+"extinction-rebellion-global-support-presents-frontline-indigenous-resistance-"
+"across-borders-european-screening/); a fresh new documentary bringing "
+"Indigenous voices to the forefront of our narrative? Also, we have news of "
+"upcoming actions in Europe and ongoing ones in India."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:25
+msgid ""
+"![Stop saying we are all in the same boat, we are in the same storm, but not "
+"in the same boat](/assets/uploads/NewsletterImage2.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:27
+msgid ""
+"Today’s focus is on rebel activities in Kenya, where XR Africa is fighting "
+"to halt the destruction of a precious wild space, the Nairobi National Park, "
+"which is under threat from a luxury tourist resort in direct violation of "
+"the 2030 National Wildlife Strategy. Read up below, and also - exciting "
+"news, XR Africa now has their very own newsletter. [Read it here](https://"
+"docs.google.com/document/d/1-NFI6gIvhI9Xwtg7RKjRmhZ50LdmzvmMS7cuNKbERkg/"
+"edit) and [please subscribe](https://docs.google.com/forms/d/"
+"e/1FAIpQLSfs2JGbXpUuOz1VD3rNj4F1_gi14iiz09vLAOxFfYn9dO0W5w/viewform)!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:29
+msgid ""
+"In Indonesia we catch up with a group of inspiring young rebels who staged a "
+"successful digital rebellion, highlighting the underhand tactics of its "
+"parliament to pass a secretive [Coal and Mineral Mining Bill](https://www."
+"thejakartapost.com/news/2020/05/12/house-approves-revised-mining-law-amid-"
+"outcry.html). And in France, over 50 rebels were arrested in one day of "
+"peaceful, socially distanced protesting for greater focus on our planet’s "
+"needs."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:31
+msgid ""
+"Be sure to check out the [Unchained](https://rebellion.global/"
+"blog/2020/06/18/xr-unchained-15) for an array of more brave and beautiful "
+"actions from across the globe."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:33
+msgid ""
+"Our announcements section is bursting with ways to educate yourself and get "
+"involved, whether that’s helping out with the [new website redesign](https://"
+"rebellion.global) or sending stories to the [Writers Rebel](https://"
+"writersrebel.com) or [Creative Hub](https://xrcreative.org)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:35
+msgid ""
+"Finally, as we come tentatively out of lockdown and into the next stage of "
+"unknown, the only certainty is that we won't give up rebelling for the "
+"Earth, for all life, and for justice."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:37
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Αν θα σε ενδιέφερε να βοηθήσεις, μπορείς να επισκεφτείς την [ιστοσελίδα]"
+"(https://rebellion.global) και [να μάθεις περισσότερα για το XR.](https://"
+"rebellion.global/about-us/)"
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:39
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"Για να συνδεθείς με επαναστάτες της κοντινής σου περιοχής, επικοινώνησε με "
+"την [κοντινότερη ομάδα XR](https://rebellion.global/branches/). Αν δεν "
+"υπάρχει καμία ενεργή ομάδα [ξεκίνα την δική σου!](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:41
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Εαν θα ήθελες να βρεις προηγούμε δελτία, μπορείς να τα βρεις [εδώ](https://"
+"rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:43
+msgid ""
+"This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:45 2020-06-17-newsletter-40.md:323
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Υποστήριξε την Επανάσταση](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+
+#. type: Title #
+#: 2020-06-17-newsletter-40.md:46
+#, no-wrap
+msgid "Contents"
+msgstr "Περιεχόμενα"
+
+#. type: Title #
+#: 2020-06-17-newsletter-40.md:53 2020-06-17-newsletter-40.md:54
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Action Highlights"
+
+#. type: Title #
+#: 2020-06-17-newsletter-40.md:53 2020-06-17-newsletter-40.md:134
+#, no-wrap
+msgid "XR Unchained"
+msgstr ""
+
+#. type: Title #
+#: 2020-06-17-newsletter-40.md:53 2020-06-17-newsletter-40.md:150
+#, no-wrap
+msgid "Upcoming"
+msgstr ""
+
+#. type: Title #
+#: 2020-06-17-newsletter-40.md:53 2020-06-17-newsletter-40.md:176
+#, no-wrap
+msgid "Announcements"
+msgstr "Ανακοινώσεις"
+
+#. type: Title #
+#: 2020-06-17-newsletter-40.md:53 2020-06-17-newsletter-40.md:304
+#, no-wrap
+msgid "Must Reads"
+msgstr "Must Reads"
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:58
+#, no-wrap
+msgid "Save Nairobi National Park"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:61
+msgid "08 JUN | Nairobi, Kenya"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:63
+msgid ""
+"Nairobi National Park is under threat. The park is a rare haven for wildlife "
+"in a busy city; the world’s only natural wildlife park in the midst of a "
+"capital. It is home to Kenya’s only black rhino sanctuary, as well as lions, "
+"buffalos and over 400 bird species."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:65
+msgid ""
+"The park also functions as an important carbon sink helping to purify the "
+"air in a city where air pollution costs many lives."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:67
+msgid ""
+"![Lions in Narobi national park surrounded by encroaching city](/assets/"
+"uploads/NEWSLETTERIMAGE3.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:69
+msgid "Photo: African Sustainability Network"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:71
+msgid ""
+"Part of a vital migration route to plains beyond it, the park was once a "
+"channel for the mass migrations of zebras, wildebeests and giraffes. But "
+"with the development of oil pipelines, railways, roads and extensive "
+"fencing, the number and variety of wild species populating the park has "
+"fallen drastically."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:73
+msgid ""
+"The park is now threatened by further developments, including a luxury "
+"tourist resort in rhino breeding grounds and a plan to fully enclose the "
+"park. These proposals contradict the 2030 National Wildlife Strategy "
+"recently adopted by the government which aims to sustain natural habitats "
+"and reduce biodiversity loss."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:75
+msgid ""
+"![Rebels calling for the development on Nairobi National Park to be stopped]"
+"(/assets/uploads/NEWSLETTERIMAGE4.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:77
+msgid ""
+"A founder of the [African Sustainability Network](https://"
+"africansustainabilitynetwork.org/programs/) and fierce defender of the park "
+"explained: “Utter destruction will occur if this goes ahead, converting the "
+"park into nothing more than a glorified zoo... Ancestral lands and wildlife "
+"diversity will be diminished through inbreeding, territorial reduction, "
+"culling and habitat encroachment”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:79
+msgid ""
+"These developments must be stopped. Watch [this video](https://twitter.com/"
+"XRebellionUK/status/1271321482291851266), [sign the petition](https://www."
+"change.org/p/cabinet-secretary-of-tourism-and-wildlife-najib-balala-save-"
+"nairobi-national-park), support their [legal crowdfunder here](https://www."
+"gofundme.com/f/save-nairobi-national-park?"
+"utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1) and "
+"[follow XR Youth Kenya here](https://www.instagram.com/xr_youth__kenya/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:81
+msgid ""
+"Also, read [XR Africa’s first ever newsletter here](https://docs.google.com/"
+"document/d/1-NFI6gIvhI9Xwtg7RKjRmhZ50LdmzvmMS7cuNKbERkg/edit) and [sign up "
+"to the XR Africa newsletter here](https://docs.google.com/forms/d/"
+"e/1FAIpQLSfs2JGbXpUuOz1VD3rNj4F1_gi14iiz09vLAOxFfYn9dO0W5w/viewform) !"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:84
+#, no-wrap
+msgid "Digital Wave: Indonesian Youth Rise Up!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:87
+msgid "10 - 21 MAY | Jakarta, Indonesia"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:89
+msgid ""
+"XR Indonesia hosted a 10-day wave of digital actions that spread awareness "
+"of the climate emergency and recruited hundreds of new rebels to their cause."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:91
+msgid ""
+"Each day a new digital ‘quest’ was launched on Instagram - a climate-related "
+"challenge that included attending zoom seminars, answering questionnaires, "
+"and making pieces of protest artwork. You can watch some highlights [here]"
+"(https://www.instagram.com/tv/CAiEr2MArLk/?igshid=1w2rxibj6q5n2)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:93
+msgid ""
+"The quests drew in thousands of Indonesians, with hundreds posting their "
+"responses each day. Many of the new recruits are school age and are now "
+"setting up a national XR Youth chapter, as well as filming their own "
+"‘Heading for Extinction’ talk."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:95
+msgid "![](/assets/uploads/NEWSLETTERIMAGE5.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:97
+msgid ""
+"The digital event was launched after the government held an extraordinary "
+"parliamentary session, in contravention of its own lockdown rules, to pass a "
+"secretive [Coal and Mineral Mining Bill](https://www.thejakartapost.com/"
+"news/2020/05/12/house-approves-revised-mining-law-amid-outcry.html)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:99
+msgid ""
+"The new laws sideline environmental protections and encourage rampant "
+"extractivism. Last year, mining was linked to 7 natural disasters that "
+"killed dozens and displaced tens of thousands."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:101
+msgid ""
+"This year the country has been devastated by floods and forest fires. Yet "
+"the media continues to ignore the climate crisis, and most Indonesians are "
+"still not properly informed about the wider links."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:104
+#, no-wrap
+msgid "58 Rebels Arrested for Defending Earth Needs"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:107
+msgid "30 MAY | Paris, France"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:109
+msgid ""
+"![Rebels in Paris, France blocking the Champs-Elysees](/assets/uploads/"
+"NEWSLETTERIMAGE6.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:111
+msgid ""
+"On May 30, 58 French rebels were arrested, bussed to a police station, and "
+"fined after blocking the most iconic street in Paris, the Champs-Elysees. "
+"Many more were roughly [dragged away by the police](https://twitter.com/"
+"LPLdirect/status/1266688393079119872)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:113
+msgid ""
+"The 150 strong blockade was part of a socially-distanced action called ‘Nos "
+"Besoins’ (Our Needs) highlighting the real needs of the world after the "
+"pandemic, such as clean seas and an ecological society, not a return to the "
+"old economic ‘abnormality’."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:116
+#, no-wrap
+msgid "A Tale of 2 Coal-Fired Power Stations"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:119
+msgid "31 MAY & 4 JUNE | Germany & Czech Republic"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:121
+msgid ""
+"While Czech rebels were celebrating the shutdown of one of Europe’s dirtiest "
+"coal-fired power stations, rebels across Europe were protesting the launch "
+"of a brand-new one in Germany."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:123
+msgid ""
+"![Rebel with an extinction rebellion flag in front of power station](/assets/"
+"uploads/NEWSLETTERIMAGE7.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:125
+msgid ""
+"On 4th June the state-owned Prunerov 1 power station near the town of Kadan, "
+"north-west of Prague, was finally closed down. According to a 2007 study by "
+"the World Wildlife Fund, Prunéřov was Europe’s 12th worst power station in "
+"terms of its energy efficiency and CO2 output.[](https://en.wikipedia.org/"
+"wiki/Carbon_dioxide)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:127
+msgid ""
+"Four days earlier the controversial [Datteln4](https://twitter.com/hashtag/"
+"StopDatteIn4?src=hashtag_click) power station near Dortmund had been started "
+"up, with its operator Uniper claiming it to be among the world’s most modern "
+"and efficient coal-fired power plants."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:129
+msgid ""
+"But as [protestors](https://www.youtube.com/watch?"
+"v=2Cs1DKyshAw&feature=youtu.be) made clear, it is still burning coal and "
+"still adding to the burden of CO2 in the Earth’s atmosphere. Greta Thunberg "
+"called it “a shameful day for Europe”."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:131
+msgid ""
+"![Rebel with fake blood on their hands](/assets/uploads/NEWSLETTERIMAGE8.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:137
+msgid ""
+"Once again we have too many actions for one newsletter. To catch up on all "
+"the actions that have been happening around the world you’ll have to read "
+"[XR Unchained](https://rebellion.global/blog/2020/06/18/xr-unchained-15). "
+"It’s choc full of beauty, courage, and inspiration."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:139
+msgid "![](/assets/uploads/NEWSLETTERIMAGE9.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:141
+msgid ""
+"On June 7, inspired by the recent Trafalgar Square protest in the UK, "
+"Ecuadorian rebels lay down shoes outside the National Assembly, the house of "
+"Government in the capital Quinto. Each pair of shoes represented a life lost "
+"in the struggle to defend Ecuador's natural habitats and human rights."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:143
+msgid ""
+"![rebel holding sign saying \"Shell already knew it in 1986\"](/assets/"
+"uploads/NEWSLETTERIMAGE10.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:145
+msgid "Czech Republic. The sign reads: “Shell already knew it in 1986”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:147
+msgid ""
+"Read our full Unchained [here](https://rebellion.global/blog/2020/06/18/xr-"
+"unchained-15)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:152
+#, no-wrap
+msgid "Bail Out The Planet"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:155
+msgid "29 JUNE - 3 JULY |Europe"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:157
+msgid ""
+"![Extinction Rebellion Bail Out The Planet Flyer](/assets/uploads/"
+"NEWSLETTERIMAGE11.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:159
+msgid ""
+"Could you help organise [XR Europe's](https://www.facebook.com/"
+"extinctionrebellionEU/) first synchronized European action in your country?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:161
+msgid ""
+"If your chapter, local group, or affinity group is interested, please email "
+"us at [europeanactions@protonmail.com](mailto:europeanactions@protonmail.com)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:164
+#, no-wrap
+msgid "XR India: Act Now to Stop Pro-Polluter Law"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:166
+#, no-wrap
+msgid "Ongoing | India  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:169
+msgid ""
+"![Extinction Rebellion India logo](/assets/uploads/NEWSLETTERIMAGE12.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:170
+#, no-wrap
+msgid "India’s Government is planning legislation that encourages rampant industrialisation and allows companies to pollute with impunity.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:173
+msgid ""
+"XR India believes our nation must protest as one to halt these proposals and "
+"protect our shared natural resources. You can join an ongoing [digital "
+"action](https://www.instagram.com/explore/tags/humanchainforeia/) about the "
+"draft Environment Impact Assessment (EIA) legislation or find out more on XR "
+"India’s [website](http://www.extinctionrebellion.in) and [Facebook](http://"
+"www.facebook.com/extinctionrebellionmumbai)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:180
+#, no-wrap
+msgid "The Gigantic Change"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:183
+msgid ""
+"![The Gigantic Change movie flyer](/assets/uploads/NEWSLETTERIMAGE13.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:185
+msgid ""
+"Whoopi Goldberg has teamed up with Extinction Rebellion in a beautiful new "
+"animation set in the future. The stunning 3 minute film looks back from 2050 "
+"to show how people came together to save the world from the climate crisis."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:187
+msgid ""
+"[Watch the film](https://www.youtube.com/watch?v=wf6VXXNjML0&feature=youtu."
+"be) and [visit the website](https://thegiganticchange.com/#)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:190
+#, no-wrap
+msgid "The Condor & The Eagle"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:193
+msgid ""
+"![The Condor and the Eagle documentary flyer](/assets/uploads/"
+"NEWSLETTERIMAGE14.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:195
+msgid ""
+"In association with XR Global Support, [The Condor & The Eagle](https://"
+"thecondorandtheeagle.com) is an exciting new documentary that brings "
+"together wisdom and action from Indigenous leaders across North and South "
+"America who continue to defend their land and rights."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:197
+msgid ""
+"Online event with XR Global on the [26th of July](https://"
+"thecondorandtheeagle.com/extinction-rebellion-global-support-presents-"
+"frontline-indigenous-resistance-across-borders-european-screening/)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:200
+#, no-wrap
+msgid "XR: An Umbrella Canopy?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:203
+msgid "![XR ISN logo](/assets/uploads/NEWSLETTERIMAGE15.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:205
+msgid ""
+"Ubuntudunia TV & XR Internationalist Solidarity Network (XRISN) presents "
+"’XR: An Umbrella Canopy? - Part 1’,the first of a video conversation series "
+"exploring the character of XR."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:207
+msgid ""
+"See the video [here](https://www.youtube.com/watch?"
+"v=iLDansB4c3Y&feature=youtu.be) and stay tuned on [XRISN](https://www."
+"facebook.com/XRIntSol/) for Part 2!"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:210
+#, no-wrap
+msgid "The Eco-Facist History of Conservation"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:213
+msgid ""
+"![Extinction Rebellion Youth Logo](/assets/uploads/NEWSLETTERIMAGE16.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:215
+msgid ""
+"Conservation has a dirty secret and we need to uncover it if we are serious "
+"about global justice, and transforming our relationship with nature. The "
+"history of conservation is mired in ecofascism and racism which still "
+"underpins many of its projects today."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:217
+msgid ""
+"A discussion between XR Youth and Survival International - who have worked "
+"at the frontline of this issue for many years. We welcome this conversation "
+"as a chance for XR to be challenged to grow and to listen"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:219
+msgid "See the video [here](https://youtu.be/5VTiHcNd53s)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:222
+#, no-wrap
+msgid "Rethinking Restoration"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:225
+msgid ""
+"![Rethinking Restoration with Barry Gills flyer](/assets/uploads/"
+"NEWSLETTERIMAGE17.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:227
+msgid ""
+"In the second episode of Rethinking, Barry Gills, professor of Development "
+"Studies at the University of Helsinki talks to XR Finland about radicalism, "
+"world systems and deep restoration."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:229
+msgid "Watch the film [here](https://www.youtube.com/watch?v=ylpsRoAJXwg)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:232
+#, no-wrap
+msgid "Regen 101 Workshop"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:235
+msgid ""
+"![Extinction Rebellion Global Support logo](/assets/uploads/"
+"NEWSLETTERIMAGE18.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:237
+msgid ""
+"As part of Global Support Trainings, the Regen 101 workshop and "
+"complimentary booklet are now available to all. The workshop consists of "
+"three online sessions covering the basics of regenerative culture."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:239
+msgid ""
+"Visit the [XR Trainings Facebook page](https://www.facebook.com/"
+"XRTrainings/) or email [xrint-regen@protonmail.com](mailto:xrint-"
+"regen@protonmail.com) for details of upcoming workshops. You can also "
+"download the booklet from the [global website](https://ausrebellion.earth/"
+"docs/Regen101.pdf)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:242
+#, no-wrap
+msgid "Global Support: Volunteers Wanted"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:245
+msgid "![We Are Global Support](/assets/uploads/NEWSLETTERIMAGE19.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:247
+msgid ""
+"The Global Media and Messaging team is looking for volunteers to join the "
+"content team."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:249
+msgid ""
+"Roles needed include copywriters, video editors and producers, Youtube "
+"uploaders and coordinators, and graphics organisers. We are also looking for "
+"designers to work on the Global website. Any help is very welcome!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:251
+msgid ""
+"To apply, complete [this form](https://forms.organise.earth/index.php?"
+"r=survey/index&sid=433164&lang=en), email us on [XRint-onboarding@protonmail."
+"com](mailto:XRint-onboarding@protonmail.com)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:254
+#, no-wrap
+msgid "Global Media Library"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:257
+msgid ""
+"![Extinction Rebellion Global Media Library](/assets/uploads/"
+"NEWSLETTERIMAGE20.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:259
+msgid ""
+"Hello rebels around the world! We're launching the [XR Global Media Library]"
+"(https://show.pics.io/xr-global-media-resources-public) for all your media "
+"needs! The platform can be used by local chapters worldwide to collaborate "
+"globally. See here for [instructions and log-ins](http://show.pics.io/xr-"
+"pics-io-guide), and join our upcoming training sessions on:"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:261
+msgid ""
+"Thursday 18th June - 06:30 pm UTC - [Zoom](https://xrb.link/J6y7G0pyV). "
+"Password: 7Z8zQR[](https://xrb.link/J6y7G0pyV)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:263
+msgid ""
+"Friday 19th June - 09:30 am UTC - [Zoom](https://xrb.link/fw3w8P). Password: "
+"5Xaj9F"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:266
+#, no-wrap
+msgid "Ask A Scientist LIVE Ep3: Can we feed the world without destroying it?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:269
+msgid "![XR Ask a Scientist Live flyer](/assets/uploads/NEWSLETTERIMAGE21.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:271
+msgid ""
+"Watch the latest XR Scientist panel discussion about Agroecology, streamed "
+"on 28th May, [here](https://youtu.be/34j7LTM_B8I)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:274
+#, no-wrap
+msgid "Writers Rebel Website"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:277
+msgid "![XR Writers Rebel Logo](/assets/uploads/NEWSLETTERIMAGE22.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:279
+msgid ""
+"Check out the excellent and inspiring [Writers Rebel website](https://"
+"writersrebel.com). Launched on the 20th of May and chock full of essays, "
+"audio, and film - featuring some of the world’s finest writers: Robert "
+"Macfarlern, Ali Smith and Margaret Atwood. Subscribe and submit!"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:282
+#, no-wrap
+msgid "Creative Hub Website"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:285
+msgid "![Extinction Rebellion flags](/assets/uploads/NEWSLETTERIMAGE23.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:287
+msgid ""
+"The Creative Hub features prose, poetry and songs about the climate crisis "
+"and possible outcomes. Don’t just read them; submit something creative "
+"yourself using your ruminations, doubts, and dreams as your fuel."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:289
+msgid ""
+"Go to [xrcreative.org](https://xrcreative.org) to see the works already "
+"posted and guidelines for submission."
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:292
+#, no-wrap
+msgid "Global Newsletter Banner - Your Art Wanted!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:295
+msgid "![Global newsletter banner](/assets/uploads/NEWSLETTERIMAGE24.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:297
+msgid "Credit: Olivia Burnett"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:299
+msgid ""
+"Spotted our newly designed Newsletter header? We’re looking for submission "
+"to keep our pages fresh and colourful."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:301
+msgid ""
+"If you’d like to see your art emblazoning this newsletter then please send "
+"your high resolution landscape images of roughly 2:1 to 3:1 proportion to "
+"[xr-newsletter@protonmail.com](mailto:xr-uknewsletter@protonmail.com)."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Read Up on the Links Between Racism and the Environment](https://www."
+"nytimes.com/interactive/2020/06/05/climate/racism-climate-change-reading-"
+"list.html?auth=login-email&login=email)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[The September Issues](https://www.theseptemberissues.com/extinction-"
+"rebellion/#ExtinctionRebellion): Extinction Rebellion - A Fight For Our "
+"Lives (inc. beautiful photographic portfolio)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Jamhoor](https://www.jamhoor.org/read/2020/5/20/no-harm-here-is-still-harm-"
+"there-looking-at-the-green-new-deal-from-the-global-south):No Harm Here is "
+"Still Harm There - The Green New Deal and The Global South(Excellent 2 part "
+"analysis)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Resilience](https://www.resilience.org/stories/2020-06-08/collapse-of-"
+"civilisation-is-the-most-likely-outcome-top-climate-scientists/): Scientists "
+"say 9 of the 15 ‘tipping points’ that regulate the planet’s climate have "
+"been activated"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Earther:](https://earther.gizmodo.com/it-hit-80-degrees-in-the-arctic-this-"
+"week-1843606717) Temperatures reach 80°F (27°C) in the Arctic and across "
+"Siberia, 36°F (2°C) above average"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Survival:](https://www.survivalinternational.org/news/12384) EU suspends "
+"funding to WWF’s Messok Dja project in the Congo after persistent abuses "
+"against the Baka people"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Declassified UK:](https://www.dailymaverick.co.za/article/2020-05-19-"
+"exclusive-uk-military-and-arms-companies-produce-more-carbon-emissions-"
+"than-60-individual-countries/) UK military and arms companies produce more "
+"carbon emissions than 60 individual countries - up to 11 times higher than "
+"admitted by the Ministry of Defence"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-06-17-newsletter-40.md:314
+msgid ""
+"[Dark Mountain:](https://dark-mountain.net/who-stands-with-the-bears/) Who "
+"Stands with the Bears? A response to the documentary ‘Planet of the Humans’"
+msgstr ""
+
+#. type: Title ##
+#: 2020-06-17-newsletter-40.md:317
+#, no-wrap
+msgid "Thank you"
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:320
+msgid ""
+"Thank you for reading. Even in lockdown, there’s so much exciting stuff "
+"going on in the movement that we barely have time to write this sign-off. "
+"Keep up the good work! If you have any questions or queries, please get in "
+"touch at [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-06-17-newsletter-40.md:322
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""

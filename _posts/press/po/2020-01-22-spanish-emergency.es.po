@@ -1,0 +1,286 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-05 11:25+0200\n"
+"PO-Revision-Date: 2020-05-05 09:36+0000\n"
+"Last-Translator: Dom <dom@dominicporter.co.uk>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/"
+"press-releases/2020-01-22-spanish-emergency/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion on Spain’s declaring a Climate and Environmental Emergency\"\n"
+"slug: spain-climate-emergency\n"
+"date: 2020-01-22 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/01/22/spanish-emergency.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: es\n"
+"title: \"Extinction Rebellion sobre la declaración española de emergencia ambiental y climática\"\n"
+"slug: spain-climate-emergency\n"
+"date: 2020-01-22 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/01/22/spanish-emergency.jpg\n"
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:15
+msgid ""
+"![Australia Burns](/assets/img/press/2020/01/22/spanish-emergency.jpg){:.img-"
+"fluid}"
+msgstr ""
+"![Australia Burns](/assets/img/press/2020/01/22/spanish-emergency.jpg){:.img-"
+"fluid}"
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:17
+msgid ""
+"Extinction Rebellion on Spain’s declaring a Climate and Environmental "
+"Emergency: \"Good, but not enough. Let’s carry on\""
+msgstr ""
+"Extinction Rebellion sobre la declaración española de emergencia ambiental y "
+"climática: \"Bien, pero no suficiente. Sigamos\""
+
+#. type: Bullet: '-   '
+#: 2020-01-22-spanish-emergency.md:23
+msgid ""
+"Extinction Rebellion Spain applauds the central government's declaration of "
+"climate emergency."
+msgstr ""
+"Extinction Rebellion España aplaude la declaración de emergencia climática "
+"del gobierno central."
+
+#. type: Bullet: '-   '
+#: 2020-01-22-spanish-emergency.md:23
+msgid ""
+"Spain's recent encouraging steps in the face of the climate and ecological "
+"crisis give the country the opportunity to become a leader in the climate "
+"struggle at a regional and global level."
+msgstr ""
+"Los recientes y alentadores pasos de España contra la crisis climática y "
+"ecológica dan al país la oportunidad de liderar lucha climática a nivel "
+"regional y mundial."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:23
+#, no-wrap
+msgid ""
+"-   Greenhouse gas emissions objectives are insufficient. The climate and ecological emergency requires immediate and drastic action.\n"
+"{:.huge .my-3}\n"
+"January 21, 2020, (Madrid) - After a year of global climate rebellion, the climate and ecological emergency is taking its rightful place, as Spain joins a global movement, along with the UK, Ireland and France, and the European Parliament all of whom have acknowledged our desperate situation by declaring an emergency. Last September, hanging from a scaffold standing on melting ice in front of the Spanish Parliament, Spanish rebels personified our collective future if we don’t alter our course: humanity's extinction. On the same day, the rebellion for life officially delivered its three demands to the Spanish House of Representatives.\n"
+msgstr ""
+"-   Los objetivos de las emisiones de gases de efecto invernadero no son suficientes. La emergencia climática y ecológica necesita acciones inmediatas y drásticas.\n"
+"{:.huge .my-3}\n"
+"21 de enero de 2020, (Madrid) - Tras un año de rebelión climática mundial, la emergencia climática y ecológica ocupa el lugar que le corresponde. España se une al movimiento mundial, junto al Reino Unido, Irlanda, Francia y el Parlamento Europeo, que ya han reconocido la situación desesperada declarando la emergencia. El pasado mes de septiembre, los rebeldes españoles personificaron el futuro colectivo si no cambiamos el rumbo, la extinción humana. Para ello, se colgaron de un andamio sobre hielo derritiéndose delante del Congreso de los Diputados. El mismo día, la rebelión por la vida entregó sus tres demandas a las Cortes Generales.\n"
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:25
+msgid ""
+"The declaration approved by the Spanish Council of Ministers takes a "
+"substantial step towards fulfilling two of them: firstly, the truth must be "
+"told regarding the climate and ecological emergency, and; the third, the "
+"creation of citizens' assemblies to guide the process through representative "
+"participation. Time is of the essence."
+msgstr ""
+"La declaración aprobada por el Consejo de Ministros es un gran paso "
+"conseguir dos demandas: la primera es decir la verdad sobre la emergencia "
+"climática y ecológica; la tercera es la creación de asambleas ciudadanas "
+"para guiar el proceso a través de la participación representativa. El tiempo "
+"es vital."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:27
+msgid ""
+"The trigger for this political change has been the broad mobilization of "
+"citizens who have taken to the streets to demand political leaders keep us "
+"off \"a suicidal path for humanity,\" as UN Secretary General Antonio "
+"Guterres has referred to our current situation.  Extinction Rebellion has "
+"been at the heart of this shift in the global conversation, placing the "
+"climate and ecological emergency at the heart of it. Building bridges and "
+"cooperating with different groups and institutions, XR has been in large "
+"part responsible for the massive response to government and corporate "
+"inaction, using peaceful mass civil disobedience as its primary vehicle."
+msgstr ""
+"El detonante de este cambio político ha sido la extensa movilización de "
+"ciudadanos que han tomado las calles para pedir a los líderes políticos que "
+"abandonen el \"camino suicida para la humanidad\", como se refirió el "
+"secretario de la ONU Antonio Guterres para hablar de la situación actual.  "
+"Extinction Rebellion ha estado en el centro de este cambio de la "
+"conversación actual y la ha centrado entorno a la emergencia climática y "
+"ecológica. Con la construcción de puentes y la cooperación con diversos "
+"grupos e instituciones, XR es responsable en gran parte de la respuesta "
+"masiva a la inacción gubernamental y corporativa y que usa la desobediencia "
+"civil masiva como medio principal."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:29
+msgid ""
+"Taking advantage of the celebration of COP25 in Madrid, XR pressured the UN "
+"climate summit’s host with the help of ordinary citizens, which led it to "
+"become recognized as the most influential movement of the moment. The "
+"decision taken by the Spanish government ratifies the fight for life "
+"Extinction Rebellion has embarked upon across the globe."
+msgstr ""
+"Aprovechando la celebración del COP25 en Madrid, XR presionó al anfitrión de "
+"la Cumbre sobre la Acción Climática de la ONU, con la ayuda de ciudadanos. "
+"Gracias a esta movilización, XR es ahora el movimiento más influyente del "
+"momento. La decisión del gobierno español ratifica la lucha por la vida que "
+"ha emprendido Extinction Rebellion en todo el mundo."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:31
+#, no-wrap
+msgid "**XR demands more ambitious and concrete measures: the deadline is 2025**\n"
+msgstr "**XR pide medidas más concretas y ambiciosas: la fecha límite es 2025**\n"
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:33
+msgid ""
+"Given the deadlines announced by the new government, XR calls for the need "
+"to implement more ambitious decarbonisation targets. The scientific "
+"community, in the latest IPCC report (2018), warns of how crucial it is not "
+"to overstep a 1.5ºC rise in global temperatures this century. This implies a "
+"drastic reduction in our emissions by 2030. With scientific data in hand, XR "
+"urges the Spanish government to deepen the decisive green about-turn it "
+"seems to be taking, by integrating deadlines set by science, as well as the "
+"biophysical limits of the planet, along with the measures already announced. "
+"The global community must recognize how absurd it is for infinite growth to "
+"be a measure of success on a planet with limited resources. We are still in "
+"time, just, to avoid a societal and ecological collapse."
+msgstr ""
+"Con las fechas límites que ha anunciado el nuevo gobierno, XR exige una "
+"ejecución más ambiciosa de los objetivos de descarbonización. La comunidad "
+"científica advierte, en el último informe del IPCC (2018), que es esencial "
+"no superar el incremento de 1,5ºC en la temperatura mundial este siglo. Esto "
+"implica una reducción drástica de nuestras emisiones antes de 2030. Con "
+"estos datos científicos, XR insta al gobierno español a acentuar el giro "
+"verde decisivo que parece tomar a través de la integración de límites "
+"establecidos por científicos y límites biofísicos del planeta, además de las "
+"medidas ya anunciadas. La comunidad mundial debe reconocer lo absurdo que es "
+"que el crecimiento infinito sea una medida de éxito en un planeta que tiene "
+"los recursos limitados. Estamos justo a tiempo de evitar un colapso social y "
+"ecológico."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:35
+#, no-wrap
+msgid "**Citizen participation and real climate justice**\n"
+msgstr "**Participación ciudadana y justicia climática real**\n"
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:37
+msgid ""
+"Extinction Rebellion welcomes Spain’s Deputy Prime Minister and Minister for "
+"Ecological Transition, Teresa Ribera’s, advancement of urgent steps needed "
+"to ensure a wide and inclusive participation of Spanish citizens who have a "
+"crucial role to play in determining their collective future in light of the "
+"climate and ecological emergency’s onslaught. Only [citizen’s assemblies]"
+"(https://elpais.com/sociedad/2019/08/27/actualidad/1566899172_164145.html) "
+"have the ability to make this a reality. Citizens must be empowered to "
+"participate directly and effectively in national decision-making, guaranteed "
+"by XR’s third demand. The recent example of the Convention citoyenne pour le "
+"climat, initiated in France, is a dire warning of the risks citizens' "
+"assemblies face if converted into workshops and debate forums with no teeth. "
+"In light of this, XRSpain will work towards ensuring the effectiveness of "
+"the promised Citizens' Assembly."
+msgstr ""
+"Extinction Rebellion se alegra del avance de la vicepresidenta cuarta del "
+"Gobierno y ministra para la Transición Ecológica del Gobierno de España, "
+"Teresa Ribera, en cuanto a los pasos urgentes y necesarios para asegurar una "
+"participación extensa e inclusiva de los ciudadanos españoles, que tienen un "
+"papel esencial para determinar el futuro colectivo teniendo en cuenta el "
+"ataque de la emergencia climática y ecológica. Las [asambleas ciudadanas]"
+"(https://elpais.com/sociedad/2019/08/27/actualidad/1566899172_164145.html) "
+"son las únicas que pueden hacerla realidad. Debemos empoderar a los "
+"ciudadanos para que participen directa y efectivamente en la toma de "
+"decisiones nacional, que está garantizada con la tercera demanda de XR. El "
+"ejemplo reciente de la Convention citoyenne pour le climat (Convención "
+"ciudadana por el clima), iniciada en Francia, es una advertencia alarmante "
+"sobre los riesgos que corren las asambleas ciudadanas si se convierten en "
+"talleres y foros de debate sin transcendencia. Así pues, XR España trabajará "
+"para garantizar la efectividad de la Asamblea ciudadana prometida."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:39
+msgid ""
+"The demographically representative participation of citizens through "
+"sortition, is a key aspect of the unprecedented social mutations needed to "
+"face the climate and ecological crisis. Citizens must understand the reality "
+"of the situation through a process of deliberation and participate in the "
+"required changes, while monitoring the veracity of political action "
+"implementation. Nothing less will suffice in dealing with the biggest threat "
+"ever faced by humanity."
+msgstr ""
+"La participación demográficamente representativa de los ciudadanos a través "
+"de la insaculación es un aspecto clave de las mutaciones sociales sin "
+"precedentes que son necesarias para luchar contra la crisis climática y "
+"ecológica. Los ciudadanos deben comprender la realidad de la situación a "
+"través de un proceso de deliberación y participar en los cambios necesarios "
+"mientras controlan la veracidad de la implementación de la acción política. "
+"Nada menor será suficiente para luchar contra la mayor amenaza a la que ha "
+"hecho frente la humanidad."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:41
+msgid ""
+"During the coming months, the Spanish government will have to take concrete "
+"actions, including the approval of the European Union’s National Integrated "
+"Energy and Climate Plan (PNIEC). As such, it must demonstrate its commitment "
+"to mitigating and adapting to the climate and ecological emergency. Spain is "
+"on the cusp of becoming a regional, and even global, leader. Extinction "
+"Rebellion challenges Spain to step up and rise to the occasion. Meanwhile, "
+"and until this has been achieved, the global movement will continue to "
+"mobilize and scale up the impact of its actions, in order to ensure carbon "
+"emission cuts are in line with the science."
+msgstr ""
+"En los próximos meses, el gobierno español tendrá que tomar medidas "
+"concretas, incluida la aprobación del Plan Nacional Integrado de Energía y "
+"Clima (PNIEC) de la ONU. De esta manera, debe demostrar su compromiso para "
+"mitigar la emergencia climática y ecológica y adaptarse a ella. España está "
+"en el umbral para convertirse en líder regional, incluso global. Extinction "
+"Rebellion reta a España a alzarse y a estar a la altura. Mientras tanto, y "
+"hasta que esto se consiga, el movimiento mundial seguirá movilizándose y "
+"aumentando el impacto de sus acciones para garantizar que las reducciones de "
+"emisiones de carbono sean coherentes con la ciencia."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:43
+msgid ""
+"There simply is no other way to safeguard the future of all life on Earth. "
+"Because, after all, as the Spanish declaration finally acknowledges, this is "
+"an emergency."
+msgstr ""
+"No hay otra manera de proteger el futuro de toda la vida en la Tierra. "
+"Porque, al fin y al cabo, como la declaración española reconoce finalmente, "
+"esto es una emergencia."
+
+#. type: Plain text
+#: 2020-01-22-spanish-emergency.md:45
+#, no-wrap
+msgid " [find your group](/groups){.xr-button}\n"
+msgstr " [find your group](/groups){.xr-button}\n"

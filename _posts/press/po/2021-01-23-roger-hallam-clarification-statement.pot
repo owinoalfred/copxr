@@ -1,0 +1,223 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-10 12:18+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:9
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Clarification by XR Global Support on Separation from Roger Hallam "
+"\"\n"
+"slug: roger-hallam-clarification-statement\n"
+"date: 2021-01-23 12:59\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:10
+#, no-wrap
+msgid ""
+"Roger Hallam, a co-founder of XR UK, has recently made allegations against "
+"Global Support and our work, and threatens to embark on a hunger strike in "
+"protest. Here are some clarifications on Global Support, our purpose, and "
+"our past history with Roger:  \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2021-01-23-roger-hallam-clarification-statement.md:12
+msgid ""
+"Global Support does not claim to speak on behalf of the whole XR "
+"movement. As stated on the [global XR "
+"website](https://rebellion.global/frequently-asked-questions/), GS "
+"facilitates the flow of information and resources between groups, offering "
+"trainings, funding, and communications support to the movement. Roger says "
+"that Global Support claims to speak for the global movement, but it has "
+"always been explicitly stated that we are *not* a \"headquarters\" or global "
+"decision-making body for the whole movement — we do not create movement "
+"strategy, or determine XR's Demands or Principles & Values, for "
+"example. Nowhere in our [Statement of "
+"Separation](https://rebellion.global/press/2020/11/20/roger-hallam-statement/) "
+"does it say that."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2021-01-23-roger-hallam-clarification-statement.md:13
+msgid ""
+"Many current and past members of Global Support have met with Roger over the "
+"past two years. Roger says he has no idea who is in our group, and that he "
+"has never met us, but in truth he has engaged with many members of Global "
+"Support — from video calls with GS working groups and physical meetings, to "
+"maintaining relationships with current and past Global Support rebels — all "
+"while fully knowing they were part of Global Support."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2021-01-23-roger-hallam-clarification-statement.md:15
+msgid ""
+"Global Support has never forbidden local groups from interacting with "
+"anyone, and it never will. Roger says that groups have been \"forbidden from "
+"interacting\" with him, but not only have we never issued such a ban, it is "
+"not within our authority to do so. We affirm every XR group's right to "
+"decide whom they engage and interact with."
+msgstr ""
+
+#. type: Bullet: '  * '
+#: 2021-01-23-roger-hallam-clarification-statement.md:16
+msgid ""
+"If a group has felt banned from interacting with Roger due to our statement, "
+"then we would like to reassert that our statement does not prohibit groups "
+"from interacting with Roger. It reflects only the sentiments of the Global "
+"Support body and does not apply to any other XR body."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2021-01-23-roger-hallam-clarification-statement.md:17
+msgid ""
+"Roger makes the claim we described him as anti-semitic in our [Statement of "
+"Separation](https://rebellion.global/press/2020/11/20/roger-hallam-statement/), "
+"and yet nowhere in that document is this written. Further, at no point has "
+"Global Support ever stated this. In the spirit of *Tell the Truth*, we ask "
+"that readers stick to the facts and remain vigilant against acts of "
+"gaslighting and misinformation."
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:19
+#, no-wrap
+msgid ""
+"We also want to offer clarifications around Roger's past actions in response "
+"to his statement against Global Support:  \n"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2021-01-23-roger-hallam-clarification-statement.md:21
+msgid ""
+"Roger was recorded and cited on several occasions throughout 2020 joking "
+"that we might start shooting climate polluters \"in the head\". Roger claims "
+"to have never made such jokes, [but here is an audio recording of him saying "
+"that in an interview](https://cloud2.organise.earth/s/qCC8FGZFH3jYjdz), "
+"which represents a serious violation of our commitment to nonviolence as a "
+"movement (as stated in our [Principles & "
+"Values](https://rebellion.global/about-us/))."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2021-01-23-roger-hallam-clarification-statement.md:22
+msgid ""
+"Roger's comments on the Holocaust resulted in broad harm to XR, from a "
+"significant loss of membership and public faith in the movement, to the "
+"separation of XR Germany from Roger and denouncements from branches "
+"worldwide (including XR UK). Roger says it was never his intention to create "
+"a scandal, but in the [cryptographically-verified email from Roger to M&M "
+"Teams, then leaked by a rebel in XR Germany "
+"M&M](https://cloud2.organise.earth/s/92DMLNQEapTDax6), Roger expresses he "
+"had the full intention to create a scandal, expected the German M&M team to "
+"follow his media script after his premeditated comments got published, and "
+"planned to create another “moral outrage” in the next speaking event, "
+"reflecting manipulative behaviour that has no place among our Principles and "
+"Values."
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:24
+#, no-wrap
+msgid ""
+"Roger has created conflicts and controversies, resulting in — among other "
+"things — XR Germany, XR Switzerland, and large numbers of XR groups and "
+"rebels in Latin America disassociating from him. These developments did not "
+"just play out publicly — Roger also engaged in private mediated discussions "
+"with some of these groups, during which he did not offer any meaningful "
+"steps toward reconciliation. Roger may publicly state a desire for open, "
+"honest mediation, but he has a track record of further exacerbating "
+"conflicts, rather than working to resolve them.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:26
+#, no-wrap
+msgid ""
+"We are frankly bewildered to hear that Roger plans to embark on a hunger "
+"strike in protest of our actions. Hunger strikes are a time-honored, "
+"dangerous, and extreme form of civil disobedience, used by Gandhi in his "
+"campaign against the British rule of India, UK Suffragettes fighting for the "
+"right to vote for women, anti-nuclear weapons campaigners, and others "
+"fighting for worthy causes of justice. Roger's plan to hunger strike over a "
+"perceived personal affront appropriates and threatens to delegitimatise this "
+"honorable tradition. This over-reaction only reinforces our concerns related "
+"to Roger's intentions, motives, and ability to work through conflicts "
+"regeneratively and without manipulation and toxicity. As a result, we do not "
+"feel sufficient trust to enter into a mediated discussion with him.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:28
+#, no-wrap
+msgid ""
+"Just as many other groups have distanced from Roger — including [XR "
+"Germany](https://extinctionrebellion.de/blog/extinction-rebellion-deutschland-verurteilt-instrumentalisierung-des-holocaust-und-verhalten-von-roger-hallam/), "
+"XR Switzerland, and [XR "
+"UK](https://extinctionrebellion.uk/2020/07/25/further-clarity-on-xruk-and-the-beyond-politics-party/) "
+"— Global Support chose to exercise its basic right to freedom of "
+"association, one we all assert as individuals as we go about our lives. But "
+"Global Support is also committed to openness and transparency: we are only "
+"\"faceless,\" to use Roger's word, in the sense that we are not a collection "
+"of public personalities. Rather, we are a hard working and self-organised "
+"entity of around 170 volunteers from all over the world, diverse in race, "
+"gender, and background, working tirelessy to fight the Climate and "
+"Ecological Emergency. In the course of this work, we meet with rebels daily, "
+"all over the world, in video calls, chat and - where possible - in person.  "
+"\n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:30
+#, no-wrap
+msgid ""
+"However, we recognize this distracting faux-crisis has shown us that we do "
+"need to do a better job of telling the XR movement our story. Rebels around "
+"the world use tech and media platforms and services, attend trainings, and "
+"receive grant funding, often without always being aware that GS is providing "
+"these services, or how we are structured and our ways of working. We pledge "
+"to do better at this, starting with opening more channels for feedback from "
+"XR groups about their needs, and integrating the learnings.  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:32
+#, no-wrap
+msgid ""
+"Global Support was created to help a beautiful, vast and decentralised "
+"movement thrive - a movement in service to the Planet, not would-be "
+"'figureheads' or public personalities. This is where our energy must be "
+"spent, with not a minute to waste. We greatly look forward to putting this "
+"behind us, such that we can continue to dedicate all our energy where it "
+"counts: supporting the Rebels of the world!  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:34
+#, no-wrap
+msgid "Love and Rage,  \n"
+msgstr ""
+
+#. type: Plain text
+#: 2021-01-23-roger-hallam-clarification-statement.md:37
+msgid "Your friends at Global Support\\ January 23, 2021"
+msgstr ""

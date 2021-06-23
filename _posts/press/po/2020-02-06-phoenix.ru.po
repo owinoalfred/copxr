@@ -1,0 +1,486 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-23 09:24+0200\n"
+"PO-Revision-Date: 2021-01-21 19:25+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Russian <http://translate.organise.earth/projects/"
+"press-releases/2020-02-06-phoenix/ru/>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<="
+"4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Joaquin Phoenix makes film with Extinction Rebellion & Amazon Watch\"\n"
+"slug: joaquin-phoenix-xr\n"
+"date: 2020-02-06 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/02/06/banner.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: ru\n"
+"title: \"Хоакин Феникс снимает фильм с Extinction Rebellion и Amazon Watch\"\n"
+"slug: joaquin-phoenix-xr\n"
+"date: 2020-02-06 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/02/06/banner.jpg\n"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:15
+msgid "![banner](/assets/img/press/2020/02/06/banner.jpg){:.img-fluid .my-4}"
+msgstr "![banner](/assets/img/press/2020/02/06/banner.jpg){:.img-fluid .my-4}"
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"Guardians of Life, starring Joaquin Phoenix, Rosario Dawson, Matthew Modine "
+"Oona Chaplin, Adria Arjona, Albert Hammond Jr & Q’orianka Kilcher, urges "
+"action on the Climate and Ecological Emergency."
+msgstr ""
+"Фильм \"Хранители Жизни\" с участием Хоакина Феникса, Розарио Доусон, Матью "
+"Модин, Уны Чаплин, Адриа Архона, Альберта Хаммонда Мл. и К'орианки Килчер "
+"(Joaquin Phoenix, Rosario Dawson, Matthew Modine, Oona Chaplin, Adria "
+"Arjona, Albert Hammond Jr & Q’orianka Kilcher) призывает к немедленным "
+"действиям по Чрезвычайному Положению с климатом и экологией."
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"Amazon Watch and Extinction Rebellion film is an alarm call for "
+"deforestation, biodiversity loss and wildfires across the globe."
+msgstr ""
+"Фильм, сделанный Amazon Watch и Extinction Rebellion - это сигнал тревоги о "
+"дефорестации, потере биоразнообразия и лесных пожарах по всему миру."
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"The film is the first of twelve in a planned series which will explore the "
+"most pressing issues facing us in this vital decade for the survival of all "
+"life."
+msgstr ""
+"Это первый фильм из двенадцати в запланированном сериале, в котором будут "
+"рассмотрены самые неотложные и насущные проблемы, стоящие перед нами в это "
+"решающее для нашего выживания десятилетие."
+
+#. type: Bullet: '-   '
+#: 2020-02-06-phoenix.md:22
+msgid ""
+"More stars are being lined up to take part as Hollywood begins to use its "
+"influence to address the Climate and Ecological Emergency, the gravest "
+"crisis that humanity has ever faced."
+msgstr ""
+"Другие звезды тоже готовятся принять участие в инициативе Голливуда "
+"использовать свое влияние, чтобы обратить внимание общества на Чрезвычайное "
+"Положение с климатом и экологией - с самой серьезной угрозой, когда-либо "
+"стоящей перед человечеством."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:22
+#, no-wrap
+msgid ""
+"-   To watch the film click [here](http://www.mobilize.earth)\n"
+"{:.huge .my-3}\n"
+msgstr ""
+"-   Чтобы посмотреть фильм, нажмите [здесь](http://www.mobilize.earth)\n"
+"{:.huge .my-3}\n"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:24
+msgid "![cast](/assets/img/press/2020/02/06/CastTurn.jpg){:.img-fluid .my-4}"
+msgstr ""
+"![состав](/assets/img/press/2020/02/06/CastTurn.jpg){:.img-fluid .my-4}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:26
+msgid ""
+"Oscar nominee Joaquin Phoenix has unveiled his next film after Joker - a "
+"short film urging action on the Climate and Ecological Emergency, with "
+"[Extinction Rebellion](https://rebellion.global/) and [Amazon Watch](https://"
+"amazonwatch.org/)."
+msgstr ""
+"Победитель Оскара Хоакин Феникс представил свою следующую после \"Джокера\" "
+"работу - короткометражный фильм, призывающий к немедленным действиям по "
+"климатической и экологической Чрезвычайному Положению, созданный совместно с "
+"[Extinction Rebellion](https://rebellion.global/) и [Amazon Watch](https://"
+"amazonwatch.org/)."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:28
+msgid ""
+"Phoenix is joined in the film, entitled Guardians of Life, by an array of "
+"Hollywood stars including Rosario Dawson, Matthew Modine, Q'orianka Kilcher, "
+"Oona Chaplin, Adria Arjona, and Albert Hammond Jr. of The Strokes."
+msgstr ""
+"Вместе с Фениксом в фильме под названием \"Хранители Жизни\" участвуют "
+"голливудские звезды Розарио Доусон, Матью Модин, К'орианка Килчер, Уна "
+"Чаплин, Адриа Архона и Альберт Хаммонд из The Strokes."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:30
+msgid ""
+"The 2 minute short film, set in an Emergency Room, launches a new campaign "
+"to engage the public in different aspects of the Climate and Ecological "
+"Emergency. It acts as a Public Service Announcement (PSA) for the plight of "
+"the Amazon and its indigenous communities, and an alarm call for "
+"deforestation and biodiversity loss taking place in every corner of the "
+"globe, as a result of devastating wildfires, droughts, floods and storms."
+msgstr ""
+"Двухминутный короткометражный фильм, снятый в отделении Неотложной Помощи, "
+"начинает новую кампанию, чтобы привлечь внимание широкой публики к различным "
+"аспектам климатического и экологического Чрезвычайного Положения. Он "
+"действует как сигнал оповещения о бедственном положении Амазонки и ее "
+"коренных народов и как сигнал тревоги о вырубке леса и потере "
+"биоразнообразия, которые происходят по всему миру в результате "
+"разрушительных лесных пожаров, засух, наводнений и ураганов."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:34
+msgid ""
+"The involvement of Joaquin Phoenix comes as no surprise, given his history "
+"of activism. Phoenix was recently arrested at a protest organised by the "
+"actress Jane Fonda in Washington DC, where he spoke about the link between "
+"climate change and animal agriculture.  ![joaquin-phoenix-xr](/assets/img/"
+"press/2020/02/06/JoaquinStill_006.jpg){:.img-fluid .my-4} Commenting on the "
+"film Phoenix said: “It’s really a call to action. I did it to raise "
+"awareness about the meat and dairy industry’s effect on climate change. The "
+"fact is we are clear cutting and burning rainforests and seeing the negative "
+"effects of those actions worldwide. People don’t realize there’s still time, "
+"but only if we act now and make sweeping changes to our consumption. We "
+"can’t wait for governments to solve these problems for us. We can’t wait "
+"until the election to try to make these changes. We have a personal "
+"responsibility to make changes in our own lives and act now.\""
+msgstr ""
+"Участие Хоакина Феникса не вызывает удивления, учитывая его историю как "
+"активиста. Феникс недавно был арестован во время протеста, организованного "
+"актрисой Джейн Фонда в Вашингтоне, где он говорил о связи изменения климата "
+"с животноводством.  ![joaquin-pho  ![joaquin-phoenix-xr](/assets/img/"
+"press/2020/02/06/JoaquinStill_006.jpg){:.img-fluid .my-4} Комментируя фильм, "
+"Феникс сказал: “Это настоящий призыв к действию. Я это сделал, чтобы "
+"повысить осведомленность о влиянии мясной и молочной промышленности на "
+"изменение климата.  Дело в том, что мы сжигаем и вырубаем тропические леса, "
+"и это имеет глобальный негативный эффект. Люди не понимают, что у нас еще "
+"есть время, только если мы начнем действовать сейчас, изменив в корне нашу "
+"привычную систему потребления.  Мы не можем ждать, пока правительства решат "
+"эти проблемы за нас. Мы не можем ждать следующих выборов, чтобы попытаться "
+"что-то изменить. Мы несем личную ответсвенность за то, чтобы изменить нашу "
+"собственную жизнь и начать действовать сейчас.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:36
+msgid ""
+"Shaun Monson, the film’s Director, said he felt compelled to make the film "
+"as previous documentary style PSAs had failed to move audiences to take "
+"action: “so instead of focusing on deforestation, ice melting and species "
+"extinction, we use a story as a metaphor. The Amazon has been called the "
+"lungs of the world, or the heart of the world, but instead of documentary "
+"footage we proposed an ER setting with doctors and nurses trying to save an "
+"unseen patient with systemic heart failure. The twist is not only who one of "
+"the paramedics is, but what they were really fighting to save all along.”"
+msgstr ""
+"Режиссер фильма Шон Монсон (Shaun Monson) сказал, что чувствовал "
+"необходимость создания фильма, так как предыдущий документальный фильм с "
+"целью оповещения населения не достиг цели: \"Поэтому вместо того, чтобы "
+"сосредоточиться на вырубке лесов, таянии льда и исчезновении видов, мы "
+"использовали историю как метафору. Амазонку называют легкими Планеты или "
+"сердцем Планеты, но вместо документальных съемок мы предлагаем отделение "
+"Неотложной Помощи, с докторами и медсестрами, пытающимися спасти невидимого "
+"пациента с системной сердечной недостаточностью. Трюк не только в том, кто "
+"на самом деле один из докторов, но и в том, за чье спасение они все это "
+"время боролись.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:38
+msgid ""
+"Leila Salazar-López of Amazon Watch believes the film is an example of art "
+"reflecting life: “An indigenous woman saving the Amazon is not a metaphor: "
+"it is a daily reality as the rainforest is razed and indigenous lands are "
+"invaded for profit. The Amazon rainforest is the heart of our world, and "
+"indigenous forest guardians are central to its well-being and to our "
+"collective future.”"
+msgstr ""
+"Лейла Салазар-Лопес (Leila Salazar-López) из Amazon Watch считает, что фильм "
+"является примером искусства, отражающего жизнь: \"Коренная женщина, "
+"спасающая Амазонку - это не метафора: это повседневная реальность, так как "
+"тропические леса вырубаются и земли коренных амазонских народов "
+"захватываются ради прибыли. Джунгли Амазонки - это сердце нашего мира, и "
+"местные хранители этого леса играют центральную роль для его благополучия и "
+"для нашего общего будущего.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:40
+msgid ""
+"Sônia Guajajara, Executive Coordinator of the Articulation of Brazil’s "
+"Indigenous Peoples (APIB) said: “This film is very important for us at this "
+"moment. It demonstrates the artists' engagement in Amazon protection by "
+"showing the key role indigenous peoples play in defending the forests, the "
+"planet, and life itself.”"
+msgstr ""
+"Сонья Гуаджахара (Sônia Guajajara), исполнительный координатор группы Голос "
+"Коренных Народов Бразилии (APIB), говорит: \"Этот фильм очень важен для нас "
+"именно сейчас. Он демонстрирует участие артистов и художников в защите "
+"Амазонки, показывая ключевую роль коренных народов в защите лесов, Планеты и "
+"самой жизни.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:43
+msgid ""
+"The film is the first of a twelve-part series planned by Extinction "
+"Rebellion, in collaboration with Mobilize Earth. Each will tell a story "
+"about the most pressing issues facing the human species as we move into what "
+"most scientists, politicians and the public see as the make or break decade "
+"for the survival of life on the planet.  For Matthew Modine, one of the "
+"film’s stars, the Climate and Ecological Emergency means: “children "
+"inheriting a world unrecognizable to the one I was born into … this PSA is "
+"one way of opening people’s eyes to see what is actually happening right in "
+"front of us.”"
+msgstr ""
+"Этот фильм - первый в сериале из 12-ти частей, запланированном Extinction "
+"Rebellion в содружестве с Mobilize Earth. Каждый фильм расскажет историю о "
+"самых насущных проблемах, стоящих перед видом Человек Разумный,  когда мы "
+"переступили порог десятилетия, которое большинство ученых, политиков и "
+"общественности видят как решающее в нашей общей борьбе за выживание на нашей "
+"Планете.  Для Матью Модина, одного из звезд этого фильма, климатическое и "
+"экологическое Чрезвычайное Положение означает: “Дети  наследуют мир, "
+"неузнаваемый по сравнению с тем, в котором родился я... Этот фильм - один из "
+"способов открыть людям глаза на то, что реально происходит на виду у всех.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:47
+msgid ""
+"Gail Bradbrook, Co-Founder of Extinction Rebellion, hopes that this is one "
+"of the first signs of Hollywood beginning to use its influence to tell the "
+"truth about the gravity of the Climate and Ecological Crisis: “There is "
+"still a disconnect between how bad things are and the action that needs to "
+"happen. But that gap is narrowing. There are more significant people "
+"starting to break ranks, to tell the truth and act as if it is real.” !"
+"[Q'orianka](/assets/img/press/2020/02/06/QoriankaTurn.jpg){:.img-fluid ."
+"my-4} The film’s female lead, Q’orianka Kilcher said: “As an indigenous "
+"actress I feel a strong responsibility to use my public platform to help "
+"amplify the voices who are seldom heard including all the indigenous "
+"defenders around the world who are the protectors of our Mother Earth, the "
+"Amazon Rainforest, and all the biodiversity and animals.”"
+msgstr ""
+"Соучредитель Extinction Rebellion Гэйл Брэдбрук (Gail Bradbrook) считает это "
+"одним из первых признаков интереса Голливуда к тому, чтобы использовать свое "
+"влияние с целью рассказать правду о тяжести глобального климатического и "
+"экологического кризиса: \" Пока существует зияющий разрыв между тем, "
+"насколько плохи дела, и тем, какие действия предпринимаются. Но этот разрыв "
+"сужается. Все больше значительных и влиятельных людей \"ломают строй\", "
+"чтобы говорить правду и действовать в соответствии с реальностью.\" !"
+"[К'орианка](/assets/img/press/2020/02/06/QoriankaTurn.jpg){:.img-fluid ."
+"my-4} Актриса К’орианка Килчер ( Q’orianka Kilcher), исполняющая в фильме "
+"ведущую женскую роль, говорит: “Как актриса этнического происхождения, я "
+"чувствую серьезную ответственность, чтобы использовать мою публичную "
+"платформу для усиления голосов тех, кого слушают редко, включая местных "
+"борцов по всему миру, которые защищают нашу Мать-Землю, джунгли Амазонки, и "
+"все биоразнообразие животного мира.”"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:49
+msgid ""
+"Jonathan Mintram, the Executive Producer, was keen to stress that: “This "
+"film features fires in the Amazon and Australia, but we must not forget the "
+"other devastating fires from Angola and The Congo to Siberia and California.”"
+msgstr ""
+"Продюсер Джонатан Минтрам (Jonathan Mintram) подчеркивает, что \"В фильме "
+"показаны лесные пожары на Амазонке и в Австралии, но мы не должны забывать "
+"обо всех остальных разрушительных пожарах, от Анголы и Конго до Сибири и "
+"Калифорнии.\""
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:51
+msgid ""
+"The funding for the film has come from a variety of organisations including "
+"the UK-based Catalysts Foundation, as well as the global Climate Save "
+"Movement. The website for the film [www.mobilize.earth](http://www.mobilize."
+"earth)  aims to raise awareness, action and donations, which will go towards "
+"the work of [Amazon Watch](https://amazonwatch.org/) and [Extinction "
+"Rebellion](https://rebellion.global/)."
+msgstr ""
+"Финансирование фильма поступило от различных организацй, включая британский "
+"\"Фонд Катализаторов\", а также от движения \"Спасем Климат\" (Climate Save "
+"Movement). Вебсайт фильма [www.mobilize.earth](http://www.mobilize.earth) "
+"нацелен на повышение осведомленности и на акции и пожертвования, которые "
+"помогут работе [Amazon Watch](https://amazonwatch.org/) и [Extinction "
+"Rebellion](https://rebellion.global/)."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:53
+msgid ""
+"Additional supporters include the Artists for the Amazon campaign, and "
+"Environmental Media Association."
+msgstr ""
+"Дополнительную поддержку оказали кампания Артисты за Амазонку (Artists for "
+"the Amazon) и Ассоциация Экологических СМИ."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:55
+msgid ""
+"![south america fire](/assets/img/press/2020/02/06/SouthAmericaFire.jpg){:."
+"img-fluid .my-4}"
+msgstr ""
+"![пожар в южной америке](/assets/img/press/2020/02/06/SouthAmericaFire.jpg)"
+"{:.img-fluid .my-4}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:57
+msgid ""
+"The next film in the 12-part series will deal with the topic of denial, "
+"asking why we as a species choose to ignore the warning signs rather than "
+"deciding to act now on the Climate & Ecological Emergency."
+msgstr ""
+"Следующий фильм 12-тисерийной хроники будет посвящен проблеме отрицания, "
+"задавая вопрос, почему мы как вид предпочитаем игнорировать предупреждающие "
+"нас знаки, а не действовать в соответствии с климатическим и экологическим "
+"Чрезвычайным Положением."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:59
+msgid ""
+"For more information about how you can join us in fighting this emergency, "
+"visit the XR About Us page and Amazon Watch"
+msgstr ""
+"Для дальнейшей информации о том, как присоединиться к борьбе за выживание, "
+"посетите страницы \"О Нас\" на сайтах XR и Amazon Watch"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:62
+msgid ""
+"[Watch the film](http://www.mobilize.earth){:.o-button-pink .btn-block .text-"
+"center}"
+msgstr ""
+"[Смотрите фильм](http://www.mobilize.earth){:.o-button-pink .btn-block .text-"
+"center}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:65
+msgid ""
+"[More about Extinction Rebellion](https://rebellion.global/about-us){.xr-button}"
+msgstr ""
+"[Еще об Extinction Rebellion](https://rebellion.global/about-us){.xr-button}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:68
+msgid "[More About Amazon Watch](https://amazonwatch.org/){.xr-button}"
+msgstr "[Еще об Amazon Watch](https://amazonwatch.org/){.xr-button}"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:72
+msgid "Notes to editor:"
+msgstr "Заметки редактору:"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:74
+msgid ""
+"Mobilize Earth is setting out on a new course to mitigate the climate and "
+"ecological emergency by bringing together people from all walks of life. We "
+"are working to engage everyone - industry, activists, politicians, farmers, "
+"immigrants - to respond to the climate and ecological emergency. We work to:"
+msgstr ""
+"Mobilize Earth берет новый курс на смягчение Чрезвычайного Положения с "
+"климатом и экологией путем объединения людей из всех слоев общества. Мы "
+"стараемся вовлечь каждого - промышленников, активистов, политиков, фермеров, "
+"эмигрантов - в борьбу за предотвращение глобальной катастрофы. Мы работаем, "
+"чтобы:"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:76
+msgid "-Tell the truth about the climate and ecological emergency."
+msgstr "-Говорить правду о Климатическом и Экологическом кризисе."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:78
+msgid ""
+"-Engage and connect individuals and organizations across industries, "
+"cultures and political divides and work towards tangible responses to the "
+"climate and ecological emergency."
+msgstr ""
+"-Взаимодействовать и налаживать связи между отдельными людьми и "
+"организациями, представляющими различные отрасли промышленности и культуры, "
+"а также все аспекты политического спектра, и прилагать усилия по выработке "
+"реальных мер реагирования на чрезвычайные ситуации, связанные с климатом и "
+"экологией."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:80
+msgid ""
+"-Design a future in which we can all thrive by working with leaders, "
+"scientists, entrepreneurs and activists."
+msgstr ""
+"-Проектировать будущее, в котором мы все сможем процветать, работая с "
+"лидерами, учеными, предпринимателями и активистами."
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:83
+msgid "Press Contacts:"
+msgstr "Контакты для СМИ:"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:85
+msgid ""
+"Film: Jonathan Mintram [mobilize.earth@gmail.com](mailto:mobilize."
+"earth@gmail.com) +44(0) 7802530272"
+msgstr ""
+"Фильм: Джонатан Минтрам (Jonathan Mintram) [mobilize.earth@gmail.com](mailto:"
+"mobilize.earth@gmail.com) +44(0) 7802530272"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:87
+msgid ""
+"Beverley Luckings +44(0) 7472 916283 [beverley@beverleyluckings.com](mailto:"
+"beverley@beverleyluckings.com)"
+msgstr ""
+"Беверли Лакингс (Beverley Luckings) +44(0) 7472 916283 "
+"[beverley@beverleyluckings.com](mailto:beverley@beverleyluckings.com)"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:89
+msgid ""
+"Extinction Rebellion): Howard Rees [press@risinguppress.org.uk](mailto:"
+"press@risinguppress.org.uk) +44(0) 7459 055152"
+msgstr ""
+"Extinction Rebellion): Ховард Рис (Howard Rees) [press@risinguppress.org.uk]"
+"(mailto:press@risinguppress.org.uk) +44(0) 7459 055152"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:91
+msgid ""
+"Amazon Watch: John Quigley [spectralq@aol.com](mailto:spectralq@aol.com) +1 "
+"(310) 927-3013"
+msgstr ""
+"Amazon Watch: Джон Куигли (John Quigley) [spectralq@aol.com](mailto:"
+"spectralq@aol.com) +1 (310) 927-3013"
+
+#. type: Plain text
+#: 2020-02-06-phoenix.md:92
+msgid ""
+"Julia Jaye Posin [jjposin@amazonwatch.org](mailto:jjposin@amazonwatch.org) "
+"+1 (949) 939-4770"
+msgstr ""
+"Джулия Джей Посин (Julia Jaye Posin) [jjposin@amazonwatch.org](mailto:"
+"jjposin@amazonwatch.org) +1 (949) 939-4770"

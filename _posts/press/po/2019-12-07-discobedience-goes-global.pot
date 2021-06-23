@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-22 11:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:12
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion’s Civil Discobedience goes global: we Rebel for Life\"\n"
+"slug: discobedience-goes-global\n"
+"date: 2019-12-02 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:15
+msgid ""
+"![Extinction Rebellion’s Civil Discobedience goes global](/assets/img/"
+"press/2019/12/07/discobedience.jpeg \"Extinction Rebellion’s Civil "
+"Discobedience goes global\"){:.img-fluid}"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: 2019-12-07-discobedience-goes-global.md:21
+msgid ""
+"**Extinction Rebellion has organised a day of civil disobedience around the "
+"world in solidarity with the Climate Summit in Madrid**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: 2019-12-07-discobedience-goes-global.md:21
+msgid ""
+"**Rebels from more than 20 countries Rebel for Life to the beat of music in "
+"Gran Vía**"
+msgstr ""
+
+#. type: Bullet: '-   '
+#: 2019-12-07-discobedience-goes-global.md:21
+msgid ""
+"**“If I can’t dance, it’s not my Revolution” – Emma Goldman, through art and "
+"music the international social movement calls on delegates at the summit to "
+"tell the truth and act now on the climate and ecological emergency**"
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:23
+#, no-wrap
+msgid "**Saturday, December 7, 2019 (Madrid, SPAIN) –**  Members of Extinction Rebellion (XR), coming from more than 20 countries, blocked the street of Gran Vía with their dance moves to “Staying Alive” as part of an action held across 23 cities around the world, starting in Bali, Indonesia and many other cities(Paris, Amsterdam, Sydney, New York, etc.). \"Civil-discobedience\" is the latest artistic expression of the social movement that aims to mobilize society to cope with the ravages of climate change and defend life on the planet. This action echoes the quote attributed to feminist activist Emma Goldman, \"If I can’t dance, it’s not my revolution.\"\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:25
+msgid ""
+"This action aims to highlight that the climate and ecological crisis is a "
+"global phenomenon that requires joint and coordinated action from civil "
+"society, worldwide. Rebels from all countries and continents show that civil "
+"society, unlike political and economic elites, can build agreements that "
+"focus on what is most important, that crosses borders and supports the "
+"regions most affected by this crisis. There is no time for hope, it is time "
+"for action. Therefore, civil disobedience actions must be inclusive, "
+"creating participatory environments where everyone can feel comfortable and "
+"cared for. That is exactly what «civil-discobedience» does: rebellion at the "
+"blow of the hips."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:27
+msgid ""
+"Inspired by an action by XR Australia, hundreds of XR rebels from all over "
+"the world gathered in Madrid to exert pressure on COP 25 and invited others "
+"to participate in a spontaneous dance, breaking into the streets and squares "
+"of the world to the sound of the disco music, so that life lasts, "
+"emphasizing the message of the BeeGees: «Staying alive.» We need to stay "
+"alive. In Madrid, the musical styles were representative of various across "
+"the world."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:32
+msgid ""
+"At the beginning of COP25, XR announced its intention to bring art, music "
+"and rebellion to the streets of Madrid and the world as part of a call to "
+"citizens to unite around 3 demands: - Tell the truth about the severity of "
+"the climatic and ecological emergency - Immediate action for the massive "
+"reduction of greenhouse gas emissions, and - The implementation of citizen "
+"assemblies to deal with the emergency."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:34
+msgid ""
+"Using art, culture and peaceful civil disobedience, XR protests are without "
+"violence every day since the inauguration of the international summit, to "
+"demand a democratic defence of the common good and the right to life for "
+"future generations."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:36
+msgid ""
+"Through this global party, to which everyone is invited, XR takes another "
+"step in its mission to protect and celebrate life on the planet through "
+"beauty and joy."
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:38
+#, no-wrap
+msgid "**# ULTIMATUMCOP25**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:40
+msgid ""
+"Mail: [comunicacion@extinctionrebellion.es](mailto:"
+"comunicacion@extinctionrebellion.es)"
+msgstr ""
+
+#. type: Plain text
+#: 2019-12-07-discobedience-goes-global.md:41
+msgid ""
+"Web: [https://www.extinctionrebellion.es](https://www.extinctionrebellion."
+"es/)"
+msgstr ""

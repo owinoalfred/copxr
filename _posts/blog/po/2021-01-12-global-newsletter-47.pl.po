@@ -1,0 +1,1389 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-10 12:19+0800\n"
+"PO-Revision-Date: 2021-03-14 23:25+0000\n"
+"Last-Translator: jatza <jacek.szczerbak@gmail.com>\n"
+"Language-Team: Polish <http://translate.organise.earth/projects/blog-posts/"
+"2021-01-12-global-newsletter-47/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:13
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Global Newsletter #47: The law of the land \"\n"
+"slug: global-newsletter-47\n"
+"date: 2021-01-12 14:33\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/image7-47.jpg\n"
+"seoTitle: The Law of the Land\n"
+"seoDescription: Activists around the world are using existing laws, and creating\n"
+"  new ones, to force governments and corporations to act on the climate crisis.\n"
+msgstr ""
+"lang: pl\n"
+"title: \"Global Newsletter #47: Prawo ziemi\"\n"
+"slug: global-newsletter-47\n"
+"date: 2021-01-12 14:33\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/image7-47.jpg\n"
+"seoTitle: Prawo ziemi\n"
+"seoDescription: Aktywistki i aktywiści na całym świecie z pomocą istniejących i nowych praw zmuszają rządy i korporacje do\n"
+"  działań w sprawie kryzysu klimatycznego.\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:15
+msgid "![](/assets/uploads/image7-47.jpg)"
+msgstr "![](/assets/uploads/image7-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:17
+#, no-wrap
+msgid "*The Kalahari San - indigenous people whose land has been given to a Canadian oil company.*\n"
+msgstr "*Ludność San z Kalahari – rdzenni mieszkańcy, których ziemię przekazano kanadyjskiej spółce naftowej.*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:19
+msgid ""
+"(Subscribe to future editions [here](https://actionnetwork.org/forms/"
+"newsletter-sign-up-17?"
+"clear_id=true&source=direct_link&link_id=1&can_id=406f8484cac9b97f5801312a06199147&email_referrer=email_807834&email_subject=global-"
+"newsletter-39-title-required).)"
+msgstr ""
+"(Zapisz się na przyszłe wydania newslettera [tutaj](https://actionnetwork."
+"org/forms/newsletter-sign-up-17?"
+"clear_id=true&source=direct_link&link_id=1&can_id=406f8484cac9b97f5801312a06199147&email_referrer=email_807834&email_subject=global-"
+"newsletter-39-title-required).)"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:20
+#, no-wrap
+msgid "Introduction"
+msgstr "Wprowadzenie"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:23
+msgid ""
+"When Extinction Rebellion first hit the world’s headlines, it was because "
+"rebels were willing to break the law to raise awareness about the climate "
+"crisis."
+msgstr ""
+"Extinction Rebellion po raz pierwszy pojawiła się w nagłówkach światowych "
+"gazet, bo rebeliantki i rebelianci byli skłonni złamać prawo w celu "
+"zwiększenia świadomości na temat kryzysu klimatycznego."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:25
+msgid ""
+"But last year saw a marked shift in climate activism’s relationship with the "
+"law. Across the globe communities and organisations have started to use "
+"existing laws, and even create new ones, to hold governments and polluting "
+"corporations to account."
+msgstr ""
+"W zeszłym roku pojawiła się jednak wyraźna zmiana w relacji między "
+"aktywizmem klimatycznym a prawem. Społeczności i organizacje na całym "
+"świecie zaczęły pociągać do odpowiedzialności rządy i zanieczyszczające "
+"środowisko przedsiębiorstwa, a z pomocą ruszyły im istniejące dotychczas "
+"przepisy oraz całkiem nowe prawa, do których stworzenia aktywiści "
+"przyczynili się sami."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:27
+msgid ""
+"We’ve seen young people all around the world, from Mexico to South Korea, "
+"sue their governments for negligent climate policy. We’ve seen Portuguese "
+"youth activists have their landmark case against all 33 European states fast-"
+"tracked to the European Court of Human Rights. And we’ve seen a vast array "
+"of lawsuits brought against major oil firms by US states, cities, and "
+"communities."
+msgstr ""
+"Młodzież od Meksyku po Koreę Południową wytaczała procesy swoim rządom za "
+"prowadzenie niewystarczającej polityki klimatycznej. Usłyszeliśmy o "
+"portugalskich aktywistach i aktywistkach i ich przełomowej sprawie przeciwko "
+"wszystkim 33 państwom Europy, która w trybie pilnym trafiła do Europejskiego "
+"Trybunału Praw Człowieka. Byliśmy świadkami wielu pozwów przeciwko ogromnym "
+"przedsiębiorstwom naftowym. Wytyczały je amerykańskie stany, miasta i "
+"społeczności."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:29
+msgid "![](/assets/uploads/image17-47.jpg)"
+msgstr "![](/assets/uploads/image17-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:31
+#, no-wrap
+msgid "*The Portuguese youth activists taking their case to the European Court of Human Rights. Photos: GLAN*\n"
+msgstr "*Portugalska młodzież zgłasza się do Europejskiego Trybunału Praw Człowieka. Zdjęcia: GLAN*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:33
+msgid ""
+"You can find out more about this flurry of climate litigation in ***Must "
+"Reads***, along with some examples where the law is not so much an *asset* "
+"to the climate cause as an *ass*."
+msgstr ""
+"Więcej informacji na temat mnóstwa sporów klimatycznych przeczytasz w sekcji "
+"***Lektura obowiązkowa***. Znajdziesz tam także przykłady praw i ustaw, "
+"które wcale nie pomagają naszej klimatycznej sprawie. *Wręcz przeciwnie*..."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:35
+msgid ""
+"The focus meanwhile for this legal-eagle special issue will be on two "
+"campaigns aiming to create new laws for activists to harness in the future."
+msgstr ""
+"W tym wydaniu newslettera skupimy się na kwestiach prawniczych, a mianowicie "
+"na dwóch kampaniach, w ramach których aktywiści i aktywistki walczą o "
+"stworzenie nowych ustaw."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:37
+msgid ""
+"The [Climate & Ecological Emergency Bill](https://www.ceebill.uk/) was "
+"introduced to UK’s Parliament in September and aims to turn XR’s demands "
+"into British law. As well as building local support, the team behind it have "
+"expanded the legislation so it can be applied to any government in the run "
+"up to COP26."
+msgstr ""
+"Brytyjski [projekt ustawy o alarmie klimatycznym i "
+"środowiskowym](https://www.ceebill.uk/) miał swój parlamentarny debiut we "
+"wrześniu ubiegłego roku. Jego celem jest wpisanie postulatów XR do "
+"brytyjskiego prawa. Grupa odpowiedzialna za projekt nie tylko zyskała "
+"lokalne poparcie, ale w ramach przygotowań do COP26 rozszerzyła ustawę tak, "
+"by każdy rząd mógł ją wcielić w życie."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:39
+msgid ""
+"Meanwhile thanks to the [Stop Ecocide](https://www.stopecocide.earth/) "
+"campaign, a team of international lawyers are drafting new legislation to "
+"make Ecocide a crime. One day soon, negligent politicians and polluting CEOs "
+"could find themselves in the dock of the International Criminal Court!"
+msgstr ""
+"Dzięki kampanii [Stop Ecocide](https://www.stopecocide.earth/) "
+"międzynarodowy zespół prawników i prawniczek przygotowuje właśnie nowy "
+"projekt ustawy, w ramach której ekoeksterminacja uznawana by była za "
+"przestępstwo. Możliwe, że niedługo niedbali politycy oraz zatruwający "
+"środowisko dyrektorzy spółek trafiać będą na ławę oskarżonych "
+"Międzynarodowego Trybunału Karnego!"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:41
+msgid "![](/assets/uploads/image9-47.jpg)"
+msgstr "![](/assets/uploads/image9-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:43
+#, no-wrap
+msgid "*Politicians lose their spines before a media mogul in Melbourne. So that’s what happens.*\n"
+msgstr "*Polityczki i politycy tracą kręgosłup moralny przed siedzibą jednego z magnatów medialnych w Melbourne. Czyli tak to wygląda...*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:45
+msgid ""
+"To find out more about both campaigns and get involved, head over to Action "
+"Highlights. Aside from legal matters, we’ve also got special reports on "
+"rebellion waves in Israel and Australia, and uncover a terrible ecological "
+"crime happening in Southern Africa."
+msgstr ""
+"Przejdź do sekcji „Ostatnie akcje”, żeby przeczytać więcej o obu kampaniach "
+"i dowiedzieć się, jak możesz się w nie zaangażować. Nie omawiamy w "
+"newsletterze tylko kwestii prawnych – piszemy także o falach rebelii w "
+"Izraelu i Australii oraz donosimy o okropnej zbrodni na środowisku, do "
+"której dochodzi właśnie na południu Afryki."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:47
+msgid ""
+"Finally, to welcome in the new year we have a new section: Book of the "
+"Month. If you’ve read a book you think rebels would appreciate, why not "
+"spread the word and send us a mini-review? Keep them to under 200 words and "
+"post them here: [xr-newsletter@protonmail.com](mailto:xr-"
+"newsletter@protonmail.com)."
+msgstr ""
+"Wreszcie witamy nowy rok nową sekcją newslettera: Książka miesiąca. Masz za "
+"sobą lekturę książki, która Twoim zdaniem spodoba się reszcie rebeliantów? "
+"Napisz krótką recenzję poniżej 200 słów i wyślij ją na adres: [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:49
+#, no-wrap
+msgid "*If you’d like to help, please check out our [website](https://rebellion.global/) and [learn more about XR.](https://rebellion.global/about-us/)*\n"
+msgstr ""
+"*Jeśli chcesz pomóc, przejdź na naszą [stronę internetową](https://rebellion."
+"global/) i [dowiedz się więcej o XR]((https://rebellion.global/pl/about-us/"
+").*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:51
+#, no-wrap
+msgid "*To connect to rebels in your local area, get in touch with your [nearest XR group](https://rebellion.global/branches/). If there’s no active group near you, you can [start your own!](https://cloud.organise.earth/s/jGSWEoJ9PW65xLc/)*\n"
+msgstr ""
+"*Aby poznać rebeliantów i rebeliantki z Twojej okolicy, skontaktuj się ze "
+"swoją [lokalną grupą XR](https://rebellion.global/branches/). Jeśli w Twojej "
+"okolicy nie ma aktywnej grupy, możesz [ją założyć](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)!*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:53
+#, no-wrap
+msgid "*If you’d like to see previous newsletter issues, you can find them [here](../../../../../news/).*\n"
+msgstr ""
+"*Jeśli chcesz przeczytać wcześniejsze wydania naszego newslettera, możesz "
+"znaleźć je [tutaj](../../../../../news/).*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:55 2021-01-12-global-newsletter-47.md:287
+msgid ""
+"We are in a crucial phase of human history, and our movement needs money (of "
+"course!) to make our message heard. Anything you can [give](https://chuffed."
+"org/project/xrinternational) is appreciated."
+msgstr ""
+"Znajdujemy się w kluczowej fazie ludzkiej historii. Abyśmy dalej mogli "
+"szerzyć naszą misję, ruch XR potrzebuje środków finansowych. Docenimy każdą "
+"kwotę, jaką możesz [ofiarować](https://chuffed.org/project/xrinternational)."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:57 2021-01-12-global-newsletter-47.md:288
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Wesprzyj Rebelię](https://chuffed.org/project/xrinternational){.xr-button}"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:58
+#, no-wrap
+msgid "Contents"
+msgstr "Spis treści"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:64 2021-01-12-global-newsletter-47.md:65
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Ostatnie akcje"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:64 2021-01-12-global-newsletter-47.md:193
+#, no-wrap
+msgid "Action Round Up"
+msgstr "Podsumowanie akcji"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:64 2021-01-12-global-newsletter-47.md:221
+#, no-wrap
+msgid "Announcements"
+msgstr "Ogłoszenia"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:64 2021-01-12-global-newsletter-47.md:245
+#, no-wrap
+msgid "Must Reads"
+msgstr "Lektury obowiązkowe"
+
+#. type: Title ###
+#: 2021-01-12-global-newsletter-47.md:67
+#, no-wrap
+msgid "CEE Bill Going Global for COP26"
+msgstr "Projekt ustawy CEE rusza na podbój świata przed COP26"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:70
+#, no-wrap
+msgid "**Ongoing | UK & International**\n"
+msgstr "**Trwa | Wielka Brytania i świat**\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:72
+msgid "![](/assets/uploads/image25-47.png)"
+msgstr "![](/assets/uploads/image25-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:74
+#, no-wrap
+msgid "*Rebels rally outside as the CEE Bill is introduced to politicians in the British Parliament.*\n"
+msgstr "*Zgromadzenie rebeliantów i rebeliantek pod budynkiem parlamentu Wielkiej Brytanii, gdzie politycy zapoznają się z projektem ustawy CEE.*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:76
+msgid ""
+"A campaign to introduce major new climate-ecology legislation in the UK now "
+"has the backing of [89 Ministers of Parliament](https://www.ceebill.uk/"
+"allies_and_supporters?e%3D5b49b7d6f1979d3b284d4310514a67b4%26utm_source"
+"%3Dceebill%26utm_medium%3Demail%26utm_campaign%3D2020_12_23_good_tidi%26n"
+"%3D2/) (MPs) who together represent 6 million citizens, as well as 5 "
+"councils and Greenpeace UK."
+msgstr ""
+"Kampania za wprowadzeniem do brytyjskiego prawa przełomowej ustawy o "
+"klimacie i środowisku zyskała już poparcie [89 posłanek i "
+"posłów](https://www.ceebill.uk/allies_and_supporters?e%3D5b49b7d6f1979d3b284d"
+"4310514a67b4%26utm_source%3Dceebill%26utm_medium%3Demail%26utm_campaign%3D202"
+"0_12_23_good_tidi%26n%3D2/), którzy łącznie reprezentują sześć milionów "
+"obywateli, oraz pięciu rad miasta i organizacji Greenpeace UK."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:78
+msgid ""
+"Written by an alliance of scientists, lawyers, economists and activists "
+"(including rebels), the [Climate and Ecological Emergency (CEE) Bill]"
+"(https://www.ceebill.uk/) will [legally require](https://www.ceebill.uk/"
+"bill/) the UK Government to take urgent and far-reaching climate action, "
+"with the terms directed by a Citizens’ Assembly as well as MPs."
+msgstr ""
+"Autorami ustawy są naukowczynie, prawnicy, ekonomistki i aktywiści (w tym "
+"rebeliantki i rebelianci). [Projekt ustawy o alarmie klimatycznym i "
+"środowiskowym (CEE)](https://www.ceebill.uk/) sprawi, że brytyjski rząd "
+"będzie [zobowiązany prawnie](https://www.ceebill.uk/bill/) do podjęcia "
+"natychmiastowych, dalekosiężnych działań na rzecz klimatu, a ich zasady "
+"dyktować będą nie tylko parlamentarzyści, lecz także Panel Obywatelski."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:80
+msgid ""
+"The CEE Bill would also force the UK to take responsibility for its overseas "
+"carbon and ecological footprint (currently ignored), and do its fair share "
+"in reducing global emissions considering it is an [advanced economy](https://"
+"www.investopedia.com/terms/a/advanced-economies.asp/)."
+msgstr ""
+"Ustawa CEE oznaczałaby także, że Wielka Brytania będzie musiała wziąć "
+"odpowiedzialność za swój zagraniczny ślad węglowy i środowiskowy (które "
+"obecnie ignoruje) oraz wprowadzić proporcjonalne działania mające na celu "
+"ograniczenie globalnych emisji, biorąc pod uwagę swoją [rozwiniętą "
+"gospodarkę](https://www.investopedia.com/terms/a/advanced-economies.asp/)."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:82
+msgid "![](/assets/uploads/image1-47.png)"
+msgstr "![](/assets/uploads/image1-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:84
+#, no-wrap
+msgid "*The UK’s only Green Party MP accepts a letter from young rebels before tabling the CEE Bill.*\n"
+msgstr "*Jedyna parlamentarzystka Wielkiej Brytanii Partii Zielonych za chwilę złoży przed parlamentem projekt ustawy CEE, ale najpierw przyjmuje list od grupy młodych rebeliantów*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:86
+msgid ""
+"With [COP26](https://ukcop26.org/) scheduled for this November, the team "
+"behind the CEE Bill have broadened its contents to create a universal "
+"blueprint of emergency measures. The [Face the Future 10-Point Plan](https://"
+"docs.google.com/document/d/1Rl7V_Gv_eaCvMbesir3FKsgjFWjHbMed5TEG1wbeobA/"
+"edit/) could apply to the government of any advanced economy, and even be "
+"integrated into the Paris Agreement."
+msgstr ""
+"[COP26](https://ukcop26.org/) zaplanowano na listopad 2021 roku, więc zespół "
+"odpowiedzialny za projekt ustawy CEE rozszerzył jej zakres, tak by "
+"uwzględnić w proponowanym rozwiązaniu prawnym uniwersalną strategię "
+"nadzwyczajnych środków. [Dziesięciopunktowy plan o nazwie „Face the "
+"Future”](https://docs.google.com/document/d/"
+"1Rl7V_Gv_eaCvMbesir3FKsgjFWjHbMed5TEG1wbeobA/edit/) odnosiłby się do rządu "
+"każdego rozwiniętego gospodarczo państwa i byłby włączony do porozumienia "
+"paryskiego."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:88
+msgid ""
+"The Face The Future team are now calling on activists and organisations "
+"around the world to pressure their government to sign up to these 10 "
+"principles. The Plan has already been backed by rebels in the UK, France, "
+"Italy and Germany."
+msgstr ""
+"Zespół Face the Future wzywa aktywistów i aktywistki oraz organizacje z "
+"całego świata do wywierania presji na swoich rządach, by podpisały one te "
+"dziesięć zasad. Plan zaaprobowali już rebeliantki i rebelianci we Francji, w "
+"Niemczech, Wielkiej Brytanii oraz we Włoszech."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:90
+msgid ""
+"If you would like your government to Face The Future in time for COP26, then "
+"check out these [campaigning ideas](https://docs.google.com/document/"
+"d/1rdhOFvAtz2zfFqPpiKMxMtWmXfxFN-IK5oO8MzEWRz0/edit/), take this [online "
+"training on engaging political representatives](https://www.youtube.com/"
+"watch?v%3DGIVblhYewwM%26feature%3Dyoutu.be/), and use these [templates]"
+"(https://www.ceebill.uk/writetoyourmp?utm_campaign%3D2020_12_23_good_tidi"
+"%26utm_medium%3Demail%26utm_source%3Dceebill/) to start lobbying your local "
+"politicians."
+msgstr ""
+"Jeśli chcesz, by Twój rząd także był przygotowany na przyszłość jeszcze "
+"przed COP26, zapoznaj się z [założeniami kampanii](https://docs.google.com/"
+"document/d/1rdhOFvAtz2zfFqPpiKMxMtWmXfxFN-IK5oO8MzEWRz0/edit/), weź udział w "
+"[szkoleniu online na temat angażowania reprezentantów "
+"politycznych](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D"
+"GIVblhYewwM%26feature%3Dyoutu.be&sa=D&ust=1610464960556000&usg=AOvVaw0ZBNsIu5"
+"KYhFFzpegySUbx) i skorzystaj z tych [wzorów listów](https://www.ceebill.uk/wr"
+"itetoyourmp?utm_campaign%3D2020_12_23_good_tidi%26utm_medium%3Demail%26utm_so"
+"urce%3Dceebill/), które pomogą Ci lobbować lokalnych polityków i polityczki."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:92
+msgid ""
+"You could even represent your country in upcoming Face The Future meetings - "
+"contact [nessyhainesmatos@ceebill.uk](mailto:nessyhainesmatos@ceebill.uk) "
+"for more information."
+msgstr ""
+"Możesz też reprezentować swój kraj w nadchodzącym spotkaniu Face the Future "
+"– napisz na adres [nessyhainesmatos@ceebill.uk](mailto:"
+"nessyhainesmatos@ceebill.uk) i poproś o więcej informacji."
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:93
+#, no-wrap
+msgid "Making Ecocide History!"
+msgstr "Niech ekoeksterminacja przejdzie do historii!"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:96
+#, no-wrap
+msgid "**Ongoing | International**\n"
+msgstr "**Trwa | Cały świat**\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:98
+msgid "![](/assets/uploads/image5-47.png)"
+msgstr "![](/assets/uploads/image5-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:100
+#, no-wrap
+msgid "*Polly Higgins. Photo: Wikipedia*\n"
+msgstr "*Polly Higgins. Zdjęcie: Wikipedia*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:102
+msgid ""
+"Fifteen years ago, while looking out of a window during a court case, "
+"barrister Polly Higgins [had a thought](https://www.youtube.com/watch?v"
+"%3D8EuxYzQ65H4/): “The earth is in need of a good lawyer”. So began her "
+"lifelong battle to make ecocide - widespread, severe, or systematic "
+"destruction of nature - a crime prosecutable in court."
+msgstr ""
+"Piętnaście lat temu radczyni prawna Polly Higgins spoglądała za okno podczas "
+"rozprawy sądowej i [pomyślała](https://www.youtube.com/watch?v%3D8EuxYzQ65H4/"
+"): „Nasza planeta potrzebuje dobrej prawniczki”. Tak zaczęła się jej życiowa "
+"walka; chciała uczynić z ekoeksterminacji – czyli powszechnej, poważnej, "
+"systematycznej destrukcji środowiska – przestępstwo ścigane przez sąd."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:104
+msgid ""
+"Although Polly Higgins sadly died in 2019, this idea - shared by many others "
+"worldwide - is [sparking a revolution](https://www.independent.co.uk/"
+"environment/climate-change/ecocide-war-crimes-pollution-b1774578.html/)."
+msgstr ""
+"Chociaż niestety w 2019 roku Polly Higgins zmarła, jej pomysł, który "
+"podziela wiele osób na całym świecie, [dał początek "
+"rewolucji](https://www.independent.co.uk/environment/climate-change/ecocide-"
+"war-crimes-pollution-b1774578.html/)."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:106
+msgid ""
+"In December 2019, island states Vanuatu and the Maldives called for “serious "
+"consideration” of the criminalisation of ecocide at an annual assembly of "
+"the International Criminal Court (ICC). In December, Belgium became the "
+"first European nation to raise the issue at the ICC. And right now "
+"international lawyers are [working on a legal definition of ecocide](https://"
+"www.stopecocide.earth/expert-drafting-panel/) as an international crime that "
+"could sit alongside war crimes and crimes against humanity."
+msgstr ""
+"W grudniu 2019 roku wyspiarskie państwa Vanuatu i Malediwy podczas "
+"dorocznego zgromadzenia Międzynarodowego Trybunału Karnego (MTK) nawoływały "
+",by „poważnie rozważyć” uczynienie z ekoeksterminacji przestępstwa. W "
+"grudniu Belgia stała się pierwszym europejskim krajem, który poruszył tę "
+"kwestię z MTK. W tej chwili międzynarodowa grupa prawniczek i prawników ["
+"opracowuje definicję prawną ekoeksterminacji](https://www.stopecocide.earth/"
+"expert-drafting-panel/), by można ją było uznać za zbrodnię na szczeblu "
+"międzynarodowym – tak samo, jak w przypadku zbrodni wojennych i przeciwko "
+"ludzkości."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:108
+msgid "![](/assets/uploads/image8-47.png)"
+msgstr "![](/assets/uploads/image8-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:110
+#, no-wrap
+msgid "*Stop Ecocide activists pose in front of a familiar pink boat. Photo: Stop Ecocide*\n"
+msgstr "*Aktywiści i aktywistki z grupy Stop Ecocide przed znaną już nam różową łodzią. Zdjęcie: Stop Ecocide*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:112
+msgid ""
+"The [worst punishment](https://www.theguardian.com/commentisfree/2019/mar/28/"
+"destruction-earth-crime-polly-higgins-ecocide-george-monbiot/) currently "
+"faced by people, businesses and states wreaking irreversible destruction on "
+"habitats is a fine or an order to pay compensation. Ecocide’s absence from "
+"international law represents a gaping hole - and one that could make the "
+"difference between our extinction and survival."
+msgstr ""
+"Dzisiaj [najsroższą karą](https://www.theguardian.com/commentisfree/2019/mar/"
+"28/destruction-earth-crime-polly-higgins-ecocide-george-monbiot/), która "
+"grozi osobom, przedsiębiorstwom i państwom wyrządzającym nieodwracalne "
+"szkody na siedliskach, jest grzywna lub nakaz zapłaty odszkodowania. Brak "
+"ekoeksterminacji w prawie międzynarodowym stanowi wielką lukę – i może ona "
+"zadecydować o naszym wyginięciu lub przetrwaniu."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:114
+msgid ""
+"If you want to help close this gap, the Stop Ecocide campaign has a [number "
+"of ways](https://www.stopecocide.earth/get-involved-summary/) that you can "
+"get involved."
+msgstr ""
+"Jeśli chcesz pomóc zakopać tę przepaść, kampania Stop Ecocide służy pomocą: "
+"poznaj [kilka sposobów](https://www.stopecocide.earth/get-involved-summary/) "
+"na zaangażowanie się w projekt."
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:115
+#, no-wrap
+msgid "Israel Rebellion Brings Big Shit & Blockages."
+msgstr "Izraelska Rebelia: blokady i gnój."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:118
+#, no-wrap
+msgid "**13 - 27 DEC | Ashkelon, Petah Tikva, Jerusalem.**\n"
+msgstr "**13-27 GRU | Aszkelon, Petach Tikwa, Jerozolima.**\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:120
+msgid "![](/assets/uploads/image10-47.jpg)"
+msgstr "![](/assets/uploads/image10-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:122
+#, no-wrap
+msgid "*Rebels in Ashkelon find an alternative use for lengths of pipe. Photo: XR Israel*\n"
+msgstr "*Rebeliantki i rebelianci w Aszkelon znajdują alternatywny sposób na wykorzystanie rur. Zdjęcie: XR Izrael*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:123
+#, no-wrap
+msgid "[XR Israel](https://xrisrael.earth/?fbclid%3DIwAR1e3St4IaFwP_euDniPewf5EgiBIhniXZv8aCvywEmU5ZVw_0elmtWj1xI/) launched a fortnight of nationwide actions last month, with the rebellion wave kicking off in the coastal city of Ashkelon.  \n"
+msgstr ""
+"[XR Izrael](https://xrisrael.earth/?fbclid%"
+"3DIwAR1e3St4IaFwP_euDniPewf5EgiBIhniXZv8aCvywEmU5ZVw_0elmtWj1xI/) w zeszłym "
+"miesiącu rozpoczęła dwutygodniową serię akcji w całym kraju. Fala rebelii "
+"najpierw uderzyła w Aszkelon.  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:125
+#, no-wrap
+msgid "40 brave rebels [blocked the entrance](https://www.facebook.com/watch/live/?v%3D379233289844018%26ref%3Dwatch_permalink%26t%3D4789/) to both the giant coal-fired Rothberg Power Station and the [Eilat Ashkelon Pipeline Company](https://www.eapc.com/), whose pipeline pumps millions of barrels of crude oil every day between ports on the Mediterrean and Red Sea.  \n"
+msgstr ""
+"Czterdzieścioro odważnych rebeliantów [zablokowało "
+"wjazd](https://www.facebook.com/watch/live/"
+"?v%3D379233289844018%26ref%3Dwatch_permalink%26t%3D4789/) do dwóch ogromnych "
+"obiektów: elektrowni węglowej Rothberg oraz [przedsiębiorstwa rurociągowego "
+"Eilat Ashkelon Pipeline Company](https://www.eapc.com/). W rurociągach obu "
+"przedsiębiorstw codziennie transportowane są miliony baryłek ropy naftowej "
+"między regionem śródziemnomorskim a Morzem Czerwonym.  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:127
+#, no-wrap
+msgid "Rebels managed to block traffic to the sites for two hours and recruit more rebels to their cause. An affinity group focused on the pipeline is now being set up.  \n"
+msgstr "Rebeliantom udało się zablokować na dwie godziny ruch prowadzący do obiektów, a także zwerbować kolejnych działaczy i działaczki. Właśnie organizowana jest specjalna grupa na rzecz akcji związanych z rurociągiem.  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:130
+msgid ""
+"A fissure in the pipeline in 2014 flooded the Evrona Nature Reserve with "
+"oil, and was labelled one of Israel's worst [environmental catastrophes]"
+"(https://www.washingtonpost.com/world/israeli-oil-spill-is-bad-news-for-a-"
+"precious-nature-"
+"preserve/2014/12/17/7855e726-7fd7-11e4-9f38-95a187e4c1f7_story.html/). "
+"Nevertheless the pipeline’s operator recently secured a lucrative [oil deal "
+"with the United Arab Emirates](https://www.spglobal.com/platts/en/market-"
+"insights/latest-news/oil/102020-israeli-pipeline-company-to-transport-uae-"
+"oil-via-red-sea-med-network/)."
+msgstr ""
+"W 2014 roku pęknięcie rurociągu spowodowało zalanie ropą Rezerwatu Przyrody "
+"Evrona. Zdarzenie znane jest do dziś jako jedna z najgorszych [katastrof "
+"środowiskowych](https://www.washingtonpost.com/world/"
+"israeli-oil-spill-is-bad-news-for-a-precious-nature-preserve/2014/12/17/"
+"7855e726-7fd7-11e4-9f38-95a187e4c1f7_story.html/) Izraela. Mimo to zarządcy "
+"rurociągu udało się niedawno osiągnąć lukratywne [porozumienie w sprawie "
+"ropy ze Zjednoczonymi Emiratami Arabskimi](https://www.spglobal.com/platts/"
+"en/market-insights/latest-news/oil/"
+"102020-israeli-pipeline-company-to-transport-uae-oil-via-red-sea-med-network/"
+")."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:132
+msgid "![](/assets/uploads/image14-47.jpg)"
+msgstr "![](/assets/uploads/image14-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:134
+#, no-wrap
+msgid "*Rebels tend to a supersize turd in Migdal Group’s lobby. Signs read ‘Greenwash: Same Shit, Now in Green’ & ‘Diverting Attention, Not Investments’. Photo: XR Israel*\n"
+msgstr "*Rebelianci i rebeliantki doglądają gigantycznego gnoju, który pojawił się w korytarzu siedziby Migdal Group. Na plakatach widnieją napisy: „Greenwash: to samo gówno, ale teraz w odcieniach zieleni” oraz „Odwracanie uwagi, a nie inwestycji”. Zdjęcie: XR Izrael*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:135
+#, no-wrap
+msgid "A week later rebels in the central city of Petah Tikva entered the lobby of Migdal Group, one of the biggest pension funds in Israel. To encourage the group to stop greenwashing their dirty investments, the plucky rebels brought a big pile of fake excrement with them and [basted it with a generous supply of green slime](https://www.facebook.com/377148726388792/videos/879345809536370/).  \n"
+msgstr ""
+"Tydzień później grupa rebeliantów w centralnym mieście Petach Tikwa "
+"wtargnęła do lobby Migdal Group, jednego z największych funduszy "
+"emerytalnych w Izraelu. Żeby zmotywować przedsiębiorstwo do zaprzestania "
+"pseudoekologicznych chwytów marketingowych, odważni rebelianci przynieśli ze "
+"sobą ogromną rurę ze sztucznymi odchodami i [szczodrym dodatkiem zielonego "
+"mułu](https://www.facebook.com/377148726388792/videos/879345809536370/).  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:137
+#, no-wrap
+msgid "Migdal invests over $1.5 billion a year in fossil fuels, and has a history of branding itself sustainable with little evidence. But following the rebel action the company stated it will apply [environmental and social criteria to investment choices](https://www.timesofisrael.com/israeli-investment-house-scores-first-with-pledge-not-to-invest-in-fossil-fuels/) and ditched recently bought stock in the oil company Delek.  \n"
+msgstr ""
+"Co roku Migdal Group inwestuje ponad 1,5 miliarda dolarów w paliwa kopalne. "
+"Znana jest także z promowania się na ekologiczną firmę, ale brak na to "
+"dowodów. Po rebelianckiej akcji Grupa ogłosiła, że zacznie stosować ["
+"ekologiczne i socjalne kryteria, podejmując decyzje o "
+"inwestycjach](https://www.timesofisrael.com/israeli-investment-house-scores-f"
+"irst-with-pledge-not-to-invest-in-fossil-fuels/), i pozbyła się niedawno "
+"kupionych udziałów w koncernie naftowym Delek.  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:140
+msgid ""
+"The rebellion wave closed in the capital Jerusalem. 100 rebels disrupted the "
+"city for several hours by [blocking the two exits](https://www.facebook.com/"
+"XRisrael/videos/456717758820274/) of the Ministry of Energy, where the Prime "
+"Minister recently raised Israel’s renewable energy target to 30%, even "
+"though the current 17% target is far from being met, underlining how talking "
+"targets can bear little relation to action on the ground."
+msgstr ""
+"Ostatecznie fala rebelii dotarła do Jerozolimy, stolicy kraju. 100 "
+"rebeliantów i rebeliantek wprowadziło do miasta trwające kilka godzin "
+"zamieszanie. Jak? [Zablokowano oba wyjścia](https://www.facebook.com/"
+"XRisrael/videos/456717758820274/) z Ministerstwa Energii, gdzie niedawno "
+"premier Izraela podwyższył cel dot. energii odnawialnej do 30%, chociaż do "
+"osiągnięcia obecnego celu wynoszącego 17% państwu jeszcze daleko. Pokazuje "
+"to tylko, że deklarowanie celów zupełnie nie ma związku z konkretnymi "
+"działaniami."
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:141
+#, no-wrap
+msgid "African World Heritage Site Plundered for Canadian Oil."
+msgstr "Afrykański obiekt z listy światowego dziedzictwa splądrowany przez Kanadę w poszukiwaniu ropy."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:144
+#, no-wrap
+msgid "**Ongoing | Botswana, Namibia**\n"
+msgstr "**Trwa | Botswana, Namibia**\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:146
+msgid "![](/assets/uploads/image23-47.jpg)"
+msgstr "![](/assets/uploads/image23-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:148
+#, no-wrap
+msgid "*The Okavango Delta.*\n"
+msgstr "*Delta Okawango.*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:150
+msgid ""
+"The Kavango Basin is a vast water system that spreads across Namibia, "
+"Botswana and the Okavango Delta, a UNESCO World Heritage Site and one of the "
+"planet’s largest wetlands."
+msgstr ""
+"Dorzecze Kawango to ogromny system wodny, który znajduje się na terytorium "
+"Namibii, Botswany oraz delty Okawango – obiektu z listy światowego "
+"dziedzictwa UNESCO, będącego jednocześnie jednym z największych bagien "
+"naszej planety."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:152
+msgid ""
+"Rather than protect this unique habitat, home to endangered species and the "
+"world’s largest elephant population, last year both Namibia’s and Botswana’s "
+"governments gave Canadian oil company ReconAfrica the rights to drill it. "
+"The company has been given an area bordering 3 national parks upstream of "
+"the Okavango Delta, and started drilling test boreholes in December."
+msgstr ""
+"Zamiast chronić ten wyjątkowy teren zamieszkiwany przez zagrożone gatunki, w "
+"tym największą populację słoni na świecie, w zeszłym roku rządy Namibii i "
+"Botswany dały kanadyjskiej spółce naftowej ReconAfrica prawo do wwiertów na "
+"obszarze. Koncern otrzymał rejon graniczący z trzema parkami narodowymi "
+"znajdującymi się w górze Delty Okawango. Próbne odwierty pojawiły się tam w "
+"grudniu."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:154
+msgid ""
+"Local activists from groups including [Frack Free Namibia](https://www."
+"facebook.com/FrackFreeNamibiaAndBotswana/) and [Fridays For Future Windhoek]"
+"(https://www.facebook.com/fffwhk/) have scrambled to mount a resistance "
+"since learning of Recon’s plans. With the support of XR Africa and others, "
+"they’ve launched an [online petition](https://www.rainforest-rescue.org/"
+"petitions/1231/keep-the-oil-industry-out-of-africas-natural-treasures"
+"%23more/) and [media campaign](https://www.presstv.com/"
+"Detail/2020/12/17/640896/THE-OKAVANGO-OIL-FIELDS/) to raise awareness."
+msgstr ""
+"Odkąd lokalni aktywiści i aktywistki z grup takich jak [Frack Free "
+"Namibia](https://www.facebook.com/FrackFreeNamibiaAndBotswana/) czy [Fridays "
+"For Future Windhoek](https://www.facebook.com/fffwhk/) dowiedzieli się o "
+"planach Recon, od razu zorganizowali ruch oporu. Z pomocą XR Afryki i innych "
+"organizacji założyli [petycję online](https://www.rainforest-rescue.org/"
+"petitions/1231/keep-the-oil-industry-out-of-africas-natural-treasures%23more/"
+") oraz [kampanię medialną](https://www.presstv.com/Detail/2020/12/17/640896/"
+"THE-OKAVANGO-OIL-FIELDS/), by zwiększyć świadomość na temat problemu."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:156
+msgid "![](/assets/uploads/image13-47.jpg)"
+msgstr "![](/assets/uploads/image13-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:158
+#, no-wrap
+msgid "*A Namibian activist with a clear message for ReconAfrica.*\n"
+msgstr "*Namibijski aktywista ma jasny przekaz dla ReconAfrica.*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:160
+msgid ""
+"ReconAfrica is likely [to use fracking](https://www.dailymaverick.co.za/"
+"article/2020-09-16-mystery-shrouds-plans-to-start-fracking-near-namibias-"
+"kavango-river-and-botswanas-tsodilo-hills/) to plunder more oil, potentially "
+"endangering the water supply of millions of people in a desert region. If "
+"this wasn’t bad enough, one area marked for extraction is the home of the "
+"Kalahari San, an indigeonous people already stressed by migration and the "
+"changing climate."
+msgstr ""
+"ReconAfrica prawdopodobnie [otworzy na obszarze pole "
+"szczelinowania](https://www.dailymaverick.co.za/article/2020-09-16-mystery-sh"
+"rouds-plans-to-start-fracking-near-namibias-kavango-river-and-botswanas-tsodi"
+"lo-hills/) – w ten sposób wydobędzie więcej ropy, co potencjalnie zagraża "
+"zasobom wodnym, od których zależy życie milionów ludzi z regionów "
+"pustynnych. Ale to nie jedyny problem: jeden z planowanych obszarów "
+"wydobycia surowca zamieszkuje ludność San z Kalahari – to rdzenne plemię i "
+"tak boryka się już z kwestiami migracji i zmiany klimatu."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:161
+#, no-wrap
+msgid "This story is a stark example of neo-colonialism, with a Western company helping itself to a region’s resources at the expense of all life around it. Expect many more actions, and a growing international campaign, to stop the destruction.  \n"
+msgstr "Ta historia to klasyczny przykład neokolonializmu: zachodnie przedsiębiorstwo sięgające po zasoby regionu, zupełnie nie zważając na szkody, jakie wyrządzi okolicznej ludności i środowisku. Przygotujcie się na wiele więcej akcji i coraz głośniejszą międzynarodową kampanię na rzecz zatrzymania tej destrukcji.  \n"
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:163
+#, no-wrap
+msgid "The Rebels of Oz: Brains Heart Courage"
+msgstr "Rebelianci z australijskiej krainy Oz: Rozum, serce i odwaga"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:166
+#, no-wrap
+msgid "**7 - 13 December | Australia**\n"
+msgstr "**7-13 GRU | Australia**\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:168
+msgid "![](/assets/uploads/image19-47.png)"
+msgstr "![](/assets/uploads/image19-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:170
+#, no-wrap
+msgid "*Hot off the press - Murdoch lies. Photo: Julian Meehan*\n"
+msgstr "*Gorące newsy – Murdoch kłamie. Zdjęcie: Julian Meehan*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:172
+msgid ""
+"A wave of coordinated actions rippled through Australia last month. The "
+"ripples started in Melbourne’s Central Business District, where the emphasis "
+"was on exposing [the planet killing lies of the Murdoch press](https://"
+"twitter.com/xrebellionaus/status/1336562785665253377/8ZHsi). Rebels from XR "
+"Victoria used tripods, banners and some good old fashioned theatrics to "
+"block a major intersection."
+msgstr ""
+"Fala skoordynowanych akcji przeszła w zeszłym miesiącu przez Australię. Swój "
+"początek miała w Centralnej Dzielnicy Biznesowej w Melbourne, gdzie "
+"rebelianci położyli nacisk na zdemaskowanie [mordujących planetę kłamstw "
+"przedstawianych przez prasę Murdocha](https://twitter.com/xrebellionaus/"
+"status/1336562785665253377/8ZHsi). Rebeliantki i rebelianci z XR Wiktoria "
+"zablokowali główne skrzyżowania za pomocą statywów, banerów i swoich starych "
+"dobrych numerów."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:174
+msgid ""
+"A few days later the city hosted a blockade of Victoria’s Department of "
+"Health. 4 rebels glued themselves to the entrance while a dozen more staged "
+"a ‘die-in’ outside - symbolic victims of the climate and pandemic crises."
+msgstr ""
+"Kilka dni później zablokowano znajdujące się w stanie Wiktoria Ministerstwo "
+"Zdrowia. Czworo rebeliantów przykleiło się do wejścia, a kilkanaście innych "
+"osób odegrało przed budynkiem masowe „wymieranie”, jako symbol uderzających "
+"w nas kryzysów: klimatycznego oraz pandemicznego."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:176
+msgid "![](/assets/uploads/image6-47.png)"
+msgstr "![](/assets/uploads/image6-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:178
+#, no-wrap
+msgid "*Rebels rest in peace outside Victoria’s Department of Health. Photo: Julian Meehan*\n"
+msgstr "*Rebeliantki i rebelianci spoczywają w pokoju przed Ministerstwem Zdrowia w Wiktorii. Zdjęcie: Julian Meehan*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:180
+msgid ""
+"Melbourne’s rebellion closed with a ‘Festival of Love and Rage’. Rebels "
+"disrupted the city by land and sea, with street theatre, a flotilla of "
+"canoes on the Yarra River, a bike parade, and a roadblock. 9 festival goers "
+"were arrested for their efforts."
+msgstr ""
+"Rebelię z Melbourne zakończył „Festiwal Miłości i Gniewu”. Rebelianci "
+"wprowadzili chaos zarówno na lądzie, jak i na morzu: nie zabrakło ulicznego "
+"teatru, flotylli kajaków na rzece Yarra, rowerowej parady oraz blokady ruchu "
+"drogowego. Dziewięcioro uczestników festiwalu zostało aresztowanych."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:182
+msgid ""
+"Over in Queensland the [‘Defy Disaster’ protest](https://www.greenleft.org."
+"au/content/photos-xr-climate-activists-defy-disaster/) managed to disrupt "
+"Brisbane’s city centre for 2 days and draw in over 250 rebels. In an effort "
+"to stop the reclaiming of the roads, police arrested 10 marchers."
+msgstr ""
+"Teraz przenosimy się do Queensland i [protestu „Defy "
+"Disaster”](https://www.greenleft.org.au/content/"
+"photos-xr-climate-activists-defy-disaster/) (Sprzeciw się katastrofie), "
+"dzięki któremu 250 rebeliantów i rebeliantek zatrzymało centrum Brisbane na "
+"dwa dni. Policja, próbując odzyskać drogi, aresztowała dziesięcioro "
+"protestujących."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:184
+msgid ""
+"In Tasmania 9 rebels were arrested after a [mass disruption](https://www."
+"facebook.com/WINNewsTasmania/videos/451437852554899/?t%3D13/) of Hobart’s "
+"city centre to protest against ANZ, Westpac, NAB, and Commonwealth - dirty "
+"banks happy to fund fossil fuel projects."
+msgstr ""
+"W Tasmanii zatrzymano dziewięcioro rebeliantów po tym, jak grupa wprowadziła "
+"do centrum Hobartu [zmasowany chaos](https://www.facebook.com/"
+"WINNewsTasmania/videos/451437852554899/?t%3D13/). Protestowano przeciwko "
+"bankom ANZ, Westpac, NAB oraz Commonwealth – wszystkie one z radością "
+"inwestują w przedsięwzięcia związane z paliwami kopalnymi."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:186
+msgid ""
+"And in New South Wales, [rebels in kayaks](https://twitter.com/nbnnews/"
+"status/1337658444115898368/) blockaded Newcastle’s major sea port, where a "
+"staggering 160 million tonnes of coal passes through each year."
+msgstr ""
+"A w stanie Nowa Południowa Walia [kajakowi rebelianci](https://twitter.com/"
+"nbnnews/status/1337658444115898368/) zablokowali główny port morski w "
+"mieście Newcastle. Co roku przepływa przez niego aż 160 milionów ton węgla."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:188
+msgid "![](/assets/uploads/image15-47.png)"
+msgstr "![](/assets/uploads/image15-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:190
+#, no-wrap
+msgid "*Rebels in kayaks paddle off to disrupt shipments of coal. Photo: Danielle Judd*\n"
+msgstr "*Rebelianci i rebeliantki wprowadzają kajakowe zamieszanie podczas prób transportu węgla. Zdjęcie: Danielle Judd*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:196
+msgid "![](/assets/uploads/image22-47.jpg)"
+msgstr "![](/assets/uploads/image22-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:198
+msgid "![](/assets/uploads/image26-47.jpg)"
+msgstr "![](/assets/uploads/image26-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:200
+msgid "![](/assets/uploads/image11-47.jpg)"
+msgstr "![](/assets/uploads/image11-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:202
+msgid ""
+"3 Jan | Sudan: *XR Sudan launched an awareness campaign on the risks of "
+"Covid-19 and distributed masks and instructional stickers to passers by.*"
+msgstr ""
+"3 STY | Sudan: *XR Sudan rozpoczęła kampanię informacyjną na temat zagrożeń "
+"związanych z COVID-19, w ramach której rozdawała przechodniom maski i "
+"edukacyjne naklejki.*"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:204
+msgid "![](/assets/uploads/image12-47.jpg)"
+msgstr "![](/assets/uploads/image12-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:206
+msgid "![](/assets/uploads/image2-47.jpg)"
+msgstr "![](/assets/uploads/image2-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:208
+msgid ""
+"9 Dec | Poland: *In a ‘Walk For The Future’ Warsaw rebels and Polish "
+"grandmothers blocked a major highway before being carried away by police. "
+"Several were detained, and red rebels waited outside the police station "
+"until they were released.*"
+msgstr ""
+"9 GRU | Polska: *Warszawscy rebelianci i rebeliantki oraz polskie babcie "
+"wybrali się na „spacer dla przyszłości”, podczas którego zablokowali jedną z "
+"głównych ulic miasta. Policja wynosiła protestujących z tłumu. Kilkoro "
+"trafiło do aresztu. Czerwone wdowy czekały przed komisariatem na "
+"wypuszczenie zatrzymanych rebeliantek i rebeliantów.*"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:210
+msgid "![](/assets/uploads/image16-47.jpg)"
+msgstr "![](/assets/uploads/image16-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:212
+msgid ""
+"8 - 13 Nov | Argentina: *In a wave of actions across the country, rebels "
+"demonstrated and performed die-ins to protest against ‘false solutions’ to "
+"the climate crisis. Photo: @photoggia*"
+msgstr ""
+"8-13 LIS | Argentyna: *Rebeliantki i rebelianci zorganizowali w ramach fali "
+"rebelii masowe „wymieranie”. Ich cel? Protest przeciwko „fałszywym "
+"rozwiązaniom” kryzysu klimatycznego. Zdjęcie: @photoggia*"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:214
+msgid "![](/assets/uploads/image18-47.jpg)"
+msgstr "![](/assets/uploads/image18-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:216
+msgid ""
+"Russia: *The small band of activists that makes up [XR Russia](https://www."
+"facebook.com/RebellionRussia/) have done some heroic rebelling over the last "
+"2 years. Watch this inspiring [compilation video](https://www.facebook.com/"
+"kon.fokin/videos/10159123133484319/?_rdc%3D1%26_rdr/) of their actions.*"
+msgstr ""
+"Rosja: *Mała rebeliancka grupa, która tworzy [XR "
+"Rosję]((https://www.facebook.com/RebellionRussia/) od dwóch lat heroicznie "
+"się buntuje. Obejrzyj to inspirujące [wideo "
+"podsumowujące](https://www.facebook.com/kon.fokin/videos/10159123133484319/"
+"?_rdc%3D1%26_rdr/) ich dotychczasowe akcje.*"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:218
+#, no-wrap
+msgid "*Once again we have too many actions for one newsletter.* *Have a read of the full [**XR Unchained**](../xr-unchained-19/) for all those beautiful and courageous actions we couldn’t quite fit in this issue.*\n"
+msgstr ""
+"*Znowu zorganizowanych zostało zbyt wiele akcji, żeby zmieścić je w jednym "
+"newsletterze.* * Żeby dowiedzieć się o wszystkich wspaniałych i odważnych "
+"akcjach, które nie zmieściły się w tym numerze, przeczytaj pełne wydanie [**"
+"XR Unchained**](../xr-unchained-19/).*\n"
+
+#. type: Title ###
+#: 2021-01-12-global-newsletter-47.md:223
+#, no-wrap
+msgid "XR Rebels Beyond Borders: Get Connected!"
+msgstr "XR Rebelianci bez granic: łączcie się!"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:226
+msgid "![](/assets/uploads/image4-47.png)"
+msgstr "![](/assets/uploads/image4-47.png)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:228
+msgid ""
+"Do you want to get better connected with the global rebel community in 2021? "
+"Do you want to organise cross-country actions, build solidarity in our "
+"movement, and learn from each other?"
+msgstr ""
+"Chcesz w tym roku złapać lepszy kontakt z globalną społecznością "
+"rebeliantów? Chcesz organizować międzynarodowe akcje, budować solidarność w "
+"naszym ruchu i uczyć się od siebie nawzajem?"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:230
+msgid ""
+"If so please join us all on Mattermost and get involved in one or all of "
+"these global affinity groups: [XR Global](https://organise.earth/"
+"signup_user_complete/?id%3Dohhm7x3c67g4pfu4e3yiptj9ho/), [XR Europe](https://"
+"organise.earth/signup_user_complete/?id%3Dn61jqaoe9idzjqpsfdix5bxbke/), and "
+"[XR COP](https://organise.earth/signup_user_complete/?id"
+"%3Dr9ugqbk9hig7dqx5z4hks4yu7a/)."
+msgstr ""
+"Tak? To dołącz do nas na platformie Mattermost i zaangażuj się w jedną z "
+"tych globalnych grup: [XR Global](https://organise.earth/"
+"signup_user_complete/?id%3Dohhm7x3c67g4pfu4e3yiptj9ho/), [XR "
+"Europe](https://organise.earth/signup_user_complete/?id%"
+"3Dn61jqaoe9idzjqpsfdix5bxbke/),albo [XR COP](https://organise.earth/"
+"signup_user_complete/?id%3Dr9ugqbk9hig7dqx5z4hks4yu7a/)."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:232
+msgid ""
+"XR COP is for everyone who wants to mobilize over the lead up and during "
+"COP26 in Glasgow."
+msgstr ""
+"Grupa XR COP jest przeznaczona dla wszystkich osób, które chcą organizować "
+"się przed odbywającą się w Glasgow konferencją COP26."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:234
+msgid ""
+"New to Mattermost? Join an XR Global Mattermost Training session on Tuesday "
+"19th Jan at 20:30 UTC. [Join Zoom Meeting](https://us02web.zoom.us/"
+"j/84896917834?pwd%3DU0tQNlEwWUVXR1ZwUHFmaGNPbDhEQT09/) (Meeting ID: 848 9691 "
+"7834 Passcode: 223844)"
+msgstr ""
+"Mattermost to dla Ciebie nowość? Dołącz do specjalnego szkolenia XR Global z "
+"obsługi serwisu: sesja odbędzie się 19 stycznia o 20:30 (UTC). [Dołącz do "
+"spotkania na Zoomie](https://us02web.zoom.us/j/84896917834?pwd%"
+"3DU0tQNlEwWUVXR1ZwUHFmaGNPbDhEQT09/) (nr ID spotkania: 848 9691 7834 Hasło: "
+"223844)."
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:235
+#, no-wrap
+msgid "XR Global Media Library: We’ll Help You Get Started!"
+msgstr "Biblioteka XR Global Media Library: pomożemy Ci zacząć!"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:238
+msgid "![](/assets/uploads/image21-47.jpg)"
+msgstr "![](/assets/uploads/image21-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:239
+#, no-wrap
+msgid "Become part of the [Global Media Library](https://show.pics.io/xr-global-media-resources-public/)! Upload your stunning content and help us to amplify our XR message all over the world!  \n"
+msgstr ""
+"Dołącz do [biblioteki Global Media Library](https://show.pics.io/"
+"xr-global-media-resources-public/)! Prześlij swoje wspaniałe treści i pomóż "
+"całemu światu usłyszeć wiadomość od XR!  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:242
+msgid ""
+"Videos, photos, graphics, guides, music... you can share all kinds of XR "
+"media! Reach out to XRGlobalMedia@protonmail.com and we’ll provide you with "
+"all you need to get started."
+msgstr ""
+"Filmy wideo, zdjęcia, prace graficzne, poradniki, muzyka... możesz dzielić "
+"się z XR każdym rodzajem multimediów! Napisz do XRGlobalMedia@protonmail."
+"com , a my nauczymy Cię wszystkich niezbędnych trików."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:248
+msgid "![](/assets/uploads/image20-47.jpg)"
+msgstr "![](/assets/uploads/image20-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:250
+#, no-wrap
+msgid "*Rebels protest the UK Supreme Court’s U-turn on Heathrow airport expansion. Photo: Hannah Woodhouse*\n"
+msgstr "*Rebelianci protestują przed brytyjskim Sądem Najwyższym, który zmienił zdanie w sprawie rozbudowy lotniska w Heathrow. Zdjęcie: Hannah Woodhouse*\n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:252
+msgid ""
+"Order! This issue’s Must Reads is taking us to court, and in the dock is the "
+"law itself. Is it a help or a hindrance to the climate cause? A beacon of "
+"hope or a bastion of the Establishment? Read on, rebel! Read on!"
+msgstr ""
+"Spokój na sali! W tym wydaniu Lektury obowiązkowej przenosimy się do sądu. "
+"Na ławie oskarżonych zasiada samo prawo. Pomaga ono czy szkodzi klimatycznej "
+"sprawie? Jest naszą iskierką nadziei czy bastionem establishmentu? Czytajcie "
+"dalej, rebelianci! Czytajcie dalej!"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:255
+msgid ""
+"[Desmog:](https://www.desmogblog.com/2020/12/21/2020-climate-fossil-fuel-"
+"lawsuits-around-the-world/) Climate Litigation Summary 2020\\ An excellent "
+"round up of all the key climate litigation filed last year, with links for "
+"each case to find out more."
+msgstr ""
+"[Desmog](https://www.desmogblog.com/2020/12/21/"
+"2020-climate-fossil-fuel-lawsuits-around-the-world/): Podsumowanie "
+"klimatycznych sporów sądowych z 2020 roku\n"
+"Świetny przegląd wszystkich kluczowych procesów sądowych na rzecz klimatu z "
+"ostatniego roku (wraz z linkami do każdej sprawy)."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:258
+msgid ""
+"[Grantham Research Institute:](https://www.lse.ac.uk/granthaminstitute/wp-"
+"content/uploads/2020/07/Global-trends-in-climate-change-litigation_2020-"
+"snapshot.pdf/) Global Trends in Climate Change Litigation\\ This report "
+"published by the London School of Economics analyses key developments in "
+"climate change lawsuits around the world between May 2019 and May 2020."
+msgstr ""
+"[Grantham Research Institute](https://www.lse.ac.uk/granthaminstitute/"
+"wp-content/uploads/2020/07/Global-trends-in-climate-change-"
+"litigation_2020-snapshot.pdf/): „Global trends in climate change litigation” "
+"(Światowe trendy w klimatycznych sporach prawnych)\n"
+"W tym raporcie opublikowanym przez London School of Economics "
+"przeanalizowano główne postępy w klimatycznych rozprawach sądowych z całego "
+"świata, które odbyły się od maja 2019 r. do maja 2020 r."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:259
+#, no-wrap
+msgid "[ClientEarth:](https://www.clientearth.org/latest/latest-updates/news/) Latest NewsThis international environmental law charity uses the courts to hold polluting governments and companies to account. Their website is an excellent resource for news about climate litigation.  \n"
+msgstr ""
+"[ClientEarth](https://www.clientearth.org/latest/latest-updates/news/): "
+"Najnowsze informacje\n"
+"Ta międzynarodowa organizacja charytatywna zajmująca się prawem ochrony "
+"środowiska za pomocą sądów pociąga do odpowiedzialności zanieczyszczające "
+"rządy i firmy. Ich strona to kopalnia informacji i wiadomości ze świata "
+"klimatycznych procesów sądowych.  \n"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:263
+msgid ""
+"[Vimeo Short](https://vimeo.com/491639166/): UK Supreme Court Overturn "
+"Ruling Against Heathrow Expansion (2 min)\\ A short film shot at an XR "
+"protest outside the UK Supreme Court last month. The Court overturned a "
+"recent ruling that building a new runway for Heathrow airport was illegal."
+msgstr ""
+"[Krótkometrażowy film na Vimeo](https://vimeo.com/491639166/): „UK Supreme "
+"Court Overturn Ruling Against Heathrow Expansion” (2 min)\n"
+"Krótkie wideo z grudniowego protestu XR pod brytyjskim Sądem Najwyższym. Sąd "
+"unieważnił niedawny wyrok, w którym stwierdzono, że budowanie nowego pasu na "
+"lotnisku w Heathrow jest nielegalne."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:265
+msgid ""
+"[Guardian:](https://www.theguardian.com/commentisfree/2020/oct/14/spycops-"
+"bill-undermines-rule-of-law-green-light-serious-crimes-undercover-officers/) "
+"The ‘Spycops’ Bill Undermines the Rule of LawA former shadow attorney "
+"general discusses legislation that allows undercover police to commit crimes "
+"to ‘keep the peace’. Could have major ramifications for climate protests "
+"both in the UK and across Europe."
+msgstr ""
+"[The Guardian](https://www.theguardian.com/commentisfree/2020/oct/14/spycops-"
+"bill-undermines-rule-of-law-green-light-serious-crimes-undercover-officers/):"
+" „The ‘Spycops’ Bill Undermines the Rule of Law” (Projekt ustawy o „szpiego-"
+"policjantach” nie jest praworządny)\n"
+"Była prokuratorka generalna pisze o ustawie, w ramach której tajni "
+"policjanci mogą popełniać przestępstwa „w imię spokoju”. Projekt może mieć "
+"ogromne konsekwencje dla protestów klimatycznych zarówno w Wielkiej "
+"Brytanii, jak i w Europie."
+
+#. type: Title ###
+#: 2021-01-12-global-newsletter-47.md:266
+#, no-wrap
+msgid "Book of the Month: *Bury My Heart at Wounded Knee* - Dee Brown"
+msgstr "Książka miesiąca: *Bury My Heart at Wounded Knee* – Dee Brown"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:269
+msgid "![](/assets/uploads/image3-47.jpg)"
+msgstr "![](/assets/uploads/image3-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:271
+msgid ""
+"The brutal treatment of Native Americans by white settlers throughout the "
+"19th century, and the development of laws to disempower and manipulate "
+"indigenous populations, is a shameful episode too often omitted from "
+"American histories and origin myths."
+msgstr ""
+"Brutalne traktowanie rdzennych Amerykanów i Amerykanek z rąk białych "
+"osadników w XIX wieku oraz wprowadzenie przepisów, za pomocą których "
+"odbierano im prawa i nimi manipulowano, to haniebny epizod, zbyt często "
+"przemilczany na kartach amerykańskiej historii opisującej jedynie znany po "
+"dziś dzień mit założycielski."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:273
+msgid ""
+"This non-fiction work by an American historian and novelist is one possible "
+"entry point to this difficult subject. Originally published in 1970, it is "
+"an account of Native American struggles against the arriving settlers, and "
+"chronicles a litany of abuses by those settlers in the name of land "
+"acquisition - including manipulation, misinformation, and massacre."
+msgstr ""
+"Ten reportaż autorstwa amerykańskiej historyczki i pisarki to jeden ze "
+"sposobów na poruszenie tego trudnego tematu. Książka została po raz pierwszy "
+"opublikowana w 1970 roku i opowiada historię zmagań rdzennych mieszkańców "
+"Ameryki z kolonistami. Na jej kartkach przeczytamy o mnóstwach naruszeń z "
+"rąk osadników, takich jak manipulacja, wprowadzanie w błąd i masakrowanie "
+"ludności – wszystko w imię grabieży ziemi."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:275
+msgid ""
+"Brown’s careful attention to detail illustrates the tenacious resistance of "
+"various Native American tribes, along with the insidious ways dominant "
+"powers will control the law for their own ends."
+msgstr ""
+"Brown opisując nieustępliwy opór kolejnych amerykańskich plemion, "
+"przywiązuje ogromną wagę do szczegółów. Książka otwiera nam także oczy na "
+"liczne podstępne sposoby, do jakich uciekały się dominujące siły, by przejąć "
+"kontrolę nad prawem dla swoich własnych korzyści."
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:277
+msgid ""
+"Have you read a book that you think rebels would be interested in? Spread "
+"the word by writing words! Pen a review of no more than 200 words and send "
+"it to [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"Też zapadła Ci w pamięć jakaś książka, która może zainteresować innych "
+"rebeliantów? Podziel się nią z nami! Napisz recenzję nie dłuższą niż 200 "
+"słów i wyślij ją na adres [xr-newsletter@protonmail.com](mailto:xr-"
+"newsletter@protonmail.com)."
+
+#. type: Title ##
+#: 2021-01-12-global-newsletter-47.md:280
+#, no-wrap
+msgid "Thank you"
+msgstr "Dziękujemy"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:283
+msgid "![](/assets/uploads/image24-47.jpg)"
+msgstr "![](/assets/uploads/image24-47.jpg)"
+
+#. type: Plain text
+#: 2021-01-12-global-newsletter-47.md:285
+msgid ""
+"Thank you for reading, rebel. And keep up the good work! If you have any "
+"questions or feedback, we want to hear from you. Get in touch at [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"Dziękujemy za lekturę. Oby tak dalej! Chcesz nas o coś zapytać albo "
+"przekazać nam swoją opinię? Napisz do nas! Na Twoje wiadomości czekamy pod "
+"adresem: [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+
+#~ msgid "**We are in a crucial phase of human history, and our Rebellion needs money to make our message heard. Anything you can [give](https://www.google.com/url?q=https://u1584542.ct.sendgrid.net/ss/c/Mqag7sW8TIW-nixyBdulQhM4XjyC99qBsEa_nbx5zaM1-KnZZivB9FtiEcyAAJVXgXioksGz6Xtpy_emLvqYKdHI9fct4zj5NVSVQas-EbWgGDtncCvyzI9RWftV4sto5Jj7m9haXu8UOGI8ba1hz5DzC1o3yqBlqBViIu1M1oRmVGVjTXiuasmVlfJef_TXrwRCKcfKXLLuw4VNmifhTEx9srSHM9MVNd8whr0LH_C_EXf2P4AZ3DSvTH5mbIEq6ZABreu1tSrPV7NFXm8i-Py6sUDhF0jxlv4mjtfCzRYY8Gte35O-gyHGwsl0J58La4RzgRXfcnQi4SVtlc337A/35v/ACWKmpu8QoO9rgS_QGiPyw/h21/Qaa9DvEYCn5p40VdFebjduOAuxJMPUs2sezeEG1334M&sa=D&ust=1610464960548000&usg=AOvVaw3TOJNRWZrOdRLizd3vxVad) is appreciated.**\n"
+#~ msgstr "**Znajdujemy się w kluczowej fazie ludzkiej historii. Abyśmy dalej mogli szerzyć naszą misję, Rebelia potrzebuje środków finansowych. Docenimy każdą kwotę, jaką możesz [ofiarować](https://www.google.com/url?q=https://u1584542.ct.sendgrid.net/ss/c/Mqag7sW8TIW-nixyBdulQhM4XjyC99qBsEa_nbx5zaM1-KnZZivB9FtiEcyAAJVXgXioksGz6Xtpy_emLvqYKdHI9fct4zj5NVSVQas-EbWgGDtncCvyzI9RWftV4sto5Jj7m9haXu8UOGI8ba1hz5DzC1o3yqBlqBViIu1M1oRmVGVjTXiuasmVlfJef_TXrwRCKcfKXLLuw4VNmifhTEx9srSHM9MVNd8whr0LH_C_EXf2P4AZ3DSvTH5mbIEq6ZABreu1tSrPV7NFXm8i-Py6sUDhF0jxlv4mjtfCzRYY8Gte35O-gyHGwsl0J58La4RzgRXfcnQi4SVtlc337A/35v/ACWKmpu8QoO9rgS_QGiPyw/h21/Qaa9DvEYCn5p40VdFebjduOAuxJMPUs2sezeEG1334M&sa=D&ust=1610464960548000&usg=AOvVaw3TOJNRWZrOdRLizd3vxVad).**\n"
+
+#~ msgid "<table align=\"center\">\n"
+#~ msgstr "<table align=\"center\">\n"
+
+#~ msgid "<tbody>\n"
+#~ msgstr "<tbody>\n"
+
+#~ msgid "<tr>\n"
+#~ msgstr "<tr>\n"
+
+#~ msgid "<td align=\"center\">\n"
+#~ msgstr "<td align=\"center\">\n"
+
+#~ msgid "<div>\n"
+#~ msgstr "<div>\n"
+
+#~ msgid "<!--\\\\\\[if mso]>\n"
+#~ msgstr "<!--\\\\\\[if mso]>\n"
+
+#~ msgid ""
+#~ "<v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-"
+#~ "microsoft-com:office:word\" href=\"https://chuffed.org/project/"
+#~ "xrinternational\" style=\"height:50px;v-text-anchor:middle;width:280px;\" "
+#~ "stroke=\"f\" fillcolor=\"#ED9BC4\">"
+#~ msgstr ""
+#~ "<v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-"
+#~ "microsoft-com:office:word\" href=\"https://chuffed.org/project/"
+#~ "xrinternational\" style=\"height:50px;v-text-anchor:middle;width:280px;\" "
+#~ "stroke=\"f\" fillcolor=\"#ED9BC4\">"
+
+#~ msgid "<w:anchorlock></w:anchorlock>\n"
+#~ msgstr "<w:anchorlock></w:anchorlock>\n"
+
+#~ msgid "<center>\n"
+#~ msgstr "<center>\n"
+
+#~ msgid "<!\\\\\\[endif]-->\n"
+#~ msgstr "<!\\\\\\[endif]-->\n"
+
+#~ msgid "<a href=\"https://chuffed.org/project/xrinternational\" target=\"_blank\" style=\"background-color:#ED9BC4;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:23px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\">Support the Rebellion</a>\n"
+#~ msgstr "<a href=\"https://chuffed.org/project/xrinternational\" target=\"_blank\" style=\"background-color:#ED9BC4;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:23px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\">Wesprzyj Rebelię</a>\n"
+
+#~ msgid "</center>\n"
+#~ msgstr "</center>\n"
+
+#~ msgid "</v:rect>\n"
+#~ msgstr "</v:rect>\n"
+
+#~ msgid "</div>\n"
+#~ msgstr "</div>\n"
+
+#~ msgid "</td>\n"
+#~ msgstr "</td>\n"
+
+#~ msgid "</tr>\n"
+#~ msgstr "</tr>\n"
+
+#~ msgid "</tbody>\n"
+#~ msgstr "</tbody>\n"
+
+#~ msgid "</table>\n"
+#~ msgstr "</table>\n"
+
+#~ msgid "<table align=\"center\"><tr><td align=\"center\"><div>\n"
+#~ msgstr "<table align=\"center\"><tr><td align=\"center\"><div>\n"
+
+#~ msgid "<!--\\\\[if mso]>\n"
+#~ msgstr "<!--\\\\[if mso]>\n"
+
+#~ msgid ""
+#~ "<v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-"
+#~ "microsoft-com:office:word\" href=\"http://\" style=\"height:50px;v-text-"
+#~ "anchor:middle;width:280px;\" stroke=\"f\" fillcolor=\"#21a73d\">"
+#~ msgstr ""
+#~ "<v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-"
+#~ "microsoft-com:office:word\" href=\"http://\" style=\"height:50px;v-text-"
+#~ "anchor:middle;width:280px;\" stroke=\"f\" fillcolor=\"#21a73d\">"
+
+#~ msgid "<w:anchorlock/>"
+#~ msgstr "<w:anchorlock/>"
+
+#~ msgid "<!\\\\[endif]-->\n"
+#~ msgstr "<!\\\\[endif]-->\n"
+
+#~ msgid "<a href=\"https://rebellion.global/blog/2021/01/12/xr-unchained-19/\" style=\"background-color:#21a73d;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\">Discover XR Unchained</a>\n"
+#~ msgstr "<a href=\"https://rebellion.global/blog/2021/01/12/xr-unchained-19/\" style=\"background-color:#21a73d;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\">Odkryj XR Unchained</a>\n"
+
+#~ msgid "</div></td></tr></table>\n"
+#~ msgstr "</div></td></tr></table>\n"

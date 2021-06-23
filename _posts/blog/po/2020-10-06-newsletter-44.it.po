@@ -1,0 +1,902 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-10-08 13:51+0200\n"
+"PO-Revision-Date: 2021-01-16 22:28+0000\n"
+"Last-Translator: Sara98 <sarapocher98@gmail.com>\n"
+"Language-Team: Italian <http://translate.organise.earth/projects/blog-posts/"
+"2020-10-06-newsletter-44/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:15
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Global Newsletter #44\"\n"
+"slug: newsletter-44\n"
+"date: 2020-10-08 10:36\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/cb341076-a5e6-4703-b912-0391b2afda51.jpg\n"
+"seoImage: /assets/uploads/cb341076-a5e6-4703-b912-0391b2afda51.jpg\n"
+"seoTitle: \"XR Global Newsletter #44\"\n"
+"seoDescription: Fresh from the streets of Austria, South Africa and the\n"
+"  Democratic Republic of the Congo, rebels are rebelling! Yet another Global\n"
+"  Newsletter rippling with all your latest news and stories.\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:17
+msgid "![](/assets/uploads/cb341076-a5e6-4703-b912-0391b2afda51.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:19
+msgid "A true Atlas from XR Austria"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:21
+msgid "Dear rebels,"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:23
+msgid ""
+"The wave of rebellions continues! Rebels are sounding the alarm across the "
+"globe and inspiring more and more to take action for the planet. Despite "
+"extremely challenging circumstances, individual doubts, and police "
+"brutality, still we rise up as one unified (decentralized) movement."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:25
+msgid "![](/assets/uploads/4881b5fe-9f50-4e0a-b5e6-dfc2322d0082.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:27
+msgid "Tree huggers have never been cooler. From XR Université de Goma (DRC)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:29
+msgid ""
+"This issue covers [fashion actions in Czech Republic,](https://a2larm."
+"cz/2020/09/rychla-moda-nici-planetu-fotoreport-z-protestu-extinction-"
+"rebellion-v-zare/) [concerts in Austria](https://www.facebook.com/"
+"ExtinctionRebellionAustria/videos/3332081003507637/), [camps in Switzerland]"
+"(https://www.facebook.com/watch/?v=368603764174504), and a report from the "
+"front lines of Finland, where police have been [brualizing and pepper "
+"spraying rebels.](https://www.facebook.com/elokapina/posts/2740232682859891?"
+"__tn__=K-R) Also actions across South Africa as part of the [Global Climate "
+"Strike](https://globalclimatestrike.net/), roadblocks in Israel and tea "
+"parties in the UK."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:31
+msgid ""
+"Learn more about Fashion Act Now, an exciting global fashion group which "
+"aims to transform the ecocidal fashion industry. Check out their crowdfunder "
+"[here](https://www.crowdfunder.co.uk/fashion-act-now#start)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:33
+msgid "![](/assets/uploads/a1605b58-1374-413b-ba7f-154728362dc2.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:35
+msgid ""
+"XR Switzerland brings out the secret weapon - clowns ! Capitalism doesn’t "
+"stand a chance."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:37
+msgid ""
+"We have a special ‘Must Watch’ section this time, with a selection of "
+"documentaries to get you all informed and motivated, including [Once You "
+"Know](https://chuffed.org/project/extinctionrebellion-onceyouknow?"
+"link_id=4&can_id=98ce4f77506fbdc41e07f5173ac785e9&source=email-once-you-"
+"know&email_referrer=email_932664&email_subject=once-you-know), an XR film "
+"about realization, despair and courageous action."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:39
+msgid ""
+"You can also check out [XR Global’s blog](https://rebellion.global/news/"
+"#blog) posts, like [How to Stop Funding Fossil Fuels by Moving to an Ethical "
+"Bank](https://rebellion.global/blog/2020/09/21/ethical-banks/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:41
+msgid ""
+"There’s so much going on that this team barely has time to write up one "
+"action before news of the next one comes in. Congrats for keeping us so busy!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:43
+msgid ""
+"If you’d like to help write the newsletter or have ideas about how we could "
+"better serve the needs of rebels, please email: [xr-newsletter@protonmail."
+"com](mailto:xr-newsletter@protonmail.com) and see Upcoming below for more "
+"details."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:45
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Per supportare il nostro lavoro, potete consultare il nostro "
+"[sito](https://rebellion.global) e [trovare ulteriori informazioni su "
+"XR.](https://rebellion.global/about-us/)"
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:47
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"Per comunicare con altri ribelli nella vostra area, contattate il [gruppo XR "
+"più vicino a voi](https://rebellion.global/branches/). Se non c'è nessun "
+"gruppo nella vostra zona, potete [fondarne uno voi!](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:49
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Precedenti edizioni della newsletter sono disponibili "
+"[qui](https://rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:51
+msgid ""
+"This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)."
+msgstr ""
+"La Ribellione ha bisogno del vostro aiuto. Se non potete partecipare "
+"personalmente, potete supportarci tramite una [donazione](https://chuffed."
+"org/project/xrinternational)."
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:53 2020-10-06-newsletter-44.md:291
+msgid "[Support the Rebellion](https://chuffed.org/project/xrinternational)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:54
+#, no-wrap
+msgid "Contents"
+msgstr "Contenuti"
+
+#. type: Title #
+#: 2020-10-06-newsletter-44.md:61 2020-10-06-newsletter-44.md:62
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Azioni Principali"
+
+#. type: Title #
+#: 2020-10-06-newsletter-44.md:61 2020-10-06-newsletter-44.md:191
+#, no-wrap
+msgid "XR Unchained"
+msgstr "XR Libera"
+
+#. type: Title #
+#: 2020-10-06-newsletter-44.md:61 2020-10-06-newsletter-44.md:211
+#, no-wrap
+msgid "Upcoming"
+msgstr ""
+
+#. type: Title #
+#: 2020-10-06-newsletter-44.md:61 2020-10-06-newsletter-44.md:227
+#, no-wrap
+msgid "Announcements"
+msgstr "Annunci"
+
+#. type: Bullet: '* '
+#: 2020-10-06-newsletter-44.md:61
+msgid "Must Watch"
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:66
+#, no-wrap
+msgid "UnBEElievable Rebels Swarm Vienna"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:69
+msgid "26 SEP - 4 OCT | Vienna, Austria"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:71
+msgid "![](/assets/uploads/e4d81eab-a8ac-458d-b0ca-66b571a4268d.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:73
+msgid ""
+"The XR Austria concerto: one solo instrument accompanied by a rebellion."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:75
+msgid ""
+"The Austrian Rebellion kicked-off with an energising [Rebel Ride](https://"
+"www.facebook.com/ExtinctionRebellionAustria/videos/767623887395057/), "
+"despite the police trying to shut it down by banning the use of the "
+"motorway. Like water, the 80 riders simply took another route to the opening "
+"rally in Sigmund Freud Park!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:77
+msgid ""
+"The ‘Honeycomb Campaign’ saw rebels swarm the city’s main square, "
+"Michaelerplatz, and establish [hexagonal lock-on formations](https://www."
+"facebook.com/ExtinctionRebellionAustria/videos/742482259664096/) and "
+"[hexagonal blockades](https://www.facebook.com/ExtinctionRebellionAustria/"
+"videos/2718882358364637/) on key roads in reference to our third demand of "
+"Citizens Assemblies. Genius!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:79
+msgid "![](/assets/uploads/5e1d8be4-bca4-4b90-8e99-f5ba842997c4.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:81
+msgid "XR Austria Protestor polygons pepper Platz"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:83
+msgid ""
+"Socially distanced [die-ins](https://www.facebook.com/"
+"ExtinctionRebellionAustria/videos/2708597756022884/?t=345), [amazing "
+"Discobedience](https://www.facebook.com/ExtinctionRebellionAustria/"
+"videos/2617012478611029/) dance moves, [beautiful music](https://www."
+"facebook.com/ExtinctionRebellionAustria/videos/3332081003507637/), and a "
+"lecture by Esteban, a scientist and environmental activist persecuted in "
+"South America, were featured too."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:85
+msgid ""
+"The police even [stood up](https://twitter.com/LPDWien/"
+"status/1311962614906474496?s=19) against hate messages and calls for "
+"violence against non-violent rebels!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:87
+msgid ""
+"The final rally at Maria-Theresien-Platz marked a ceremonial hand-over to XR "
+"Germany, Italy, and Spain for the next waves of the Rebellion."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:90
+#, no-wrap
+msgid "Fast Fashion: Exposing the Naked Truth"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:93
+msgid "26 SEPT | Prague, Czech Republic"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:95
+msgid "![](/assets/uploads/1e2498fd-003e-4a29-aeca-fb69412174ae.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:97
+msgid "The Protestor’s New Clothes."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:99
+msgid ""
+"Four rebels bared all on Prague's luxurious Příkopa Street to protest fast "
+"fashion. The rebels glued themselves to the inside of a shop window "
+"completely naked except for signs with messages like ‘Fast fashion kills, "
+"I'd rather be naked’."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:101
+msgid ""
+"Other rebels draped a banner outside the shop that read: ‘There is no "
+"economic growth on a dead planet’."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:103
+msgid ""
+"Police ripped the rebels from the glass and shut down the store, apparently "
+"to “protect the public” from the peaceful protest."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:105
+msgid "![](/assets/uploads/4a68dd12-a243-4247-a795-dc51a1e7ecea.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:107
+msgid "Shoppers in Prague were greeted by a bold message."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:109
+msgid ""
+"One rebel [said](https://a2larm.cz/2020/09/rychla-moda-nici-planetu-"
+"fotoreport-z-protestu-extinction-rebellion-v-zare/): \"Fast fashion is the "
+"second most polluting industry in the world, responsible for 10% of global "
+"greenhouse gas emissions."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:111
+msgid ""
+"“By buying fast fashion, we accept that the quality of human life is less "
+"important than cheap clothing. Gigantic companies that use the fast fashion "
+"model literally benefit from modern-day slaves, and privileged Europeans "
+"allow this because they also benefit.”"
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:114
+#, no-wrap
+msgid "No Water, No Life!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:117
+msgid ""
+"25 SEP | Port Elizabeth, Pretoria, Cape Town, Johannesburg, South Africa"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:120
+msgid ""
+"![](https://lh6.googleusercontent.com/"
+"bopK3MUMMjGmwTKQy5GE6lRGbtNI7Uy4xmk4zfnsscSjLwt25T6OOrof7YxfS6uKX0avJc40tRQaCXB8vKpAeWOTLAIWKlIxQfbC-"
+"Zt6UiWsFgwgGBx4LpM6oJqVR17bgQK0Z4rw)\\ Rebels march with other activist "
+"groups through Pretoria. Photo: Shiraaz Mohamed."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:122
+msgid ""
+"In cities across South Africa, rebels took to the streets with a coalition "
+"of activist groups to mark the 6th [Global Climate Strike](https://"
+"globalclimatestrike.net/), a day of worldwide climate protest called for by "
+"Fridays for Future."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:124
+msgid ""
+"Rebels in Mandela Bay organised a coalition march to the City Hall of Port "
+"Elizabeth, where they protested against the city’s continuing water crisis."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:126
+msgid ""
+"The region is suffering prolonged droughts made worse by neglected local "
+"infrastructure and political inaction on the climate crisis. Many residents "
+"do not have access to even basic sanitation."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:128
+msgid ""
+"The activists [called on the mayor](https://www.facebook.com/photo.php?"
+"fbid=10160254511961982&set=gm.636779873936319&type=3&eid=ARBOpE-"
+"Tf7DE3bVe0hYDfhDlYcgA0XzYpzNnHqBbOChlQZAu_CcNK9NUyPS1KpRqVZQdHZhVBGqYaf8A&__tn__=EHH-"
+"R) to reject plans for a costly and polluting desalination plant and instead "
+"solve the water crisis with a climate jobs programme and green "
+"infrastructure."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:130
+msgid "![](/assets/uploads/bdf21573-cbf7-4c5c-988a-3b926bb1d26b.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:132
+msgid "Mandela Bay rebels assemble for a day of marching"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:134
+msgid ""
+"In Pretoria, the activist coalition marched to the Department of Mineral "
+"Resources and handed over a memorandum demanding [a green restructuring of "
+"national electricity provider Eskom](https://350africa.org/greenneweskom/), "
+"and an end to government promotion of fossil fuels."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:136
+msgid ""
+"Activists also braved heavy rains in Cape Town to rally outside Parliament, "
+"where they demanded an immediate transition to renewables and an end to coal "
+"power."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:138
+msgid ""
+"This week rebels in Johannesburg [will demonstrate against Standard Bank]"
+"(https://www.facebook.com/events/649874612336227/) for their funding of the "
+"East African Crude Oil Pipeline, which will link Ugandan oil fields to ports "
+"in Tanzania. The 900-mile heated pipeline [has a carbon footprint equivalent "
+"to Denmark’s](https://e360.yale.edu/features/a-major-oil-pipeline-project-"
+"strikes-deep-at-the-heart-of-africa) and will devastate local wildlife as "
+"well as small farmers."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:141
+#, no-wrap
+msgid "Helsinki Police Hit The Brake"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:144
+msgid "3 OCT | Helsinki, Finland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:146
+msgid "![](/assets/uploads/58ef65e0-8d76-4d16-84c1-ba3c02ba497f.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:148
+msgid ""
+"Rebels in Helsinki were pepper sprayed by police and stopped from washing "
+"their eyes during an ‘Emergency Brake’ blockade in the city centre."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:150
+msgid ""
+"Police also detained 49 peaceful demonstrators, including pensioners, "
+"children, teachers and nurses."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:152
+msgid ""
+"The protest, part of XR Finland’s Autumn Rebellion week, involved blockading "
+"Unioninkatu, a major street in central Helsinki. Around 200 rebels decorated "
+"the area with flags and banners, a small yellow boat sailed in with “Tell "
+"the Truth” on its sail, and people danced to live music."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:154
+msgid "![](/assets/uploads/25d940c4-15b5-4041-a80d-ff20d58a5d85.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:156
+msgid ""
+"But when their order to leave was ignored, police came in hard, dismantling "
+"the blockade and carrying protestors into police vans. When rebels moved to "
+"a nearby intersection and sat down to block traffic, police started pepper "
+"spraying them at point blank range."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:158
+msgid ""
+"10 protestors suffered serious effects and many more were forced to take off "
+"their face masks to breathe, ruining rebel attempts to adhere to Covid-19 "
+"safety measures. Police even stopped some rebels from washing their eyes "
+"with water."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:160
+msgid ""
+"All detainees were eventually released, and XR Finland has [condemned the "
+"violent police response](https://www.facebook.com/elokapina/"
+"posts/2740232682859891?__tn__=K-R). Their Autumn Rebellion week will "
+"continue as planned until Wednesday."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:162
+msgid "![](/assets/uploads/0c6dcd73-f01f-4c96-9495-570a7911c3e8.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:164
+msgid "Some rebels were stopped from washing the pepper spray from their eyes."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:167
+#, no-wrap
+msgid "An In-tents Rebellion"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:170
+msgid "21-25 SEP | Bern, Switzerland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:172
+msgid "![](/assets/uploads/3517eb55-9d84-479e-8eb3-0ee46368b074.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:174
+msgid ""
+"Signposting rebels around camp and government towards a just green "
+"transition. Photo: Climatestrike Switzerland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:176
+msgid ""
+"XR Switzerland joined the September Rebellion wave with Rise Up For Change, "
+"their first ever mass action."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:178
+msgid ""
+"Around 400 protestors from XR, Climate Strike Switzerland, Greenpeace and "
+"other allied groups gathered at 4:30am on Monday morning to set up camp in "
+"Bern’s Bundesplatz (Federal Square). They occupied the square for nearly 48 "
+"hours before police forced a cold and rainy evacuation that dragged on for 6 "
+"more hours."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:180
+msgid ""
+"At the camp, rebels held their own Citizens’ Assemblies, debates, "
+"conferences, and talks, while choirs and nighttime concerts kept spirits "
+"high. Doctors4XR hosted an action right on the doorsteps of the Federal "
+"Palace."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:182
+msgid "![](/assets/uploads/59b89666-4ae5-4e16-99a5-aae90dd89867.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:184
+msgid ""
+"A sea of protesters rising against our rising sea levels. Photo: "
+"Climatestrike Switzerland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:186
+msgid ""
+"A 3000-strong march capped off the week of rebellion, with members of "
+"various climate groups standing shoulder to (distanced) shoulder and sending "
+"a clear message to their leaders."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:188
+msgid ""
+"For more sweet Swiss news, check out this seriously impressive [XR "
+"Switzerland Newsletter](https://www.xrebellion.ch/blogposts/2020/09/09/"
+"newsletter-september-2020/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:194
+msgid "![](/assets/uploads/700c42e3-810d-4273-ac75-5880326f0607.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:196
+msgid ""
+"The Mad Hatter’s Tidal Tea Party. Sept 30. Only the mad are still at the "
+"table! North Devon, UK"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:200
+msgid "![](/assets/uploads/fb48fae5-0d03-4094-9a50-ef5a3950a683.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:202
+msgid ""
+"XR Israel in a protest during [full closure in Tel Aviv](https://www."
+"facebook.com/michael.raphael.940/videos/10164666888125160/). Sept 22. Day "
+"without cars."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:206
+msgid "![](/assets/uploads/6e46dd55-db16-4a4d-8f68-28d6dbbe9337.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:208
+msgid ""
+"[Actions in the Wall street of the Netherlands](https://nltimes."
+"nl/2020/09/18/amsterdam-limits-extinction-rebellion-climate-protests), "
+"Amsterdam South. Sept 18. When lobbyists block climate policy, we block them!"
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:213
+#, no-wrap
+msgid "Rolling Global Rebellion"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:216
+msgid "![](/assets/uploads/94ca7e15-da6c-4ec6-933f-cc4f7b4d00ed.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:218
+msgid ""
+"The [rolling rebellion](https://rebellion.global/press/2020/09/01/global-"
+"rebellion/) is underway! Rebels from Italy, France, [Spain](https://twitter."
+"com/xrmadrid_/status/1311016262676381697) and Perth (plus others we may not "
+"be aware of) will be hitting the streets with courage and colour soon."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:220
+msgid ""
+"Are you planning to be at one of these global rebellions? Will you be making "
+"demands, having a dance, or just basking in the drama? If so, we want to "
+"hear from you!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:222
+msgid ""
+"We’d love to publish some reader experiences alongside our rebellion reports "
+"in future issues. Whether it’s personal highlights or unforgettable sights, "
+"we want to hear those little stories that make rebellion time come to life."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:224
+msgid ""
+"Short write ups could be anything from a sentence to 150 words in length; "
+"longer accounts are welcome too, though they may not make it into the body "
+"of the email. Your photos are always welcome. Send them to [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)"
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:231
+#, no-wrap
+msgid "XR Africa News"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:234
+msgid "![](/assets/uploads/6215de60-8fee-4dae-aa3b-028aeeb4db14.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:236
+msgid ""
+"Telling the XR story from an African perspective. The XR Africa News team is "
+"doing [wonderful work](https://shoutout.wix.com/so/52NE0TpjJ?"
+"link_id=0&can_id=98ce4f77506fbdc41e07f5173ac785e9&source=email-newsletter-"
+"no2&email_referrer=email_882591&email_subject=xr-africa-media-newsletter-"
+"issue-no2#/main). Check out the latest broadcast [here](https://www.youtube."
+"com/watch?v=7Me1EC1Fa4U&feature=youtu.be)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:239
+#, no-wrap
+msgid "Fashion Act Now"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:242
+msgid ""
+"Despite the rise of ‘sustainable fashion’, the industry remains one of most "
+"polluting and wasteful. And with global fashion consumption predicted to "
+"grow by 63% over the next decade, efforts to make the industry sustainable "
+"could be easily overshadowed."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:244
+msgid "![](/assets/uploads/8abe9330-0580-4cd0-959c-7b1e2a185a5d.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:246
+msgid ""
+"Photo: Immo Klink. XR Fashion Action protest at Victoria Beckham Show. "
+"London Fashion Week"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:248
+msgid ""
+"To ensure that the industry ‘Act Now’ to help mitigate climate and "
+"ecological breakdown, Fashion Act Now will unite a global coalition of "
+"activists, industry experts, economists, scientists and garment workers to "
+"action a plan that puts wellbeing before profit."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:250
+msgid ""
+"We’ll seek to answer a vital question: How do we reduce Fashion’s appetite "
+"for resources quickly enough to keep global warming to below 1.5C and "
+"protect biodiversity, whilst centering the most vulnerable?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:252
+msgid ""
+"We need your help to fund this vital work. Please visit our [Crowdfunder "
+"page](https://www.crowdfunder.co.uk/fashion-act-now#start) to find more "
+"information."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:255
+#, no-wrap
+msgid "Global Content Submission Form"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:258
+msgid "![](/assets/uploads/10e6ba7d-5b5c-4ab5-aa6d-b5a4db856ffb.png)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:260
+msgid ""
+"Have something important you want to share on the XR Global Social Media "
+"channels?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:262
+msgid ""
+"Check out the brand spanking new [Content Submission Form](https://docs."
+"google.com/forms/d/"
+"e/1FAIpQLSf41684pqTZny_WLx5rTNrXuf1HRN8aRVGAh1OfO-4r59cMug/viewform)."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:265
+#, no-wrap
+msgid "We would LOVE your feedback"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:268
+msgid "![](/assets/uploads/c39b55dc-c02d-405f-945d-7f65b08b40cb.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:270
+msgid ""
+"Dear readers and rebels, changes are afoot in Newsletter-land and we want to "
+"hear your feedback. Do you enjoy the Newsletters? What do you like most, and "
+"what would you like to see done differently?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:272
+msgid ""
+"Share the love (and maybe some constructive criticism too) by sending an "
+"email to: [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail."
+"com) with FEEDBACK in the subject line."
+msgstr ""
+
+#. type: Title #
+#: 2020-10-06-newsletter-44.md:275
+#, no-wrap
+msgid "Must Watches"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-10-06-newsletter-44.md:282
+msgid ""
+"[Once You Know](https://chuffed.org/project/extinctionrebellion-onceyouknow?"
+"link_id=4&can_id=98ce4f77506fbdc41e07f5173ac785e9&source=email-once-you-"
+"know&email_referrer=email_932664&email_subject=once-you-know)"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-10-06-newsletter-44.md:282
+msgid "[Kiss the Ground](https://kissthegroundmovie.com): Woody Harrelson"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-10-06-newsletter-44.md:282
+msgid ""
+"[Our Planet: Too Big to Fail.](https://www.ourplanet.com/en/video/our-planet-"
+"too-big-to-fail) WWF"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-10-06-newsletter-44.md:282
+msgid ""
+"[Extinction: The Facts.](https://www.bbc.co.uk/programmes/m000mn4n) David "
+"Attenborough"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2020-10-06-newsletter-44.md:282
+msgid ""
+"[The Hill](https://youtu.be/lZige9bfXmU): Michael Moore responds [to article "
+"claiming that ‘green’ billionaires orchestrated attacks](https://thegrayzone."
+"com/2020/09/07/green-billionaires-planet-of-the-humans/) on documentary "
+"‘[Planet of the Humans](https://youtu.be/Zk11vI-7czE)’."
+msgstr ""
+
+#. type: Title ##
+#: 2020-10-06-newsletter-44.md:285
+#, no-wrap
+msgid "Thank you"
+msgstr "Grazie"
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:288
+msgid ""
+"Thank you for reading. If you have any questions or queries, please get in "
+"touch at [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-10-06-newsletter-44.md:290
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""

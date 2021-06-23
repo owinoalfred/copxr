@@ -1,0 +1,874 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-09 16:36+0200\n"
+"PO-Revision-Date: 2020-08-20 20:21+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-07-17-pandemics-environment/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 6 Ways That Pandemics And The Environment Are Inseparable\n"
+"slug: pandemics-environment\n"
+"date: '2020-07-22 11:00'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/earth-cream-covid-cone.png\n"
+"seoImage: /assets/uploads/earth-cream-covid-cone-new.png\n"
+msgstr ""
+"lang: fr\n"
+"title: 6 faits qui illustrent les liens indéniables entre pandémies et "
+"environnement \n"
+"slug: pandemics-environment\n"
+"date: '2020-07-22 11:00'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/earth-cream-covid-cone.png\n"
+"seoImage: /assets/uploads/earth-cream-covid-cone-new.png\n"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:17
+msgid ""
+"Pandemics, ecology, and climate are hopelessly intertwined. The climate and "
+"ecological crisis sickens and displaces both wild animals and human "
+"beings. It creates excellent conditions for pests like ticks and mosquitoes "
+"to breed as well as for deadly bacteria to multiply. And it literally thaws "
+"ancient pathogens from the ground. All of these lead to disease, which, when "
+"left unchecked, can result in pandemics.  ﻿ This post explains some of the "
+"less-visible connections between infectious disease and the climate and "
+"ecological crisis; how many pandemics begin; and how, by fighting against "
+"environmental destruction, we can also play a part in preventing the next "
+"pandemic."
+msgstr ""
+"Les pandémies, le climat, et l'écologie sont intrinsèquement liés. Les "
+"maladies et déplacements de populations engendrés par les dérèglements "
+"écologiques et climatiques, touchent aussi bien la faune sauvage que "
+"l'espèce humaine. Ces bouleversements créent aussi des conditions idéales "
+"pour la prolifération d'indésirables tels quels que tiques ou moustiques, le "
+"développement de bactéries potentiellement mortelles, et la fonte du "
+"pergélisol libère d'anciens  agents pathogènes enfouis dans les sols jusque-"
+"là gelés. Tout cela génère des maladies, voire des pandémies faute "
+"d'intervention.  Cet article aborde des liens un peu moins évidents qui "
+"peuvent être établis entre maladies infectieuses et crise écologique et "
+"climatique, comment se déclenchent nombre de pandémies, et comment en "
+"luttant contre les destructions environnementales, on peut aussi éviter une "
+"prochaine pandémie."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:20
+msgid ""
+"![Two-legged COVID-19 virus licking a melting earth ice cream "
+"cone](/assets/uploads/earth-cream-covid-cone.png)"
+msgstr ""
+"![Two-legged COVID-19 virus licking a melting earth ice cream cone](/assets/"
+"uploads/earth-cream-covid-cone.png)"
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:22
+#, no-wrap
+msgid "1. Pandemics Start with Wild Animals"
+msgstr "1. Les pandémies commencent avec les animaux sauvages"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:26
+msgid ""
+"![sick pangolin in a small cage, coughing "
+"COVID-19](/assets/uploads/pangolin-cough.png)  ﻿"
+msgstr ""
+"![sick pangolin in a small cage, coughing COVID-19](/assets/uploads/pangolin-"
+"cough.png)  ﻿"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:29
+msgid ""
+"What are some similarities between COVID-19, SARS, MERS, Ebola, swine flu "
+"(H1N1), Lyme disease, West Nile fever, and HIV/AIDS? ﻿"
+msgstr ""
+"Quelles sont les similarités entre COVID-19, SARS, MERS, Ebola, grippe "
+"porcine (H1N1), maladie de Lyme, fièvre du Nil occidental, et VIH/SIDA ? ﻿"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:32
+msgid ""
+"All of these originated in wildlife before jumping to humans. The ancestors "
+"of HIV/AIDS and Ebola were first identified in chimpanzees, while West Nile "
+"fever and swine flu were first found in birds. (Also known as H1N1, swine "
+"flu originated in birds, jumped to pigs, and finally got to humans.) The "
+"remaining diseases originated in bats.  ﻿"
+msgstr ""
+"Tous étaient des virus d'origine animale avant d'être transmis à l'homme. "
+"Les ancêtres du VIH/SIDA et du virus Ebola ont d'abord été identifiés chez "
+"des chimpanzés, et la fièvre du Nil occidental et la grippe porcine ont été "
+"découvertes pour la première fois chez les oiseaux. (La grippe porcine, "
+"aussi connue sous le nom de fièvre ou virus H1N1 affectait les oiseaux à "
+"l'origine, puis les porcs, pour finalement devenir transmissible à l'homme.) "
+"Quant aux autres maladies, elles affectaient des chauves-souris à l'origine."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:35
+msgid ""
+"In the case of COVID-19, there is strong evidence that an infected bat "
+"[(1)](https://doi.org/10.1038/s41591-020-0820-9) came in close contact with "
+"other wild animals (very likely caged and stressed pangolins and civet cats) "
+"that were then exposed to, and possibly eaten by, a human who became "
+"infected.[(2)](https://nautil.us/issue/83/intelligence/the-man-who-saw-the-pandemic-coming)[(3)](https://doi.org/10.1016/j.cub.2020.03.022) "
+"Airplanes and cruise ships then spread the disease worldwide, and the rest "
+"is history.  ﻿"
+msgstr ""
+"Dans le cas du COVID-19, il y a tout lieu de penser qu'une chauve-souris "
+"porteuse du virus [(1)](https://doi.org/10.1038/s41591-020-0820-9) aurait "
+"été en contact étroit avec d'autres animaux sauvages (très probablement de "
+"pauvres civettes et pangolins en cage) qui auraient alors été en contact "
+"avec, voire mangés par un être humain, et l'auraient infecté. "
+"[(2)](https://nautil.us/issue/83/intelligence/the-man-who-saw-the-pandemic-"
+"coming)[(3)](https://doi.org/10.1016/j.cub.2020.03.022) Avions et bateaux de "
+"croisière ont ensuite propagé la maladie dans le monde entier, et on connait "
+"la suite de l'histoire."
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:36
+#, no-wrap
+msgid "2. Wilderness Is a Wall that Keeps out Disease. We're Destroying It."
+msgstr ""
+"2. Le monde sauvage est un rempart contre les maladies. Nous le détruisons."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:40
+msgid ""
+"![disease-carrying bat in a clear-cut forest, thinking about an apple and "
+"flying towards a city where the Apple logo is visible on a "
+"building](/assets/uploads/wilderness-disease.jpg)  ﻿"
+msgstr ""
+"![disease-carrying bat in a clear-cut forest, thinking about an apple and "
+"flying towards a city where the Apple logo is visible on a building](/assets/"
+"uploads/wilderness-disease.jpg)  ﻿"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:43
+msgid ""
+"In healthy natural environments, wild animals’ diseases circulate mostly in "
+"the wild and keep away from humans, with plant and animal diversity "
+"shielding humans from "
+"infection.[(4)](https://doi.org/10.1146/annurev-ecolsys-102710-145022)[(5)](https://doi.org/10.1371/journal.pone.0002488) "
+"This is largely because the vast majority of wild animals (including the "
+"previously-mentioned civet cats, pangolins, and most birds and bats) are "
+"afraid of humans and do their best to avoid us. Furthermore, with a "
+"multitude of wild animals available to infect, bacteria and viruses have "
+"little incentive to adapt themselves to human hosts.  ﻿"
+msgstr ""
+"Dans un milieu naturel équilibré, les maladies des animaux sauvages "
+"circulent essentiellement dans la nature, et n'atteignent pas l'homme, la "
+"diversité des plantes et des animaux protégeant les humains contre les "
+"infections. [(4)](https://doi.org/10.1146/annurev-"
+"ecolsys-102710-145022)[(5)](https://doi.org/10.1371/journal.pone.0002488) "
+"C'est en grande partie dû au fait que la plupart des animaux sauvages (y "
+"compris les civettes, les pangolins, et la plupart des oiseaux et des "
+"chauves-souris mentionnés) ont peur des humains, et font tout pour les "
+"éviter. D'autant qu'il y a tellement d'animaux sauvages à infecter que les "
+"virus et bactéries n'ont pas besoin d'être hébergés par des hôtes humains."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:46
+msgid ""
+"But when people destroy nature – cutting down forests to make farm land, "
+"criss-crossing wilderness with roads and pipelines, disruptively damming and "
+"diverting rivers that wild animals depend on – it kills those animals. It "
+"fragments animal communities, and causes the survivors to be hungry and "
+"stressed – becoming perfect incubators for disease. This also encourages "
+"those same animals to venture closer to humans to search for food.  ﻿"
+msgstr ""
+"Mais quand on détruit la Nature, qu'on rase des forêts pour exploiter le "
+"sol, qu'on construit des routes et qu'on installe des gazoducs dans des "
+"régions sauvages, qu'on construit des barrages, et qu'on détourne des "
+"rivières dont les animaux dépendent, cela tue ces animaux. Ces communautés "
+"d'animaux sont éclatées, et les survivants sont stressés, ont faim, de "
+"parfaits incubateurs de maladies, qui se retrouvent alors à s'aventurer plus "
+"près des humains pour chercher de la nourriture."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:49
+msgid ""
+"Scientists believe that this is why shrinking wilderness and disease "
+"outbreaks go hand in "
+"hand.[(6)](https://doi.org/10.1371/journal.pone.0090032)[(7)](https://doi.org/10.1038/nature06536)[(8)](https://doi.org/10.1038/nature09575) "
+"Destroying nature sickens wild animals, then brings their contagious "
+"diseases to us.  ﻿"
+msgstr ""
+"Les scientifiques estiment donc que c'est la raison pour laquelle la "
+"réduction des espaces sauvages et les épidémies vont de pair. "
+"[(6)](https://doi.org/10.1371/journal.pone.0090032)[(7)](https://doi.org/10."
+"1038/nature06536)[(8)](https://doi.org/10.1038/nature09575) La destruction "
+"de la nature favorise la prolifération de maladies contagieuses chez les "
+"animaux sauvages, qui nous les transmettent ensuite."
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:50
+#, no-wrap
+msgid "3. The Climate Crisis Strengthens Existing Diseases"
+msgstr "3. La crise climatique augmente la prolifération des maladies"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:54
+msgid ""
+"﻿ Animal-borne diseases like Lyme disease, malaria, West Nile fever, and "
+"dengue are already moving into new regions. This is because longer, hotter "
+"summers, warmer winters, and increased annual rainfall cause the ticks, "
+"mosquitos, and fleas that carry these diseases to shift habitats, moving "
+"into areas that were previously inhospitable to "
+"them. "
+"[(9)](https://doi.org/10.1093/femsle/fnx244)[(10)](https://www.cdc.gov/climateandhealth/effects/vectors.htm)  "
+"﻿"
+msgstr ""
+"Les maladies d'origine animale comme la maladie de Lyme, le paludisme, la "
+"fièvre du Nil occidental et la dengue ont déjà atteint de nouvelles régions. "
+"Le fait que les étés soient plus longs et plus chauds, les hivers plus doux, "
+"et les précipitations annuelles plus importantes, fait que les tiques, "
+"moustiques et puces porteurs de ces maladies migrent et s'installent aussi "
+"dans des zones qui leur étaient auparavant inhospitalières. "
+"[(9)](https://doi.org/10.1093/femsle/fnx244)[(10)](https://www.cdc.gov/"
+"climateandhealth/effects/vectors.htm)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:57
+msgid ""
+"By way of example, Europe has seen a sharp and shocking spike in West Nile "
+"virus infections, after years of record-breaking "
+"warmth,[(11)](https://pubmed.ncbi.nlm.nih.gov/30264694/)[(9)](https://doi.org/10.1093/femsle/fnx244) "
+"while in North America, warmer winters have dramatically expanded ticks’ "
+"ranges and made Lyme disease into a household "
+"name.[(12)](https://doi.org/10.3390/ijerph15030478)[(13)](https://doi.org/10.1093/jme/tjv199)[(14)](https://doi.org/10.1093/jme/tjw076)  "
+"﻿"
+msgstr ""
+"A titre d'exemple, on peut citer l'Europe, qui a connu une forte "
+"recrudescence de cas de fièvre du Nil occidental, après des records de "
+"chaleur historiques, [(11)](https://pubmed.ncbi.nlm.nih.gov/30264694/"
+")[(9)](https://doi.org/10.1093/femsle/fnx244) alors qu'en Amérique du Nord, "
+"les hivers plus chauds ont provoqué l'extension considérable des populations "
+"de tiques, faisant entrer le nom de la maladie de Lyme dans le vocabulaire "
+"commun. [(12)](https://doi.org/10.3390/ijerph15030478)[(13)](https://doi.org/"
+"10.1093/jme/tjv199)[(14)](https://doi.org/10.1093/jme/tjw076)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:60
+msgid ""
+"Like animal-borne diseases, diarrheal diseases like Salmonella and "
+"campylobacteriosis too benefit from higher temperatures and extreme "
+"weather. This is because warmer temperatures allow bacteria to multiply "
+"faster, while extreme weather creates flooding, sewage spillover, and "
+"standing pools of water, which all provide prime bacterial breeding "
+"grounds. "
+"[(15)](https://doi.org/10.1101/2020.04.05.20054502)[(16)](https://www.cdc.gov/climateandhealth/effects/vectors.htmDiarrheal)[(17)](https://doi.org/10.1021/acs.est.5b06186)  "
+"﻿"
+msgstr ""
+"De même que pour les maladies d'origine animale, des températures plus "
+"élevées et des conditions climatiques extrêmes favorisent la prolifération "
+"des maladies diarrhéiques comme la salmonelle et la campylobactériose,  les "
+"températures plus élevées permettant aux bactéries de se multiplier plus "
+"rapidement, tandis que les conditions météorologiques extrêmes provoquant "
+"inondations, débordements d'eaux usées et mares d'eau stagnante, en font de "
+"parfaits foyers de reproduction pour les bactéries. [(15)](https://doi.org/"
+"10.1101/2020.04.05.20054502)[(16)](https://www.cdc.gov/climateandhealth/"
+"effects/vectors.htmDiarrheal)[(17)](https://doi.org/10.1021/acs.est.5b06186)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:63
+msgid ""
+"![friendly anthropomorphic Salmonella bacteria and mosquito sitting in a "
+"warm puddle of water, enjoying it like a hot "
+"tub](/assets/uploads/extreme-weather-disease.png)  ﻿"
+msgstr ""
+"![friendly anthropomorphic Salmonella bacteria and mosquito sitting in a "
+"warm puddle of water, enjoying it like a hot tub](/assets/uploads/extreme-"
+"weather-disease.png)  ﻿"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:66
+msgid ""
+"As the earth warms, warmer winters no longer kill disease-carrying "
+"pests. Warmer and longer summers, flooding, and extreme precipitation "
+"provide pests and bacteria more time and better conditions for "
+"reproduction. And all of these contribute to the spread of disease.  ﻿"
+msgstr ""
+"Plus la Terre se réchauffe, et moins les parasites porteurs de maladies "
+"meurent lors des hivers devenus plus chauds. Les étés  plus longs et plus "
+"chauds, les inondations, et les fortes pluies fournissent aux bactéries et "
+"aux parasites des conditions de reproduction idéales, contribuant ainsi à "
+"favoriser la prolifération de maladies."
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:66
+#, no-wrap
+msgid "4. Air Pollution Weakens Our Defenses"
+msgstr "4. La pollution de l'air affaiblit notre système immunitaire"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:70
+msgid ""
+"﻿ Many people know that air pollution worsens asthma and heart "
+"disease[(18)](https://doi.org/10.1080/15287390590936166)[(19)](https://pubmed.ncbi.nlm.nih.gov/28408086/), "
+"but did you know that it also corresponded with deaths from infectious "
+"diseases? ﻿"
+msgstr ""
+"Beaucoup de gens savent que la pollution atmosphérique aggrave l'asthme et "
+"les maladies cardiaques [(18)](https://doi.org/10.1080/"
+"15287390590936166)[(19)](https://pubmed.ncbi.nlm.nih.gov/28408086/), mais "
+"saviez-vous qu'elle est aussi responsable de décès dus à des maladies "
+"infectieuses ?"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:73
+msgid ""
+"For COVID-19 sufferers, a small increase in a patient's exposure to air "
+"pollution was associated with an 8% higher death rate. This was true even "
+"when controlling for patient age, health, and wealth, the availability of "
+"healthcare services, the population density where they lived, and patients "
+"who used to live in polluted areas but didn’t anymore. Air pollution was "
+"also correlated with higher rates of death in the context of "
+"SARS[(20)](https://doi.org/10.1186/1476-069x-2-15) and "
+"pneumonia[(21)](https://doi.org/10.1164/rccm.200901-0160OC).  ﻿"
+msgstr ""
+"Chez les patients atteints de COVID-19, le taux de mortalité des patients "
+"exposés à la pollution de l'air était supérieur de 8 %, même en tenant "
+"compte de l'âge, de la santé et de la richesse des patients, de la "
+"disponibilité des services de santé, de la densité de population de leurs "
+"lieux de résidence ,et du fait qu'ils vivaient auparavant dans des zones "
+"polluées. On retrouve cette corrélation entre exposition à la pollution "
+"atmosphérique, et taux de mortalité plus élevés dans le contexte du SRAS "
+"[(20)](https://doi.org/10.1186/1476-069x-2-15) et de la pneumonie "
+"[(21)](https://doi.org/10.1164/rccm.200901-0160OC)."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:76
+msgid ""
+"![person surrounded by both smoke and COVID-19 "
+"fumes](/assets/uploads/smog-disease.png)  ﻿"
+msgstr ""
+"![person surrounded by both smoke and COVID-19 fumes](/assets/uploads/smog-"
+"disease.png)  ﻿"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:79
+msgid ""
+"Air pollution – even when we were only exposed to it as children – gives us "
+"a lifetime of higher susceptibility to many diseases. And people who are "
+"susceptible to disease are more likely to spread it. Air pollution has "
+"already contributed to the deadliness of the COVID-19 pandemic - it may well "
+"worsen the next one.  ﻿"
+msgstr ""
+"La pollution de l'air - même si nous n'y avons été exposés que dans notre "
+"enfance - nous rend plus vulnérables à de nombreuses maladies tout au long "
+"de notre vie. Et les personnes qui sont plus susceptibles de les contracter, "
+"sont aussi plus susceptibles de les propager. La pollution atmosphérique "
+"entre déjà en ligne de compte dans les taux de mortalité attribuables à la "
+"pandémie de COVID-19, cela pourrait être plus grave la prochaine fois."
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:79
+#, no-wrap
+msgid "5. Diseases Will Continue Melting out of Frozen Land"
+msgstr "6. Des maladies vont continuer d'émerger de la fonte des sols gelés"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:83
+msgid ""
+"﻿ During a summer heatwave in August 2016, anthrax thawed out of land that "
+"we had thought was permanently frozen – the permafrost. The escaped anthrax "
+"killed a 12-year-old boy, infected at least 20 other people, and killed more "
+"than 2,300 reindeer in the area. It was the region's first outbreak in 75 "
+"years.[(22)](https://www.bbc.com/news/world-europe-36951542)  ﻿"
+msgstr ""
+"Pendant la canicule d'août 2016, de l'anthrax a été libéré suite au dégèl de "
+"terres que l'on pensait éternellement gelées : le permafrost (ou pergélisol)"
+". L'anthrax ainsi libéré a tué un garçon de 12 ans, infecté au moins 20 "
+"autres personnes, et tué plus de 2 300 rennes dans la région. Il s'agissait "
+"de la première épidémie de la région en 75 ans [(22)](https://www.bbc.com/"
+"news/world-europe-36951542)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:86
+msgid ""
+"This took place in a remote part of "
+"Siberia.[(22)](https://www.bbc.com/news/world-europe-36951542) If it had "
+"happened in a city (or even an arctic village), the results might have been "
+"much worse.  ﻿"
+msgstr ""
+"Cela s'est passé dans une région reculée de la "
+"Sibérie.[(22)](https://www.bbc.com/news/world-europe-36951542) Si cela avait "
+"eu lieu dans une ville (ou même dans un village de l'Arctique), cela aurait "
+"pu être bien pire."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:89
+msgid ""
+"The climate crisis is causing the permafrost to "
+"thaw. Fast.[(23)](https://doi.org/10.1029/2019gl082187). And many people "
+"expect pathogens trapped within the previously frozen ground – responsible "
+"for such diseases as polio, anthrax, smallpox and the Spanish flu – to "
+"eventually be "
+"released.[(24)](https://doi.org/10.1038/scientificamerican1116-11)  ﻿"
+msgstr ""
+"La crise climatique provoque le dégèl du permafrost. Et cela va très "
+"vite.[(23)](https://doi.org/10.1029/2019gl082187). Beaucoup de gens "
+"craignent que des agents pathogènes piégés dans ces sols auparavant gelés, "
+"et responsables de maladies telles que la polio, le charbon, la variole et "
+"la grippe espagnole - soient aussi libérés. [(24)](https://doi.org/10.1038/"
+"scientificamerican1116-11)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:92
+msgid ""
+"![thawing frozen ground with mammoth skeleton and various diseases frozen "
+"within. One disease has thawed out and is escaping into the "
+"world](/assets/uploads/permafrost-thaw-disease.jpg)  ﻿"
+msgstr ""
+"![thawing frozen ground with mammoth skeleton and various diseases frozen "
+"within. One disease has thawed out and is escaping into the world](/assets/"
+"uploads/permafrost-thaw-disease.jpg)  ﻿"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:95
+msgid ""
+"Human prehistory is long. We have no records, strategies, vaccines, or even "
+"names for the diseases that plagued our ancient ancestors. There's no reason "
+"to believe that those ancient diseases would be any less infectious or "
+"deadly than those we are fighting today.  ﻿"
+msgstr ""
+"La Préhistoire s'étend sur une longue période. Nous n'avons ni données, ni "
+"stratégies, ni vaccins, ni même de noms pour les maladies qui ont affecté "
+"nos  ancêtres. Il n'y a aucune raison de croire que ces maladies anciennes "
+"seraient moins infectieuses ou mortelles que celles contre lesquelles nous "
+"luttons aujourd'hui."
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:95
+#, no-wrap
+msgid "6. We Can Fight Pandemics"
+msgstr "6. Nous pouvons lutter contre les pandémies"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:99
+msgid ""
+"﻿ Fighting the climate and ecological crisis means fighting against the "
+"destruction of nature. It means fighting against extreme weather, and it "
+"means fighting against pollution. It means keeping it in the ground - both "
+"fossil fuels, and the frozen pathogens that their burning would release.  ﻿"
+msgstr ""
+"Lutter contre la crise écologique et climatique, c'est lutter contre la "
+"destruction de l'environnement. Cela veut dire lutter contre les conditions "
+"météorologiques extrêmes, et contre la pollution. Cela signifie aussi "
+"laisser dans les sols,  et les combustibles fossiles, et les agents "
+"pathogènes emprisonnés dans les terres gelées, que la combustion d'énergies "
+"fossiles libérerait."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:102
+msgid ""
+"It's too late to stop the COVID-19 pandemic from happening, but by fighting "
+"for the environment, you can be part of the fight against the arrival of the "
+"next pandemic.  ﻿"
+msgstr ""
+"Il est trop tard pour stopperr la pandémie de COVID-19, mais en luttant pour "
+"l'environnement, on peut lutter contre l'émergence d'une prochaine pandémie."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:105
+msgid ""
+"Extinction Rebellion calls this fight a rebellion. If you are interested, "
+"join us to tell the truth about pandemics, pollution, climate, ecological "
+"destruction, and how and why this toxic system will produce more pandemics.  "
+"﻿"
+msgstr ""
+"Pour Extinction Rebellion cette lutte porte un nom : la rébellion. N'hésitez "
+"pas à nous rejoindre pour relayer la vérité sur les pandémies, la pollution, "
+"le climat, la destruction de l'environnement, et sur comment et pourquoi ce "
+"système délétère engendrera plus de pandémies."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:108
+msgid ""
+"Take a small action: The next time you talk about pandemics, bring "
+"environmental issues into the discussion, too. They're more relevant than "
+"people may realize.  ﻿"
+msgstr ""
+"Commencez dès maintenant ! La prochaine fois que vous évoquerez la pandémie "
+"dans une discussion, ne manquez pas de soulever les problématiques "
+"environnementales qui y sont liées, de façon bien plus directe que les gens "
+"ne peuvent le croire."
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:111
+#, no-wrap
+msgid ""
+"*Written by [Albert Carter](https://www.albertrcarter.com) and the "
+"[Extinction Rebellion Comic Science Working "
+"Group](https://xrscience.earth). Illustrations by [Comic "
+"Science](https://xrscience.earth).*\n"
+"﻿\n"
+msgstr ""
+"*Écrit par[Albert Carter](https://www.albertrcarter.com) et le [groupe de "
+"travail _Comic Science_ d'XR](https://xrscience.earth). Illustrations : ["
+"Comic Science](https://xrscience.earth).*\n"
+"﻿\n"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:114
+msgid "[Get Involved!](/get-involved/){.xr-button} ﻿"
+msgstr "[S'impliquer !](/get-involved/){.xr-button}"
+
+#. type: Title #
+#: 2020-07-17-pandemics-environment.md:114
+#, no-wrap
+msgid "References"
+msgstr "Sources"
+
+#. type: Bullet: '1. '
+#: 2020-07-17-pandemics-environment.md:117
+msgid ""
+"Andersen, K. G., Rambaut, A., Lipkin, W. I., Holmes, E. C., & Garry, "
+"R. F. (2020). The proximal origin of SARS-CoV-2. Nature Medicine, 26(4), "
+"450–452. "
+"[https://doi.org/10.1038/s41591-020-0820-9](https://doi.org/10.1038/s41591-020-0820-9)"
+msgstr ""
+"Andersen, K. G., Rambaut, A., Lipkin, W. I., Holmes, E. C., & Garry, R. F. "
+"(2020). The proximal origin of SARS-CoV-2. Nature Medicine, 26(4), 450–452. "
+"[https://doi.org/10.1038/s41591-020-0820-9](https://doi.org/10.1038/"
+"s41591-020-0820-9)"
+
+#. type: Bullet: '2. '
+#: 2020-07-17-pandemics-environment.md:119
+msgid ""
+"Berger, K. (2020, March 12). The Man Who Saw the Pandemic Coming - Issue 83: "
+"Intelligence. Retrieved July 08, 2020, from "
+"[https://nautil.us/issue/83/intelligence/the-man-who-saw-the-pandemic-coming](https://nautil.us/issue/83/intelligence/the-man-who-saw-the-pandemic-coming)"
+msgstr ""
+"Berger, K. (2020, March 12). The Man Who Saw the Pandemic Coming - Issue 83: "
+"Intelligence. Retrieved July 08, 2020, from [https://nautil.us/issue/83/"
+"intelligence/the-man-who-saw-the-pandemic-coming](https://nautil.us/issue/83/"
+"intelligence/the-man-who-saw-the-pandemic-coming)"
+
+#. type: Bullet: '3. '
+#: 2020-07-17-pandemics-environment.md:121
+msgid ""
+"Zhang, T., Wu, Q., & Zhang, Z. (2020). Probable Pangolin Origin of "
+"SARS-CoV-2 Associated with the COVID-19 Outbreak. Current Biology, 30(7), "
+"1346–1351.e2. "
+"[https://doi.org/10.1016/j.cub.2020.03.022](https://doi.org/10.1016/j.cub.2020.03.022)"
+msgstr ""
+"Zhang, T., Wu, Q., & Zhang, Z. (2020). Probable Pangolin Origin of SARS-CoV-"
+"2 Associated with the COVID-19 Outbreak. Current Biology, 30(7), 1346–"
+"1351.e2. [https://doi.org/10.1016/j.cub.2020.03.022](https://doi.org/10.1016/"
+"j.cub.2020.03.022)"
+
+#. type: Bullet: '4. '
+#: 2020-07-17-pandemics-environment.md:123
+msgid ""
+"Ostfeld, R. S., & Keesing, F. (2012). Effects of Host Diversity on "
+"Infectious Disease. Annual Review of Ecology, Evolution, and Systematics, "
+"43(1), "
+"157–182. "
+"[https://doi.org/10.1146/annurev-ecolsys-102710-145022](https://doi.org/10.1146/annurev-ecolsys-102710-145022)"
+msgstr ""
+"Ostfeld, R. S., & Keesing, F. (2012). Effects of Host Diversity on "
+"Infectious Disease. Annual Review of Ecology, Evolution, and Systematics, "
+"43(1), 157–182. [https://doi.org/10.1146/annurev-"
+"ecolsys-102710-145022](https://doi.org/10.1146/annurev-ecolsys-102710-145022)"
+
+#. type: Bullet: '5. '
+#: 2020-07-17-pandemics-environment.md:125
+msgid ""
+"Swaddle, J. P., & Calos, S. E. (2008). Increased Avian Diversity Is "
+"Associated with Lower Incidence of Human West Nile Infection: Observation of "
+"the Dilution Effect. PLoS ONE, 3(6), "
+"e2488. "
+"[https://doi.org/10.1371/journal.pone.0002488](https://doi.org/10.1371/journal.pone.0002488)"
+msgstr ""
+"Swaddle, J. P., & Calos, S. E. (2008). Increased Avian Diversity Is "
+"Associated with Lower Incidence of Human West Nile Infection: Observation of "
+"the Dilution Effect. PLoS ONE, 3(6), e2488. [https://doi.org/10.1371/"
+"journal.pone.0002488](https://doi.org/10.1371/journal.pone.0002488)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:129
+#, no-wrap
+msgid ""
+"6. Morand, S., Jittapalapong, S., Suputtamongkol, Y., Abdullah, M. T., & "
+"Huan, T. B. (2014). Infectious Diseases and Their Outbreaks in Asia-Pacific: "
+"Biodiversity and Its Regulation Loss Matter. PLoS ONE, 9(2), "
+"e90032. "
+"[https://doi.org/10.1371/journal.pone.0090032](https://doi.org/10.1371/journal.pone.0090032)\n"
+"﻿\n"
+"7. Jones, K., Patel, N., Levy, M. et al. Global trends in emerging "
+"infectious diseases. Nature 451, 990–993 "
+"(2008). "
+"[https://doi.org/10.1038/nature06536](https://doi.org/10.1038/nature06536)\n"
+msgstr ""
+"6. Morand, S., Jittapalapong, S., Suputtamongkol, Y., Abdullah, M. T., & "
+"Huan, T. B. (2014). Infectious Diseases and Their Outbreaks in Asia-Pacific: "
+"Biodiversity and Its Regulation Loss Matter. PLoS ONE, 9(2), e90032. "
+"[https://doi.org/10.1371/journal.pone.0090032](https://doi.org/10.1371/"
+"journal.pone.0090032)\n"
+"﻿\n"
+"7. Jones, K., Patel, N., Levy, M. et al. Global trends in emerging "
+"infectious diseases. Nature 451, 990–993 (2008). [https://doi.org/10.1038/"
+"nature06536](https://doi.org/10.1038/nature06536)\n"
+
+#. type: Bullet: '8. '
+#: 2020-07-17-pandemics-environment.md:131
+msgid ""
+"Keesing, F., Belden, L. K., Daszak, P., Dobson, A., Harvell, C. D., Holt, "
+"R. D., Hudson, P., Jolles, A., Jones, K. E., Mitchell, C. E., Myers, S. S., "
+"Bogich, T., & Ostfeld, R. S. (2010). Impacts of biodiversity on the "
+"emergence and transmission of infectious diseases. Nature, 468(7324), "
+"647–652. "
+"[https://doi.org/10.1038/nature09575](https://doi.org/10.1038/nature09575)"
+msgstr ""
+"Keesing, F., Belden, L. K., Daszak, P., Dobson, A., Harvell, C. D., Holt, R. "
+"D., Hudson, P., Jolles, A., Jones, K. E., Mitchell, C. E., Myers, S. S., "
+"Bogich, T., & Ostfeld, R. S. (2010). Impacts of biodiversity on the "
+"emergence and transmission of infectious diseases. Nature, 468(7324), 647–"
+"652. [https://doi.org/10.1038/nature09575](https://doi.org/10.1038/"
+"nature09575)"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:135
+#, no-wrap
+msgid ""
+"9. Semenza, J. C., & Suk, J. E. (2017). Vector-borne diseases and climate "
+"change: a European perspective. FEMS Microbiology Letters, "
+"365(2). "
+"[https://doi.org/10.1093/femsle/fnx244](https://doi.org/10.1093/femsle/fnx244)\n"
+"﻿\n"
+"10. Centers for Disease Control and Prevention. (n.d.). Climate Change and "
+"Public Health - Disease Vectors | CDC. Climate Effects on Health: Diseases "
+"Carried by Vectors. Retrieved May 27, 2020, from "
+"[https://www.cdc.gov/climateandhealth/effects/vectors.htm](https://www.cdc.gov/climateandhealth/effects/vectors.htm)\n"
+msgstr ""
+"9. Semenza, J. C., & Suk, J. E. (2017). Vector-borne diseases and climate "
+"change: a European perspective. FEMS Microbiology Letters, 365(2). "
+"[https://doi.org/10.1093/femsle/fnx244](https://doi.org/10.1093/femsle/"
+"fnx244)\n"
+"﻿\n"
+"10. Centers for Disease Control and Prevention. (n.d.). Climate Change and "
+"Public Health - Disease Vectors | CDC. Climate Effects on Health: Diseases "
+"Carried by Vectors. Retrieved May 27, 2020, from [https://www.cdc.gov/"
+"climateandhealth/effects/vectors.htm](https://www.cdc.gov/climateandhealth/"
+"effects/vectors.htm)\n"
+
+#. type: Plain text
+#: 2020-07-17-pandemics-environment.md:141
+#, no-wrap
+msgid ""
+"11. Burki, T. (2018). Increase of West Nile virus cases in Europe for "
+"2018. The Lancet, 392(10152), "
+"1000. "
+"[https://doi.org/10.1016/s0140-6736(18)32286-4](https://pubmed.ncbi.nlm.nih.gov/30264694/)\n"
+"﻿\n"
+"12. Sonenshine, D. (2018). Range Expansion of Tick Disease Vectors in North "
+"America: Implications for Spread of Tick-Borne Disease. International "
+"Journal of Environmental Research and Public Health, 15(3), "
+"478. "
+"[https://doi.org/10.3390/ijerph15030478](https://doi.org/10.3390/ijerph15030478)\n"
+"﻿\n"
+"13. Eisen, R. J., Eisen, L., Ogden, N. H., & Beard, C. B. (2015). Linkages "
+"of Weather and Climate WithIxodes scapularisandIxodes pacificus(Acari: "
+"Ixodidae), Enzootic Transmission ofBorrelia burgdorferi, and Lyme Disease in "
+"North America. Journal of Medical Entomology, 53(2), "
+"250–261. "
+"[https://doi.org/10.1093/jme/tjv199](https://doi.org/10.1093/jme/tjv199)\n"
+msgstr ""
+"11. Burki, T. (2018). Increase of West Nile virus cases in Europe for 2018. "
+"The Lancet, 392(10152), 1000. [https://doi.org/10.1016/"
+"s0140-6736(18)32286-4](https://pubmed.ncbi.nlm.nih.gov/30264694/)\n"
+"﻿\n"
+"12. Sonenshine, D. (2018). Range Expansion of Tick Disease Vectors in North "
+"America: Implications for Spread of Tick-Borne Disease. International "
+"Journal of Environmental Research and Public Health, 15(3), 478. "
+"[https://doi.org/10.3390/ijerph15030478](https://doi.org/10.3390/"
+"ijerph15030478)\n"
+"﻿\n"
+"13. Eisen, R. J., Eisen, L., Ogden, N. H., & Beard, C. B. (2015). Linkages "
+"of Weather and Climate WithIxodes scapularisandIxodes pacificus(Acari: "
+"Ixodidae), Enzootic Transmission ofBorrelia burgdorferi, and Lyme Disease in "
+"North America. Journal of Medical Entomology, 53(2), 250–261. [https://doi."
+"org/10.1093/jme/tjv199](https://doi.org/10.1093/jme/tjv199)\n"
+
+#. type: Bullet: '14. '
+#: 2020-07-17-pandemics-environment.md:143
+msgid ""
+"Hahn, M. B., Jarnevich, C. S., Monaghan, A. J., & Eisen, "
+"R. J. (2016). Modeling the Geographic Distribution ofIxodes "
+"scapularisandIxodes pacificus(Acari: Ixodidae) in the Contiguous United "
+"States. Journal of Medical Entomology, 53(5), "
+"1176–1191. "
+"[https://doi.org/10.1093/jme/tjw076](https://doi.org/10.1093/jme/tjw076)"
+msgstr ""
+"Hahn, M. B., Jarnevich, C. S., Monaghan, A. J., & Eisen, R. J. (2016). "
+"Modeling the Geographic Distribution ofIxodes scapularisandIxodes "
+"pacificus(Acari: Ixodidae) in the Contiguous United States. Journal of "
+"Medical Entomology, 53(5), 1176–1191. [https://doi.org/10.1093/jme/"
+"tjw076](https://doi.org/10.1093/jme/tjw076)"
+
+#. type: Bullet: '15. '
+#: 2020-07-17-pandemics-environment.md:146
+msgid ""
+"Yun, J., Greiner, M., Höller, C. et al. Association between the ambient "
+"temperature and the occurrence of human Salmonella and Campylobacter "
+"infections. Sci Rep 6, 28442 "
+"(2016). "
+"[https://doi.org/10.1038/srep28442](https://doi.org/10.1101/2020.04.05.20054502)"
+msgstr ""
+"Yun, J., Greiner, M., Höller, C. et al. Association between the ambient "
+"temperature and the occurrence of human Salmonella and Campylobacter "
+"infections. Sci Rep 6, 28442 (2016). [https://doi.org/10.1038/"
+"srep28442](https://doi.org/10.1101/2020.04.05.20054502)"
+
+#. type: Bullet: '16. '
+#: 2020-07-17-pandemics-environment.md:146
+msgid ""
+"Centers for Disease Control and Prevention. (n.d.). Climate Change and "
+"Public Health - Disease Vectors | CDC. Climate Effects on Health: Food and "
+"Waterborne Diarrheal Disease. Retrieved May 27, 2020, from "
+"[https://www.cdc.gov/climateandhealth/effects/food_waterborne.htm](https://www.cdc.gov/climateandhealth/effects/food_waterborne.htm)"
+msgstr ""
+"Centers for Disease Control and Prevention. (n.d.). Climate Change and "
+"Public Health - Disease Vectors | CDC. Climate Effects on Health: Food and "
+"Waterborne Diarrheal Disease. Retrieved May 27, 2020, from [https://www.cdc."
+"gov/climateandhealth/effects/food_waterborne.htm](https://www.cdc.gov/"
+"climateandhealth/effects/food_waterborne.htm)"
+
+#. type: Bullet: '17. '
+#: 2020-07-17-pandemics-environment.md:148
+msgid ""
+"Levy, K., Woster, A. P., Goldstein, R. S., & Carlton, "
+"E. J. (2016). Untangling the Impacts of Climate Change on Waterborne "
+"Diseases: a Systematic Review of Relationships between Diarrheal Diseases "
+"and Temperature, Rainfall, Flooding, and Drought. Environmental Science & "
+"Technology, 50(10), "
+"4905–4922. "
+"[https://doi.org/10.1021/acs.est.5b06186](https://doi.org/10.1021/acs.est.5b06186)"
+msgstr ""
+"Levy, K., Woster, A. P., Goldstein, R. S., & Carlton, E. J. (2016). "
+"Untangling the Impacts of Climate Change on Waterborne Diseases: a "
+"Systematic Review of Relationships between Diarrheal Diseases and "
+"Temperature, Rainfall, Flooding, and Drought. Environmental Science & "
+"Technology, 50(10), 4905–4922. [https://doi.org/10.1021/"
+"acs.est.5b06186](https://doi.org/10.1021/acs.est.5b06186)"
+
+#. type: Bullet: '18. '
+#: 2020-07-17-pandemics-environment.md:150
+msgid ""
+"Cohen, A., Ross Anderson, H., Ostro, B., Pandey, K., Krzyzanowski, M., "
+"Künzli, N., Gutschmidt, K., Pope, A., Romieu, I., Samet, J. and Smith, K., "
+"2005. The Global Burden of Disease Due to Outdoor Air Pollution. Journal of "
+"Toxicology and Environmental Health, Part A, 68(13-14), "
+"pp.1301-1307.[https://doi.org/10.1080/15287390590936166](https://doi.org/10.1080/15287390590936166)"
+msgstr ""
+"Cohen, A., Ross Anderson, H., Ostro, B., Pandey, K., Krzyzanowski, M., "
+"Künzli, N., Gutschmidt, K., Pope, A., Romieu, I., Samet, J. and Smith, K., "
+"2005. The Global Burden of Disease Due to Outdoor Air Pollution. Journal of "
+"Toxicology and Environmental Health, Part A, 68(13-14), "
+"pp.1301-1307.[https://doi.org/10.1080/15287390590936166](https://doi.org/10."
+"1080/15287390590936166)"
+
+#. type: Bullet: '19. '
+#: 2020-07-17-pandemics-environment.md:152
+msgid ""
+"Cohen, A. J., Brauer, M., Burnett, R., Anderson, H. R., Frostad, J., Estep, "
+"K., … Forouzanfar, M. H. (2017). Estimates and 25-year trends of the global "
+"burden of disease attributable to ambient air pollution: an analysis of data "
+"from the Global Burden of Diseases Study 2015. The Lancet, 389(10082), "
+"1907–1918. "
+"[https://doi.org/10.1016/s0140-6736(17)30505-6](https://pubmed.ncbi.nlm.nih.gov/28408086/)"
+msgstr ""
+"Cohen, A. J., Brauer, M., Burnett, R., Anderson, H. R., Frostad, J., Estep, "
+"K., … Forouzanfar, M. H. (2017). Estimates and 25-year trends of the global "
+"burden of disease attributable to ambient air pollution: an analysis of data "
+"from the Global Burden of Diseases Study 2015. The Lancet, 389(10082), 1907–"
+"1918. [https://doi.org/10.1016/"
+"s0140-6736(17)30505-6](https://pubmed.ncbi.nlm.nih.gov/28408086/)"
+
+#. type: Bullet: '20. '
+#: 2020-07-17-pandemics-environment.md:154
+msgid ""
+"Cui, Y., Zhang, Z.-F., Froines, J., Zhao, J., Wang, H., Yu, S.-Z., & Detels, "
+"R. (2003). Air pollution and case fatality of SARS in the People’s Republic "
+"of China: an ecologic study. Environmental Health, "
+"2(1). "
+"[https://doi.org/10.1186/1476-069x-2-15](https://doi.org/10.1186/1476-069x-2-15)"
+msgstr ""
+"Cui, Y., Zhang, Z.-F., Froines, J., Zhao, J., Wang, H., Yu, S.-Z., & Detels, "
+"R. (2003). Air pollution and case fatality of SARS in the People’s Republic "
+"of China: an ecologic study. Environmental Health, 2(1). [https://doi.org/10."
+"1186/1476-069x-2-15](https://doi.org/10.1186/1476-069x-2-15)"
+
+#. type: Bullet: '21. '
+#: 2020-07-17-pandemics-environment.md:156
+msgid ""
+"Neupane, B., Jerrett, M., Burnett, R., Marrie, T., Arain, A. and Loeb, M., "
+"2010. Long-Term Exposure to Ambient Air Pollution and Risk of "
+"Hospitalization with Community-acquired Pneumonia in Older Adults. American "
+"Journal of Respiratory and Critical Care Medicine, 181(1), pp.47-53, "
+"[https://doi.org/10.1164/rccm.200901-0160OC](https://doi.org/10.1164/rccm.200901-0160OC)"
+msgstr ""
+"Neupane, B., Jerrett, M., Burnett, R., Marrie, T., Arain, A. and Loeb, M., "
+"2010. Long-Term Exposure to Ambient Air Pollution and Risk of "
+"Hospitalization with Community-acquired Pneumonia in Older Adults. American "
+"Journal of Respiratory and Critical Care Medicine, 181(1), pp.47-53, "
+"[https://doi.org/10.1164/rccm.200901-0160OC](https://doi.org/10.1164/"
+"rccm.200901-0160OC)"
+
+#. type: Bullet: '22. '
+#: 2020-07-17-pandemics-environment.md:158
+msgid ""
+"(2016, August 2) Russia anthrax outbreak affects dozens in north Siberia, "
+"BBC News, Accessed 2020, July "
+"8. "
+"[https://www.bbc.com/news/world-europe-36951542](https://www.bbc.com/news/world-europe-36951542)"
+msgstr ""
+"(2016, August 2) Russia anthrax outbreak affects dozens in north Siberia, "
+"BBC News, Accessed 2020, July 8. [https://www.bbc.com/news/world-"
+"europe-36951542](https://www.bbc.com/news/world-europe-36951542)"
+
+#. type: Bullet: '23. '
+#: 2020-07-17-pandemics-environment.md:160
+msgid ""
+"Farquharson, L. M., Romanovsky, V. E., Cable, W. L., Walker, D. A., Kokelj, "
+"S. V., & Nicolsky, D. (2019). Climate Change Drives Widespread and Rapid "
+"Thermokarst Development in Very Cold Permafrost in the Canadian High "
+"Arctic. Geophysical Research Letters, 46(12), "
+"6681–6689. "
+"[https://doi.org/10.1029/2019gl082187](https://doi.org/10.1029/2019gl082187)"
+msgstr ""
+"Farquharson, L. M., Romanovsky, V. E., Cable, W. L., Walker, D. A., Kokelj, "
+"S. V., & Nicolsky, D. (2019). Climate Change Drives Widespread and Rapid "
+"Thermokarst Development in Very Cold Permafrost in the Canadian High Arctic. "
+"Geophysical Research Letters, 46(12), 6681–6689. [https://doi.org/10.1029/"
+"2019gl082187](https://doi.org/10.1029/2019gl082187)"
+
+#. type: Bullet: '24. '
+#: 2020-07-17-pandemics-environment.md:161
+msgid ""
+"Goudarzi, S. (2016). What Lies Beneath. Scientific American, 315(5), "
+"11–12. "
+"[https://doi.org/10.1038/scientificamerican1116-11](https://doi.org/10.1038/scientificamerican1116-11)"
+msgstr ""
+"Goudarzi, S. (2016). What Lies Beneath. Scientific American, 315(5), 11–12. "
+"[https://doi.org/10.1038/scientificamerican1116-11](https://doi.org/10.1038/"
+"scientificamerican1116-11)"

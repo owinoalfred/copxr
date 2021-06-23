@@ -1,0 +1,1242 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-09-11 10:06+0200\n"
+"PO-Revision-Date: 2021-03-25 17:19+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Polish <http://translate.organise.earth/projects/blog-posts/"
+"2020-09-10-newsletter-43/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:16
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'Global Newsletter #43'\n"
+"slug: newsletter-43\n"
+"date: '2020-09-10 12:38'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/newsletter-43-image3.jpg\n"
+"seoImage: /assets/uploads/newsletter-43-image3.jpg\n"
+"seoTitle: 'Extinction Rebellion Global Newsletter #43'\n"
+"seoDescription: >-\n"
+"  A global wave of (rock and) rolling rebellions is upon us. With immense\n"
+"  courage, cunning and care, rebels are returning to the streets in a dozen\n"
+"  countries all across the globe.\n"
+msgstr ""
+"lang: pl\n"
+"title: 'Globalny Newsletter #43'\n"
+"slug: newsletter-43\n"
+"date: '2020-09-10 12:38'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/newsletter-43-image3.jpg\n"
+"seoImage: /assets/uploads/newsletter-43-image3.jpg\n"
+"seoTitle: 'Extinction Rebellion Global Newsletter #43'\n"
+"seoDescription: >-\n"
+"  Fala światowej rebelii przed nami. Rebelianci i rebeliantki \n"
+"  powracają na ulice wielu miast świata z sercem pełnym odwagi i \n"
+"  miłości oraz z niemałą dozą podstępu.\n"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:20
+#, no-wrap
+msgid "*Dear rebels,* {.hero-text .text-left}\n"
+msgstr "*Drodzy Rebelianci, Drogie Rebeliantki,* {.hero-text .text-left}\n"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:22
+msgid ""
+"A global wave of (rock and) [rolling rebellions is upon us](https://"
+"rebellion.global/press/2020/09/01/global-rebellion/). With immense courage, "
+"cunning and care, rebels are returning to the streets in a dozen countries "
+"all across the globe."
+msgstr ""
+"Fala światowej [rebelii przed nami](https://rebellion.global/press/2020/09/"
+"01/global-rebellion/). Rebelianci i rebeliantki powracają na ulice wielu "
+"miast świata z sercem pełnym odwagi i miłości oraz z niemałą dozą podstępu."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:24
+msgid ""
+"As we all know, it’s been a strange and tough few months, and a huge amount "
+"of thought and discussion has gone into the decision to return to the "
+"streets. Despite our cheerful tone, rebellion is not something we do lightly "
+"or without considering the consequences. On the contrary, consequence is "
+"something we take very seriously."
+msgstr ""
+"Ostatnie miesiące były dla nas wszystkich dziwne i trudne, ale decyzję o "
+"powrocie na ulice podjęliśmy po długich rozmyślaniach i dyskusjach. Chociaż "
+"w naszej rebelii rozbrzmiewają radosne tony, nie podchodzimy do niej z "
+"lekkim sercem, czy nie licząc się z konsekwencjami. Wręcz przeciwnie: "
+"konsekwencje naszych czynów bierzemy naprawdę poważnie."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:27
+msgid ""
+"![](/assets/uploads/newsletter-43-image3.jpg)  *Swedish rebels showing us "
+"how it’s done, with their exemplary social-distanced, colourful Rebellion.*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image3.jpg)  *Kolorowa rebelia z "
+"zachowaniem dystansu społecznego w Szwecji jest czymś godnym pochwały.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:29
+msgid ""
+"Our governments and leaders have so far failed to listen to the science or "
+"act appropriately in the face of the mounting emergency. Despite all the "
+"devastating challenges of the present day, our relationship to the climate "
+"will undoubtedly be the defining choice of our generation."
+msgstr ""
+"Do tej pory nasze rządy oraz liderzy i liderki nie wsłuchiwali się w naukę i "
+"nie działali proporcjonalnie do sytuacji alarmowej. Pomimo wyniszczających "
+"wyzwań dnia dzisiejszego nasza relacja z klimatem na pewno będzie "
+"decydującym wyborem, przed którym stanie nasze pokolenie."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:31
+msgid ""
+"It’s up to us to demand a response to the crisis looming before us. We do "
+"this for the future of our children. We do this for each other. We do this "
+"for ourselves. Because we want to live."
+msgstr ""
+"Naszym zadaniem jest żądanie właściwej odpowiedzi na czekającą nas "
+"katastrofę. Robimy to dla dobra naszych dzieci. Robimy to dla siebie "
+"nawzajem. Robimy to dla nas samych. Bo chcemy żyć."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:33
+msgid "The choice is simple: Rebellion, or extinction."
+msgstr "Wybór jest prosty: Rebelia albo wymarcie."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:35
+msgid "![](/assets/uploads/newsletter-43-image16.jpg)"
+msgstr "![](/assets/uploads/newsletter-43-image16.jpg)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:37
+msgid ""
+"Five countries have already seen a flurry of inspiring actions – from [pink "
+"elks in Sweden](https://www.facebook.com/ExtinctionRebellion/"
+"posts/669535493662562) to fake blood [outside the Trump Tower in NYC]"
+"(https://twitter.com/ScooterCasterNY/status/1303059148234543109), not to "
+"mention all the colourful antics of the [UK Rebellion](https://"
+"extinctionrebellion.uk/category/newsletter/). Read below to get all the "
+"beautiful details."
+msgstr ""
+"W pięciu krajach zorganizowano już wiele inspirujących akcji: od [różowych "
+"łosi w Szwecji](https://www.facebook.com/ExtinctionRebellion/posts/"
+"669535493662562) po sztuczną krew [przed nowojorskim wieżowcem Trump "
+"Tower](https://twitter.com/ScooterCasterNY/status/1303059148234543109), nie "
+"mówiąc o wszystkich kolorowych wybrykach [brytyjskiej "
+"Rebelii](https://extinctionrebellion.uk/category/newsletter/). Poniżej "
+"przeczytasz o wszystkich pięknych szczegółach akcji."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:39
+msgid ""
+"And it’s not too late to get involved. Gather your local rebels, [get "
+"trained up](https://rebellion.global/training/) and [get those banners "
+"flying!](https://rebellion.global/get-involved/)"
+msgstr ""
+"Nie jest za późno, żeby się zaangażować. Zbierz lokalnych rebeliantów i "
+"rebeliantki, [weźcie udział w szkoleniu](https://rebellion.global/training/) "
+"i [przygotujcie swoje banery](https://rebellion.global/get-involved/)!"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:41
+msgid ""
+"Also in this issue, we highlight an upcoming [Fashion Act Now](https://www."
+"crowdfunder.co.uk/fashion-act-now#start), aimed at transforming the "
+"international fashion industry and boycotting international Fashion Week. "
+"More info below!"
+msgstr ""
+"W tym wydaniu newslettera przeczytasz również o nadchodzącej akcji "
+"organizowanej przez [Fashion Act Now](https://www.crowdfunder.co.uk/fashion-"
+"act-now#start). Jej celem jest przekształcenie branży mody i zbojkotowanie "
+"Międzynarodowego Tygodnia Mody. Więcej informacji już wkrótce!"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:44
+msgid "![](/assets/uploads/newsletter-43-image1.jpg)  *\"We love the Earth\"*"
+msgstr "![](/assets/uploads/newsletter-43-image1.jpg)  *„Kochamy Ziemię”*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:46
+msgid ""
+"Finally, we draw attention to the East African Crude Oil Pipeline (EACOP) "
+"Project which is supported by Standard Bank. [XR South Africa](http://"
+"extinctionrebellion.org.za/) is calling on all rebels to spread the word "
+"about boycotting Standard Bank. See [here](https://docs.google.com/document/"
+"d/1Z81Nhl0szvoUxaTOgpurizG2_bEoLMzBFdUSpDMUn1k/edit) for further details."
+msgstr ""
+"Na koniec porozmawiamy o Rurociągu Wschodnioafrykańskim (czyli East African "
+"Crude Oil Pipeline, w skrócie EACOP), którego budowę wspiera afrykański "
+"Standard Bank. [XR RPA](http://extinctionrebellion.org.za/) prosi wszystkich "
+"rebeliantów i rebeliantki o nawoływanie do bojkotu banku. Więcej informacji "
+"uzyskasz [tutaj](https://docs.google.com/document/d/"
+"1Z81Nhl0szvoUxaTOgpurizG2_bEoLMzBFdUSpDMUn1k/edit)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:48
+msgid "![](/assets/uploads/newsletter-43-image21.jpg)"
+msgstr "![](/assets/uploads/newsletter-43-image21.jpg)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:50
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Jeśli chcielibyście pomóc, możecie zajrzeć na naszą "
+"[stronę](https://rebellion.global) i [dowiedzieć się więcej o "
+"XR.](https://rebellion.global/about-us/)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:52
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"By połączyć siły z rebelianckimi osobami ze swojej okolicy, skontaktuj się "
+"ze swoją [najbliższą grupą XR](https://rebellion.global/branches/). Jeżeli "
+"blisko ciebie nie ma działającej grupy, [załóż ją!](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:54
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Jeżeli masz ochotę poczytać wcześniejsze numery newslettera, znajdziesz je "
+"[tutaj](https://rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:56
+msgid ""
+"This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)."
+msgstr ""
+"Ta Rebelia potrzebuje Twojego wsparcia. Jeśli nie możesz zaoferować nam "
+"swojego czasu, zastanów się, czy jesteś w stanie [wspomóc nas "
+"finansowo](https://chuffed.org/project/xrinternational)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:58 2020-09-10-newsletter-43.md:285
+msgid ""
+"[Support the Rebellion](https://chuffed.org/project/xrinternational){.xr-"
+"button}"
+msgstr ""
+"[Wesprzyj Rebelię](https://chuffed.org/project/xrinternational){.xr-button}"
+
+#. type: Title ##
+#: 2020-09-10-newsletter-43.md:60
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Ostatnie akcje"
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:64
+#, no-wrap
+msgid "ELK-stinction Rebellion"
+msgstr "Rebelia z łosiem na czele"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:67
+msgid "7 SEP | Lysekil, Sweden"
+msgstr "7 WRZ | Lysekil, Szwecja"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:69
+msgid ""
+"[XR Sweden](https://www.extinctionrebellion.se/) made a magnificent start to "
+"this season’s wave of rebellions! After many weeks of preparations, the "
+"weekend opened with an [unforgettable pink elk](https://www.facebook.com/"
+"extinctionrebellionsverige/posts/611616073076792) and roadblocks on bridges "
+"outside the parliament."
+msgstr ""
+"[XR Szwecja](https://www.extinctionrebellion.se/) świetnie rozpoczęła ten "
+"sezon rebelii! Zwieńczeniem wielu tygodni przygotowań było pojawienie się w "
+"centrum miasta [zapadającego w pamięć różowego łosia](https://www.facebook."
+"com/extinctionrebellionsverige/posts/611616073076792) oraz zablokowanie ulic "
+"i mostów przed parlamentem."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:72
+msgid "![](/assets/uploads/newsletter-43-image24.jpg)  *The elk in question.*"
+msgstr "![](/assets/uploads/newsletter-43-image24.jpg)  *Słynny różowy łoś.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:74
+msgid ""
+"From then, things got going fast. Rebels brought fake oil and a [message of "
+"truth](https://www.facebook.com/extinctionrebellionsverige/"
+"posts/611655066406226) to the HQ of Preemraff, a massive oil refinery "
+"planning ecocidal expansions. At the same time, rebels on Vasa bridge kept "
+"the spotlight fixed on ‘Preem’ with a [vividly symbolic oil-pouring action]"
+"(https://www.facebook.com/extinctionrebellionsverige/posts/614660116105721)."
+msgstr ""
+"A potem wszystko potoczyło się szybko. Rebelianci i rebeliantki przynieśli "
+"pod siedzibę główną Preemraff sztuczną ropę naftową i [głoszącą prawdę "
+"wiadomość](https://www.facebook.com/extinctionrebellionsverige/posts/"
+"611655066406226). Spółka zajmuje się wydobyciem ropy naftowej i planuje "
+"zatrważającą rozbudowę, która doprowadzi do ekoeksterminacji. W międzyczasie "
+"rebelianci i rebeliantki na moście Vasa postarali się o to, by nikt nie "
+"zapomniał o zbrodniach „Preemu” – pomogła im w tym [akcja rozlania "
+"symbolicznej ropy](https://www.facebook.com/extinctionrebellionsverige/posts/"
+"614660116105721)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:76
+msgid ""
+"Police cleared Vasa down to the [very last rebel](https://www.facebook.com/"
+"extinctionrebellionsverige/posts/611816136390119?"
+"__cft__[0]=AZUtB1vxcoeRxrlh7l2luWpCZBm1n5QeicBndGMZRaiaDXmwcf26j3zINxbSVt8SuX9XmwqK-"
+"vtBPcNA71PCoTMLJzL1wdMRqRKrEhu9qasva9IKh6lxDaGcEo3Hvt4xU2wyuGFEa4MiMW9Fh-"
+"GR3k49WVoHh8BBvoMEVObhvnV1mg&__tn__=%2CO%2CP-R) - only to find a joyous new "
+"roadblock had [popped up](https://www.facebook.com/watch/live/?"
+"v=2019462828188170&ref=watch_permalink) on another bridge! This bridge was "
+"also cleared at length and then - you guessed it - rebels reappeared again, "
+"now more numerous than ever, on a [major road in Stockholm’s centre](https://"
+"www.facebook.com/extinctionrebellionsverige/posts/611882859716780), keeping "
+"Kungsgatan free of cars and filled with song for hours!"
+msgstr ""
+"Policja przegoniła z mostu [wszystkich rebeliantów i "
+"rebeliantki](https://www.facebook.com/extinctionrebellionsverige/posts/"
+"611816136390119?__cft__[0"
+"]=AZUtB1vxcoeRxrlh7l2luWpCZBm1n5QeicBndGMZRaiaDXmwcf26j3zINxbSVt8SuX9XmwqK-"
+"vtBPcNA71PCoTMLJzL1wdMRqRKrEhu9qasva9IKh6lxDaGcEo3Hvt4xU2wyuGFEa4MiMW9Fh-"
+"GR3k49WVoHh8BBvoMEVObhvnV1mg&__tn__=%2CO%2CP-R), ale czekała na nią "
+"niespodzianka – w tym czasie [zablokowano](https://www.facebook.com/watch/"
+"live/?v=2019462828188170&ref=watch_permalink) kolejny most! Z niego również "
+"wygoniono uczestników i uczestniczki protestu, ale – tak, dobrze zgadliście –"
+"rebeliantki i rebelianci pojawili się znowu, tym razem w jeszcze "
+"liczniejszym gronie, i zablokowali Kungsgatan, [główną ulicę "
+"Sztokholmu](https://www.facebook.com/extinctionrebellionsverige/posts/"
+"611882859716780). Przez kilka godzin nie przejechał przez nią ani jeden "
+"samochód, a zamiast warczenia silników po okolicy niosła się muzyka!"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:78
+msgid "![](/assets/uploads/newsletter-43-image19.jpg)"
+msgstr "![](/assets/uploads/newsletter-43-image19.jpg)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:80
+msgid ""
+"The following morning things got more political, with a [blockade of "
+"Parliament](https://www.facebook.com/extinctionrebellionsverige/"
+"posts/612496662988733). Singing, flags and glue kept spirits high, despite "
+"the rain. When police finally dispersed the action outside Parliament, "
+"rebels reappeared once again, this time [back at Kungsgatan](https://www."
+"facebook.com/extinctionrebellionsverige/posts/612644906307242), before "
+"moving onto [swarming](https://www.facebook.com/extinctionrebellionsverige/"
+"posts/612644906307242) in the evening."
+msgstr ""
+"Następnego dnia rebelia nabrała bardziej politycznego charakteru: ["
+"zablokowany został Parlament](https://www.facebook.com/"
+"extinctionrebellionsverige/posts/612496662988733). Pomimo deszczu nie "
+"zabrakło wspólnych śpiewów, powiewających flag i kleju. Kiedy policji udało "
+"się w końcu rozproszyć demonstrację pod Parlamentem, rebelianci i "
+"rebeliantki pojawili się ponownie, tym razem [znowu na "
+"Kungsgatan](https://www.facebook.com/extinctionrebellionsverige/posts/"
+"612644906307242), a wieczorem był ich już tam [całe "
+"mnóstwo](https://www.facebook.com/extinctionrebellionsverige/posts/"
+"612644906307242)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:82
+msgid "![](/assets/uploads/newsletter-43-image11.jpg)"
+msgstr "![](/assets/uploads/newsletter-43-image11.jpg)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:84
+msgid ""
+"To wrap things up, the final day saw rebels [march](https://www.facebook.com/"
+"watch/live/?v=437673817164849&ref=watch_permalink) en (socially-distanced) "
+"masse. The energy was lively, despite police attempts to clamp down using "
+"covid legislation."
+msgstr ""
+"Ostatniego dnia akcji rebelianci i rebeliantki [wyruszyli w zmasowany "
+"marsz](https://www.facebook.com/watch/live/"
+"?v=437673817164849&ref=watch_permalink) – ale dystans społeczny nadal został "
+"zachowany. Chociaż policja próbowała zatrzymać protest, powołując się na "
+"ustawę covidową, czuć było niesamowitą energię uczestników i uczestniczek."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:86
+msgid ""
+"Stockholm’s rebellion had gone brilliantly, and generated [massive online "
+"reach](https://www.facebook.com/extinctionrebellionsverige/"
+"posts/612892419615824). For a video-roundup of the weekend see [here]"
+"(https://www.facebook.com/extinctionrebellionsverige/posts/613655516206181), "
+"and for photos see [here](https://www.facebook.com/ExtinctionRebellion/"
+"posts/669535493662562)."
+msgstr ""
+"Szwedzka rebelia odniosła niezwykły sukces, a za pomocą internetu wieść o "
+"niej dotarła do [ogromnej liczby osób](https://www.facebook.com/"
+"extinctionrebellionsverige/posts/612892419615824). My mamy dla Was ["
+"podsumowanie wideo](https://www.facebook.com/extinctionrebellionsverige/"
+"posts/613655516206181) z weekendu oraz [przegląd zdjęć](https://www.facebook."
+"com/ExtinctionRebellion/posts/669535493662562)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:88
+msgid "![](/assets/uploads/newsletter-43-image10.jpg)"
+msgstr "![](/assets/uploads/newsletter-43-image10.jpg)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:90
+msgid ""
+"But XR Sweden wasn’t done with Preem! Just yesterday, four brave rebels "
+"[blocked the entrance](https://www.facebook.com/extinctionrebellionsverige/"
+"videos/338566434035448) to the Preem refinery in Lysekil by locking "
+"themselves to two barrels, once again securing national media coverage in "
+"cooperation with the local [Stoppa Preemraff](https://www.facebook.com/"
+"stoppapreemraff/) campaign. And today, rebels in Stockholm followed up "
+"[outside the parliament](https://www.facebook.com/"
+"extinctionrebellionsverige)."
+msgstr ""
+"Ale XR Szwecja miała jeszcze coś w zanadrzu dla Preem! Zaledwie wczoraj "
+"czworo odważnych rebeliantów i rebeliantek [zablokowało "
+"wjazd](https://www.facebook.com/extinctionrebellionsverige/videos/"
+"338566434035448) do rafinerii Preem w Lysekil. Przykuli się do dwóch baryłek "
+"i we współpracy z lokalną kampanią [Stoppa Preemraff](https://www.facebook."
+"com/stoppapreemraff/) ponownie zwrócili uwagę krajowych mediów. Dzisiaj "
+"natomiast rebelianci i rebeliantki w Sztokholmie kontynuują protesty [przed "
+"parlamentem](https://www.facebook.com/extinctionrebellionsverige)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:92
+msgid ""
+"Whatever happens with oil refineries, it looks like XR Sweden won’t be short "
+"of energy any time soon!"
+msgstr ""
+"Jakakolwiek przyszłość czeka rafinerie ropy naftowej, jedno jest pewne: "
+"energii grupie XR Szwecja na pewno nie zabraknie!"
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:95
+#, no-wrap
+msgid "Don't talk about us, talk about the climate crisis."
+msgstr "Nie mówcie o nas, ale o kryzysie klimatycznym."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:98
+msgid "4 SEP - Ongoing | Poland"
+msgstr "4 WRZ – teraz | Polska"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:100
+msgid ""
+"Dozens of [XR Polska](https://twitter.com/XRPolska) rebels rounded off the "
+"third day of Polish Rebellion actions by blocking Świętokrzyska and "
+"Marszałkowska Streets in the centre of [Warsaw](https://twitter.com/"
+"TOPTVPINFO/status/1302993015892475904), with some rebels glueing themselves "
+"to tyres weighted with concrete."
+msgstr ""
+"Dziesiątki rebeliantek i rebeliantów z [XR Polska](https://twitter.com/"
+"XRPolska) zakończyło trzeci dzień akcji Polskiej Rebelii, blokując ulicę "
+"Świętokrzyską i Marszałkowską w samym centrum [Warszawy](https://twitter.com/"
+"TOPTVPINFO/status/1302993015892475904). Część protestujących przykleiła się "
+"do oblanych betonem opon."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:103
+msgid ""
+"![](/assets/uploads/newsletter-43-image17.jpg)  *A young Polish rebel being "
+"taken away by police in Warsaw*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image17.jpg)  *Młoda polska rebeliantka "
+"przenoszona przez warszawską policję.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:105
+msgid ""
+"The police gathered quickly. Several young rebels were detained, but were "
+"accompanied by lawyers who ensured their civil rights were respected. XR "
+"negotiators de-escalated conflicts between rebels and angry members of the "
+"public, some of whom labeled the protestors eco-terrorists."
+msgstr ""
+"Policja szybko pojawiła się na miejscu. Zatrzymano kilkoro młodych "
+"rebeliantów, ale towarzyszyli im prawnicy i prawniczki, którzy czuwali, by "
+"przestrzegano ich praw obywatelskich. Negocjatorzy i negocjatorki XR "
+"złagodzili konflikt zaistniały między protestującymi a wściekłymi "
+"obywatelami i obywatelkami. Niektórzy z nich nazywali osoby uczestniczące w "
+"proteście „ekoterrorystami”."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:107
+msgid ""
+"In the words of one rebel: “In the past, to be a terrorist you had to hijack "
+"a plane, shoot people, plant a bomb. Today -- you just make someone late for "
+"work.”"
+msgstr ""
+"Jak mówi jedna z osób biorących udział w akcji: „Kiedyś, żeby być "
+"terrorystą, trzeba było uprowadzić samolot, zastrzelić kogoś, podłożyć "
+"gdzieś bombę... Dzisiaj wystarczy sprawić, żeby ktoś spóźnił się do pracy.”"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:110
+msgid ""
+"![](/assets/uploads/newsletter-43-image15.jpg)  *Poland’s ‘fala rebelii’ - "
+"wave of rebellion.*"
+msgstr "![](/assets/uploads/newsletter-43-image15.jpg)  *Polska fala rebelii.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:112
+msgid ""
+"Rebels are demanding Poland acts immediately and declares a climate "
+"emergency, saying that if the government won’t sound the alarm, they will."
+msgstr ""
+"Rebelianci i rebeliantki żądają natychmiastowych działań, w tym ogłoszenia "
+"klimatycznej sytuacji alarmowej. Mówią, że jeśli rząd nie będzie bił na "
+"alarm, zrobią to oni."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:114
+msgid ""
+"XR Polska's message is that the facts are clear. Social dialogue is no "
+"longer an option in Poland, civil disobedience is the only way to bring "
+"about change."
+msgstr ""
+"Wiadomość XR Polska jest jasna: fakty mówią same za siebie. Dialog społeczny "
+"przestał być już w Polsce opcją. Teraz jedyną drogą do zmian jest "
+"nieposłuszeństwo obywatelskie."
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:117
+#, no-wrap
+msgid "A clear message to Trump in NYC"
+msgstr "Wyraźny sygnał dla Trumpa w Nowym Jorku"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:120
+msgid "7 SEP | New York, USA"
+msgstr "7 WRZ | Nowy Jork, USA"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:123
+msgid ""
+"![](/assets/uploads/newsletter-43-image12.jpg)  *Photo: James Messerschmidt*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image12.jpg)  *Zdjęcie: James "
+"Messerschmidt*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:125
+msgid ""
+"In New York City, rebels kicked off the day with a ceremony held at The "
+"Bethesda Fountain in Central Park in solidarity with [Refuse Fascism NYC]"
+"(https://refusefascism.org) and [Defend Democracy in Brazil](https://www."
+"defenddemocracyinbrazil.org)."
+msgstr ""
+"Nowojorscy rebelianci i rebeliantki rozpoczęli dzień od ceremonii "
+"zorganizowanej przed Bethesda Fountain w Central Parku. W ten sposób "
+"pokazali swoją solidarność z organizacjami [Refuse Fascism "
+"NYC](https://refusefascism.org) oraz [Defend Democracy in "
+"Brazil](https://www.defenddemocracyinbrazil.org)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:127
+msgid ""
+"A climate ribbon was created as an arts ritual to grieve what each of us "
+"stands to lose to climate chaos and to affirm our solidarity as we unite to "
+"fight against it. Rebels were grieving the Earth, demanding system change, "
+"and marching for the right to a just, sustainable future."
+msgstr ""
+"Stworzona przez protestujących artystyczna konstrukcja „climate ribbon” ("
+"ang. wstążka klimatyczna) reprezentowała żałobę po wszystkim tym, co każdy z "
+"nas straci w wyniku chaosu klimatycznego. Symbol ten oznacza również naszą "
+"solidarnościową walkę w obliczu obecnej sytuacji klimatycznej. Rebelianci i "
+"rebeliantki opłakiwali Ziemię, domagali się zmian systemowych i maszerowali "
+"na rzecz sprawiedliwej, ekologicznej przyszłości."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:129
+msgid ""
+"Later, three brave rebels were arrested outside the Trump International "
+"Hotel & Tower in Manhattan after they [climbed the Columbus Circle Globe]"
+"(https://twitter.com/ScooterCasterNY/status/1303059148234543109) and dropped "
+"a banner demanding Climate Justice."
+msgstr ""
+"Następnie pod budynkiem Trump International Hotel & Tower na Manhattanie "
+"aresztowano troje odważnych rebeliantów po tym, jak [wspięli się na Columbus "
+"Circle Globe](https://twitter.com/ScooterCasterNY/status/1303059148234543109)"
+", na którym wywiesili baner z żądaniem sprawiedliwości klimatycznej."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:131
+msgid ""
+"Rebels chanted ‘We are unstoppable. Another world is possible’ against a "
+"jazzy backdrop provided by street performers. Videos [here](https://twitter."
+"com/MichelleLhooq/status/1303145183605927936)."
+msgstr ""
+"Zajściu towarzyszyły okrzyki: „Jesteśmy nie do zatrzymania. Inny świat jest "
+"możliwy” oraz jazzowe rytmy autorstwa ulicznych artystów. Kilka wideo do "
+"obejrzenia [tutaj](https://twitter.com/MichelleLhooq/status/"
+"1303145183605927936)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:133
+msgid "![](/assets/uploads/newsletter-43-image7.jpg)"
+msgstr "![](/assets/uploads/newsletter-43-image7.jpg)"
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:136
+#, no-wrap
+msgid "A Royal Rebellion"
+msgstr "Królewska rebelia"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:139
+msgid "1&2 SEP | The Hague & Amsterdam, The Netherlands"
+msgstr "1 i 2 WRZ | Haga i Amsterdam, Holandia"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:142
+msgid ""
+"![](/assets/uploads/newsletter-43-image13.jpg)  *A ‘burgerberaad’ (citizens’ "
+"assembly) is the latest fashion. Photo: Romy Fernandez*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image13.jpg)  *‘Burgerberaad’ (niderl. "
+"panel obywatelski) to ostatni krzyk mody. Zdjęcie: Romy Fernandez*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:144
+msgid ""
+"[Rebels in The Netherlands](https://www.emma.nl/artikelen/waarom-haken-"
+"actievoerders-aan-bij-extinction-rebellion) announced their upcoming "
+"September Rebellion with actions in The Hague and Amsterdam."
+msgstr ""
+"[Rebelianci w Holandii](https://www.emma.nl/artikelen/waarom-haken-"
+"actievoerders-aan-bij-extinction-rebellion) ogłosili nadejście wrześniowej "
+"Rebelii, podczas której odbędą się akcję w Hadze i Amsterdamie."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:146
+msgid ""
+"As MPs returned to the Tweede Kamer (Dutch Parliament) after their summer "
+"recess, they were greeted by 400 climate protestors from a coalition of "
+"Extinction Rebellion Netherlands, Fridays for Future and Youth Climate "
+"Action."
+msgstr ""
+"Kiedy posłowie i posłanki wrócili po wakacyjnej przerwie do Tweede Kamer ("
+"czyli parlamentu Holandii), powitało ich 400 osób protestujących na rzecz "
+"klimatu. To koalicja Extinction Rebellion, Piątków dla Przyszłości oraz "
+"Młodzieżowej Akcji Klimatycznej."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:148
+msgid ""
+"[50 rebels jumped into the pond](https://twitter.com/fuut_ruud/"
+"status/1300728869000024067) surrounding the Parliament calling out the "
+"government’s inaction on the climate emergency and to kick the fossil fuel "
+"lobby out of the corridors of power."
+msgstr ""
+"[50 rebeliantów i rebeliantek wskoczyło do stawu](https://twitter.com/"
+"fuut_ruud/status/1300728869000024067), który otacza budynek Parlamentu, i "
+"wytknęło rządowi brak działań w sprawie alarmu klimatycznego. Nawoływało "
+"także do wyrzucenia ze struktur władzy lobbystów działających na rzecz paliw "
+"kopalnych."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:151
+msgid ""
+"![](/assets/uploads/newsletter-43-image8.jpg)  *‘Polderen tot het water aan "
+"de lippen staat?’ ‘Making political compromises and slow decisions until the "
+"water rises to our lips’*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image8.jpg)  *„Polderen tot het water aan "
+"de lippen staat?” (niderl. Podejmowanie politycznych kompromisów i powolnych "
+"decyzji, aż woda zaleje nam usta?”)’*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:153
+msgid ""
+"With a ‘trashion fashion’ show, where all items were made from discarded "
+"materials, rebels called for a citizens’ assembly on the climate and "
+"ecological emergency. Rebels will return to Parliament on budget day, 15 "
+"September, to shed a tear for what is likely to be another wasted year of "
+"climate inaction in their ‘Traanrede’, a tearful pun on the ‘Troonrede’ (a "
+"yearly speech by the King from his Throne announcing budget plans)."
+msgstr ""
+"Rebelianci i rebeliantki nawoływali do ustanowienia panelu obywatelskiego na "
+"rzecz alarmu klimatycznego i ekologicznego. Pomógł im w tym „śmieciowy pokaz "
+"mody”, w którym zaprezentowano kreacje wykonane z odpadów. Rebelianci i "
+"rebeliantki powrócą do Parlamentu 15 września, by uronić łzy nad zapewne "
+"kolejnym zmarnowanym rokiem, jeśli chodzi o klimat. Akcja „Traanrede” to ich "
+"łzawa wersja „Troonrede” – przemowy, podczas której ze swojego tronu król "
+"ogłasza budżet na przyszły rok."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:155
+msgid ""
+"The next day, rebels moved to Amsterdam for a royal announcement. Two "
+"rebels, imitating King Willem Alexander and Queen Maxima, climbed onto the "
+"balcony of the palace on Dam Square for a [royal wave and to drop a banner]"
+"(https://twitter.com/NLRebellion/status/1301227481467359233) sharing their "
+"support for the upcoming Rebellion."
+msgstr ""
+"Następnego dnia rebelianci i rebeliantki byli już w Amsterdamie, gdzie "
+"uczestniczyli w królewskim ogłoszeniu. Dwoje rebeliantów, udających króla "
+"Wilhelma i królową Maksymę, wspięło się na balkon Pałacu na Placu Dam, skąd ["
+"pomachali do swych poddanych i umieścili baner](https://twitter.com/"
+"NLRebellion/status/1301227481467359233) oznajmiający o ich poparciu dla "
+"nadchodzącej Rebelii."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:157
+msgid ""
+"The September Rebellion will be back in action in The Hague on 15 September "
+"and for a long weekend of disruption from 18 to 21 September in Amsterdam, "
+"find out [more here](https://extinctionrebellion.nl/)."
+msgstr ""
+"Wrześniowa Rebelia powraca do Hagii 15 września, a do Amsterdamu – podczas "
+"długiego weekendu od 18 do 21 września. Więcej informacji znajdziesz "
+"[tutaj](https://extinctionrebellion.nl/)."
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:160
+#, no-wrap
+msgid "Scooter sabotage in Lyon"
+msgstr "Sabotaż hulajnóg w Lyon"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:163
+msgid "04 SEP | Lyon, France"
+msgstr "04 WRZ | Lyon, Francja"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:165
+msgid ""
+"This week saw XR Lyon [resume](https://www.leprogres.fr/economie/2020/09/03/"
+"ce-jeudi-matin-operation-neutralisation-de-trottinettes-en-libre-service-par-"
+"des-activistes-ecologistes) a long-running [campaign](https://"
+"extinctionrebellion.fr/blog/2020/07/09/reponse-aux-entreprises-de-"
+"trottinettes-electriques.html) against ‘trotinettes’."
+msgstr ""
+"W tym tygodniu grupa XR Lyon [ponownie podjęła](https://www.leprogres.fr/"
+"economie/2020/09/03/ce-jeudi-matin-operation-neutralisation-de-trottinettes-"
+"en-libre-service-par-des-activistes-ecologistes) trwającą od dawna "
+"[kampanię](https://extinctionrebellion.fr/blog/2020/07/09/reponse-aux-"
+"entreprises-de-trottinettes-electriques.html) przeciwko „trotinettes” (fr. "
+"hulajnogi)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:167
+msgid ""
+"Rebels in the city claim these ‘free-floating’ electric scooters are "
+"clogging up public spaces at the expense of public transport, pedestrians, "
+"and ultimately the environment - not least by perpetuating the culture of "
+"cheap ‘throwaway’ goods at odds with a sustainable future (see their "
+"masterful summary [here](https://extinctionrebellion.fr/blog/2020/07/09/"
+"reponse-aux-entreprises-de-trottinettes-electriques.html))."
+msgstr ""
+"Rebelianci i rebeliantki z Lyon twierdzą, że te „swobodnie poruszające się” "
+"hulajnogi elektryczne zajmują wspólną przestrzeń i szkodzą transportowi "
+"publicznemu, pieszym oraz środowisku – między innymi dlatego, że promują "
+"kulturę tanich, „jednorazowych” produktów, a nie zrównoważonej przyszłości "
+"([tutaj](https://extinctionrebellion.fr/blog/2020/07/09/reponse-aux-"
+"entreprises-de-trottinettes-electriques.html) przeczytasz ich mistrzowskie "
+"podsumowanie sytuacji (po francusku))."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:170
+msgid ""
+"![](/assets/uploads/newsletter-43-image23.jpg)  *‘Your lithium batteries "
+"lead us to the funeral-home’ sounds a lot cooler in French, trust us*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image23.jpg)  * „Wasze baterie litowe "
+"wpędzą nas do grobu” – zapewniamy, że hasło brzmi po francusku o wiele "
+"lepiej.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:172
+msgid ""
+"The night’s action saw the ‘sabotage’ (generally achieved by spraying the QR "
+"code with an extinction symbol) of 100 trotinettes, along with the "
+"appearance of awareness-raising [posters](https://twitter.com/xr_lyon/"
+"status/1302201405445468160) and [posts](https://twitter.com/xr_lyon/"
+"status/1302201363921805313). As French rebels return from les vacances and "
+"build up towards [autumnal actions](https://www.facebook.com/xrfrance/"
+"events/), we’re excited to see what might come next!"
+msgstr ""
+"Podczas nocnej akcji doszło do „sabotażu” stu hulajnóg (osiągniętego głównie "
+"przez zamalowanie kodów QR graffiti z symbolem XR). Na mieście pojawiły się "
+"również [plakaty](https://twitter.com/xr_lyon/status/1302201405445468160) "
+"przedstawiające prawdę o tym środku transportu, a na mediach "
+"społecznościowych – [posty](https://twitter.com/xr_lyon/status/"
+"1302201363921805313). Francuscy rebelianci i rebeliantki wracają z les "
+"vacances i zaczynają przygotowania do [jesiennych "
+"akcji](https://www.facebook.com/xrfrance/events/). Nie możemy się doczekać, "
+"co przygotują dla nas w tym sezonie!"
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:175
+#, no-wrap
+msgid "UK Rebellion: Stop The Press, Back The Bill."
+msgstr "Brytyjska Rebelia: Zatrzymujemy prasę, popieramy ustawę."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:178
+msgid "1 SEP - Ongoing | London, Cardiff, Manchester."
+msgstr "1 WRZ – teraz | Londyn, Cardiff, Manchester."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:181
+msgid ""
+"![](/assets/uploads/newsletter-43-image9.jpg)  *Newspaper printer blockade. "
+"Credit: Gareth Morris*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image9.jpg)  *Blokada przed drukarnią "
+"gazet. Zdjęcie: Gareth Morris*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:183
+msgid ""
+"The UK is about to chalk off its 8th day of Rebellion. But it’s fair to say "
+"that whatever lies ahead, for sheer impact, nothing will top the action we "
+"woke up to on Saturday."
+msgstr ""
+"W Wielkiej Brytanii końca dobiega właśnie ósmy dzień Rebelii. Możemy jednak "
+"z pewnością powiedzieć, że cokolwiek jeszcze przed nami, to nic nie przebije "
+"skutków akcji, która obudziła nas w sobotę."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:185
+msgid ""
+"Overnight, 100 rebels had blockaded three major newspaper printers, causing "
+"a major shortage of newspapers across the country. The targeted titles were "
+"owned by 5 billionaires who dominate the UK’s media landscape, and suppress "
+"the truth about the climate crisis to suit their business interests."
+msgstr ""
+"Grupa 100 rebeliantów i rebeliantek zablokowała w nocy trzy główne drukarnie "
+"gazet, co spowodowało wielki niedobór prasy w całym kraju. Publikacje, "
+"których dotyczyła akcja, należą do pięciu miliarderów trzymający w ryzach "
+"brytyjskie media. Nie głoszą prawdy o kryzysie klimatycznym, bo szkodzi ona "
+"ich interesom."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:187
+msgid ""
+"With the oligarchs unsettled, the mainstream media could no longer ignore "
+"us, and the government threatened to [reclassify](https://"
+"extinctionrebellion.uk/2020/09/08/spine-chilling-and-stalinist-baroness-mps-"
+"and-former-counter-terrorism-policeman-speak-out-against-reclassifying-"
+"extinction-rebellion-as-serious-organised-crime/) our movement as an "
+"[‘organised crime group](https://www.theguardian.com/environment/2020/sep/06/"
+"extinction-rebellion-organised-crime-group-ridiculous-uk)’. Policing became "
+"at times comically overzealous, with no less than 14 police vans lying in "
+"wait to dismantle the Lightship Greta, a handmade boat on shopping trolley "
+"wheels that had been pushed all the way from Brighton to London by a "
+"dedicated rebel crew."
+msgstr ""
+"Przy zdenerwowanych oligarchach popularne media nie mogły nas już dłużej "
+"ignorować, a rząd zagroził, że [przeklasyfikuje](https://extinctionrebellion."
+"uk/2020/09/08/spine-chilling-and-stalinist-baroness-mps-and-former-counter-te"
+"rrorism-policeman-speak-out-against-reclassifying-extinction-rebellion-as-ser"
+"ious-organised-crime/) nasz ruch jako [„zorganizowaną grupę "
+"przestępczą”](https://www.theguardian.com/environment/2020/sep/06/extinction-"
+"rebellion-organised-crime-group-ridiculous-uk). Policja odznaczała się "
+"momentami śmieszną wręcz nadgorliwością: aż czternaście policyjnych "
+"furgonetek czekało, aż będzie można rozmontować Lightship Greta (ang. "
+"Latarnik Greta), czyli ręcznie wykonaną łódkę z wmontowanymi wózkami "
+"sklepowymi, którą wierni rebelianci i rebeliantki przepchnęli z Brighton aż "
+"do Londynu."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:190
+msgid ""
+"![](/assets/uploads/newsletter-43-image22.jpg)  *The Lightship Greta. Over "
+"100 police officers were waiting to impound it as it entered London.*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image22.jpg)  *Lightship Greta. Ponad 100 "
+"policjantów i policjantek czekało, aż latarnik dotrze do Londynu, a oni będą "
+"mogli go skonfiskować.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:192
+msgid ""
+"While stopping the printing presses was the most exciting action so far, the "
+"tabling of [the Climate and Ecological Emergency Bill](https://www.ceebill."
+"uk/) in parliament was perhaps the most hopeful."
+msgstr ""
+"Zatrzymanie prac w drukarni było z pewnością najbardziej ekscytującą akcją "
+"jak do tej pory, ale działaniem dającym nam najwięcej nadziei jest niedawne "
+"przedstawienie w parlamencie ustawy o alarmie klimatycznym i środowiskowym, "
+"czyli [Climate and Ecological Emergency Bill](https://www.ceebill.uk/) (CEE)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:194
+msgid ""
+"The CEE Bill represents a new tactic in our fight for a stable planet: a "
+"piece of legislation written by scientists, lawyers, activists, and yes, "
+"rebels that could turn our demands into UK law."
+msgstr ""
+"CEE stanowi nową taktykę w naszej walce o stabilną sytuację planety: ustawa "
+"napisana przez naukowców i naukowczynie, prawników i prawniczki, aktywistów "
+"i aktywistki oraz samych rebeliantów i rebeliantki może wpisać nasze "
+"postulaty do brytyjskiego prawa."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:197
+msgid ""
+"![](/assets/uploads/newsletter-43-image5.jpg)  *Yup, that’s a Rebellion. "
+"Credit: Chris Jerrey*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image5.jpg)  *Tak, oto właśnie Rebelia. "
+"Zdjęcie: Chris Jerrey*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:199
+msgid ""
+"Other action highlights include the blockading of a polluting waste "
+"incinerator in Cardiff to highlight the city’s terrible air quality, a blue "
+"[marine march](https://youtu.be/xQcSWP8eCLY), a [disco-bedience](https://"
+"twitter.com/XRebellionUK/status/1303067853562744832) featuring a polar bear "
+"inside Manchester’s local authority (owner of the biggest and oiliest public "
+"pension fund in the UK), and [the brilliant speeches given by Rebel writers]"
+"(https://www.facebook.com/XRebellionUK/videos/2851090234990506/?"
+"__so__=permalink&__rv__=related_videos) outside a house in Tufton Street - "
+"home to a nexus of climate denying lobbyists that have been whispering in "
+"our politicians’ ears for decades."
+msgstr ""
+"Do innych akcji wartych uwagi zaliczamy też zablokowanie zanieczyszczającej "
+"okolicę spalarni odpadów w Cardiff w celu podkreślenia złej jakości "
+"powietrza w mieście; błękitny [morski marsz](https://youtu.be/xQcSWP8eCLY); "
+"[disco-nieposłuszeństwo](https://twitter.com/XRebellionUK/status/"
+"1303067853562744832) w biurze lokalnych władz w Manchesterze (są one "
+"właścicielami największego i najbardziej „zaropiałego” prywatnego funduszu "
+"emerytalnego w kraju), i to z udziałem niedźwiedzia polarnego; oraz [świetne "
+"przemowy wygłoszone przez osoby z grupy Rebel writers](https://www.facebook."
+"com/XRebellionUK/videos/2851090234990506/"
+"?__so__=permalink&__rv__=related_videos). Akcja odbyła się przed domem na "
+"Tufton Street: to siedziba lobbystów negujących zmiany klimatu, którzy od "
+"dziesięcioleci szepczą do ucha brytyjskim politykom i polityczkom."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:201
+msgid ""
+"To catch up on more UK action, see past issues of [Rebel Daily](https://"
+"extinctionrebellion.uk/category/newsletter/) - the rebellion-time daily "
+"newsletter."
+msgstr ""
+"Aby być na bieżąco ze wszystkimi akcjami w Wielkiej Brytanii, przeczytaj "
+"ostatnie wydania [Rebel Daily](https://extinctionrebellion.uk/category/"
+"newsletter/) – codziennego newslettera wydawanego podczas rebelii."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:206
+msgid "![](/assets/uploads/newsletter-43-image14.jpg)  *Nelson, New Zealand.*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image14.jpg)  *Nelson, Nowa Zelandia.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:208
+msgid ""
+"Under the cover of darkness, [rebels chained themselves to the gates of the "
+"Ravensdown](https://www.youtube.com/watch?v=7e_VLf4YbIU&feature=youtu."
+"be&fbclid=IwAR3bUtrS-TNVCcNnZe_tEXNOkxws0-n639c4sUKyUl4vc7g4vgJWKSNBpBg) "
+"chemical depot to stop the illegal importation of synthetic fertilisers and "
+"blood phosphate from the Western Sahara, where Indigeonous peoples are "
+"persecuted by the Moroccan government."
+msgstr ""
+"Pod osłoną nocy [rebeliantki i rebelianci przykuli się do bram magazynu "
+"chemicznego Ravensdown](https://www.youtube.com/"
+"watch?v=7e_VLf4YbIU&feature=youtu.be&fbclid=IwAR3bUtrS-"
+"TNVCcNnZe_tEXNOkxws0-n639c4sUKyUl4vc7g4vgJWKSNBpBg). Celem akcji było "
+"wymuszenie zaprzestania nielegalnego importu sztucznych nawozów oraz "
+"okupionego krwią i cierpieniem fosforanu z Sahary Zachodniej, gdzie ludność "
+"tubylcza prześladowana jest przez marokański rząd."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:214
+msgid ""
+"![](/assets/uploads/newsletter-43-image6.jpg)  *Jakarta and Yogyakarta, "
+"Indonesia.*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image6.jpg)  *Dżakarta i Yogyakarta, "
+"Indonezja.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:216
+msgid ""
+"Rebels placed over 500 shoes donated from across Indonesia during their "
+"month of celebrating their independence as a country. The installation "
+"represents the people’s desire to be free from the climate crisis too."
+msgstr ""
+"Rebelianci i rebeliantki położyli obok siebie ponad 500 par butów. "
+"Przekazali im je obywatele i obywatelki z całego kraju podczas miesiąca, w "
+"którym obchodzone jest święto niepodległości Indonezji. Instalacja "
+"symbolizuje chęć ludzi do pokonania kryzysu klimatycznego."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:221
+msgid "![](/assets/uploads/newsletter-43-image18.jpg)  *Istanbul, Turkey.*"
+msgstr "![](/assets/uploads/newsletter-43-image18.jpg)  *Stambuł, Turcja.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:223
+msgid ""
+"[With love from Turkey](https://twitter.com/yokolus_isyani/"
+"status/1300809550833029123?s=20). Rebels join in song to show their "
+"solidarity with the UK Rebellion around their own pink boat. ‘Gerçeği Söyle’ "
+"= ‘Tell the Truth’."
+msgstr ""
+"[Pozdrowienia z Turcji](https://twitter.com/yokolus_isyani/status/"
+"1300809550833029123?s=20). Rebelianci i rebeliantki łączą się w pieśni "
+"dookoła swojej własnej różowej łodzi, aby pokazać swoją solidarność z "
+"brytyjską Rebelią. „Gerçeği Söyle” znaczy po turecku „mówcie prawdę”."
+
+#. type: Title ##
+#: 2020-09-10-newsletter-43.md:226
+#, no-wrap
+msgid "Upcoming"
+msgstr "Nadchodzące wydarzenia"
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:228
+#, no-wrap
+msgid "Are You Ready for the Rolling Rebellion?"
+msgstr "Jesteście gotowi na lawinę Rebelii?"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:231
+msgid "Now - Early Oct | WorldWide"
+msgstr "Teraz – początek października | cały świat"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:234
+msgid ""
+"![](/assets/uploads/newsletter-43-image2.jpg)  *Coming soon to a roadblock "
+"near you!*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image2.jpg)  *Już niedługo w Twojej "
+"okolicy!*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:235
+#, no-wrap
+msgid "From New York City to Warsaw, the rebellion is happening and it’s up to you to get involved. See [here](https://rebellion.global/press/2020/09/01/global-rebellion/) for a list of International Upcoming Rebellions.  \n"
+msgstr ""
+"Od Nowego Jorku po Warszawę: nadchodzi rebelia i to od Ciebie zależy, czy "
+"się w nią zaangażujesz. Zobacz [listę](https://rebellion.global/press/2020/"
+"09/01/global-rebellion/) nadchodzących Międzynarodowych Rebelii.  \n"
+
+#. type: Title ###
+#: 2020-09-10-newsletter-43.md:239
+#, no-wrap
+msgid "Fashion Act Now"
+msgstr "Fashion Act Now"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:242
+msgid "Early 2021 | WorldWide"
+msgstr "Początek 2021 roku | cały świat"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:244
+msgid "If we don’t fix fashion, we’re all f***ed."
+msgstr "Jeśli nie naprawimy świata mody, wszyscy mamy przej*bane."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:246
+msgid ""
+"Fashion’s glossy facade hides a host of environmental and human rights "
+"abuses. The fashion industry’s emissions represent 10% of global total, "
+"exceeding those of all international flights and shipping combined. "
+"Intensive cultivation of cotton destroys biodiversity and only around 2% of "
+"workers in the clothing industry earn a living wage."
+msgstr ""
+"Błyszczące opakowanie świata mody skrywa w sobie szereg naruszeń praw "
+"człowieka i środowiska. Emisje wytwarzane przez branżę mody stanowią 10% "
+"wszystkich światowych emisji – oznacza to, że przekraczają emisje wytwarzane "
+"przez wszystkie międzynarodowe loty i spedycję. Intensywne uprawy bawełny "
+"niszczą różnorodność biologiczną, a tylko około 2% pracownic i pracowników "
+"branży odzieżowej dostaje godne wynagrodzenie."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:249
+msgid ""
+"![](/assets/uploads/newsletter-43-image20.jpg)  *XR Fashion Action protest "
+"Victoria Beckham show in London. Photo: Ben Darlington.*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image20.jpg)  *Grupa XR Fashion Action "
+"protestuje przeciwko londyńskiemu pokazowi Victorii Beckham. Zdjęcie: Ben "
+"Darlington.*"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:251
+msgid ""
+"[XR Fashion Action](https://www.xrfashionaction.com/) are calling for a "
+"cancellation of Fashion Weeks and for activists to boycott fashion. The "
+"commercial interests of the fashion industry mean profit is always first. We "
+"can’t wait for change. We have to disrupt."
+msgstr ""
+"[XR Fashion Action](https://www.xrfashionaction.com/) nawołują do odwołania "
+"Tygodni Mody i proszą, by aktywiści i aktywistki przyłączyli się do bojkotu "
+"branży odzieżowej. Komercyjne interesy przemysłu mody oznaczają, że zyski "
+"zawsze stawiane są na pierwszym miejscu. Nie możemy czekać na zmiany. Musimy "
+"wprowadzić zamieszanie."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:253
+msgid ""
+"If you’re an expert, industry stakeholder or activist reading this and "
+"thinking: ‘I can help with that!’ please [get in touch.](https://www."
+"xrfashionaction.com)"
+msgstr ""
+"Jeśli należysz do grona ekspertów i ekspertek, udziałowców i udziałowczyń w "
+"branży oraz aktywistów i aktywistek, a czytając to, myślisz: „Mogę pomóc!”, ["
+"zgłoś się do nas](https://www.xrfashionaction.com)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:255
+msgid ""
+"And we need your help to fund this vital work. Please visit our [Crowdfunder "
+"page](https://www.crowdfunder.co.uk/fashion-act-now#start) to find more "
+"information on our campaign, money raised will fund actions in different "
+"countries."
+msgstr ""
+"Potrzebujemy Twojej pomocy, aby sfinansować te niezwykle potrzebne "
+"działania. Odwiedź naszą [stronę na platformie "
+"Crowdfunding](https://www.crowdfunder.co.uk/fashion-act-now#start) – tam "
+"uzyskasz więcej informacji na temat naszej kampanii. Zebrane pieniądze "
+"zostaną spożytkowane na akcje w różnych krajach."
+
+#. type: Title ##
+#: 2020-09-10-newsletter-43.md:258
+#, no-wrap
+msgid "Must Reads"
+msgstr "Lektury obowiązkowe"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:261
+msgid ""
+"[New study](https://phys.org/news/2020-09-offset-years-climate-warming-"
+"emissions-analysis.html) on how a plant-based diet could offset global "
+"emissions by 9-16 years."
+msgstr ""
+"[Nowe badanie](https://phys.org/news/2020-09-offset-years-climate-warming-"
+"emissions-analysis.html) na temat tego, jak dieta roślinna może "
+"zrekompensować globalne emisje o 9–16 lat."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:263
+msgid ""
+"6 young Portuguese activists are [taking 33 countries to court](https://"
+"apnews.com/bebd4cd5a94de6426bf77a99fa22bbe5) in European human rights case "
+"over the impact on their future."
+msgstr ""
+"Sześcioro młodych aktywistek i aktywistów z Portugalii [wytoczyło 33 krajom "
+"sprawę](https://apnews.com/bebd4cd5a94de6426bf77a99fa22bbe5) w Europejskim "
+"Trybunale Praw Człowieka. Powodem jest negatywny wpływ działań owych państw "
+"na naszą przyszłość."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:265
+msgid ""
+"[El grave impacto](https://news.un.org/es/story/2020/09/1479842) que tuvo el "
+"verano de 220 en las capas de hielo y los glaciares (The grave impact of "
+"this summer on 220 of the our ice-caps and glaciers)"
+msgstr ""
+"[„El grave impacto](https://news.un.org/es/story/2020/09/1479842) que tuvo "
+"el verano de 2020 en las capas de hielo y los glaciares” (hiszp. Negatywne "
+"skutki lata 2020 roku na pokrywy lodowe i lodowce)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:267
+msgid ""
+"[‘Why women leading the climate movement are underappreciated and sometimes "
+"invisible’](https://insideclimatenews.org/news/04092020/women-climate-"
+"movement-all-we-can-save-q-and-a)"
+msgstr ""
+"[„Why women leading the climate movement are underappreciated and sometimes "
+"invisible”](https://insideclimatenews.org/news/04092020/women-climate-"
+"movement-all-we-can-save-q-and-a) (ang. Dlaczego kobiety, które stoją na "
+"czele ruchu klimatycznego, są niedocenianie a czasem nawet niewidzialne)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:269
+msgid ""
+"Californian fires burned [more than 1 million acres](https://www."
+"scientificamerican.com/article/fast-moving-california-wildfires-boosted-by-"
+"climate-change/) this week. There are also major fires in Arizona and "
+"Colorado."
+msgstr ""
+"W tym tygodniu w pożarach w Kalifornii spłonęło [ponad milion akrów "
+"ziemi](https://www.scientificamerican.com/article/"
+"fast-moving-california-wildfires-boosted-by-climate-change/). Ogromne pożary "
+"mają także miejsce w Arizonie i w Kolorado."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:271
+msgid ""
+"‘[Climate Apartheid is the coming police violence crisis](https://www."
+"dissentmagazine.org/online_articles/climate-apartheid-is-the-coming-police-"
+"violence-crisis)’"
+msgstr ""
+"[„Climate Apartheid is the coming police violence "
+"crisis”](https://www.dissentmagazine.org/online_articles/climate-apartheid-"
+"is-the-coming-police-violence-crisis) (ang. Apartheid klimatyczny to "
+"nadchodzący kryzys przemocy policji)"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:276
+msgid ""
+"![](/assets/uploads/newsletter-43-image4.jpg)  *XR Poland fanning you "
+"farewell.*"
+msgstr ""
+"![](/assets/uploads/newsletter-43-image4.jpg)  *XR Polska wachluje was na "
+"pożegnanie.*"
+
+#. type: Title ##
+#: 2020-09-10-newsletter-43.md:277
+#, no-wrap
+msgid "Thank you"
+msgstr "Dziękujemy"
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:280
+msgid "Thank you for reading."
+msgstr "Dziękujemy za lekturę."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:282
+msgid ""
+"If you have any questions or queries, please get in touch at [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"W razie pytań, prosimy o kontakt pod adresem [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+
+#. type: Plain text
+#: 2020-09-10-newsletter-43.md:284
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""
+"Znajdujemy się w kluczowej fazie ludzkiej historii. Abyśmy dalej mogli "
+"szerzyć naszą misję, ruch XR potrzebuje środków finansowych. Docenimy każdą "
+"kwotę, jaką możesz [ofiarować](https://chuffed.org/project/xrinternational)."

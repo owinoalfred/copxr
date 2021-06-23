@@ -1,0 +1,1863 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-15 16:36+0800\n"
+"PO-Revision-Date: 2021-03-17 17:04+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Spanish <http://translate.organise.earth/projects/blog-posts/"
+"2021-03-09-global-newsletter-49-1/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:15
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"Global Newsletter #49: You Are an Animal\"\n"
+"slug: global-newsletter-49\n"
+"date: 2021-03-09 18:07\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/animal_rebellion.jpg\n"
+"seoImage: /assets/uploads/animal_rebellion.jpg\n"
+"seoTitle: How Animal Rebellion, a sister movement to Extinction Rebellion, has a\n"
+"  plant-based vision that’s growing all over the world.\n"
+"seoDescription: How Animal Rebellion, a sister movement to Extinction Rebellion,\n"
+"  has a plant-based vision that’s growing all over the world.\n"
+msgstr ""
+"lang: es\n"
+"title: \"Boletín global #49: Eres un animal\"\n"
+"slug: global-newsletter-49\n"
+"date: 2021-03-09 18:07\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/animal_rebellion.jpg\n"
+"seoImage: /assets/uploads/animal_rebellion.jpg\n"
+"seoTitle: Cómo la visión centrada en el consumo de productos de origen "
+"vegetal que Animal Rebellion, un movimiento hermano de\n"
+"  Extinction Rebellion, defiende se está extendiendo en todo el mundo.\n"
+"seoDescription: Cómo la visión centrada en el consumo de productos de origen "
+"vegetal que Animal Rebellion, un movimiento\n"
+"  hermano de Extinction Rebellion, defiende se está extendiendo en todo el "
+"mundo.\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:17
+msgid ""
+"![](/assets/uploads/animal_rebellion.jpg \"People in black body suits "
+"represent a spider tangled in a web\")"
+msgstr ""
+"![](/assets/uploads/animal_rebellion.jpg \"Activistas en trajes negros "
+"representan una araña enredada en su tela\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:19
+#, no-wrap
+msgid "*Animal Rebellion in Czech Republic gets caught in a web of lies.*\n"
+msgstr "*La Animal Rebellion en la República Checa cae atrapada en una red de mentiras.*\n"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:20
+#, no-wrap
+msgid "Introduction"
+msgstr "Introducción"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:23
+msgid "Dear rebels,"
+msgstr "Queridos rebeldes:"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:25
+msgid ""
+"Back in the summer of 2019, a small group of UK rebels felt something was "
+"missing from the exciting wave of climate activism that XR had ushered into "
+"the world."
+msgstr ""
+"Allá por el verano de 2019, un pequeño grupo de rebeldes del Reino Unido "
+"sintió que faltaba algo en la emocionante ola de activismo climático que la "
+"XR había introducido en el mundo."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:27
+msgid ""
+"Our first International Rebellion had pushed the climate emergency into "
+"popular culture, and we were busy linking the climate crisis with other "
+"systems of human oppression - the crises of Capitalism, and Colonialism, and "
+"the Patriarchy."
+msgstr ""
+"Nuestra primera Rebelión Internacional ha llevado la emergencia climática a "
+"la cultura popular, y nosotros estabamos ocupados relacionando la crisis "
+"climática con otros sistemas opresores- la crisis del capitalismo, "
+"colonialismo y el patriarcado."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:29
+msgid ""
+"But one oppressive ideology was not being mentioned. Speciesism - the belief "
+"that one species of animal can be morally superior to and so dominate "
+"another."
+msgstr ""
+"Pero una ideología opresiva no había sido mencionada. El especismo: la "
+"creencia de que una especie animal puede ser moralmente superior a otra y, "
+"por tanto, dominarla."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:31
+msgid ""
+"![](/assets/uploads/42f015d7-39a4-47c9-b3d3-02d1bdeef656.jpg \"Four people "
+"wearing blood-covered plastic overalls hold bloody brooms\")"
+msgstr ""
+"![](/assets/uploads/42f015d7-39a4-47c9-b3d3-02d1bdeef656.jpg \"Cuatro "
+"personas con monos de plástico ensangrentados sostienen escobas sangrientas"
+"\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:32
+#, no-wrap
+msgid "*Animal Rebellion in front of the ministry of agriculture, Warsaw, Poland*  \n"
+msgstr "*Animal Rebellion frente al Ministerio de Agricultura, Varsovia, Polonia*.  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:35
+msgid ""
+"These rebels felt that speciesism was key to understanding how humanity "
+"dislocated itself from the natural world, how the climate crisis came about, "
+"and how to solve it. Quite simply, farming animals is one of the most "
+"ecologically destructive, oppressive and [wasteful activities](https://www."
+"theguardian.com/environment/2018/may/31/avoiding-meat-and-dairy-is-single-"
+"biggest-way-to-reduce-your-impact-on-earth?) our civilisation does, and it "
+"is a major contributor of greenhouse gas emissions."
+msgstr ""
+"Estos rebeldes consideraron que el especismo era clave para entender cómo la "
+"humanidad se desvinculó del mundo natural, llevándonos a la crisis climática "
+"y a sus posibles soluciones. Sencillamente, la cría de animales de granja es "
+"una de las actividades ecológicamente más destructivas, opresivas y "
+"[despilfarradoras](https://www.theguardian.com/environment/2018/may/31/"
+"avoiding-meat-and-dairy-is-single-biggest-way-to-reduce-your-impact-on-"
+"earth?) generadas por nuestra civilización, y una de las principales "
+"responsables de las emisiones de gases de efecto invernadero."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:37
+msgid ""
+"So they formed [Animal Rebellion](https://animalrebellion.org/), a sister "
+"group to Extinction Rebellion, that retained our movement’s culture, "
+"tactics, and demands - but with one small addition. Their 2nd demand "
+"explicitly called for an end to the animal agriculture and fishing "
+"industries."
+msgstr ""
+"Así se formó [Animal Rebellion](https://animalrebellion.org/), un grupo "
+"hermano de Extinction Rebellion, que mantuvo la cultura, tácticas y demandas "
+"de nuestro movimiento, pero con una pequeña adición. Su segunda "
+"reivindicación exige explícitamente el fin de las industrias de agricultura "
+"animal y la pesca."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:39
+msgid ""
+"Today Animal Rebellion chapters are active in [over 30 countries](https://"
+"www.google.com/maps/d/u/0/viewer?"
+"mid=1m9V5xeNV7QonIKPSOcAq6ifNlt8Jw9kE&ll=-3.81666561775622e-14%2C-102.12885869999997&z=1), "
+"including Spain, Mexico, and [Taiwan](https://www.youtube.com/watch?"
+"v=O4m2IIYxxIM&list=PLAmnKPyaTXGBatPZBAEuM8EX2zxBrWL8i&ab_channel=AnimalRebellion), "
+"and the movement is growing in every region of the world. They have targeted "
+"agri-conglomerates, blockaded meat subsidising parliaments, and campaigned "
+"for plant-based meals in schools - with actions involving international "
+"collaboration as well as campaigning side-by-side with XR."
+msgstr ""
+"En la actualidad grupos de Animal Rebellion están activos en [más de 30 "
+"países](https://www.google.com/maps/d/u/0/viewer?"
+"mid=1m9V5xeNV7QonIKPSOcAq6ifNlt8Jw9kE&ll=-3.81666561775622e-14%2C-102.12885869999997&z=1), "
+"España, México y [Taiwán](https://www.youtube.com/watch?"
+"v=O4m2IIYxxIM&list=PLAmnKPyaTXGBatPZBAEuM8EX2zxBrWL8i&ab_channel=AnimalRebellion) "
+"inclusive, y este movimiento está creciendo en todas las regiones del mundo. "
+"En sus objetivos has estado los grandes grupos agrícolas, han bloqueado a "
+"los parlamentos que subvencionan industrias cárnicas y han hecho campaña a "
+"favor de las comidas a base de vegetales en las escuelas, con acciones que "
+"implican la colaboración internacional, además de hacer campaña junto a XR."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:41
+msgid ""
+"![](/assets/uploads/taiwan.jpg \"People march in Taiwan under colourful "
+"lanterns\")"
+msgstr ""
+"![](/assets/uploads/taiwan.jpg \"Marcha en Taiwán bajo faroles de colores\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:43
+#, no-wrap
+msgid "*Animal Rebellion Taiwan march for climate and animal justice*\n"
+msgstr "*Animal Rebellion Taiwán marcha por la justicia climática y animal*.\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:45
+msgid ""
+"In Action Highlights you can see how the two movements formed a rebel "
+"alliance to launch the Spring Rebellion in the Netherlands, and learn more "
+"about Animal Rebellion’s vision for a plant-based society in Must Reads."
+msgstr ""
+"En \"Acciones Destacadas\" puedes ver cómo los dos movimientos formaron una "
+"alianza rebelde para lanzar la Revuelta de la Primavera en los Países Bajos, "
+"y también aprender más sobre la visión de Animal Rebellion sobre una "
+"sociedad basada en plantas en \"Lo que hay que leer\"."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:47
+msgid ""
+"Elsewhere in this issue we have a report on a global action targeting "
+"Norwegian embassies to highlight that government’s gratuitous greenwashing. "
+"We also cover a digital strike in the Philippines where rebels are fighting "
+"to stop a dam project that will devastate biodiversity."
+msgstr ""
+"En este número también informamos sobre una acción global dirigida a las "
+"embajadas noruegas para poner de manifiesto el eco-blanqueo gratuito de ese "
+"gobierno. También cubrimos una huelga digital en Filipinas, donde los "
+"rebeldes luchan para detener el proyecto de una presa que destruirá la "
+"biodiversidad."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:49
+msgid ""
+"As yet another [major report lands](https://unfccc.int/news/climate-"
+"commitments-not-on-track-to-meet-paris-agreement-goals-as-ndc-synthesis-"
+"report-is-published) with the verdict that our governments are failing to "
+"address the climate emergency, we have to harness the power of as many "
+"rebels as possible to bring about the system change we all want, even if "
+"there are differences about how we get there."
+msgstr ""
+"Mientras llega otro [gran informe](https://unfccc.int/news/climate-"
+"commitments-not-on-track-to-meet-paris-agreement-goals-as-ndc-synthesis-"
+"report-is-published) con el veredicto de que nuestros gobiernos están "
+"fallando en abordar la emergencia climática, tenemos que aprovechar el poder "
+"de tantos rebeldes como sea posible para lograr el cambio de sistema que "
+"todos queremos, aunque haya diferencias sobre cómo llegar a él."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:51
+msgid ""
+"As Extinction Rebellion increasingly becomes a movement of movements, so too "
+"will this newsletter. We hope you enjoy the temporary shift in perspective "
+"that this Animal Rebellion themed issue brings."
+msgstr ""
+"A medida que Extinction Rebellion se convierte en un movimiento de "
+"movimientos, también lo será este boletín. Esperamos que disfruten del "
+"cambio de perspectiva temporal que supone este número centrado en Animal "
+"Rebellion."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:53
+msgid ""
+"If you’d like to help, please check out our [website](https://rebellion."
+"global) and [learn more about XR.](https://rebellion.global/about-us/)"
+msgstr ""
+"Si quieres ayudar, por favor consulta nuestra [página web](https://rebellion."
+"global) y [descubre más sobre XR.](https://rebellion.global/about-us/)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:55
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/). If there’s no active group near "
+"you, you can [start your own!](https://cloud.organise.earth/s/"
+"jGSWEoJ9PW65xLc)"
+msgstr ""
+"Para conectarte con rebeldes en tu área, ponte en contacto con tu [XR grupo "
+"más cercano](https://rebellion.global/branches/). Si no hay ningún grupo "
+"activo cercano, puedes empezar [tu propio grupo](https://cloud.organise."
+"earth/s/jGSWEoJ9PW65xLc)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:57
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them [here]"
+"(https://rebellion.global/blog/)."
+msgstr ""
+"Si quieres consultar los boletines informativos anteriores, encuéntralos "
+"[aquí](https://rebellion.global/blog/)."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:59
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/xr/"
+"globalsupport) is appreciated."
+msgstr ""
+"Estamos en una fase crucial de la historia de la humanidad, y nuestra "
+"Rebelión necesita dinero para hacer oír nuestro mensaje. Cualquier [donación]"
+"(https://chuffed.org/xr/globalsupport) será apreciada."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:61
+msgid ""
+"[Support the Rebellion](https://chuffed.org/xr/globalsupport){.xr-button}"
+msgstr "[Apoya la Rebelión](https://chuffed.org/xr/globalsupport){.xr-button}"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:62
+#, no-wrap
+msgid "Contents"
+msgstr "Contenidos"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:71
+#: 2021-03-09-global-newsletter-49-1.md:72
+#, no-wrap
+msgid "Action Highlights"
+msgstr "Acciones destacadas"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:71
+#: 2021-03-09-global-newsletter-49-1.md:174
+#, no-wrap
+msgid "Action Round Up"
+msgstr "Ronda de acciones"
+
+#. type: Title #
+#: 2021-03-09-global-newsletter-49-1.md:71
+#: 2021-03-09-global-newsletter-49-1.md:202
+#, no-wrap
+msgid "Upcoming Actions"
+msgstr "Próximas acciones"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:71
+#: 2021-03-09-global-newsletter-49-1.md:236
+#, no-wrap
+msgid "Announcements"
+msgstr "Anuncios"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:71
+#: 2021-03-09-global-newsletter-49-1.md:292
+#, no-wrap
+msgid "Must Reads"
+msgstr "Lo que hay que leer"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:71
+#: 2021-03-09-global-newsletter-49-1.md:327
+#, no-wrap
+msgid "Book of the Month"
+msgstr "Libro del mes"
+
+#. type: Bullet: '* '
+#: 2021-03-09-global-newsletter-49-1.md:71
+msgid "Humans of XR"
+msgstr "Humanos de XR"
+
+#. type: Title ###
+#: 2021-03-09-global-newsletter-49-1.md:74
+#, no-wrap
+msgid "Spring Debut for Rebel Alliance"
+msgstr "Debut de primavera de la Alianza Rebelde"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:77
+#, no-wrap
+msgid "**26 FEB - APR | Amsterdam, Netherlands**\n"
+msgstr "**26 FEB - ABR | Amsterdam, Países Bajos**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:79
+msgid "![](/assets/uploads/8d31857d-0bb7-4706-9676-89b4000d42fc.jpg)"
+msgstr "![](/assets/uploads/8d31857d-0bb7-4706-9676-89b4000d42fc.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:81
+#, no-wrap
+msgid "*Banner: ‘The Spring Rebellion is Here’ Photo: Robby Hiel*\n"
+msgstr "*Pancarta: 'La Rebelión de la Primavera está aquí' Foto: Robby Hiel*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:83
+msgid ""
+"XR Amsterdam and Animal Rebellion launched their first co-ordinated action "
+"to kick off the country’s Spring Rebellion."
+msgstr ""
+"XR Ámsterdam y Animal Rebellion lanzaron su primera acción coordinada para "
+"inaugurar la Rebelión de la Primavera del país."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:85
+msgid ""
+"Rebels from both groups formed a moving blockade through the city, targeting "
+"a major road full of trams and traffic that led into its centre. Around 100 "
+"rebels were in attendance, with each movement bringing their own costumes, "
+"banners, and style. 3 XR rebels marched naked, each bearing an XR demands on "
+"their chest to ensure some messaging made it into the press. Animal "
+"Rebellion meanwhile had rebels dressed as bees and cows and chickens."
+msgstr ""
+"Los rebeldes de ambos grupos formaron un bloqueo móvil a través de la "
+"ciudad, apuntando a una carretera principal llena de tranvías y tráfico que "
+"conducía a su centro. Asistieron unos 100 rebeldes, y cada movimiento aportó "
+"sus propios trajes, pancartas y estilo. 3 rebeldes de XR protestaron "
+"desnudos, cada uno de ellos con una reivindicación de XR en el pecho para "
+"asegurarse de que algún mensaje llegara a la prensa. La Animal Rebellion por "
+"su parte, contaba con rebeldes vestidos de abejas, vacas y pollos."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:87
+msgid ""
+"But the Amsterdam police were ready and waiting at the first major crossing. "
+"They blocked off the procession and proclaimed that anyone who stayed put "
+"would be arrested. Around 2/3rds elected to ignore this warning and were "
+"carried by police into waiting buses, which then drove them to the outskirts "
+"of the city where they were dumped and told to walk home."
+msgstr ""
+"Pero la policía de Ámsterdam estaba lista y esperando en el primer cruce "
+"principal. Bloquearon la procesión y anunciaron que todo aquel que se parase "
+"sería arrestado. Alrededor de 2/3 de los manifestantes decidieron ignorar "
+"esta advertencia y fueron llevados por la policía a los autobuses que "
+"estaban esperando para el propósito, en ellos fueron transportados a las "
+"afueras de la ciudad, donde los abandonaron haciéndoles volver a su a casa "
+"caminando."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:89
+msgid ""
+"![](/assets/uploads/body_paint.jpg \"People stand in the middle of the road, "
+"holding signs and with text painted onto their bodies\")"
+msgstr ""
+"![](/assets/uploads/body_paint.jpg \"La gente en pie en medio de la "
+"carretera, sosteniendo carteles y con textos pintados en sus cuerpos\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:91
+#, no-wrap
+msgid "*Body-painted rebels make sure our 3 demands are seen by all.*\n"
+msgstr "*Los rebeldes con pintadas en su cuerpo se aseguran de que nuestras 3 demandas sean vistas por todos.*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:93
+msgid ""
+"This pick up and dump tactic is a new and mutually beneficial arrangement "
+"for all parties. Images of rebels being arrested make it into the media, but "
+"the rebels don’t take up any cell space which is now severely limited thanks "
+"to covid restrictions. While protests of any size are legal in the "
+"Netherlands, social distancing still applies, and there is a strict 9pm "
+"curfew."
+msgstr ""
+"Esta táctica de tira y afloja es un nuevo y mutuo acuerdo beneficioso para "
+"todas las partes. Las imágenes de los rebeldes detenidos aparecen en los "
+"medios de comunicación, pero los rebeldes no ocupan espacio en las celdas, "
+"que ahora están muy limitadas debido a las restricciones por el Covid. "
+"Aunque las protestas de cualquier tamaño son legales en Holanda, se sigue "
+"aplicando el distanciamiento social y hay un estricto toque de queda a las "
+"21:00 horas."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:95
+msgid ""
+"The rebels who escaped the police buses proceeded to the Museumplein, a "
+"large public square, blocking streets with ‘mini-swarms’ along the way. "
+"After a few hours they were re-joined by their bussed off comrades, who had "
+"walked back into the city centre. But they did not remain united for very "
+"long."
+msgstr ""
+"Los rebeldes que escaparon de los autobuses de la policía se dirigieron a "
+"Museumplein, una gran plaza pública, bloqueando las calles con \"mini-"
+"enjambres\" a lo largo del camino. Al cabo de unas horas los compañeros que "
+"se habían escapado de los autobuses y que habían regresado al centro de la "
+"ciudad se reunieron. Pero no permanecieron unidos durante mucho tiempo."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:97
+msgid "![](/assets/uploads/police.jpg)"
+msgstr "![](/assets/uploads/police.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:99
+#, no-wrap
+msgid "*The rebel alliance meets a heavy police presence Photo: Isa Herzet*\n"
+msgstr "*La alianza rebelde se encuentra con una fuerte presencia policial Foto: Isa Herzet*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:101
+msgid ""
+"As the parade headed for the National Opera house, a protest space "
+"prearranged with authorities, the police cornered them again, and another 40 "
+"rebels were loaded into the buses and deported to the suburbs."
+msgstr ""
+"Cuando el desfile se dirigía a la Ópera Nacional, un espacio de protesta "
+"preacordado con las autoridades, la policía los acorraló de nuevo, y otros "
+"40 rebeldes fueron montados en los autobuses y deportados a los suburbios."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:103
+msgid ""
+"The Spring Rebellion will continue intermittently across Amsterdam, "
+"Rotterdam, Utrecht, and Tilburg until April, with actions increasing in "
+"intensity around the national elections in mid-March."
+msgstr ""
+"La Rebelión de Primavera continuará de forma intermitente en Ámsterdam, "
+"Rotterdam, Utrecht y Tilburg hasta abril, y las acciones aumentarán en "
+"intensidad en torno a las elecciones nacionales de mediados de marzo."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:105
+msgid ""
+"After a year of operating largely independently, both Animal Rebellion and "
+"XR Amsterdam are very happy with their blossoming alliance, and are already "
+"planning more detailed coordination for actions over the year ahead."
+msgstr ""
+"Tras un año de funcionamiento en gran medida independiente, tanto Animal "
+"Rebellion como XR Amsterdam están muy contentos con su floreciente alianza, "
+"y ya están planeando una coordinación más detallada para las acciones del "
+"próximo año."
+
+#. type: Title ###
+#: 2021-03-09-global-newsletter-49-1.md:108
+#, no-wrap
+msgid "XR Norway Welcomes Global Support & Snowpeople"
+msgstr "XR Noruega da la bienvenida al apoyo global y a los muñecos de nieve"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:111
+#, no-wrap
+msgid "**4 MARCH | Global**\n"
+msgstr "**4 MARZO | Global**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:113
+msgid ""
+"Rebels around the world heard XR Norway’s call. They demonstrated outside "
+"Norwegian embassies in 26 cities across all 5 continents, while rebels in "
+"Oslo called in a crowd of hefty snowpeople to blockade their Justice "
+"Ministry."
+msgstr ""
+"Rebeldes de todo el mundo escucharon el llamamiento de XR Noruega. Se "
+"manifestaron frente a las embajadas noruegas en 26 ciudades de los 5 "
+"continentes, mientras que los rebeldes de Oslo convocaron a una multitud de "
+"robustos muñecos de nieve para bloquear su Ministerio de Justicia."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:115
+msgid ""
+"The global action was organised to condemn the Norwegian government’s "
+"climate hypocrisy as well as the state’s harsh response to domestic civil "
+"disobedience."
+msgstr ""
+"La acción global se organizó para condenar la hipocresía climática del "
+"gobierno noruego, así como la dura respuesta del Estado a la desobediencia "
+"civil interna."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:117
+msgid ""
+"The condemnation came from as far afield as Brazil, Canada, South Korea, and "
+"Uganda. Swedish rebels in Malmö even awarded the Norwegian government with "
+"the Nobel Prize of Hypocrisy in a special ceremony."
+msgstr ""
+"La condena llegó desde lugares tan lejanos como Brasil, Canadá, Corea del "
+"Sur y Uganda. Los rebeldes suecos de Malmö incluso concedieron al gobierno "
+"noruego el Premio Nobel de la Hipocresía en una ceremonia especial."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:119
+msgid "![](/assets/uploads/korea.jpg)"
+msgstr "![](/assets/uploads/korea.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:121
+#, no-wrap
+msgid "*South Korean rebels outside the Norwegian embassy in Seoul*\n"
+msgstr "*Rebeldes surcoreanos frente a la embajada noruega en Seúl*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:123
+msgid ""
+"The Norwegian government officially plans to be carbon neutral by 2030, yet "
+"at the same time [pumps out 2 million barrels of oil a day](https://edition."
+"cnn.com/2021/02/17/world/climate-hypocrites-uk-canada-norway-intl/index.html?"
+"fbclid=IwAR1msMyyKpOUIARegzx3e9NwrlcS80oRffnXaH2ajq1hGMOdRmsZBXDXPR0), "
+"coming 2nd only to Russia for the title of Europe's biggest oil producer. In "
+"Oslo there are [smart street lamps](https://edition.cnn.com/2021/02/17/world/"
+"climate-hypocrites-uk-canada-norway-intl/index.html?"
+"fbclid=IwAR1msMyyKpOUIARegzx3e9NwrlcS80oRffnXaH2ajq1hGMOdRmsZBXDXPR0) "
+"powered by renewables that automatically dim when the streets are empty, yet "
+"these oil exports are not included in Norway’s territorial emissions."
+msgstr ""
+"El gobierno noruego planea oficialmente ser neutral en cuanto a emisiones de "
+"carbono para el año 2030, pero al mismo tiempo [bombea 2 millones de "
+"barriles de petróleo al día](https://edition.cnn.com/2021/02/17/world/"
+"climate-hypocrites-uk-canada-norway-intl/index.html?"
+"fbclid=IwAR1msMyyKpOUIARegzx3e9NwrlcS80oRffnXaH2ajq1hGMOdRmsZBXDXPR0), "
+"ocupando el segundo lugar después de Rusia con el título de mayor productor "
+"de petróleo de Europa. En Oslo hay [farolas inteligentes](https://edition."
+"cnn.com/2021/02/17/world/climate-hypocrites-uk-canada-norway-intl/index.html?"
+"fbclid=IwAR1msMyyKpOUIARegzx3e9NwrlcS80oRffnXaH2ajq1hGMOdRmsZBXDXPR0) "
+"alimentadas por energías renovables que se atenúan automáticamente cuando "
+"las calles están vacías, pero estas exportaciones de petróleo no se incluyen "
+"en las emisiones territoriales de Noruega."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:125
+msgid ""
+"Last year, [a new \"climate-friendly\" oil field](https://edition.cnn."
+"com/2020/01/19/business/norway-oil-field-climate-change-intl/index.html?"
+"fbclid=IwAR21CDZczp9A2E18UTos6pDtwjz6BDRnpIXKl3FryF61tXTkkCo4iuAN3DY) was "
+"opened by the Prime Minister, who proudly claimed that the operation was "
+"powered by renewable energy and therefore “reducing emissions”."
+msgstr ""
+"El año pasado, [un nuevo yacimiento petrolífero \"respetuoso con el clima\"]"
+"(https://edition.cnn.com/2020/01/19/business/norway-oil-field-climate-change-"
+"intl/index.html?"
+"fbclid=IwAR21CDZczp9A2E18UTos6pDtwjz6BDRnpIXKl3FryF61tXTkkCo4iuAN3DY) fue "
+"inaugurado por el Primer Ministro, que afirmó con orgullo que la operación "
+"se alimentaba de energías renovables y, por tanto, \"reducía las emisiones\"."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:127
+msgid ""
+"The state does not take kindly to XR Norway's attempts to point out its "
+"blatant hypocrisy. During a blockade of the Ministry of Petroleum and Energy "
+"last autumn, police arrested nearly all the rebels who had taken part, kept "
+"them in solitary confinement overnight, and then fined them 1 million "
+"Norwegian kroner, around 100,000 euros."
+msgstr ""
+"El Estado no ve con buenos ojos los intentos de XR Noruega de señalar su "
+"flagrante hipocresía. Durante un bloqueo del Ministerio de Petróleo y "
+"Energía el pasado otoño, la policía detuvo a casi todos los rebeldes que "
+"habían participado, los mantuvo incomunicados durante la noche y luego les "
+"impuso una multa de un millón de coronas noruegas, unos 100.000 euros."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:129
+msgid ""
+"While Norwegian rebels realise that their treatment by the state is still "
+"very privileged compared to authoritarian regimes elsewhere, the thorough "
+"police response and crippling fines are making civil disobedience very "
+"difficult in Norway. XR Norway is now running a [fundraiser](https://www."
+"chuffed.org/project/extinction-rebellion-norway-global-call-2021) to help "
+"those 53 rebels fined for the Ministry protest last fall."
+msgstr ""
+"Aunque los rebeldes noruegos son conscientes de que el trato que reciben del "
+"Estado sigue siendo muy privilegiado en comparación con los regímenes "
+"autoritarios de otros lugares, la exhaustiva respuesta policial y las multas "
+"paralizantes están haciendo que la desobediencia civil sea muy difícil en "
+"Noruega. XR Noruega está llevando a cabo una [recaudación de fondos](https://"
+"www.chuffed.org/project/extinction-rebellion-norway-global-call-2021) para "
+"ayudar a los 53 rebeldes multados por la protesta del Ministerio el pasado "
+"otoño."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:131
+msgid "![](/assets/uploads/8812bdee-931f-4a8d-bfcf-2f69a550a1fb.jpg)"
+msgstr "![](/assets/uploads/8812bdee-931f-4a8d-bfcf-2f69a550a1fb.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:133
+#, no-wrap
+msgid "*Snowpeople block the exit of the Ministry of Justice but avoid fines Photo: XR Norway*\n"
+msgstr "*Los muñecos de nieve bloquean la salida del Ministerio de Justicia pero evitan las multas Foto: XR Noruega*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:135
+msgid ""
+"This is why snowpeople were employed for [the Justice Ministry blockade]"
+"(https://www.facebook.com/watch/live/?"
+"v=736057457280008&ref=notif&notif_id=1614855489546244&notif_t=live_video_explicit) "
+"in Oslo rather than humans. As one Norwegian rebel put it, “snowmen can’t be "
+"fined”."
+msgstr ""
+"Por eso se emplearon muñecos de nieve para [el bloqueo del Ministerio de "
+"Justicia](https://www.facebook.com/watch/live/?"
+"v=736057457280008&ref=notif&notif_id=1614855489546244&notif_t=live_video_explicit) "
+"en Oslo en lugar de humanos. Como dijo un rebelde noruego, \"los muñecos de "
+"nieve no pueden ser multados\"."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:137
+msgid ""
+"Weighing 50 to 60 kilos each, they also can’t be moved easily. Police "
+"examined them, but did not intervene while they were decorated with carrots, "
+"hats and placards to the soundtrack of the movie ‘Frozen’. Nobody was fined "
+"in the end."
+msgstr ""
+"Con un peso de entre 50 y 60 kilos cada uno, tampoco se pueden mover con "
+"facilidad. La policía los examinó, pero no intervino mientras los decoraban "
+"con zanahorias, sombreros y pancartas al son de la película \"Frozen\". Al "
+"final no se multó a nadie."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:139
+msgid ""
+"Though XR Norway wished there had been more media coverage of their own "
+"actions, they were grateful and very touched by all the international "
+"support they got."
+msgstr ""
+"Aunque XR Noruega deseaba que hubiera habido más cobertura mediática de sus "
+"propias acciones, estaba agradecida y muy conmovida por todo el apoyo "
+"internacional que recibió."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:141
+msgid "![](/assets/uploads/5fa38ae6-a4ed-4395-86f7-1b4a486c2b43.jpg)"
+msgstr "![](/assets/uploads/5fa38ae6-a4ed-4395-86f7-1b4a486c2b43.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:143
+#, no-wrap
+msgid "*Nobel Prize of Hypocrisy ceremony in Malmö, Sweden*\n"
+msgstr "*Ceremonia del Premio Nobel de la Hipocresía en Malmö, Suecia*.\n"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:146
+#, no-wrap
+msgid "Digital Strike Puts Hole in Philippines Dam Plan"
+msgstr "La huelga digital hace un agujero en el plan de presas de Filipinas"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:149
+#, no-wrap
+msgid "**1 - 5 MARCH | Philippines**\n"
+msgstr "**1 - 5 MARZO | Filipinas**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:151
+msgid ""
+"XR Philippines has joined forces with the Stop Kaliwa Dam Network and "
+"Project 19 to raise awareness about the devastating effects of a proposed "
+"dam in the Sierra Madre mountains."
+msgstr ""
+"XR Filipinas ha unido sus fuerzas con la Red Stop la presa de Kaliwa y el "
+"Proyecto 19 para concienciar sobre los efectos devastadores de un proyecto "
+"de presa en las montañas de la Sierra Madre."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:153
+msgid ""
+"Their campaign included social media posts, infographics, [video "
+"testimonials](https://www.facebook.com/ExtinctionRebellionPH/"
+"videos/262626785343017/?__so__=channel_tab&__rv__=all_videos_card), a ‘water "
+"for all’ [webinar](https://www.facebook.com/ExtinctionRebellionPH/"
+"videos/486180545874609/?__so__=channel_tab&__rv__=all_videos_card), and a "
+"[petition](https://www.change.org/p/president-rodrigo-duterte-stop-kaliwa-"
+"dam-save-our-future). It concluded with a digital strike across Instagram, "
+"Facebook and Twitter by international youth groups."
+msgstr ""
+"Su campaña incluyó publicaciones en las redes sociales, infografías, "
+"[testimonios en vídeo](https://www.facebook.com/ExtinctionRebellionPH/"
+"videos/262626785343017/__so__=channel_tab&__rv__=all_videos_card), un "
+"[seminario web](https://www.facebook.com/ExtinctionRebellionPH/"
+"videos/486180545874609/?__so__=channel_tab&__rv__=all_videos_card) \"agua "
+"para todos\" y una [petición](https://www.change.org/p/president-rodrigo-"
+"duterte-stop-kaliwa-dam-save-our-future). Concluyó con una huelga digital en "
+"Instagram, Facebook y Twitter por parte de grupos internacionales de jóvenes."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:155
+msgid ""
+"The Kaliwa Dam would destroy the habitat of 126 species across 300 hectares "
+"and expose 100,000 residents downstream to the risk of severe flooding. It "
+"also violates the Philippine Constitution as well as the rights and "
+"ancestral lands of 5,000 Dumagat-Remontados people who should be protected "
+"by the [Indigenous People’s Rights Act](https://en.m.wikipedia.org/wiki/"
+"Indigenous_Peoples%27_Rights_Act_of_1997) (IPRA)."
+msgstr ""
+"La presa de Kaliwa destruiría el hábitat de 126 especies en 300 hectáreas y "
+"expondría a 100.000 residentes aguas abajo al riesgo de graves inundaciones. "
+"También viola la Constitución filipina, así como los derechos y las tierras "
+"ancestrales de 5.000 personas de Dumagat-Remontados, que deberían estar "
+"protegidas por la [Ley de Derechos de los Pueblos Indígenas](https://en.m."
+"wikipedia.org/wiki/Indigenous_Peoples%27_Rights_Act_of_1997) (IPRA)."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:157
+msgid "![](/assets/uploads/98ee2c52-ac9d-46fc-8c11-0759875ba8fc.png)"
+msgstr "![](/assets/uploads/98ee2c52-ac9d-46fc-8c11-0759875ba8fc.png)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:159
+#, no-wrap
+msgid "*Indigenous people protesting against the Kaliwa Dam project. Photo: Maria Tan*\n"
+msgstr "*Indígenas protestando contra el proyecto de la presa de Kaliwa. Foto: Maria Tan*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:161
+msgid ""
+"The dam is only possible with a 210 million dollar loan from China, "
+"burdening the whole population with debt while only increasing the water "
+"supply for residents of the city of Manila. The terms of the loan allow "
+"China to settle disputes about the project using Chinese law."
+msgstr ""
+"La presa sólo es posible con un préstamo de 210 millones de dólares de "
+"China, lo que supone una carga de deuda para toda la población, mientras que "
+"sólo aumenta el suministro de agua para los residentes de la ciudad de "
+"Manila. Las condiciones del préstamo permiten a China resolver las disputas "
+"sobre el proyecto utilizando la legislación china."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:163
+msgid ""
+"All this destruction for a dam with a lifespan of just 5 to 6 years due to "
+"the high rate of sedimentation in the area, and when better water solutions "
+"are available. It would be cheaper and more sustainable to repair and "
+"improve existing dams and water distribution facilities, adopt water "
+"conservation policies, or establish community-based forest management."
+msgstr ""
+"Toda esta destrucción para una presa con una vida útil de apenas 5 o 6 años "
+"debido a la alta tasa de sedimentación de la zona, y cuando existen mejores "
+"soluciones hídricas. Sería más barato y sostenible reparar y mejorar las "
+"presas e instalaciones de distribución de agua existentes, adoptar políticas "
+"de conservación del agua o establecer una gestión forestal comunitaria."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:165
+msgid "![](/assets/uploads/eagle.jpg \"Eagle\")"
+msgstr "![](/assets/uploads/eagle.jpg \"Eagle\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:167
+#, no-wrap
+msgid "*The Kaliwa Dam project threatens many endemic species including the critically endangered Philippine eagle. Photo: Cornell Lab of Ornithology*\n"
+msgstr "*El proyecto de la presa de Kaliwa amenaza a muchas especies endémicas, incluida el águila filipina, en peligro crítico. Foto: Laboratorio de Ornitología de Cornell*.\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:169
+msgid ""
+"XR Philippines and other campaign partners will take their [petition]"
+"(https://www.change.org/p/president-rodrigo-duterte-stop-kaliwa-dam-save-our-"
+"future) to the Philippine Climate Change Commission and Department of "
+"Environment and Natural Resources to highlight the fundamental flaws of the "
+"dam and build momentum for legal action."
+msgstr ""
+"XR Filipinas y otros socios de la campaña llevarán su [petición](https://www."
+"change.org/p/president-rodrigo-duterte-stop-kaliwa-dam-save-our-future) a la "
+"Comisión de Cambio Climático de Filipinas y al Departamento de Medio "
+"Ambiente y Recursos Naturales para poner de manifiesto los defectos "
+"fundamentales de la presa y dar impulso a las acciones legales."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:171
+msgid ""
+"The indigenous groups involved face the challenge of staying safe in the "
+"pandemic while standing up against the dam. They also face serious danger "
+"from their own government, since the Philippine's Terrorism Law labels "
+"environmental defenders as terrorists. Rebels have been trying to help "
+"amplify the voices of local people who have both the most to lose and the "
+"best ideas to solve this water crisis."
+msgstr ""
+"Los grupos indígenas implicados se enfrentan al reto de mantenerse a salvo "
+"en la pandemia al tiempo que se oponen a la presa. También se enfrentan a un "
+"grave peligro por parte de su propio gobierno, ya que la Ley de Terrorismo "
+"de Filipinas califica a los defensores del medio ambiente como terroristas. "
+"Los rebeldes han tratado de ayudar a amplificar las voces de la población "
+"local, que es la que más tiene que perder y la que tiene las mejores ideas "
+"para resolver esta crisis del agua."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:177
+msgid ""
+"![Woman with sign \"Save the Okavango Delta\"](/assets/uploads/aa7f6970-"
+"dfd0-4536-b6de-d7cd3e23e986.jpg)"
+msgstr ""
+"![Mujer con cartel \"Salvar el Delta del Okavango\"](/assets/uploads/"
+"aa7f6970-dfd0-4536-b6de-d7cd3e23e986.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:179
+msgid ""
+"![People with signs saying \"No fracking!\" and \"Action on climate change "
+"now\"](/assets/uploads/namibia.jpg)"
+msgstr ""
+"![Gente con carteles que dicen \"¡No al fracking!\" y \"Acción contra el "
+"cambio climático ya\"](/assets/uploads/namibia.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:181
+#, no-wrap
+msgid "**24 FEB | NAMIBIA**: *[Friday For Future - Windhoek](https://www.facebook.com/fffwhk/?fref=mentions&__xts__%5B0%5D=68.ARCV9ezOyQE5AfUVjd836i0AbnKbiS4rH0mj4mvYumq4dyi3DGk2S0d5i7vi_ZWX9H_dJFFh8U1lffnglJiXgoLsoNbpPDlmTktm4JMSggvmcSj-RN9GiGclmwHFiVZw1vlJVk6t6cJH1pSQOHmujyVGnPSLOMQ6bGP-HpWgXjyH4IbTZWcCgPE1LnbgIqZS5qzrvVjqav5LMgvSPrxy0voEcuIMtFlZxkMI4XmcEZ6fjbSNgI3A59VK8fZbDtk83SNlXyeRd4I9laXWoYEgphzz9o7TWraeT4hPu-eJ4OX8l_YgmUA&__tn__=K-R) and allies approach the National Assembly to hand a letter to their government demanding an immediate end to petroleum exploration in the Okavango Delta by ReconAfrica.*\n"
+msgstr "**24 DE FEBRERO - NAMIBIA**: *[Viernes por el Futuro - Windhoek](https://www.facebook.com/fffwhk/?fref=mentions&__xts__%5B0%5D=68.ARCV9ezOyQE5AfUVjd836i0AbnKbiS4rH0mj4mvYumq4dyi3DGk2S0d5i7vi_ZWX9H_dJFFh8U1lffnglJiXgoLsoNbpPDlmTktm4JMSggvmcSj-RN9GiGclmwHFiVZw1vlJVk6t6cJH1pSQOHmujyVGnPSLOMQ6bGP-HpWgXjyH4IbTZWcCgPE1LnbgIqZS5qzrvVjqav5LMgvSPrxy0voEcuIMtFlZxkMI4XmcEZ6fjbSNgI3A59VK8fZbDtk83SNlXyeRd4I9laXWoYEgphzz9o7TWraeT4hPu-eJ4OX8l_YgmUA&__tn__=K-R) y aliados se acercan a la Asamblea Nacional para entregar una carta a su gobierno exigiendo el fin inmediato de la exploración petrolera en el Delta del Okavango por parte de ReconAfrica.*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:183
+msgid ""
+"![People sit on a road, blocking traffic](/assets/uploads/roadblock.jpg)"
+msgstr ""
+"![Gente sentada en una carretera, bloqueando el tráfico](/assets/uploads/"
+"roadblock.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:185
+msgid ""
+"![](/assets/uploads/bc14517e-2493-4d7f-be49-1eea22382eca.jpg \"A man pours "
+"blood over a statue of a cow\")"
+msgstr ""
+"![](/assets/uploads/bc14517e-2493-4d7f-be49-1eea22382eca.jpg \"Un hombre "
+"vierte sangre sobre la estatua de una vaca\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:187
+#, no-wrap
+msgid "**15 FEB | Petah Tikva**, *Israel Animal Rebellion activists protest at a logistics center of dairy giant Tnuva. Photos: Animal Rebellion*\n"
+msgstr "**15 FEB | Petah Tikva**, *Activistas de Israel Animal Rebellion protestan en un centro logístico del gigante lácteo Tnuva. Fotos: Rebelión Animal*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:189
+msgid "![](/assets/uploads/5bdf1775-1847-46bc-87c1-36253b395074.jpg)"
+msgstr "![](/assets/uploads/5bdf1775-1847-46bc-87c1-36253b395074.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:191
+#, no-wrap
+msgid "**3 MAR | UK:** *Animal Rebellion ‘repurposes’ a number of McDonald’s adverts in central London.*\n"
+msgstr "**3 MARZO | UK:** *Animal Rebellion \"reutiliza\" varios anuncios de McDonald's en el centro de Londres.*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:193
+msgid ""
+"![](/assets/uploads/7ecf30b0-2a5a-44da-bf49-d7c773b71eef.jpg \"People in "
+"black masks and capes hold signs saying \\\\\\\"Stop Eacop\\\\\\\"\")"
+msgstr ""
+"![](/assets/uploads/7ecf30b0-2a5a-44da-bf49-d7c773b71eef.jpg \"People in "
+"black masks and capes hold signs saying \\\\\\\"Stop Eacop\\\\\\\"\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:195
+#, no-wrap
+msgid "**8 MAR | Cape Town, South Africa**: *Rebels haunt Standard Bank to try and stop it from financing the [East Africa crude oil pipeline](https://www.stopeacop.net/).*\n"
+msgstr "**8 MARZO | Ciudad del Cabo, Sudáfrica**: *Los rebeldes persiguen al Standard Bank para tratar de impedir que financie el [oleoducto de África Oriental](https://www.stopeacop.net/).*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:197
+msgid ""
+"Once again we have too many actions for one newsletter. Have a read of XR "
+"Unchained for all those beautiful and courageous actions we couldn’t quite "
+"fit into this issue."
+msgstr ""
+"Una vez más, tenemos demasiadas acciones para un solo boletín. Lee XR "
+"Unchained para conocer todas las bellas y valientes acciones que no pudimos "
+"incluir en este número."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:199
+msgid "[XR Unchained](../XR-unchained-49/){.xr-button}"
+msgstr "[XR Sin Cadenas](../XR-unchained-49/){.xr-button}"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:204
+#, no-wrap
+msgid "Global Scientist Rebellion: 4 Days of Direct Action"
+msgstr "Scientist Rebellion mundial: 4 días de acción directa"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:207
+#, no-wrap
+msgid "**25 - 28 MARCH | Worldwide**\n"
+msgstr "**25 - 28 DE MARZO | En todo el mundo**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:209
+msgid ""
+"![](/assets/uploads/ec8d2c75-f41c-4c4f-9df7-aa4176c39157.png \"Three men, "
+"one covering his eyes, one his ears, and one his mouth\")"
+msgstr ""
+"![](/assets/uploads/ec8d2c75-f41c-4c4f-9df7-aa4176c39157.png \"Tres hombres, "
+"uno tapándose los ojos, otro los oídos y otro la boca\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:211
+msgid ""
+"[Scientist Rebellion](https://www.facebook.com/ScientistRebellion/) is "
+"asking academics and scientists around the world to go beyond giving "
+"warnings that fall on deaf ears. Act as if the truth is real and join us for "
+"4 days of direct action."
+msgstr ""
+"[Scientist Rebellion](https://www.facebook.com/ScientistRebellion/) pide a "
+"los académicos y científicos de todo el mundo que vayan más allá de las "
+"advertencias que caen en saco roto. Actúa como si la verdad fuera real y "
+"únete a nosotros durante 4 días de acción directa."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:212
+#, no-wrap
+msgid "We will paste scientific papers to buildings in small, socially distanced groups.  \n"
+msgstr "Empapelaremos los documentos científicos en los edificios en grupos pequeños y socialmente distanciados.  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:214
+#, no-wrap
+msgid "We will go on 1-3 day hunger strikes if we cannot risk arrest / leave the house but are in good health.  \n"
+msgstr "Haremos huelgas de hambre de 1 a 3 días si no podemos arriesgarnos a que nos detengan o a salir de casa pero tenemos buena salud.  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:216
+#, no-wrap
+msgid "We will provide materials for educational disobedience so planned learning can be replaced by lessons on the climate crisis.  \n"
+msgstr "Proporcionaremos materiales de desobediencia educativa para que el aprendizaje planificado sea sustituido por lecciones sobre la crisis climática.  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:219
+msgid ""
+"[Sign up](https://blocksurvey.io/"
+"survey/1Yh2pFjLhP5yPFaHpDsVsZ7RbHepUEDW8/812e90e0-e471-4a1d-915b-"
+"c5046a2d51e4?fbclid=IwAR0UeU5ZxISZ1-jyZaLex-52yCWh4zs2FSQT37nire4BoC_kw8OqWA-"
+"RJfA) and help make this the largest-ever mobilisation of scientists in "
+"direct action."
+msgstr ""
+"[Firma](https://blocksurvey.io/"
+"survey/1Yh2pFjLhP5yPFaHpDsVsZ7RbHepUEDW8/812e90e0-e471-4a1d-915b-"
+"c5046a2d51e4?fbclid=IwAR0UeU5ZxISZ1-jyZaLex-52yCWh4zs2FSQT37nire4BoC_kw8OqWA-"
+"RJfA) y ayuda a que esta sea la mayor movilización de científicos en acción "
+"directa de la historia."
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:220
+#, no-wrap
+msgid "Global Money Rebellion Wave!"
+msgstr "¡Ola de la Rebelión Global del Dinero!"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:223
+#, no-wrap
+msgid "**1 APRIL | Global**\n"
+msgstr "**1 ABRIL | Global**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:225
+msgid ""
+"![](/assets/uploads/b98b5e8b-ecb2-47ad-bdef-22f6de1739cd.png \"Global money "
+"rebellion banner\")"
+msgstr ""
+"![](/assets/uploads/b98b5e8b-ecb2-47ad-bdef-22f6de1739cd.png \"Pancarta de "
+"Money Rebellion global\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:227
+msgid ""
+"Join us for a global rebellion wave that targets the financial pillar of "
+"power."
+msgstr ""
+"Únase a nosotros en la ola de rebelión global que apunta hacia los pilares "
+"financieros del poder."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:229
+msgid ""
+"Rebels and affinity groups all over the world are invited to participate in "
+"a day of escalating actions that target banks and financial institutions."
+msgstr ""
+"Los rebeldes y los grupos por afinidad de todo el mundo están invitados a "
+"participar en una jornada de acciones escalonadas que tienen como objetivo "
+"los bancos y las instituciones financieras."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:231
+msgid ""
+"You can take part in this global wave wherever you are. Read this [Action "
+"Pack](https://cryptpad.fr/pad/#/2/pad/view/"
+"wbfkZkRPwlkeJvrCKjml3Ws8cWRLIbsGNzjmWAyHiUs/) for some ideas and aligned "
+"messaging to inspire you, join the global rebellion [telegram broadcast/chat]"
+"(https://t.me/globalactionnetwork), and check out our [events page](https://"
+"fb.me/e/1yPIHYUcl)."
+msgstr ""
+"Estés donde estés puedes participar en esta ola global. Lee este [Pack de "
+"Acción](https://cryptpad.fr/pad/#/2/pad/view/"
+"wbfkZkRPwlkeJvrCKjml3Ws8cWRLIbsGNzjmWAyHiUs/) para obtener algunas ideas y "
+"mensajes relacionados que te inspiren, únete a la rebelión global [telegram "
+"broadcast/chat](https://t.me/globalactionnetwork), y consulta nuestra "
+"[página de eventos](https://fb.me/e/1yPIHYUcl)."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:233
+msgid "The people united, will never be defeated."
+msgstr "El pueblo, unido, jamás será vencido."
+
+#. type: Title ###
+#: 2021-03-09-global-newsletter-49-1.md:238
+#, no-wrap
+msgid "XR COP: World Water Day Fundraiser"
+msgstr "XR COP: Recaudación de fondos para el Día Mundial del Agua"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:241
+#, no-wrap
+msgid "**By 15 MAR | Online**\n"
+msgstr "**By 15 MARZO| Online**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:243
+msgid ""
+"![](/assets/uploads/9263cd00-2a37-4d67-ae98-170580e77306.png \"World water "
+"day appeal banner\")"
+msgstr ""
+"![](/assets/uploads/9263cd00-2a37-4d67-ae98-170580e77306.png \"Pancarta de "
+"llamamiento del Día Mundial del Agua\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:245
+msgid ""
+"XR groups in Africa are planning a series of actions for World Water Day to "
+"highlight water pollution and lack of access to clean, safe water."
+msgstr ""
+"Los grupos XR de África están planeando una serie de acciones para el Día "
+"Mundial del Agua con el fin de poner de relieve la contaminación del agua y "
+"la falta de acceso a agua limpia y segura."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:247
+msgid ""
+"XR COP is appealing to climate movement supporters to [help fund](https://"
+"opencollective.com/world-water-day-14581f58) these 20+ actions which include "
+"river cleans, conferences, well restorations and water tank installations."
+msgstr ""
+"XR COP hace un llamamiento a los partidarios del movimiento climático para "
+"que [ayuden a financiar](https://opencollective.com/world-water-"
+"day-14581f58) estas más de 20 acciones que incluyen limpiezas de ríos, "
+"conferencias, restauraciones de pozos e instalaciones de depósitos de agua."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:249
+msgid ""
+"The actions mostly focus on awareness raising and increasing communities’ "
+"resilience in the face of increasingly erratic weather patterns due to the "
+"climate breakdown."
+msgstr ""
+"Las acciones se centran sobre todo en la concienciación y el aumento de la "
+"resiliencia de las comunidades ante unos patrones meteorológicos cada vez "
+"más erráticos debido al colapso del clima."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:251
+msgid ""
+"World Water Day is on March 22nd. [Our fundraiser](https://opencollective."
+"com/world-water-day-14581f58) will end on March 15th."
+msgstr ""
+"El Día Mundial del Agua es el 22 de marzo. [Nuestra recaudación de fondos]"
+"(https://opencollective.com/world-water-day-14581f58) terminará el 15 de "
+"marzo."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:253
+msgid ""
+"Leading up to World Water Day, XR COP will publish [stories](https://"
+"xrscotland.org/2021/02/argentinian-activist-esteban-on-how-to-build-climate-"
+"action-in-global-solidarity/) about people on frontlines around the planet "
+"that are fighting to keep their water clean and accessible. XR COP will also "
+"report live on the day and publish in-depth stories about the action in the "
+"following days."
+msgstr ""
+"En vísperas del Día Mundial del Agua, XR COP publicará [historias](https://"
+"xrscotland.org/2021/02/argentinian-activist-esteban-on-how-to-build-climate-"
+"action-in-global-solidarity/) sobre personas de primera línea de todo el "
+"planeta que luchan por mantener su agua limpia y accesible. XR COP también "
+"informará en directo sobre el día y publicará historias en profundidad sobre "
+"la acción en los días siguientes."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:255
+msgid ""
+"[Donate now](https://opencollective.com/world-water-day-14581f58) and help []"
+"(https://opencollective.com/world-water-day-14581f58) amplify our social "
+"media campaign: [Instagram](https://www.instagram.com/p/CLu82RwnWMD/) / "
+"[Facebook](https://www.facebook.com/ExtinctionRebellion/"
+"posts/788528161763294) / [Twitter](https://twitter.com/ExtinctionR/"
+"status/1365656618139025410)"
+msgstr ""
+"[Dona ahora](https://opencollective.com/world-water-day-14581f58) y ayuda []"
+"(https://opencollective.com/world-water-day-14581f58) a ampliar nuestra "
+"campaña en las redes sociales: [Instagram](https://www.instagram.com/p/"
+"CLu82RwnWMD/) / [Facebook](https://www.facebook.com/ExtinctionRebellion/"
+"posts/788528161763294) / [Twitter](https://twitter.com/ExtinctionR/"
+"status/1365656618139025410)"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:256
+#, no-wrap
+msgid "International Women’s Day: Rebellious Women"
+msgstr "Día Internacional de la Mujer: Mujeres rebeldes"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:259
+#, no-wrap
+msgid "**8 MAR | Online**\n"
+msgstr "**8 MARZO | Online**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:261
+msgid ""
+"![](/assets/uploads/b08c307b-4604-4d9c-a859-11fa2c501851.jpg \"Images of "
+"rebellious women\")"
+msgstr ""
+"![](/assets/uploads/b08c307b-4604-4d9c-a859-11fa2c501851.jpg \"Imágenes de "
+"mujeres rebeldes\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:262
+#, no-wrap
+msgid "Extinction Rebellion Co-founder Clare Farrell hosts [a 1 hour livestream](https://youtu.be/LFPHW2Z3_SU) with Howey Oe, China’s first Climate Striker, Namibian fashion designer and artist Ina-Maria Shikongo on her campaigning to stop the Okavango Delta, and Angie Zelter, a UK activist who has been arrested over 200 times and spent 2 years in prison for her nonviolent direct actions.  \n"
+msgstr "La cofundadora de Extinction Rebellion, Clare Farrell, presenta [una hora de transmisión en directo](https://youtu.be/LFPHW2Z3_SU) con Howey Oe, el primer huelguista climático de China, la diseñadora de moda y artista de namibia Ina-Maria Shikongo sobre su campaña para detener el Delta del Okavango, y Angie Zelter, una activista británica que ha sido detenida más de 200 veces y ha pasado dos años en prisión por sus acciones directas no violentas.  \n"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:264
+#, no-wrap
+msgid "XR Global Blog: New Articles Ahoy!"
+msgstr "Blog de XR Global: Nuevos artículos"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:267
+msgid ""
+"![A whale leaping](/assets/uploads/a157147a-f3fc-4378-b9e0-c08062a2d015.png)"
+msgstr ""
+"![A whale leaping](/assets/uploads/a157147a-f3fc-4378-b9e0-c08062a2d015.png)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:268
+#, no-wrap
+msgid "3 new articles have been recently uploaded to [the XR Global Blog](https://rebellion.global/news/#blog). Why not have a delve.  \n"
+msgstr "Recientemente se han subido 3 nuevos artículos a [el Blog Global de XR](https://rebellion.global/news/#blog). Échales un vistazo.  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:271
+msgid ""
+"[Biodiversity: What Is It, Why Are We Losing So Much of It and Why Does It "
+"Matter?](https://rebellion.global/blog/2021/01/18/biodiversity-definition-"
+"losing-importance/)"
+msgstr ""
+"[Biodiversidad: ¿Qué es, por qué perdemos tanta y por qué es importante?]"
+"(https://rebellion.global/blog/2021/01/18/biodiversity-definition-losing-"
+"importance/)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:273
+msgid ""
+"A clear explanation of biodiversity and how dangerous its loss can be for "
+"our planet."
+msgstr ""
+"Una explicación clara de la biodiversidad y de lo peligrosa que puede ser su "
+"pérdida para nuestro planeta."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:275
+msgid ""
+"[A Case for Justice for Climate Refugees](https://rebellion.global/"
+"blog/2021/02/10/climate-refugees-justice/)"
+msgstr ""
+"[A Case for Justice for Climate Refugees](https://rebellion.global/"
+"blog/2021/02/10/climate-refugees-justice/)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:277
+msgid ""
+"Climate breakdown is driving people from their homes. And if you think it’s "
+"just a developing world problem, think again – this article has a case study "
+"from a place you’d never expect."
+msgstr ""
+"La degradación del clima está desahuciando a la gente de sus hogares. Si "
+"crees que es sólo un problema de países en desarrollo, piénsalo dos veces: "
+"este artículo tiene un estudio de caso de un lugar que no te esperas."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:279
+msgid ""
+"[A Guide to Carbon Capture and Storage](https://rebellion.global/"
+"blog/2021/02/18/guide-to-ccs/)"
+msgstr ""
+"[Guía para la captura y el almacenamiento de carbono](https://rebellion."
+"global/blog/2021/02/18/guide-to-ccs/)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:281
+msgid ""
+"Carbon capture means sucking carbon out of the atmosphere, right? Wrong! "
+"Read this balanced article and you’ll be able to make an informed argument "
+"either for or against CCS."
+msgstr ""
+"Capturar el carbono significa succionar el carbono de la atmósfera, ¿verdad? "
+"No es así. Lee este artículo contrastado y podrás argumentar con "
+"conocimiento de causa a favor o en contra de la CAC."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:283
+#, no-wrap
+msgid "**XR Podcast: Tree Protectors**\n"
+msgstr "**Podcast XR: Los protectores de los árboles**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:285
+msgid ""
+"![](/assets/uploads/ec2b38c9-cceb-48e9-a6db-2a187186ea9e.png \"Podcast icon"
+"\")"
+msgstr ""
+"![](/assets/uploads/ec2b38c9-cceb-48e9-a6db-2a187186ea9e.png \"Podcast icon"
+"\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:286
+#, no-wrap
+msgid "Last month the XR podcast was downloaded by its 250,000th listener! Congrats to the team!  \n"
+msgstr "El mes pasado, el podcast XR fue descargado por su oyente número 250.000. ¡Enhorabuena al equipo!  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:289
+msgid ""
+"Their latest [episode](https://extinctionrebellion.uk/2021/02/02/extinction-"
+"rebellion-podcast-episode-19-tree-protectors/) features interviews with 2 "
+"tree protectors - one a key figure in the recent HS2 protests that involved "
+"tunnels under London, the other a rebel who has been working with indigenous "
+"communities in Ecuador."
+msgstr ""
+"Su último [episodio](https://extinctionrebellion.uk/2021/02/02/extinction-"
+"rebellion-podcast-episode-19-tree-protectors/) presenta entrevistas con dos "
+"protectores de los árboles: uno de ellos es una figura clave en las "
+"recientes protestas contra la HS2, que incluyeron túneles bajo Londres, y el "
+"otro es un rebelde que ha estado trabajando con comunidades indígenas en "
+"Ecuador."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:295
+msgid "![](/assets/uploads/czech.jpg)"
+msgstr "![](/accesorios/cargas/checo.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:297
+#, no-wrap
+msgid "*Animal Rebellion pops up again in Czech Republic.*\n"
+msgstr "*Animal Rebellion vuelve a surgir en la República Checa.*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:299
+msgid ""
+"Who is Animal Rebellion? What is speciesism? Why is animal agriculture so "
+"terrible? How can farmers transition away from it and still make a good "
+"living? What would we do with all the empty fields? Should we all be vegan? "
+"The answers my rebels! The answers are all below!"
+msgstr ""
+"¿Quién es Rebelión Animal? ¿Qué es el especismo? ¿Por qué es tan terrible la "
+"agricultura animal? ¿Cómo pueden los agricultores dejar de practicarla y "
+"seguir ganándose bien la vida? ¿Qué haríamos con todos los campos vacíos? "
+"¿Deberíamos ser todos veganos? ¡Las respuestas mis rebeldes! ¡Las respuestas "
+"están todas abajo!"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:302
+msgid ""
+"[Medium](https://medium.com/animal-rebellion/who-is-animal-"
+"rebellion-90bb52770d30): Who is Animal Rebellion?\\ A short article about "
+"how Animal Rebellion started and what it’s like being a member."
+msgstr ""
+"[Medio](https://medium.com/animal-rebellion/who-is-animal-"
+"rebellion-90bb52770d30): ¿Quién es Animal Rebellion? Un breve artículo sobre "
+"cómo empezó Animal Rebellion y cómo es ser miembro."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:305
+msgid ""
+"[Medium](https://medium.com/animal-rebellion/the-rebellion-has-brought-the-"
+"climate-crisis-to-the-fore-cf97f7fc39c6): Now it is Time to Address "
+"Speciesism\\ An article about how speciesism (the treatment of one species "
+"as morally superior to another) is key to understanding how the climate "
+"crisis happened and why Animal Rebellion is needed."
+msgstr ""
+"[Medio](https://medium.com/animal-rebellion/the-rebellion-has-brought-the-"
+"climate-crisis-to-the-fore-cf97f7fc39c6): Ahora es el momento de abordar el "
+"especismo\\ Un artículo sobre cómo el especismo (el tratamiento de una "
+"especie como moralmente superior a otra) es clave para entender cómo ocurrió "
+"la crisis climática y por qué es necesaria la Rebelión Animal."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:308
+msgid ""
+"[Youtube](https://www.youtube.com/watch?v=ECIcmh3DVjk): George Monbiot’s "
+"Smithfield Speech (26 mins)\\ A brilliant speech by the British journalist "
+"and writer during Animal Rebellion’s blockade of a London meat market. "
+"Monbiot chronicles his gradual realisation that no matter how you tweak it, "
+"animal agriculture destroys ecosystems and has to be stopped."
+msgstr ""
+"[Youtube](https://www.youtube.com/watch?v=ECIcmh3DVjk): George Monbiot's "
+"Smithfield Speech (26 mins)\\NUn brillante discurso del periodista y "
+"escritor británico durante el bloqueo de Animal Rebellion en un mercado de "
+"carne de Londres. Monbiot relata su gradual toma de conciencia de que, por "
+"mucho que se retoque, la agricultura animal destruye los ecosistemas y hay "
+"que detenerla."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:311
+msgid ""
+"[Vimeo](https://vimeo.com/293352305): 73 Cows (dir. Alex Lockwood, 15 "
+"mins)\\ A moving short documentary about an English beef farmer who "
+"transitioned his farm to sustainable, organic, plant-based agriculture."
+msgstr ""
+"[Vimeo](https://vimeo.com/293352305): 73 Cows (dir. Alex Lockwood, 15 "
+"mins)\\Un conmovedor corto documental sobre un ganadero inglés que ha "
+"cambiado su granja por una agricultura sostenible, ecológica y basada en "
+"plantas."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:314
+msgid ""
+"[Harvard Law School](http://animal.law.harvard.edu/wp-content/uploads/Eating-"
+"Away-at-Climate-Change-with-Negative-Emissions%E2%80%93%E2%80%93Harwatt-"
+"Hayek.pdf): Repurposing UK Agricultural Land to Meet Climate Goals\\ A study "
+"showing how if land used for animal farming was turned back into native "
+"forest, the UK could align its emissions with commitments made under the "
+"Paris Agreement."
+msgstr ""
+"[Facultad de Derecho de Harvard](http://animal.law.harvard.edu/wp-content/"
+"uploads/Eating-Away-at-Climate-Change-with-Negative-Emissions"
+"%E2%80%93%E2%80%93Harwatt-Hayek.pdf): Reutilización de las tierras agrícolas "
+"del Reino Unido para cumplir los objetivos climáticos - Un estudio que "
+"muestra cómo si las tierras utilizadas para la cría de animales se "
+"convirtieran de nuevo en bosques nativos, el Reino Unido podría alinear sus "
+"emisiones con los compromisos asumidos en el marco del Acuerdo de París."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:316
+#, no-wrap
+msgid ""
+"[Novara Media](https://youtu.be/mg8KyJ7NEYY): Should We All Be Vegan?\\\n"
+"An interview with Peter Singer, professor of Bioethics at Princeton University and author of [Animal Liberation](https://www.peta.org/about-peta/learn-about-peta/ingrid-newkirk/animal-liberation/) - a foundation text of the animal liberation movement.  \n"
+msgstr ""
+"[Novara Media](https://youtu.be/mg8KyJ7NEYY): ¿Deberíamos ser todos veganos?\n"
+"Entrevista con Peter Singer, profesor de Bioética en la Universidad de Princeton y autor de [Animal Liberation](https://www.peta.org/about-peta/learn-about-peta/ingrid-newkirk/animal-liberation/), texto fundacional del movimiento de liberación animal.  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:318
+#, no-wrap
+msgid "Recipe Corner: Animal Rebellion focuses on system change, not personal change, so doesn’t ask its members to be vegan. But with the understanding that plant-based meals can be damn delicious, why not check out these recipes that our newsletter team keep coming back to…  \n"
+msgstr "El rincón de las recetas: Animal Rebellion se centra en el cambio del sistema, no en el cambio personal, por lo que no pide a sus miembros que sean veganos. Pero entendiendo que las comidas a base de plantas pueden ser condenadamente deliciosas, por qué no echar un vistazo a estas recetas a las que nuestro equipo del boletín vuelve una y otra vez...  \n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:323
+#, no-wrap
+msgid ""
+"[Sudanese Jewish Peanut Sauce](https://www.thefooddictator.com/the-hirshon-sudanese-jewish-peanut-satay-sauce-%D8%B4%D8%B7%D8%A9/) (Use hot water not stock. Have it on roast veg or in a stir fry.)\\\n"
+"[Turtle’s Original Recipes](https://docs.google.com/document/d/1c8DYOKHeUCpRMh-Bz78eHS4heCkC9thL8yiLnnnPwtc/edit) (inc. Toasted Tofu Sandwich & Breakfast Apple Pie!)\\\n"
+"[Best Vegan Lasagne](https://biancazapatka.com/en/vegan-lasagna-with-lentils-and-zucchini/) (I tweaked this a bit & prefer brown over red lentils, & pre-baked aubergine slices over zucchini - but however you do it this is delicious.)\\\n"
+"[Vegan Banana Bread](https://lovingitvegan.com/vegan-banana-bread/) (So easy so good. The website is a treasure trove of vegan cake recipes.)  \n"
+msgstr ""
+"[Salsa de cacahuete judía sudanesa](https://www.thefooddictator.com/the-hirshon-sudanese-jewish-peanut-satay-sauce-%D8%B4%D8%B7%D8%A9/) (Use agua caliente, no caldo. Tómela sobre verduras asadas o en un salteado).\n"
+"[Recetas originales de Turtle](https://docs.google.com/document/d/1c8DYOKHeUCpRMh-Bz78eHS4heCkC9thL8yiLnnnPwtc/edit) (¡incluyendo el sándwich de tofu tostado y la tarta de manzana para el desayuno!\n"
+"[Lasaña vegana](https://biancazapatka.com/en/vegan-lasagna-with-lentils-and-zucchini/) (Yo la he modificado un poco y prefiero las lentejas marrones a las rojas, y las rodajas de berenjena precocidas a las de calabacín, pero sea como sea está deliciosa).\n"
+"[Pan de plátano vegano](https://lovingitvegan.com/vegan-banana-bread/) (Tan fácil y tan bueno. La página web es un tesoro de recetas de pasteles veganos).  \n"
+
+#. type: Title ###
+#: 2021-03-09-global-newsletter-49-1.md:329
+#, no-wrap
+msgid "**Omnivore’s Dilemma, by Michael Pollan**"
+msgstr "**El dilema del omnívoro, de Michael Pollan**"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:332
+msgid "![](/assets/uploads/6a5de81f-9af4-4933-8669-a7ece093ac8c.jpg)"
+msgstr "![](/assets/uploads/6a5de81f-9af4-4933-8669-a7ece093ac8c.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:334
+msgid ""
+"This may seem an odd choice, since it’s not focused on climate, but for this "
+"month’s theme of Animal Rebellion, it’s perfect. The book poses a seemingly "
+"simple question: “what should we eat?” The answer is wrapped up in culture, "
+"economics, ethics, land management, environmental conservation, and, yes, "
+"human survival."
+msgstr ""
+"Puede parecer una elección extraña, ya que no se centra en el clima, pero "
+"para el tema de este mes, Rebelión Animal, es perfecto. El libro plantea una "
+"pregunta aparentemente sencilla: \"¿qué debemos comer?\". La respuesta está "
+"envuelta en la cultura, la economía, la ética, la gestión de la tierra, la "
+"conservación del medio ambiente y, sí, la supervivencia humana."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:336
+msgid ""
+"Pollan explores all these through four meals representing, respectively, "
+"industrial agriculture; two very different forms of free-range alternative "
+"agriculture; and hunting and gathering. He buys a steer, slaughters a "
+"chicken, briefly becomes vegetarian, and goes hunting for wild boar. "
+"Although Pollan does issue some advice, his book is less a prescriptive "
+"argument and more an engaging and informative work of first-person "
+"journalism."
+msgstr ""
+"Pollan explora todo esto a través de cuatro comidas que representan, "
+"respectivamente, la agricultura industrial; dos formas muy diferentes de "
+"agricultura alternativa en libertad; y la caza y la recolección. Compra un "
+"buey, sacrifica un pollo, se hace brevemente vegetariano y sale a cazar "
+"jabalíes. Aunque Pollan da algunos consejos, su libro no es tanto un "
+"argumento prescriptivo como una obra atractiva e informativa de periodismo "
+"en primera persona."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:338
+msgid "Here are a few other books recommended by us and our readers..."
+msgstr ""
+"Aquí tienes otros libros recomendados por nosotros y nuestros lectores..."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:340
+#, no-wrap
+msgid "**Animal Liberation, by Peter Singer**\n"
+msgstr "**Liberación animal, de Peter Singer**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:342
+msgid ""
+"Peter Singer is one of the world’s leading moral philosophers and this very "
+"readable book, published in 1975, is widely regarded as the founding "
+"philosophical statement about speciesism and the treatment of animals by "
+"humans, including in animal agriculture and animal experiments."
+msgstr ""
+"Peter Singer es uno de los filósofos morales más importantes del mundo y "
+"este libro, muy ameno, publicado en 1975, está considerado como la "
+"declaración filosófica fundacional sobre el especismo y el trato de los "
+"animales por parte de los seres humanos, incluso en la agricultura y los "
+"experimentos con animales."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:344
+#, no-wrap
+msgid "**My Year of Meats, by Ruth Ozeki**\n"
+msgstr "**Mi año de carnes, por Ruth Ozeki**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:346
+msgid ""
+"By turns hilarious and horrifying, this brilliant and satirical novel "
+"skewers the US beef industry from a cross-cultural Japanese-American "
+"perspective, complete with television and factory farming, love, fertility "
+"and motherhood."
+msgstr ""
+"Esta novela, brillante y satírica, es a la vez hilarante y espeluznante, y "
+"analiza la industria de la carne de vacuno de Estados Unidos desde una "
+"perspectiva intercultural japonesa-americana, con la televisión y la "
+"agricultura industrial, el amor, la fertilidad y la maternidad."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:348
+#, no-wrap
+msgid "**The Tale of the Whale, by Karen Swann**\n"
+msgstr "**El cuento de la ballena, de Karen Swann**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:350
+msgid ""
+"A lovely, lyrical children’s book about a friendship between a child and a "
+"whale as they learn about the dangers of plastic pollution. Watch out—"
+"multiple books share this title, so check the author’s name."
+msgstr ""
+"Un precioso y lírico libro infantil sobre la amistad entre un niño y una "
+"ballena mientras aprenden sobre los peligros de la contaminación por "
+"plástico. Cuidado: varios libros comparten este título, así que comprueba el "
+"nombre del autor."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:352
+#, no-wrap
+msgid "**Changes in the Land: Indians, Colonists, and the Ecology of New England, by William Cronon**\n"
+msgstr "**Cambios en la tierra: indios, colonos y la ecología de Nueva Inglaterra, por William Cronon**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:354
+msgid ""
+"Continuing our focus on animal agriculture, Cronon’s book merges history and "
+"ecology to describe the shift between one form of land management and "
+"another. An excellent case study of the deeply-entrenched cultural, "
+"economic, and political realities we continue to struggle against today."
+msgstr ""
+"Siguiendo con el tema de la ganadería, el libro de Cronon fusiona la "
+"historia y la ecología para describir el cambio entre una forma de gestión "
+"de la tierra y otra. Un excelente estudio de caso de las realidades "
+"culturales, económicas y políticas profundamente arraigadas contra las que "
+"seguimos luchando hoy en día."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:356
+#, no-wrap
+msgid "**Skyseed, by Bill McGuire**\n"
+msgstr "**Skyseed, por Bill McGuire**\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:358
+msgid ""
+"OK, this one has little to do with animals—it’s a cautionary novel about "
+"geoengineering—but out of everybody who wrote in recommending books this "
+"month, almost half of you recommended this one. “As (possibly well-meaning) "
+"leaders everywhere grasp for ‘fixes’ in preference to fundamental behaviour/"
+"system change, XR readers might be usefully reminded of the dangerous "
+"consequences of ‘geoengineering’” (David)"
+msgstr ""
+"De acuerdo, éste no tiene mucho que ver con los animales -es una novela de "
+"advertencia sobre la geoingeniería-, pero de todos los que escribieron "
+"recomendando libros este mes, casi la mitad de ustedes recomendaron éste. "
+"Mientras los líderes (posiblemente bienintencionados) de todo el mundo se "
+"aferran a las \"soluciones\" en lugar de a los cambios fundamentales de "
+"comportamiento/sistema, los lectores de XR podrían recordar las peligrosas "
+"consecuencias de la \"geoingeniería\"\" (David)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:360
+#, no-wrap
+msgid "**Avoid Amazon. Support local bookshops by buying your books at [Bookshop](https://u1584542.ct.sendgrid.net/ss/c/SVVf6UGddUySPN6znLYVWoo6BXQI74MSgeALdwMqZC7fv3zWrw-w2VPoDpjwTOHEwQK2A4o50LRzxXd5ZLdea2O_4k-zz_9qQsVHSSHHGz8sLpCCEc7gQWGhNN3YeZn_eSBcsMpgrJfdkRvIDMUKRy8ifUi9a8JsBeb3eSgD8jUBGFftVM_NnQRtQJTyJZZufKYy8bcv9A7I_Ubtu85-uPKkkhrboNwjFakzD_Ws3zqxSeU9Luu0gsoopbdT4IAuTG5hCd2nGZUzySwb0hpR0kW3-NdwnMGiITRBSp5aZVY/39d/qY81RhtyR8GAuqjxnb23Dg/h59/sA9Y1Ebh7V6JjF-iynv1cW3IeXQ4T8ZY0SQYoUHSm_U) or [Hive](https://u1584542.ct.sendgrid.net/ss/c/atcYNHk4Eh2YdGnwBh-YDMUT8KMCm0lT-ed_NiUx3Wjd0cdSXzswpZ5BzhWllxcfZoiMRlUMFegac49H9C4x0R5H5ntdH5oiWiHaSh8mdqWMnWsgE8khTRzgiX0pMb7SehcmUh9vbmY2ulWFIjCTM3IgLHSEX6LXiHPfZZSVjns4Uuock1fqJDGuEHwdjgpDtf2bo3CUeoQ9Nzq9xMcK8GKVoxWkjJX5iyGl8Sbqjq82Dz7NdeO0noYiFgUUKY9yBlOsmfogdOZJcQgu4ln-cJeZc73OLmyQGfJHaT8S-ks/39d/qY81RhtyR8GAuqjxnb23Dg/h60/aPs5_AzSJNjT9Z8fOII0E8YY7vkcUmT6bfaY1tsbQaU).**\n"
+msgstr "**Evite Amazon. Apoye a las librerías locales comprando sus libros en [Bookshop](https://u1584542.ct.sendgrid.net/ss/c/SVVf6UGddUySPN6znLYVWoo6BXQI74MSgeALdwMqZC7fv3zWrw-w2VPoDpjwTOHEwQK2A4o50LRzxXd5ZLdea2O_4k-zz_9qQsVHSSHHGz8sLpCCEc7gQWGhNN3YeZn_eSBcsMpgrJfdkRvIDMUKRy8ifUi9a8JsBeb3eSgD8jUBGFftVM_NnQRtQJTyJZZufKYy8bcv9A7I_Ubtu85-uPKkkhrboNwjFakzD_Ws3zqxSeU9Luu0gsoopbdT4IAuTG5hCd2nGZUzySwb0hpR0kW3-NdwnMGiITRBSp5aZVY/39d/qY81RhtyR8GAuqjxnb23Dg/h59/sA9Y1Ebh7V6JjF-iynv1cW3IeXQ4T8ZY0SQYoUHSm_U) o [Hive](https://u1584542.ct.sendgrid.net/ss/c/atcYNHk4Eh2YdGnwBh-YDMUT8KMCm0lT-ed_NiUx3Wjd0cdSXzswpZ5BzhWllxcfZoiMRlUMFegac49H9C4x0R5H5ntdH5oiWiHaSh8mdqWMnWsgE8khTRzgiX0pMb7SehcmUh9vbmY2ulWFIjCTM3IgLHSEX6LXiHPfZZSVjns4Uuock1fqJDGuEHwdjgpDtf2bo3CUeoQ9Nzq9xMcK8GKVoxWkjJX5iyGl8Sbqjq82Dz7NdeO0noYiFgUUKY9yBlOsmfogdOZJcQgu4ln-cJeZc73OLmyQGfJHaT8S-ks/39d/qY81RhtyR8GAuqjxnb23Dg/h60/aPs5_AzSJNjT9Z8fOII0E8YY7vkcUmT6bfaY1tsbQaU).**\n"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:363
+#, no-wrap
+msgid "Humans of XR: Antoly, Israel"
+msgstr "Humanos de XR: Antoly, Israel"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:366
+msgid "![](/assets/uploads/8630bb66-8d38-4604-bc6c-abce732ef750.jpg)"
+msgstr "![](/assets/uploads/8630bb66-8d38-4604-bc6c-abce732ef750.jpg)"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:368
+#, no-wrap
+msgid "*Anatoly’s sign: ‘We come in Peace’ Photo: Lior Klein*\n"
+msgstr "*El cartel de Anatoly: \"Venimos en paz\" Foto: Lior Klein*\n"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:370
+msgid ""
+"Over a year ago, it seems like ages now, friends mentioned to me a meeting "
+"related to climate and extinction, and some movement whose name I hadn't "
+"heard before."
+msgstr ""
+"Hace más de un año, ahora parece una eternidad, unos amigos me mencionaron "
+"una reunión relacionada con el clima y la extinción, y algún movimiento cuyo "
+"nombre no había escuchado antes."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:372
+msgid ""
+"Being curious, I found myself there, introduced to XR. The urgency of the "
+"situation was shocking, but so clear. Our planet is dying, and we're "
+"responsible. We must act. I must act. And the ideas of decentralization and "
+"Nonviolent Direct Action (NVDA) got me instantly inspired."
+msgstr ""
+"Por curiosidad, me encontré allí, presentándome a XR. La urgencia de la "
+"situación era impactante, pero muy clara. Nuestro planeta se está muriendo, "
+"y nosotros somos los responsables. Debemos actuar. Yo debo actuar. Y las "
+"ideas de descentralización y Acción Directa No Violenta (ADNV) me inspiraron "
+"al instante."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:374
+msgid ""
+"I'd love to live much closer to nature, in a little community, and not have "
+"to worry about anything else. But I find that I can't just ignore the "
+"climate and how we humans are destroying it. I can't sleep well knowing our "
+"dear planet, our only home, is burning, and I'm not doing much to save her."
+msgstr ""
+"Me encantaría vivir mucho más cerca de la naturaleza, en una pequeña "
+"comunidad, y no tener que preocuparme por nada más. Pero me parece que no "
+"puedo ignorar el clima y cómo los humanos lo estamos destruyendo. No puedo "
+"dormir bien sabiendo que nuestro querido planeta, nuestro único hogar, se "
+"está quemando, y que no estoy haciendo mucho para salvarlo."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:376
+msgid ""
+"So, here I am. In Action and Logistics, in my local/regional affinity group, "
+"in Animal Rebellion too... because we're just one animal among many. But my "
+"favorite is Regenerative Culture work. Promoting a deep peaceful meaningful "
+"enriching connection with ourselves, with each other, and with mother "
+"nature. This sort of well-being/caring work is my passion outside of XR too, "
+"so it seems to fit well. And If we had that in the first place, this whole "
+"climate catastrophe wouldn't happen... radically changing our culture is the "
+"only way to make sure it doesn't happen again."
+msgstr ""
+"Así que aquí estoy. En Acción y Logística, en mi grupo de afinidad local/"
+"regional, en Rebelión Animal también... porque somos un animal entre muchos. "
+"Pero mi favorito es el trabajo de Cultura Regenerativa. Promover una "
+"conexión profunda, pacífica y significativa con nosotros mismos, con los "
+"demás y con la madre naturaleza. Este tipo de trabajo de bienestar/cuidado "
+"es mi pasión fuera de XR también, así que parece encajar bien. Y si "
+"tuviéramos eso en primer lugar, toda esta catástrofe climática no "
+"ocurriría... cambiar radicalmente nuestra cultura es la única manera de "
+"asegurarnos de que no vuelva a ocurrir."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:378
+msgid ""
+"NVDA is so empowering! I get to stand up for myself and for the planet. "
+"Through my mere presence, to encourage people (hopefully including the "
+"decision makers) to search for that softness within their hearts, towards "
+"the whole wealth of life, and make those political and financial and "
+"organizational decisions that must be made in order to save us. But NVDA can "
+"also be stressful, scary, exhausting. I couldn't do it without the loving "
+"support of friends and fellow rebels. Without time dedicated to celebration, "
+"relaxation, singing, soul-searching, gratitude."
+msgstr ""
+"La NVDA me da mucho poder. Puedo defenderme a mí misma y al planeta. Con mi "
+"mera presencia, animar a la gente (espero que también a los responsables de "
+"la toma de decisiones) a buscar esa ternura dentro de sus corazones, hacia "
+"toda la riqueza de la vida, y tomar esas decisiones políticas y financieras "
+"y organizativas que deben tomarse para salvarnos. Pero la NVDA también puede "
+"ser estresante, aterradora, agotadora. No podría hacerlo sin el apoyo "
+"cariñoso de amigos y compañeros rebeldes. Sin el tiempo dedicado a la "
+"celebración, la relajación, el canto, la búsqueda del alma, la gratitud."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:380
+msgid ""
+"A month ago we had an action, the biggest and most daring we've done. So I "
+"spent the day before, with much precious help from my friends, making a "
+"vegan meal for 40 people, to eat between the training and the action. I "
+"hadn't cooked in a long time, especially not for other people, so this was "
+"very fun and exciting! The next day, after the training, I went to where the "
+"food was waiting. Fellow rebels had already heated all the food and put it "
+"in pots and bowls, and everyone was eating and talking and buzzing. That "
+"chance, to give with love, was so precious to me. In those stressful moments "
+"before the action, seeing everyone enjoy that meal, was so, so sweet."
+msgstr ""
+"Hace un mes tuvimos una acción, la más grande y atrevida que hemos hecho. "
+"Así que pasé el día anterior, con la valiosa ayuda de mis amigos, preparando "
+"una comida vegana para 40 personas, para comer entre el entrenamiento y la "
+"acción. Hacía mucho tiempo que no cocinaba, y menos para otras personas, así "
+"que fue muy divertido y emocionante. Al día siguiente, después del "
+"entrenamiento, fui al lugar donde me esperaba la comida. Los compañeros "
+"rebeldes ya habían calentado toda la comida y la habían puesto en ollas y "
+"cuencos, y todo el mundo estaba comiendo y hablando y zumbando. Esa "
+"oportunidad, la de dar con amor, era tan preciosa para mí. En esos momentos "
+"de tensión antes de la acción, ver a todos disfrutar de esa comida, fue tan, "
+"tan dulce."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:382
+msgid ""
+"If you know (or are) a rebel somewhere in the world with a story to tell, "
+"get in touch at [xr-newsletter@protonmail.com](mailto:xr-"
+"newsletter@protonmail.com)"
+msgstr ""
+"Si conoces (o eres) un rebelde en algún lugar del mundo con una historia que "
+"contar, ponte en contacto con [xr-newsletter@protonmail.com](mailto:xr-"
+"newsletter@protonmail.com)"
+
+#. type: Title ##
+#: 2021-03-09-global-newsletter-49-1.md:385
+#, no-wrap
+msgid "Thank you"
+msgstr "Gracias"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:388
+msgid ""
+"![](/assets/uploads/c75e69ac-cbcc-4728-a1ec-e264bfb54bc0.jpg \"Two Scottish "
+"wildcats rubbing cheeks\")"
+msgstr ""
+"![](/assets/uploads/c75e69ac-cbcc-4728-a1ec-e264bfb54bc0.jpg \"Dos gatos "
+"monteses escoceses frotándose las mejillas\")"
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:390
+msgid ""
+"There are only 35 Scottish Wildcat left, and they face extinction to make "
+"way for a wind farm. Help Wildcat Haven save the wee beasties by signing "
+"[this petition](https://www.change.org/p/scottish-government-save-the-"
+"scottish-wildcat-by-protecting-clashindarroch-forest)."
+msgstr ""
+"Sólo quedan 35 gatos monteses escoceses, y se enfrentan a la extinción para "
+"dar paso a un parque eólico. Ayuda a Wildcat Haven a salvar a estas pequeñas "
+"bestias firmando [esta petición](https://www.change.org/p/scottish-"
+"government-save-the-scottish-wildcat-by-protecting-clashindarroch-forest)."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:392
+msgid ""
+"Thank you for reading, rebel. And keep up the good work! If you have any "
+"questions or feedback, we want to hear from you. Get in touch at [xr-"
+"newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+"Gracias por leer, rebelde. ¡Y sigue con el buen trabajo! Si tienes alguna "
+"pregunta o comentario, queremos escucharte. Ponte en contacto con nosotros "
+"en [xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:394
+msgid ""
+"We are in a crucial phase of human history, and our movement needs money to "
+"make our message heard. Anything you can [give](https://chuffed.org/project/"
+"xrinternational) is appreciated."
+msgstr ""
+"Nos encontramos en una fase crucial de la historia humana, y nuestra "
+"rebelión necesita fondos para difundir nuestro mensaje. Agradecemos "
+"cualquier cantidad que puedas [aportar](https://chuffed.org/project/"
+"xrinternational)."
+
+#. type: Plain text
+#: 2021-03-09-global-newsletter-49-1.md:395
+msgid ""
+"[Support the Rebellion](https://chuffed.org/pay/campaign/62932){.xr-button}"
+msgstr ""
+"[Apoya la Rebelión](https://chuffed.org/pay/campaign/62932){.xr-button}"
+
+#~ msgid "Rebellion Of One"
+#~ msgstr "Rebelión de uno"
+
+#~ msgid "**27 MARCH | Global**  \n"
+#~ msgstr "**27 MARZO | Global**  \n"
+
+#~ msgid ""
+#~ "![](/assets/uploads/fc26799f-ec87-4e8c-ab40-bcff328983ee.jpg \"Rebellion "
+#~ "of one banner\")"
+#~ msgstr ""
+#~ "![](/assets/uploads/fc26799f-ec87-4e8c-ab40-bcff328983ee.jpg \"Revuelta "
+#~ "de una pancarta\")"
+
+#~ msgid ""
+#~ "Coming out of this pandemic will be our last, best chance to remake the "
+#~ "world, yet governments around the world are throwing it away. It’s "
+#~ "terrifying."
+#~ msgstr ""
+#~ "Salir de esta pandemia será nuestra última y mejor oportunidad de rehacer "
+#~ "el mundo, y sin embargo los gobiernos de todo el mundo la están "
+#~ "desperdiciando. Es aterrador."
+
+#~ msgid "We need to do something … in March, we will."
+#~ msgstr "Tenemos que hacer algo... en marzo, lo haremos."
+
+#~ msgid ""
+#~ "Join Rebellion of One and be part of XR’s first international mass civil "
+#~ "disobedience of 2021.  \n"
+#~ msgstr ""
+#~ "Únete a la Rebelión de Uno y forma parte de la primera desobediencia "
+#~ "civil masiva internacional de XR de 2021.  \n"
+
+#~ msgid ""
+#~ "Rebellion Of One is a brand new tactic: a single-person roadblock... "
+#~ "times 1,000. Each rebel wears a sign with a simple and emotive message. "
+#~ "They sit in the road alone until they choose to move or are moved. But "
+#~ "they have an incognito support team hiding in plain sight nearby."
+#~ msgstr ""
+#~ "La Rebelión de Uno es una táctica totalmente nueva: un bloqueo de "
+#~ "carretera para una sola persona... multiplicado por 1.000. Cada rebelde "
+#~ "lleva un cartel con un mensaje sencillo y emotivo. Se sientan solos en la "
+#~ "carretera hasta que deciden moverse o son movidos. Pero tienen un equipo "
+#~ "de apoyo incógnito que se esconde a la vista en las cercanías."
+
+#~ msgid ""
+#~ "A programme of special training materials has been assembled to help "
+#~ "people prepare for the action. We will not be bystanders while the world "
+#~ "burns."
+#~ msgstr ""
+#~ "Se ha reunido un programa de material de formación especial para ayudar a "
+#~ "la gente a prepararse para la acción. No seremos espectadores mientras el "
+#~ "mundo arde."
+
+#~ msgid ""
+#~ "Watch a [short yet powerful video](https://youtu.be/w0wPjqifK6o) of the "
+#~ "UK trial runs, read the [full action briefing](https://docs.google.com/"
+#~ "document/d/1NXvi1UXNpbkFtFrd4o90NF7ngTLDVRLknUYjA-9h1YA/edit) and [sign "
+#~ "up](https://actionnetwork.org/forms/ro1)."
+#~ msgstr ""
+#~ "Mira un [vídeo breve pero impactante](https://youtu.be/w0wPjqifK6o) de "
+#~ "las pruebas en el Reino Unido, lee el [informe completo de la acción]"
+#~ "(https://docs.google.com/document/"
+#~ "d/1NXvi1UXNpbkFtFrd4o90NF7ngTLDVRLknUYjA-9h1YA/edit) y [inscríbase]"
+#~ "(https://actionnetwork.org/forms/ro1)."

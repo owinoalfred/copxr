@@ -1,0 +1,323 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-05-05 11:25+0200\n"
+"PO-Revision-Date: 2020-05-06 08:48+0000\n"
+"Last-Translator: Dom <dom@dominicporter.co.uk>\n"
+"Language-Team: French <http://translate.organise.earth/projects/"
+"press-releases/2020-02-10-oscars/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:13
+#, no-wrap
+msgid ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Extinction Rebellion Congratulates Oscar Winner and Collaborator Joaquin Phoenix\"\n"
+"slug: oscars\n"
+"date: 2020-02-10 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/02/06/JoaquinStill_006.jpg\n"
+msgstr ""
+"﻿---\n"
+"layout: page-small-width\n"
+"lang: fr\n"
+"title: \"Extinction Rebellion félicite Joaquin Phoenix, un collaborateur, Oscar du meilleur acteur.\"\n"
+"slug: oscars\n"
+"date: 2020-02-10 01:00:00 +0200\n"
+"categories:\n"
+"  - press\n"
+"published: true\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: \n"
+"seoImage: /assets/img/press/2020/02/06/JoaquinStill_006.jpg\n"
+"---\n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:15
+msgid ""
+"![banner](/assets/img/press/2020/02/06/JoaquinStill_006.jpg){:.img-fluid ."
+"my-4}"
+msgstr ""
+"![banner](/assets/img/press/2020/02/06/JoaquinStill_006.jpg){:.img-fluid ."
+"my-4}"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:21
+msgid ""
+"- In the same week Extinction Rebellion and Amazon Watch launched a short "
+"film starring Joaquin Phoenix, the acclaimed actor won the Best Actor "
+"Academy Award for his role in “Joker” - Guardians of Life, produced by "
+"Mobilize Earth and starring Joaquin Phoenix & Q’orianka Kilcher, urges "
+"action on the Climate and Ecological Emergency.  - After a year of global "
+"rebellion, the Climate and Ecological Emergency is recognised as the biggest "
+"threat humanity has ever faced and Hollywood stars like Phoenix are urging "
+"Hollywood to join the fight for humanity’s survival.  - To watch the film "
+"click [here](http://www.mobilize.earth/)  {:.huge .my-3}"
+msgstr ""
+"- Joaquin Phoenix a remporté l'Oscar du meilleur acteur pour son "
+"interprètation dans “Joker”, quelques jours après la sortie du court-métrage "
+"d'Extinction Rebellion et Amazon Watch, _Guardians of Life_,  avec Joaquin "
+"Phoenix & Q’orianka Kilcher, produit par Mobilize Earth,  qui nous exhorte à "
+"agir maintenant pour enrayer la crise écologique et climatique. Après un an "
+"de rébellion dans le monde entier,  on reconnait que la crise écologique et "
+"climatique est la menace existentielle la plus grave à laquelle l'humanité "
+"n'ait jamais fait face, et des stars du cinéma comme Phoenix s'engagent dans "
+"la lutte pour la survie de l'humanité en appellant tout Hollywood à faire de "
+"même.  - Visionnez le court métrage [ici](http://www.mobilize.earth/)  {:."
+"huge .my-3}"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:24
+msgid ""
+"Joaquin Phoenix used his acceptance speech after winning the Best Actor at "
+"the Oscars last night to tell the world that we urgently need to change our "
+"ways. His words struck a chord that chimes with Extinction Rebellion’s call "
+"on governments to Act Now to address the Planetary Emergency."
+msgstr ""
+"Joaquin Phoenix a profité de son discours d'Oscar du meilleur acteur, "
+"pendant la cérémonie, pour exhorter le monde à urgemment changer de "
+"systèmes. Ses mots résonnent avec ceux de la revendication d'Extinction "
+"Rebellion, exigeant des gouvernements qu'ils prennent immédiatement des "
+"mesures d'urgence pour enrayer la crise planétaire."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:26
+msgid ""
+"“I think we fear the idea of personal change because we think that we have "
+"to sacrifice something, to give something up. But human beings at our best "
+"are so inventive and creative and ingenious, and I think that when we use "
+"love and compassion as our guiding principles, we can create, develop and "
+"implement systems of change that are beneficial to all sentient beings and "
+"to the environment,” stated the award winner to a room full of Hollywood’s "
+"most influential members, with millions watching around the world."
+msgstr ""
+"“C'est comme si nous craignions du changement personnel requis, qu'il "
+"signifie un sacrifice, que nous devions abandonner quelque chose. Mais les "
+"êtres humains peuvent faire preuve de tellement d'inventivité, de "
+"créativité, d'ingéniosité, et je crois que quand par principe, nous faisons "
+"aussi preuve d'amour et de compassion, nous pouvons créer, développer, et "
+"mettre en œuvre des changements de systèmes qui soient bénéfiques à "
+"l'environnement, à tous les êtres sensibles,” a déclaré l'Oscar du meilleur "
+"acteur devant une salle comble qui comptait nombre de membres influents "
+"d'Hollywood, et des millions de télé-spectateurs du monde entier."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:28
+msgid ""
+"Extinction Rebellion could not agree more and takes this opportunity to "
+"congratulate Phoenix, not only for his stellar performance in both Joker and "
+"Guardians of Life, but for his courage in standing up and Telling the Truth "
+"to the world in what was one of the biggest moments of his career. The "
+"global movement is urging other notables to follow his example by Telling "
+"the Truth about the Climate and Ecological Emergency at every opportunity."
+msgstr ""
+"Extinction Rebellion ne pouvait que l'approuver, et félicite Phoenix, non "
+"seulement pour ses interprétations remarquables dans _Joker_ et _Guardians "
+"of Life_, mais aussi pour son courage, pour avoir relayé la vérité au monde "
+"entier, ce qui marque sans doute pour XR un des plus grands moments de sa "
+"carrière. Le mouvement international appelle d'autres célébrités à suivre "
+"son exemple, et à profiter de toute occasion pour relayer la vérité sur "
+"l'urgence écologique et climatique."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:31
+msgid ""
+"In the run-up to the Academy Award ceremony, XR partnered with Amazon Watch "
+"and Mobilize Earth, to bring out a ground breaking film, Guardians of Life. "
+"Starring Joaquin Phoenix, Rosario Dawson, Matthew Modine, Oona Chaplin, "
+"Adria Arjona, Albert Hammond Jr & Q’orianka Kilcher, the film urges action "
+"on the Climate and Ecological Emergency and has gone viral with millions of "
+"views within hours.  “Hollywood has a moral duty to become Climate Emergency "
+"Storytellers,” says Extinction Rebellion US spokesperson Sophia Kianni, "
+"“It’s members are in a unique position to influence millions of fans around "
+"the world. Never in history have so few had the power to affect so many. The "
+"time to Act is Now. There is no Hollywood on a dead planet, Join us!”"
+msgstr ""
+"Avant la cérémonie des oscars, XR avait déjà collaboré avec Amazon Watch et "
+"Mobilize Earth, pour réaliser ce court-métrage puissant, _Guardians of "
+"Life_, avec Joaquin Phoenix, Rosario Dawson, Matthew Modine, Oona Chaplin, "
+"Adria Arjona, Albert Hammond Jr & Q’orianka Kilcher. Le film appelle à ce "
+"que des mesures d'urgences soient prises immédiatement pour faire face à "
+"l'urgence écologique et climatique, et a fait le buzz, avec des millions de "
+"vues en quelques heures.  “Hollywood a le devoir moral de porter cette "
+"parole d'urgence,” d'après Sophia Kianni, membre d'Extinction Rebellion US "
+"spokesperson , “À Hollywood, ils ont le pouvoir et la possibilité de "
+"sensibiliser et d'influencer des millions de fans dans le monde entier. "
+"Jamais encore dans l'Histoire, il n'y avait eu de gens aussi susceptibles de "
+"pouvoir en influencer autant d'autres.  C'est maintenant qu'il faut agir. Il "
+"n'y aura pas d'Hollywood sur une planète morte, rejoignez-nos !”"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:33
+#, no-wrap
+msgid " [Watch the film](http://www.mobilize.earth){:.o-button-pink .btn-block .text-center}\n"
+msgstr ""
+" [Visionner le film](http://www.mobilize.earth){:.huge .my-3 .o-button-"
+"pink .btn-block .text-center}\n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:35
+msgid ""
+"Dr. Gail Bradbrook, Co-Founder of Extinction Rebellion, says this a sign of "
+"Hollywood beginning to use its influence to Tell the Truth about the Climate "
+"and Ecological Crisis: “There’s still a gaping hole between how bad things "
+"are and the action being taken, but that gap is narrowing. Significant "
+"people are breaking ranks, to Tell the Truth and Act as if it is real.”"
+msgstr ""
+"Dr. Gail Bradbrook, co-fondatrice d'XR, pense que c'est une opportunité pour "
+"Hollywood, de commencer à user de son influence, et à dire la vérité en "
+"matière de bouleversement écologique et climatique, et qu'“il y a toujours "
+"un fossé entre l’ampleur de la catastrophe, et le déploiement des moyens "
+"nécessaires qu’il faut mettre en oeuvre, mais ce fossé tend à se combler. Il "
+"y a des gens influents qui commencent à sortir des rangs pour dire la "
+"vérité, et agir en conséquence.”"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:37
+msgid ""
+"On the same weekend as the Award Ceremony, Extinction Rebellion LA Youth, in "
+"the company of Indigenous Leader Sônia Guajajara from APIB, converged on the "
+"Hollywood sign as part of a major climate strike and synchronized die-in. "
+"The action called on Hollywood to use their unique global platform to Tell "
+"the Truth, demanding that the Academy declare a Planetary Climate and "
+"Ecological Emergency."
+msgstr ""
+"Lors de la même semaine que celle de la cérémonie des Oscars, Extinction "
+"Rebellion LA Youth, en compagnie de Sônia Guajajara porte parole de l'APIB, "
+"a convergé sous le sigle d'Hollywood dans le cadre d'une grève climatique, "
+"et organisé un die-in. L'action exhortait Hollyood à utiliser son réseau "
+"international pour dire la vérité, exigeant de l'instance qu'elle déclare "
+"l'urgence écologique et climatique."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:39
+msgid ""
+"Extinction Rebellion will continue to build a worldwide civil disobedience "
+"movement open to all, regardless of the industry or community they belong "
+"to. After all, this is an emergency."
+msgstr ""
+"Extinction Rebellion continue à bâtir ce mouvement international de "
+"désobéissance civile, auquel tout un chacun est invité à se joindre, quel "
+"que soit le secteur, ou le milieu dans lequel il ou elle évolue. Il y a "
+"urgence après tout."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:42
+#, no-wrap
+msgid " [Learn More about Extinction Rebellion](https://rebellion.global/about-us){.xr-button}\n"
+msgstr ""
+" [Pour en savoir plus sur Extinction Rebellion](https://rebellion.global/about-"
+"us){.xr-button}\n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:50
+msgid ""
+"For Editors: Extinction Rebellion is a leaderless, decentralised, "
+"international and non-partisan network using non-violent direct action and "
+"civil disobedience to persuade governments to act justly on the Climate and "
+"Ecological Emergency.  The following three demands are shared across most "
+"global chapters: 1. Tell the Truth: Government must tell the truth by "
+"declaring a climate and ecological emergency, working with other "
+"institutions to communicate the urgency for change.  2. Act Now: Government "
+"must act now to halt biodiversity loss and reduce greenhouse gas emissions "
+"to net zero by 2025.  3. Beyond Politics: Government must create and be led "
+"by the decisions of a Citizens’ Assembly on Climate and Ecological Justice."
+msgstr ""
+"À l’attention des rédacteurs  : Extinction Rebellion est un mouvement "
+"international, décentralisé, autonome, et apartisan, ayant recours à "
+"l’action directe non-violente pour faire pression sur les gouvernements, "
+"afin qu’ils prennent enfin les mesures nécessaires pour faire face à "
+"l’urgence écologique et climatique. Ces trois revendications sont communes à "
+"la plupart des branches XR dans le monde : 1. Nous exigeons de nos "
+"gouvernements qu’ils relaient la vérité en déclarant l’urgence écologique et "
+"climatique, en travaillant de concert avec les médias et d’autres "
+"institutions,  2. Nous exigeons de nos gouvernements qu’ils prennent des "
+"mesures immédiates pour enrayer l’effondrement de la biodiversité, et pour "
+"réduire drastiquement les émissions de gaz à effet de serre, dans l’objectif "
+"de parvenir à la neutralité carbone d’ici 2025.  3. Nous exigeons de nos "
+"gouvernements qu’ils mettent en place une assemblée nationale citoyenne qui "
+"soit dotée du pouvoir décisionnel en matière de justice écologique et "
+"sociale."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:55
+msgid ""
+"Mobilize Earth is setting out on a new course to mitigate the climate and "
+"ecological emergency by bringing together people from all walks of life. We "
+"are working to engage everyone - industry, activists, politicians, farmers, "
+"immigrants - to respond to the climate and ecological emergency. We work to: "
+"-Tell the truth about the climate and ecological emergency.  -Engage and "
+"connect individuals and organizations across industries, cultures and "
+"political divides and work towards tangible responses to the climate and "
+"ecological emergency.  -Design a future in which we can all thrive by "
+"working with leaders, scientists, entrepreneurs and activists."
+msgstr ""
+"Mobilize Earth s’engage sur une nouvelle voie pour tenter d’atténuer les "
+"impacts de la crise écologique et climatique, en tentant de rassembler des "
+"personnes de différents horizons. Nous cherchons à ce que tout le monde "
+"s’implique, industriels, activistes, politiques, fermiers, réfugiés, pour "
+"faire face à cette urgence écologique et climatique, et pour ce, nous "
+"travaillons à : -Relayer la vérité en matière de bouleversement écologique "
+"et climatique -Sensibiliser et mettre en contact des personnes, et des "
+"organismes, dans les secteurs industriels, culturels, et politiques, afin de "
+"travailler ensemble sur des mesures concrètes à mettre en place pour faire "
+"face à l’urgence écologique et climatique.  -Concevoir un avenir dans lequel "
+"nous puissions tous évoluer, en travaillant avec des responsables, des "
+"scientifiques, des entrepreneurs et des activistes."
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:57
+#, no-wrap
+msgid ""
+"Contacts:\n"
+"Extinction Rebellion International - Nicolas Eliades, +34 682 398 702  \n"
+msgstr ""
+"Contacts :\n"
+"Extinction Rebellion International - Nicolas Eliades, +34 682 398 702  \n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:58
+#, no-wrap
+msgid "Email: XRspeaks@protonmail.com  \n"
+msgstr "Email : XRspeaks@protonmail.com  \n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:59
+#, no-wrap
+msgid "Mobilize Earth, +1 (646) 298-6532 Email: projects@mobilize.earth  \n"
+msgstr "Mobilize Earth, +1 (646) 298-6532 Email: projects@mobilize.earth  \n"
+
+#. type: Plain text
+#: 2020-02-10-oscars.md:60
+msgid ""
+"For international Extinction Rebellion spokespeople please write to "
+"XRspeaks@protonmail.com"
+msgstr ""
+"Pour joindre des porte-paroles d'Extinction Rebellion au niveau "
+"international, merci d'écrire à XRspeaks@protonmail.com"
+
+#~ msgid ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>Learn More about Extinction Rebellion</span></a>\n"
+#~ "</div>\n"
+#~ msgstr ""
+#~ "<div class=\"text-center my-5\">\n"
+#~ "    <a href=\"https://rebellion.global/about-us\" class=\"o-button-green btn-block text-center\" style=\"max-width: 350px;\"><span>Pour en savoir plus sur Extinction Rebellion</span></a>\n"
+#~ "</div>\n"

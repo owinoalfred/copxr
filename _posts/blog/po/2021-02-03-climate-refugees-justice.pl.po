@@ -1,0 +1,978 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-11 14:59+0800\n"
+"PO-Revision-Date: 2021-02-25 14:38+0000\n"
+"Last-Translator: jatza <jacek.szczerbak@gmail.com>\n"
+"Language-Team: Polish <http://translate.organise.earth/projects/blog-posts/"
+"2021-02-03-climate-refugees-justice/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:18
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: A Case for Justice for Climate Refugees\n"
+"author: Shireen Tawil\n"
+"slug: climate-refugees-justice\n"
+"date: 2021-02-10 12:34\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/fire.jpg\n"
+"seoImage: /assets/uploads/fire.jpg\n"
+"seoTitle: \"Climate refugees are people who have fled their homes because of\n"
+"  changes in the environment. But where are they, and what can be done to help\n"
+"  them? \"\n"
+"seoDescription: \"Climate refugees are people who have fled their homes because\n"
+"  of changes in the environment. But where are they, and what can be done to\n"
+"  help them? \"\n"
+msgstr ""
+"lang: pl\n"
+"title: Sprawiedliwość dla uchodźców klimatycznych\n"
+"author: Shireen Tawil\n"
+"slug: climate-refugees-justice\n"
+"date: 2021-02-10 12:34\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/fire.jpg\n"
+"seoImage: /assets/uploads/fire.jpg  \n"
+"seoTitle: \"Uchodźcy klimatyczni to osoby, które porzuciły swoje domy z "
+"powodu   \n"
+"  zmian środowiskowych. Gdzie się znajdują i jak\n"
+"  można im pomóc?\"\n"
+"seoDescription: \"Uchodźcy klimatyczni to osoby, które porzuciły swoje domy "
+"z   \n"
+"  powodu zmian środowiskowych. Gdzie się znajdują i jak\n"
+"  można im pomóc?\"\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:22
+msgid ""
+"“**The sea water is rising every day …we lost everything. We are not happy, "
+"because we must move again. Climate change is making thousands of people "
+"homeless**.” \\ [Nurul Hashem](http://climatemigration.org.uk/migration-"
+"stories-from-the-ganges-brahmaputra-delta-2/)  (Bangladeshi school teacher) "
+"{.hero-text}"
+msgstr ""
+"„**Poziom morza podnosi się z dnia na dzień… Wszystko straciliśmy. Niestety "
+"znów musimy się przeprowadzać. Przez zmiany klimatu tysiące ludzi traci dom "
+"nad głową**.” \\ [Nurul Hashem](http://climatemigration.org.uk/"
+"migration-stories-from-the-ganges-brahmaputra-delta-2/)  (nauczyciel z "
+"Bangladeszu) {.hero-text}"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:24
+msgid ""
+"Our ancestors were hunters and gatherers—we began as a nomadic society that "
+"moved from place to place in search of food and shelter. Then we found the "
+"Fertile Crescent—spanning modern day Palestine, Israel, Lebanon, Syria, "
+"Jordan, and Iraq—which was so bountiful that our needs were met in spades "
+"and we settled down in one spot. Food and security were plentiful. We began "
+"building settlements, marking the beginning of the non-nomadic societies "
+"many of us inhabit today."
+msgstr ""
+"Nasi przodkowie byli łowcami i zbieraczami — pierwotnie byliśmy "
+"koczownikami, przenoszącymi się z miejsca na miejsce w poszukiwaniu "
+"pożywienia i schronienia. Później odkryliśmy Żyzny Półksiężyc — obszar "
+"obejmujący dzisiejszą Palestynę, Izrael, Liban, Syrię, Jordanię i Irak. Był "
+"to region tak obfity, że bez trudu zapewniał nam dość żywności i "
+"bezpieczeństwo, więc osiedliśmy tam na stałe, pobudowaliśmy osady i miasta. "
+"Tak powstały pierwsze społeczeństwa osiadłe, w których większość z nas żyje "
+"do dziś."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:26
+msgid ""
+"Fast forward about 11,000 years. The once fertile area has become rife with "
+"war, [environmental degradation](https://merip.org/2020/09/birth-defects-and-"
+"the-toxic-legacy-of-war-in-iraq/), and displacement. And it’s not alone. "
+"More than ever before, people around the world are fleeing their homes, with "
+"[a total of 79.5 million people forcibly displaced by the end of 2019]"
+"(https://www.unhcr.org/uk/figures-at-a-glance.html). Historically, displaced "
+"people were seen as refugees because their displacement was usually the "
+"result of violent conflict or persecution. But in recent years, many "
+"refugees cite the changing climate as one of the reasons they have fled "
+"their homes. Scientists are also investigating the role that climate "
+"breakdown plays in displacing people from their homes. The environmental "
+"question has become so prominent that it has given rise to a new term"
+"—‘climate refugees’."
+msgstr ""
+"Jedenaście tysięcy lat później te niegdyś urodzajne ziemie stały się terenem "
+"ciągłych wojen, [degradacji środowiska](https://merip.org/2020/09/"
+"birth-defects-and-the-toxic-legacy-of-war-in-iraq/) i migracji. Żyzny "
+"Półksiężyc nie jest wcale wyjątkiem. Jeszcze nigdy w historii aż tylu ludzi "
+"na całym świecie nie porzucało swoich domów — [do końca 2019 roku do "
+"migracji zostało zmuszonych łącznie 79,5 miliona osób](https://www.unhcr.org/"
+"uk/figures-at-a-glance.html). Dotychczas za uchodźców uznawano migrantów, "
+"uciekających przed konfliktami zbrojnymi lub prześladowaniami. Jednak w "
+"ostatnich latach wielu uchodźców jako jeden z powodów migracji podaje "
+"zmieniający się klimat. Naukowcy badają także, jaką rolę w migracjach "
+"odgrywa załamanie się klimatu. Kwestia środowiska stała się tak istotna, że "
+"pojawiło się nowe pojęcie — „uchodźcy klimatyczni”."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:28
+msgid ""
+"![Two abandoned boats on a dried up lake.](https://lh4.googleusercontent.com/"
+"qLh5ctxSu-"
+"ayXQ1VFovIDZvZ68Hd7V6hL3S9csTJOby03fYPRHSzeBpAwdk949Rzo4FM2Sem2TLwNUiJcUjwuJMmvL6FAwzp8A3GO7d4FKOELyIW60W6jspwXv1VTLEjgCHGZiOj)"
+msgstr ""
+"![Dwie porzucone łodzie na dnie wyschniętego "
+"jeziora.](https://lh4.googleusercontent.com/qLh5ctxSu-ayXQ1VFovIDZvZ68Hd7V6hL"
+"3S9csTJOby03fYPRHSzeBpAwdk949Rzo4FM2Sem2TLwNUiJcUjwuJMmvL6FAwzp8A3GO7d4FKOELy"
+"IW60W6jspwXv1VTLEjgCHGZiOj)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:30
+#, no-wrap
+msgid "*Fishermen in Burkina Faso abandon their boats on a dried up lake during the dry season near Ouagadougou. Photo by [Yoda Adaman](https://unsplash.com/photos/8wuOLdN77A4)*\n"
+msgstr ""
+"*Rybacy w Burkina Faso porzucają swoje łodzie na dnie wyschniętego w porze "
+"suchej jeziora w pobliżu Wagadugu. Zdjęcie: [Yoda Adaman](https://unsplash."
+"com/photos/8wuOLdN77A4)*\n"
+
+#. type: Title ##
+#: 2021-02-03-climate-refugees-justice.md:31
+#, no-wrap
+msgid "Who are Climate Refugees?"
+msgstr "Kim są uchodźcy klimatyczni?"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:34
+msgid ""
+"While [there is no legal definition for it](https://www.oxfordresearchgroup."
+"org.uk/blog/climate-refugees-and-the-role-of-international-law), the term "
+"‘climate refugees’ has recently entered our vocabulary. It describes people "
+"who have fled their homes because of changes in the environment. It "
+"describes anyone from [people whose homes are swallowed by the sea after a "
+"hurricane](https://www.nationalgeographic.com/environment/natural-disasters/"
+"reference/hurricane-katrina/) to [those whose homes are burnt down by "
+"wildfires](https://theintercept.com/2018/12/29/climate-change-refugees/) to "
+"people who migrate from their homes to new areas because [slow-onset climate "
+"change has devastated their livelihood](https://webcache.googleusercontent."
+"com/search?q=cache:g8uV6EDsYxYJ:https://www.internal-displacement.org/sites/"
+"default/files/publications/documents/20181213-slow-onset-intro.pdf"
+"+&cd=13&hl=en&ct=clnk&gl=uk)."
+msgstr ""
+"Choć [nie ma on definicji prawnej](https://www.oxfordresearchgroup.org.uk/"
+"blog/climate-refugees-and-the-role-of-international-law), termin „uchodźcy "
+"klimatyczni” już na dobre przyjął się w języku potocznym. Oznacza on ludzi, "
+"którzy porzucili swoje miejsce zamieszkania z powodu zmian środowiskowych. "
+"Dotyczy to wszystkich osób, [których domy zostały pochłonięte przez morze "
+"podczas huraganu](https://www.nationalgeographic.com/environment/"
+"natural-disasters/reference/hurricane-katrina/), [tych, których domy "
+"spłonęły w pożarach lasów](https://theintercept.com/2018/12/29/"
+"climate-change-refugees/) oraz ludzi, którzy migrują, bo [w wyniku stale "
+"postępujących zmian klimatu stracili źródła "
+"utrzymania](https://webcache.googleusercontent.com/"
+"search?q=cache:g8uV6EDsYxYJ:https://www.internal-displacement.org/sites/"
+"default/files/publications/documents/20181213-slow-onset-"
+"intro.pdf+&cd=13&hl=en&ct=clnk&gl=uk)."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:36
+msgid ""
+"![A road with the sky ahead full of smoke and fire.](https://lh5."
+"googleusercontent."
+"com/72kXsEfhy3SHJEvAYh8MlRpnJVIqPoRTMo26Yf1wBzAguWnzHdP72orFy9Rx3H0AMdAONkxBmqOzRsLhzfHcXMLy86zVjb1EuqVvHNYNZhO7yFV11cQTGAnW7bUgadbShbUNWfoU)"
+msgstr ""
+"![Droga z widokiem nieba pełnego dymu i "
+"ognia.](https://lh5.googleusercontent.com/72kXsEfhy3SHJEvAYh8MlRpnJVIqPoRTMo2"
+"6Yf1wBzAguWnzHdP72orFy9Rx3H0AMdAONkxBmqOzRsLhzfHcXMLy86zVjb1EuqVvHNYNZhO7yFV1"
+"1cQTGAnW7bUgadbShbUNWfoU)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:38
+#, no-wrap
+msgid "*The Delta fire in California, [Wikipedia](https://commons.wikimedia.org/wiki/File:Delta_Fire_090518CaltransDist2.jpg)*\n"
+msgstr ""
+"*Pożar Delta w Kalifornii, [Wikipedia](https://commons.wikimedia.org/wiki/"
+"File:Delta_Fire_090518CaltransDist2.jpg)*\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:40
+#, no-wrap
+msgid "> I had a moment where I thought, would it be fast if we died? Would my kids suffer? Would they die from the smoke, or would they die from the fire?\n"
+msgstr ""
+"> W pewnym momencie zastanawiałam się, czy nasza śmierć będzie szybka? Czy "
+"moje dzieci będą cierpiały? Czy zginą od dymu, czy od ognia?\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:42
+msgid "\\- Michelle Teixeira, California"
+msgstr "\\- Michelle Teixeira, Kalifornia"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:44
+msgid ""
+"At the international level, there is disagreement on the terminology. Some "
+"argue that people displaced by climatic events do not meet the [legal "
+"definition of 'refugees'](https://www.unhcr.org/afr/what-is-a-refugee.html). "
+"They say there is no ‘persecution’. People displaced by climate breakdown "
+"often migrate within their own country, making them internally displaced "
+"people (IDPs) and not refugees. Others point to the difficulty in teasing "
+"out the changing climate’s role in displacement, when there are often many "
+"factors at play."
+msgstr ""
+"W międzynarodowych negocjacjach trwają spory o terminologię. Jedni twierdzą, "
+"że osoby zmuszone do migracji przez zjawiska klimatyczne nie spełniają "
+"kryteriów [definicji prawnej terminu „uchodźcy”](https://www.unhcr.org/afr/"
+"what-is-a-refugee.html), ponieważ nie są ofiarami ”prześladowań”. Osoby, "
+"które utraciły swoje domy przez załamanie się klimatu, często migrują w "
+"obrębie granic swojego kraju, co czyni ich nie uchodźcami, lecz tak zwanymi "
+"przesiedleńcami wewnętrznymi (Internally Displaced People). Inni zwracają "
+"uwagę na trudności w ustaleniu roli klimatu, kiedy równocześnie występuje "
+"wiele różnych czynników migracji."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:46
+msgid ""
+"But others insist that using the word ‘refugees’ [emphasizes the urgency of "
+"their situation](https://www.climate-refugees.org/why). It also infuses it "
+"with demands for justice. It is in this spirit of urgency, political "
+"responsibility, and justice that I will use the term ‘climate refugees’ in "
+"this article to describe people whose displacement was strongly impacted by "
+"climate breakdown."
+msgstr ""
+"Inni natomiast zaznaczają, że wyraz „uchodźcy” [podkreśla ich dramatyczną "
+"sytuację](https://www.climate-refugees.org/why), a przy tym pozwala domagać "
+"się sprawiedliwości. W tym artykule posługuję się terminem \"uchodźcy "
+"klimatyczni\" w odniesieniu do osób, których migracja w znacznej mierze "
+"wynika z załamania się klimatu, zwracając uwagę na pilność tego problemu, "
+"odpowiedzialność polityczną i kwestię sprawiedliwości."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:48
+msgid ""
+"![](https://lh3.googleusercontent.com/Lgyzl6uH6yA_x4kBOvSoFPRlMGzIL-"
+"p2r5GbBuZiX_uxmEGVVWCGtuUoGh-"
+"XlboQMV2fQUjDGaRo5QDwYQDpzzLweXEFawWlEpy_bnKUArZVRmLzPdtuQlwtYV8b6gqaF9Yp1Pza "
+"\"A young boy moves logs from in front of collapsed hut in Bangladesh\")"
+msgstr ""
+"![](https://lh3.googleusercontent.com/Lgyzl6uH6yA_x4kBOvSoFPRlMGzIL-"
+"p2r5GbBuZiX_uxmEGVVWCGtuUoGh-XlboQMV2fQUjDGaRo5QDwYQDpzzLweXEFawWlEpy_bnKUArZ"
+"VRmLzPdtuQlwtYV8b6gqaF9Yp1Pza \"Chłopiec usuwa pnie drzew sprzed zawalonej "
+"chaty w Bangladeszu\")"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:50
+#, no-wrap
+msgid "*Bangladeshi climate refugees, Photo by [Sabbir](https://commons.wikimedia.org/wiki/File:Bangladesh-climate_refugee.jpg)*\n"
+msgstr ""
+"*Uchodźcy klimatyczni z Bangladeszu, zdjęcie: "
+"[Sabbir](https://commons.wikimedia.org/wiki/File:Bangladesh-"
+"climate_refugee.jpg)*\n"
+
+#. type: Title ##
+#: 2021-02-03-climate-refugees-justice.md:51
+#, no-wrap
+msgid "The Grey Area: a Nexus of Events"
+msgstr "Niezbadany teren – splot wydarzeń"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:54
+msgid ""
+"What climate refugees around the world have in common is that climate "
+"breakdown has made their homes uninhabitable, forcing them to leave. Yet not "
+"all effects of climate breakdown are quickly or easily seen. Often it can be "
+"[difficult to untangle the intricate web of factors contributing to "
+"displacement](https://www.internal-displacement.org/research-areas/"
+"displacement-in-a-changing-climate). Behind the scenes, climate breakdown "
+"may interplay with conflict and war. But this is often overshadowed by "
+"sexier headlines of ethnic, national, or regional violence. Similarly, the "
+"connections between climate breakdown, hunger, and financial insecurity "
+"often aren't clearly presented. The layered factors forcing displacement "
+"remain clouded by competing elements."
+msgstr ""
+"Uchodźców klimatycznych z całego świata łączy to, że z powodu załamania się "
+"klimatu nie mogli już dłużej mieszkać w swoich rodzinnych stronach, które po "
+"prostu przestały nadawać się do zamieszkania. Jednak nie wszystkie skutki "
+"załamania się klimatu można łatwo i od razu rozpoznać. Czasami [trudno "
+"rozwikłać złożony splot czynników migracji](https://www.internal-"
+"displacement.org/research-areas/displacement-in-a-changing-climate). "
+"Załamanie się klimatu może być w niedostrzegalny sposób powiązane z "
+"konfliktami zbrojnymi. Jednak często dziennikarze i dziennikarki zwracają "
+"uwagę jedynie na typowe czynniki migracji, takie jak przemoc o charakterze "
+"etnicznym, narodowym lub regionalnym. Często także brakuje głębszej analizy "
+"związków między załamaniem się klimatu, głodem i brakiem stabilności "
+"finansowej. Relacje skupiające się na oderwanych od siebie zjawiskach nie "
+"dają pełnego obrazu nakładających się na siebie czynników migracji."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:56
+msgid ""
+"For example, Somalia is often presented as a ‘failed state’— rife with "
+"famine and militias. Drought is mentioned, but often without exploring its "
+"effects beyond poverty and or aid dependence. Climate breakdown is "
+"devastating Somalia, [despite having some of the lowest carbon emissions in "
+"the world](https://www.thenewhumanitarian.org/feature/2018/02/21/somalia-s-"
+"climate-change-refugees). Reporting for [The GroundTruth Project](https://"
+"thegroundtruthproject.org/somalia-conflict-climate-change/), Laura Heaton "
+"tells us how drought can impact violence and how this combination displaced "
+"Khalid, a young Somali man, from his home— making him a climate refugee."
+msgstr ""
+"Na przykład o Somalii często mówi się jako o „państwie upadłym”, w którym "
+"panuje głód, a władzę sprawują ugrupowania zbrojne. Wspomina się przy tym o "
+"suszy, lecz często jedynie w kontekście ubóstwa i zależności od pomocy "
+"humanitarnej, bez naświetlania przyczyn tych zjawisk. [Choć Somalia ma jeden "
+"z najniższych wskaźników emisji dwutlenku węgla na "
+"świecie](https://www.thenewhumanitarian.org/feature/2018/02/21/somalia-s"
+"-climate-change-refugees), jest krajem zdewastowanym przez załamanie się "
+"klimatu. Laura Heaton, korespondentka [The GroundTruth "
+"Project](https://thegroundtruthproject.org/somalia-conflict-climate-change/)"
+", opowiedziała nam, jak susza może rodzić przemoc i jak oba te problemy "
+"zmusiły Khalida, młodego Somalijczyka, do opuszczenia rodzinnych stron i "
+"uczyniły z niego uchodźcę klimatycznego."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:58
+msgid ""
+"![](https://lh4.googleusercontent."
+"com/7vILyhjnhYO1WW0PbEetVCMh65A0bAgHuRn9FVxQlLJJNZCW1CqaHn1LbLE6wq3wmWrBQp3leuPIaWQHNxh7pInRG0ahZOvQP8WUvyF3_y6mILQ4LNdTYkgCGLTKW4facKB00TaV "
+"\"Map of Somalia showing decreased rainfall and displacement across Somalia"
+"\")"
+msgstr ""
+"![](https://lh4.googleusercontent.com/7vILyhjnhYO1WW0PbEetVCMh65A0bAgHuRn9FVx"
+"QlLJJNZCW1CqaHn1LbLE6wq3wmWrBQp3leuPIaWQHNxh7pInRG0ahZOvQP8WUvyF3_y6mILQ4LNdT"
+"YkgCGLTKW4facKB00TaV \"Mapa Somalii pokazująca tereny o niskim poziomie "
+"opadów i migracje\")"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:60
+#, no-wrap
+msgid "*Humanitarian map of Somalia, showing decreased rainfall and displacement across Somalia,* [Wikipedia](https://commons.wikimedia.org/wiki/File:Somalia_-_Drought_and_Displacement,_2016-2017.png)\n"
+msgstr ""
+"*Mapa humanitarna Somalii, pokazująca tereny o niskim poziomie opadów i "
+"migracje,* [Wikipedia](https://commons.wikimedia.org/wiki/"
+"File:Somalia_-_Drought_and_Displacement,_2016-2017.png)\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:62
+msgid ""
+"Khalid used to have good harvests from his mango trees, but in recent years "
+"the crops began to fail. His income dropped and he had less to eat. Al "
+"Shabab, a militant group, preyed upon the vulnerability that comes with "
+"hunger and lost income. They imposed a 'tax' on Khalid's harvest, taking one "
+"third for themselves. Knowing that if he joined the group he would finally "
+"have enough to eat and the 'tax' would be dropped, Khalid eventually gave "
+"in. Al Shabab had also taken advantage of the poverty in Somalia by [banning "
+"international aid organizations](https://www.theguardian.com/world/2017/"
+"jul/27/al-shabaab-militants-ban-starving-somalis-from-accessing-aid)— "
+"keeping people in poverty and making them reliant upon the militant group. "
+"Khalid was a member of the group for two years before ditching an assigned "
+"mission and walking to Kenya. At the time of the interview he was living in "
+"a refugee camp there."
+msgstr ""
+"Dawniej Khalid z powodzeniem uprawiał sad mangowców, lecz w ostatnich latach "
+"owoców było coraz mniej. Jego dochody spadły i miał trudności z wyżywieniem "
+"się. Miejscowe ugrupowanie zbrojne Al Shabab wykorzystywało bezbronność "
+"mieszkańców wywołaną głodem i biedą. Nałożyło „podatek” na Khalida, "
+"zabierając mu jedną trzecią plonów. Wiedząc, że jeżeli dołączy do tego "
+"ugrupowania, wreszcie będzie miał dość jedzenia, a „podatek” zostanie "
+"zniesiony, Khalid w końcu się poddał. Wcześniej Al Shabab [zakazało wstępu "
+"międzynarodowym organizacjom pomocowym](https://www.theguardian.com/world/"
+"2017/jul/27/al-shabaab-militants-ban-starving-somalis-from-accessing-aid), "
+"by utrzymywać ludność w nędzy i w zależności od siebie. Khalid był członkiem "
+"Al Shabab przez dwa lata, zanim porzucił powierzoną mu misję i dotarł pieszo "
+"do Kenii. Wywiadu udzielił, przebywając w tamtejszym obozie dla uchodźców."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:63
+#, no-wrap
+msgid "Somalia’s drought had created a life of poverty for Khalid, which reduced his life options. Knowing this, members of the militant group coerced him into eventually joining them as a means of survival. He probably repeated the extortion he had faced and participated in other oppressive activities—perpetuating both poverty and violence. He joined al Shabab not out of ideology, but hunger. Ultimately, these factors forced him to leave Somalia and seek refuge in Kenya.  \n"
+msgstr ""
+"Susza w Somalii pogrążyła Khalida w biedzie, ograniczając jego możliwości. "
+"Wiedząc o tym, członkowie ugrupowania zbrojnego zmusili go, by w końcu do "
+"nich dołączył, bo tylko w ten sposób mógł przeżyć. Prawdopodobnie on też "
+"dopuszczał się podobnych wymuszeń, jakich sam padł ofiarą, i brał udział w "
+"innych opresyjnych działaniach, pogłębiając zarówno biedę, jak i przemoc. "
+"Dołączył do Al Shabab nie z powodów ideologicznych, lecz z głodu. Wreszcie "
+"okoliczności zmusiły go do ucieczki z Somalii i szukania schronienia w "
+"Kenii.  \n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:66
+msgid ""
+"It is this nexus of events and experiences that make the impacts of climate "
+"change harder to see. We are used to understanding refugees as the result of "
+"one clear cut event—the bombing of a village, persecution, an earthquake. "
+"This narrow view, however, risks overlooking the critical role that slow-"
+"onset climate breakdown plays in creating—or strengthening—other threats. It "
+"is often the amalgamation of these threats that ultimately displaces people, "
+"making them climate refugees."
+msgstr ""
+"Taki splot wydarzeń i doświadczeń często nie pozwala na pierwszy rzut oka "
+"dostrzec wpływu zmian klimatu. Przyzwyczailiśmy się postrzegać uchodźstwo "
+"jako skutek określonego zdarzenia — bombardowania wioski, prześladowań czy "
+"trzęsienia ziemi. Z tej wąskiej perspektywy można przeoczyć zasadniczą rolę, "
+"jaką odgrywają postępujące zmiany klimatu w wywoływaniu lub potęgowaniu "
+"innych zagrożeń. Często to właśnie połączenie różnych zagrożeń w końcu "
+"zmusza ludzi do migracji, czyniąc z nich uchodźców klimatycznych."
+
+#. type: Title ##
+#: 2021-02-03-climate-refugees-justice.md:67
+#, no-wrap
+msgid "Climate Refugees Across the World"
+msgstr "Uchodźcy klimatyczni na całym świecie"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:70
+msgid ""
+"Climate breakdown is creating climate refugees all over the world. Here are "
+"three examples of forced displacement due to climate change. We start with "
+"Somalia because, as Laura Heaton warns us, “as one of the hardest hit on the "
+"planet by climate change, Somalia is the canary in the coal mine for the "
+"rest of us.”"
+msgstr ""
+"Załamanie się klimatu wywołało falę uchodźców klimatycznych na całym "
+"świecie. Oto trzy przykłady migracji wymuszonej przez okoliczności "
+"klimatyczne. Zaczynamy od Somalii, ponieważ jak ostrzega nas Laura Heaton: „"
+"Jako kraj najmocniej na całej planecie dotknięty problemem zmian klimatu, "
+"Somalia, niczym kanarek w kopalni, ostrzega nas przed zbliżającą się "
+"katastrofą”."
+
+#. type: Title ###
+#: 2021-02-03-climate-refugees-justice.md:71
+#, no-wrap
+msgid "Somalia"
+msgstr "Somalia"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:74
+msgid ""
+"![Map of Africa with Somalia highlighted](/assets/uploads/somalia_smaller."
+"jpg)"
+msgstr ""
+"![Map of Africa with Somalia highlighted](/assets/uploads/"
+"somalia_smaller.jpg)"
+
+#. type: Title ####
+#: 2021-02-03-climate-refugees-justice.md:75
+#: 2021-02-03-climate-refugees-justice.md:105
+#: 2021-02-03-climate-refugees-justice.md:133
+#, no-wrap
+msgid "Where"
+msgstr "Skąd pochodzą"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:78
+msgid ""
+"Located in east Africa, people [throughout Somalia](https://webcache."
+"googleusercontent.com/search?q=cache:3P0_f8oj550J:https://www.unhcr."
+"org/50aa0d6f9.pdf+&cd=14&hl=en&ct=clnk&gl=uk) are being forcibly displaced."
+msgstr ""
+"Ludność Somalii, zamieszkująca [Afrykę "
+"Wschodnią](https://webcache.googleusercontent.com/"
+"search?q=cache:3P0_f8oj550J:https://www.unhcr.org/"
+"50aa0d6f9.pdf+&cd=14&hl=en&ct=clnk&gl=uk) jest zmuszona do migracji."
+
+#. type: Title ####
+#: 2021-02-03-climate-refugees-justice.md:79
+#: 2021-02-03-climate-refugees-justice.md:109
+#: 2021-02-03-climate-refugees-justice.md:137
+#, no-wrap
+msgid "What"
+msgstr "Dlaczego migrują"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:82
+msgid ""
+"[Recurring droughts](https://www.theguardian.com/global-development/2019/"
+"jun/06/two-million-people-at-risk-of-starvation-as-drought-returns-to-"
+"somalia) and other effects of climate breakdown in Somalia are creating "
+"poverty, hunger, and displacement. People are [fleeing their homes to go to "
+"the capital](https://www.theguardian.com/global-development/2020/jan/27/"
+"mogadishu-left-reeling-as-climate-and-conflict-spark-rural-exodus), "
+"Mogadishu, or crossing borders to neighboring countries. [Armed groups use "
+"the poverty and desperation](https://www.unhcr.org/uk/news/"
+"stories/2019/9/5d8495984/drought-compounds-security-woes-somalis-flee-"
+"ethiopia.html) created by climate breakdown to recruit members, wreaking "
+"more violence on communities, and creating more displacement."
+msgstr ""
+"[Powtarzające się z roku na rok susze](https://www.theguardian.com/"
+"global-development/2019/jun/06/two-million-people-at-risk-of-starvation-as-"
+"drought-returns-to-somalia) i inne skutki załamania się klimatu wywołują w "
+"Somalii biedę, głód i migracje. Ludzie [porzucają swoje domy i przenoszą się "
+"do stolicy](https://www.theguardian.com/global-development/2020/jan/27/"
+"mogadishu-left-reeling-as-climate-and-conflict-spark-rural-exodus), "
+"Mogadiszu, lub udają się do sąsiednich krajów. [Ugrupowania zbrojne "
+"wykorzystują biedę i rozpacz](https://www.unhcr.org/uk/news/stories/2019/9/"
+"5d8495984/drought-compounds-security-woes-somalis-flee-ethiopia.html) osób "
+"dotkniętych skutkami załamania się klimatu, by rekrutować nowych członków. "
+"To dodatkowo nasila terror, jakiemu poddawane są lokalne społeczności, co z "
+"kolei nasila migracje."
+
+#. type: Title ####
+#: 2021-02-03-climate-refugees-justice.md:83
+#: 2021-02-03-climate-refugees-justice.md:113
+#: 2021-02-03-climate-refugees-justice.md:141
+#, no-wrap
+msgid "In their Voices"
+msgstr "Co sami mówią"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:86
+#, no-wrap
+msgid "> The worst is the drought, because with something to eat you can tolerate jail or any punishment \\[...b]ut facing starvation is worse than insecurity.\n"
+msgstr ""
+"> Najgorsza jest susza, bo można znieść nawet więzienie czy dowolną karę, "
+"jeżeli tylko ma się co jeść. Głód jest jeszcze gorszy od braku "
+"bezpieczeństwa.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:88
+msgid "— Mohamed Abukar, Somali farmer"
+msgstr "— Mohamed Abukar, somalijski rolnik"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:90
+#, no-wrap
+msgid "> The fact that many of our youth have lost jobs because of desertification, deforestation … It’s not the only cause, of course, of radicalization, but this is one of the major causes of radicalization because of the linkages between violence and environmental degradation.\n"
+msgstr ""
+"> Wielu młodych straciło pracę z powodu pustynnienia, wylesiania, a także "
+"oczywiście i z innych powodów, np. przez radykalizację. Jednak to właśnie "
+"pustynnienie jest jedną z głównych przyczyn radykalizacji. Istnieje wyraźny "
+"związek między przemocą a degradacją środowiska.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:92
+msgid "— Buri Hamza, former State Minister of the Environment for Somalia"
+msgstr "— Buri Hamza, były Minister Środowiska Somalii"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:94
+msgid ""
+"NB: Buri Hamza was killed in an attack by al Shabab in a hotel one month "
+"after this interview."
+msgstr ""
+"W miesiąc po udzieleniu tego wywiadu Buri Hamza zginął w ataku Al Shabab na "
+"hotel, w którym przebywał."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:96
+#, no-wrap
+msgid "> I’m betting we’ll vanish from the earth. Somalis will vanish from Somalia \\[...a]nd you know what? It’s not going to vanish only due to drought; it’s going to vanish due to drought that will bring wars, because we will fight like chickens with a small amount of crumbs. We’ll eat each other alive because this environment is not giving us anymore.\n"
+msgstr ""
+"> Założę się, że znikniemy z powierzchni ziemi. Nie będzie już Somalijczyków "
+"mieszkających w Somalii... A dlaczego? Nie tylko z powodu suszy, ale z "
+"powodu suszy, która przyniesie wojny, bo będziemy ze sobą walczyć jak kury o "
+"garść ziaren. Będziemy się zjadać żywcem, bo w tym środowisku już się nie "
+"utrzymamy.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:98
+msgid "— Fatima Jibrell, environmental activist"
+msgstr "— Fatima Jibrell, aktywistka ekologiczna"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:100
+#, no-wrap
+msgid "*<https://thegroundtruthproject.org/somalia-conflict-climate-change/>*\n"
+msgstr ""
+"*<https://thegroundtruthproject.org/somalia-conflict-climate-change/>*\n"
+
+#. type: Title ###
+#: 2021-02-03-climate-refugees-justice.md:101
+#, no-wrap
+msgid "Bangladesh"
+msgstr "Bangladesz"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:104
+msgid "![Map showing Bangladesh](/assets/uploads/bangladesh_smaller.png)"
+msgstr "![Map showing Bangladesh](/assets/uploads/bangladesh_smaller.png)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:108
+msgid ""
+"Located in south Asia, sharing India’s eastern border, and on the shores of "
+"the Bay of Bengal, [Bangladeshis mostly from rural coastal areas are "
+"becoming climate refugees](https://www.theguardian.com/global-"
+"development/2020/dec/16/how-floods-are-emptying-bangladesh-villages)."
+msgstr ""
+"Bengalki i Bengalczycy, zamieszkujący obszar Azji Południowej na wschód od "
+"Indii, nad Zatoką Bengalską, [głównie ci z nadmorskich terenów rolniczych, "
+"coraz liczniej stają się uchodźcami klimatycznymi](https://www.theguardian."
+"com/global-development/2020/dec/16/how-floods-are-emptying-bangladesh-"
+"villages)."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:112
+msgid ""
+"Climate breakdown is creating increased flooding and coastal erosion. Storms "
+"are coming harder and each time a catastrophe hits it is harder and harder "
+"to rebuild. [Bangladesh loses an area the size of Manhattan each year]"
+"(https://www.nationalgeographic.com/environment/2019/01/climate-change-"
+"drives-migration-crisis-in-bangladesh-from-dhaka-sundabans/), and is "
+"projected to have as many as 13.3 million climate refugees by 2050. People "
+"are losing livelihoods and homes and moving en masse to the capital and "
+"elsewhere."
+msgstr ""
+"Załamanie się klimatu wywołuje coraz częstsze i silniejsze powodzie oraz "
+"erozję wybrzeża. Gwałtowne burze napierają coraz silniej i po każdej "
+"kolejnej klęsce coraz trudniej o odbudowę. [Każdego roku Bangladesz traci "
+"powierzchnię wielkości Manhattanu](https://www.nationalgeographic.com/"
+"environment/2019/01/"
+"climate-change-drives-migration-crisis-in-bangladesh-from-dhaka-sundabans/). "
+"Prognozuje się, że do roku 2050 z Bangladeszu będzie pochodziło aż 13,3 "
+"miliona uchodźców klimatycznych. Ludzie tracą źródła utrzymania i domy i "
+"masowo przenoszą się do stolicy lub udają się w innym kierunku."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:116
+#, no-wrap
+msgid "> Climate change has wrecked everything; our people are living in other towns and cities, like refugees. All I wanted was to grow old with my children and their children. But now they are gone and I don’t think they will ever return.\n"
+msgstr ""
+"> Zmiany klimatu zniszczyły wszystko; mieszkamy teraz w innych "
+"miejscowościach, jak uchodźcy. Chciałem tylko spokojnie zestarzeć się z "
+"moimi dziećmi i wnukami. Wszyscy powyjeżdżali i wątpię, żeby kiedyś tu "
+"jeszcze wrócili.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:118
+msgid "— Shamisur Gazi, 83, Chakbara, Bangladesh"
+msgstr "— Shamisur Gazi, 83 lata, Chakbara, Bangladesz"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:120
+#, no-wrap
+msgid "> God knows how long this village will last. If it gets worse I will have to go to the mainland. We know the end is coming.\n"
+msgstr ""
+"> Bóg jeden wie, jak długo jeszcze istnieć będzie ta wieś. Jeżeli sytuacja "
+"się pogorszy, będę musiał się przenieść na stały ląd. Widać, że to już "
+"koniec.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:122
+msgid "— Jakir Hossain, Bangladeshi fisherman"
+msgstr "— Jakir Hossain, bengalski rybak"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:124
+#, no-wrap
+msgid "> The land here used to be 1 km out to sea…We lost mosques, a school, shops, farms. We are scared of the sea now. Gradually it comes closer to our homes. When we sleep, we are scared. Every year the tide rises more and comes in further. Next year this village may not exist.\n"
+msgstr ""
+"> Dawniej wybrzeże było o kilometr dalej w morze… Straciliśmy meczety, "
+"szkołę, sklepy, gospodarstwa. Boimy się teraz morza. Podchodzi coraz bliżej "
+"pod nasze domy. Nawet we śnie towarzyszy nam strach. Co roku poziom wody się "
+"podnosi i morze wdziera się coraz dalej. W przyszłym roku tej wioski może "
+"już nie być.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:126
+msgid "— Mohamed Rashed, Qumira Char, Bangladesh"
+msgstr "— Mohamed Rashed, Qumira Char, Bangladesz"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:128
+#, no-wrap
+msgid "*<http://climatemigration.org.uk/migration-stories-from-the-ganges-brahmaputra-delta-2/>*\n"
+msgstr ""
+"*<http://climatemigration.org.uk/"
+"migration-stories-from-the-ganges-brahmaputra-delta-2/>*\n"
+
+#. type: Title ###
+#: 2021-02-03-climate-refugees-justice.md:129
+#, no-wrap
+msgid "United Kingdom"
+msgstr "Wielka Brytania"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:132
+msgid "![Map showing the UK](/assets/uploads/uk_smaller.jpg)"
+msgstr "![Map showing the UK](/assets/uploads/uk_smaller.jpg)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:136
+msgid "The coastal town of Fairbourne, in north Wales."
+msgstr "Fairbourne, miejscowość nadmorska w północnej Walii."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:140
+msgid ""
+"Rising sea levels are threatening to make the town uninhabitable within the "
+"next 30 years. In 2013 the town council decided to stop defending the town "
+"and [give it up to the sea](https://edition.cnn.com/2019/06/09/europe/"
+"fairbourne-wales-climate-change-sea-level-rise-intl-gbr/index.html). It will "
+"begin relocating residents in 2045, but possibly earlier. Residents are "
+"unsure if they will receive financial compensation when the town is "
+"‘decommissioned’. This is not the only [town in the UK to be threatened by "
+"the rising sea](https://www.theguardian.com/environment/2019/may/09/climate-"
+"crisis-flooding-threat-may-force-uk-towns-to-be-abandoned)."
+msgstr ""
+"Ze względu na podnoszący się poziom morza, miasto może przestać nadawać się "
+"do zamieszkania w ciągu najbliższych 30 lat. W 2013 roku rada miejska "
+"postanowiła zrezygnować z planów ratowania miasta i [oddać go "
+"morzu](https://edition.cnn.com/2019/06/09/europe/"
+"fairbourne-wales-climate-change-sea-level-rise-intl-gbr/index.html). Zgodnie "
+"z planem mieszkańcy i mieszkanki zaczną być przesiedlani w roku 2045, choć "
+"może to nastąpić i wcześniej. Nie są pewni, czy otrzymają odszkodowanie, "
+"kiedy miasto zostanie „zlikwidowane”. To nie jedyna [miejscowość w Wielkiej "
+"Brytanii, której zagraża podnoszący się poziom "
+"morza](https://www.theguardian.com/environment/2019/may/09/climate-crisis-"
+"flooding-threat-may-force-uk-towns-to-be-abandoned)."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:144
+#, no-wrap
+msgid "> This is a wake-up call for the country. This is going to happen elsewhere.\n"
+msgstr ""
+"> To ostrzeżenie dla całego kraju. Podobnie będzie w wielu innych miejscach."
+"\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:146
+msgid "— Bev Wilkins, 67, Retiree"
+msgstr "— Bev Wilkins, 67 lat, emerytka"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:148
+#, no-wrap
+msgid "> People who want to sell are taking very cheap cash deals. I can’t do that. Where am I going to go? I wouldn’t get enough money to get another house \\[...h]ow the authorities can sit there and push this forward with no solutions beggars belief.\n"
+msgstr ""
+"> Ludzie, którzy chcą sprzedać swoje domy, otrzymują bardzo słabe oferty. Ja "
+"tak nie mogę. Dokąd miałbym się przenieść? Nie miałbym za co kupić innego "
+"domu. Nie do wiary, jak rząd może siedzieć bezczynnie i jeszcze pogarszać "
+"sytuację.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:150
+msgid "— Mike Thrussell, Journalist"
+msgstr "— Mike Thrussell, dziennikarz"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:152
+#, no-wrap
+msgid "> We don’t have options. We are just pawns.\n"
+msgstr "> Nie mamy nic do powiedzenia. Jesteśmy tylko pionkami w grze.\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:154
+msgid "— Julia Walker, 32, Mother of 4"
+msgstr "— Julia Walker, 32 lata, matka czworga dzieci"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:156
+#, no-wrap
+msgid "*<https://www.theguardian.com/environment/2019/may/18/this-is-a-wake-up-call-the-villagers-who-could-be-britains-first-climate-refugees>*\n"
+msgstr ""
+"*<https://www.theguardian.com/environment/2019/may/18/this-is-a-wake-up-call-"
+"the-villagers-who-could-be-britains-first-climate-refugees>*\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:158
+msgid ""
+"![Broken sea ramp](https://lh5.googleusercontent.com/"
+"BoHhv49NP2jrzkqMz6gSHb2cPiFHifJ1noZoYU3q4YVHl_SfQaXWoFQxxyk-"
+"EONXyBhNo0bwEPXc8d333mUs3Lhrq_IID81aHeMr2YTIc10rcNfUNt1YVpy61PFS5k5LAiF-ZeDR)"
+msgstr ""
+"![Pokruszony falochron](https://lh5.googleusercontent.com/"
+"BoHhv49NP2jrzkqMz6gSHb2cPiFHifJ1noZoYU3q4YVHl_SfQaXWoFQxxyk-"
+"EONXyBhNo0bwEPXc8d333mUs3Lhrq_IID81aHeMr2YTIc10rcNfUNt1YVpy61PFS5k5LAiF-ZeDR)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:160
+#, no-wrap
+msgid "*Broken sea ramp, left unfixed in Fairbourne, Wales, Photo by Julia Wilson*\n"
+msgstr ""
+"*Pokruszony i porzucony falochron w Fairbourne, w Walii, zdjęcie: Julia "
+"Wilson*\n"
+
+#. type: Title ##
+#: 2021-02-03-climate-refugees-justice.md:161
+#, no-wrap
+msgid "Justice for Climate Refugees from 2020 to 2050"
+msgstr "Sprawiedliwość dla uchodźców klimatycznych od 2020 do 2050 roku"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:164
+msgid ""
+"While international bodies are [bogged down in treaties and semantics]"
+"(https://www.npr.org/sections/goatsandsoda/2018/06/20/621782275/the-refugees-"
+"that-the-world-barely-pays-attention-to?t=1601452646563), climate breakdown "
+"is forcing people around the world to leave their homes. It affects "
+"everyone, regardless of income. But we know that it is [society’s most "
+"vulnerable](https://www.dw.com/en/the-global-injustice-of-the-climate-crisis-"
+"food-insecurity-carbon-emissions-nutrients-a-49966854/a-49966854) who are "
+"hit hardest and have the fewest resources to rely on. [The climate is "
+"changing fast](https://rebellion.global/blog/2020/11/12/extreme-weather-"
+"climate-change/), and people are losing their homes, and [will continue to "
+"do so](https://www.internal-displacement.org/disaster-risk-model)— "
+"regardless of whatever legal category the UN and other international bodies "
+"put them in."
+msgstr ""
+"Podczas gdy instytucje międzynarodowe [ugrzęzły w gąszczu traktatów i "
+"semantyki](https://www.npr.org/sections/goatsandsoda/2018/06/20/621782275/"
+"the-refugees-that-the-world-barely-pays-attention-to?t=1601452646563), "
+"załamanie się klimatu zmusza ludzi na całym świecie do migracji. Problem ten "
+"dotyczy wszystkich, niezależnie od poziomu dochodów. Jednak wiadomo, że ["
+"najbardziej bezbronne grupy społeczne](https://www.dw.com/en/the-global-injus"
+"tice-of-the-climate-crisis-food-insecurity-carbon-emissions-nutrients-a-49966"
+"854/a-49966854) najmocniej cierpią z powodu tej sytuacji i mają najmniej "
+"możliwości, by jej zaradzić. [Klimat zmienia się szybko](https://rebellion."
+"global/blog/2020/11/12/extreme-weather-climate-change/), ludzie tracą dach "
+"nad głową, [a będzie ich coraz więcej](https://www.internal-displacement.org/"
+"disaster-risk-model), niezależnie od tego, do jakiej kategorii prawnej ONZ i "
+"inne instytucje międzynarodowe ich zaliczą."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:166
+msgid ""
+"![Sign on wall saying \"Refugees welcome\"](/assets/uploads/refugees_welcome."
+"jpg)"
+msgstr ""
+"![Sign on wall saying \"Refugees welcome\"](/assets/uploads/"
+"refugees_welcome.jpg)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:168
+#, no-wrap
+msgid "*Photo by Ethan Doyle White, [Wikipedia](https://commons.wikimedia.org/w/index.php?search=refugees+welcome+london+refugees+welcome+filemime%3Aimage%2Fjpeg&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%22fields%22%3A%7B%22plain%22%3A%5B%22refugees%22%2C%22welcome%22%5D%2C%22filetype%22%3A%22image%2Fjpeg%22%7D%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#%2Fmedia%2FFile%3A%22Refugees_Welcome%22_Sign_along_Malet_Street.jpg)*\n"
+msgstr ""
+"*Zdjęcie: Ethan Doyle White, [Wikipedia](https://commons.wikimedia.org/w/inde"
+"x.php?search=refugees+welcome+london+refugees+welcome+filemime%3Aimage%2Fjpeg"
+"&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%"
+"22fields%22%3A%7B%22plain%22%3A%5B%22refugees%22%2C%22welcome%22%5D%2C%22file"
+"type%22%3A%22image%2Fjpeg%22%7D%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1#"
+"%2Fmedia%2FFile%3A%22Refugees_Welcome%22_Sign_along_Malet_Street.jpg)*\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:170
+msgid ""
+"Climate refugees have lost their homes. But they have often also lost their "
+"income, stability, community, security of life, and dreams for their future. "
+"They have lost everything to something that is preventable. We must continue "
+"to [petition governments to protect people against harm](https://www."
+"gardencourtchambers.co.uk/news/european-court-of-human-rights-is-fast-"
+"tracking-a-climate-case-against-33-european-states-brought-by-6-portuguese-"
+"youth)."
+msgstr ""
+"Uchodźcy klimatyczni stracili nie tylko dach nad głową, lecz także źródła "
+"utrzymania, stabilność, wspólnotę, poczucie bezpieczeństwa i możliwość "
+"realizacji planów życiowych. Wszystko to z powodu zjawisk, którym można było "
+"zapobiec. Musimy nieustannie [domagać się od rządzących, by chronili "
+"pokrzywdzonych i pomagali im](https://www.gardencourtchambers.co.uk/news/"
+"european-court-of-human-rights-is-fast-tracking-a-climate-case-against-33"
+"-european-states-brought-by-6-portuguese-youth)."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:172
+msgid ""
+"We must continue to [hold them accountable for their roles in furthering "
+"climate breakdown](https://www.commondreams.org/news/2019/07/04/study-finds-"
+"holding-governments-and-corporations-legally-accountable-climate-crisis). We "
+"must continue to [demand governments treat refugees as humans and not "
+"disposable ‘problems'](https://www.theguardian.com/commentisfree/2018/jun/10/"
+"sunday-essay-how-we-colluded-in-fortress-europe-immigration). Reactive "
+"measures of ‘adaptation’ are not enough. Proactive [prevention](https://www."
+"theguardian.com/environment/2020/oct/14/re-wild-to-mitigate-the-climate-"
+"crisis-urge-leading-scientists) of further climate breakdown must be at the "
+"heart of government actions, and it must be [now](https://rebellion.global/"
+"blog/2020/11/22/ten-years-save-planet/). Because right now millions of "
+"people around the world are seeking refuge in new places."
+msgstr ""
+"Musimy nieustannie [pociągać polityków i polityczki do odpowiedzialności za "
+"pogłębianie kryzysu klimatycznego](https://www.commondreams.org/news/2019/07/"
+"04/study-finds-holding-governments-and-corporations-legally-accountable-"
+"climate-crisis). Musimy nieustannie [domagać się traktowania uchodźców jak "
+"ludzi, a nie jak „problemy”, których trzeba się "
+"pozbyć](https://www.theguardian.com/commentisfree/2018/jun/10/sunday-essay-"
+"how-we-colluded-in-fortress-europe-immigration). Reaktywne środki "
+"„adaptacyjne” nie wystarczą. Proaktywne [środki "
+"zapobiegające](https://www.theguardian.com/environment/2020/oct/14/re-wild-"
+"to-mitigate-the-climate-crisis-urge-leading-scientists) dalszej "
+"destabilizacji klimatu muszą stanowić podstawę działań rządów [już "
+"teraz](https://rebellion.global/blog/2020/11/22/ten-years-save-planet/). Bo "
+"już dziś miliony osób na całym świecie straciły wszystko i nie mają się "
+"gdzie podziać."
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:174
+msgid ""
+"We must work to [welcome refugees](https://www.theguardian.com/"
+"commentisfree/2019/jan/06/observer-view-on-britain-failing-in-moral-duty-to-"
+"help-refugees) into our communities and [support them](https://www.refugees-"
+"welcome.net/) and [stand in solidarity with them](http://www."
+"migrantsorganise.org/). Our place in life is a roll of the dice of fate, and "
+"we should extend the kindness and justice to others that we would hope "
+"others would extend to us were the roles reversed. [As Lauren Markham "
+"reminds us](https://www.theguardian.com/commentisfree/2019/apr/06/us-mexico-"
+"immigration-climate-change-migration), “People don’t want to be raped along "
+"the route north, or die in the desert, or have their child ripped away from "
+"them by the border patrol, or be locked up indefinitely without legal "
+"counsel, without adequate medical care, with no idea what will happen to "
+"them and when. Who would risk this if things were OK back home?”"
+msgstr ""
+"Musimy postarać się [włączać uchodźców](https://www.theguardian.com/"
+"commentisfree/2019/jan/06/observer-view-on-britain-failing-in-moral-duty-to-"
+"help-refugees) do naszych społeczności, [wspierać ich](https://www.refugees-"
+"welcome.net/) i [okazywać im solidarność](http://www.migrantsorganise.org/). "
+"O życiu każdego z nas decyduje przypadek i powinniśmy okazać życzliwość i "
+"sprawiedliwość innym, czego sami byśmy oczekiwali na ich miejscu. [Jak "
+"przypomina nam Lauren Markham](https://www.theguardian.com/commentisfree/"
+"2019/apr/06/us-mexico-immigration-climate-change-migration), „Nikt nie chce "
+"paść ofiarą gwałtu na szlaku północnym, umrzeć na pustyni, być rozdzielonym "
+"od własnych dzieci przez patrol straży granicznej, ani zostać zamknięty na "
+"nie wiadomo jak długo bez pomocy prawnej, bez odpowiedniej opieki medycznej "
+"i w całkowitej niepewności co do swoich dalszych losów. Kto narażałby się na "
+"takie ryzyko, gdyby mógł bezpiecznie zostać w domu?”"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:176
+msgid ""
+"![A woman in a march holds a sign saying \"Times like these call for "
+"courage! Courage!\"](/assets/uploads/courage.jpg)"
+msgstr ""
+"![A woman in a march holds a sign saying \"Times like these call for "
+"courage! Courage!\"](/assets/uploads/courage.jpg)"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:178
+#, no-wrap
+msgid "*Photo by [Alisdare Hickson](https://commons.wikimedia.org/w/index.php?search=refugees+welcome+london+refugees+welcome+filemime%3Aimage%2Fjpeg&title=Special:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%22fields%22%3A%7B%22plain%22%3A%5B%22refugees%22%2C%22welcome%22%5D%2C%22filetype%22%3A%22image%2Fjpeg%22%7D%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1&searchToken=beijv57qfpzs3dwjvjy8osmpr#%2Fmedia%2FFile%3ATimeslike_this_call_for_courage-anti-Trump_protest_in_London.%2832601976986%29.jpg)*\n"
+msgstr ""
+"*Zdjęcie: [Alisdare Hickson](https://commons.wikimedia.org/w/index.php?search"
+"=refugees+welcome+london+refugees+welcome+filemime%3Aimage%2Fjpeg&title=Speci"
+"al:Search&profile=advanced&fulltext=1&advancedSearch-current=%7B%22fields%22%"
+"3A%7B%22plain%22%3A%5B%22refugees%22%2C%22welcome%22%5D%2C%22filetype%22%3A%2"
+"2image%2Fjpeg%22%7D%7D&ns0=1&ns6=1&ns12=1&ns14=1&ns100=1&ns106=1&searchToken="
+"beijv57qfpzs3dwjvjy8osmpr#%2Fmedia%2FFile%3ATimeslike_this_call_for_courage-"
+"anti-Trump_protest_in_London.%2832601976986%29.jpg)*\n"
+
+#. type: Plain text
+#: 2021-02-03-climate-refugees-justice.md:179
+msgid ""
+"Many hold the year 2050 in their minds’ eye as a crucial date for the "
+"climate emergency. Indeed, projections say that by 2050 climate breakdown "
+"may have displaced [1.2 billion people](https://www.theguardian.com/"
+"environment/2020/sep/09/climate-crisis-could-displace-12bn-people-by-2050-"
+"report-warns). But this is not a done deal—it is up to us to shape and "
+"influence government actions in the next 30 years. We must use the time to "
+"act, to try and avert the worst consequences and give people a better chance "
+"at a secure life in their homes. The question is—will you [act now](https://"
+"extinctionrebellion.uk/act-now/)?"
+msgstr ""
+"Wiele osób postrzega rok 2050 jako decydującą datę w kwestii kryzysu "
+"klimatycznego, bo według prognoz do roku 2050 załamanie się klimatu może "
+"doprowadzić do migracji [miliarda dwustu milionów "
+"ludzi](https://www.theguardian.com/environment/2020/sep/09/climate-crisis-"
+"could-displace-12bn-people-by-2050-report-warns). Jednak wcale nie musi do "
+"tego dojść — to od nas zależy, jak będziemy kształtować i wpływać na "
+"działania rządów w ciągu najbliższych 30 lat. Musimy wykorzystać te lata na "
+"próby odwrócenia najgorszych skutków zmian klimatycznych i umożliwić ludziom "
+"bezpieczne życie w ich rodzinnych stronach. Pytanie brzmi: czy ty też "
+"zaczniesz [działać już dziś](https://extinctionrebellion.uk/act-now/)?"

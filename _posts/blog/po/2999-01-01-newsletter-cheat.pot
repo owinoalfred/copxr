@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-10 18:17+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:12
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: Newsletter Cheatsheet (don't translate!)\n"
+"slug: never-publish\n"
+"date: 2999-01-01 00:00\n"
+"published: false\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/72c548e7-408e-4c06-b29f-b6fc887d70b8.jpg\n"
+"seoTitle: null\n"
+"seoDescription: null\n"
+msgstr ""
+
+#. type: Title ##
+#: 2999-01-01-newsletter-cheat.md:13
+#, no-wrap
+msgid "Hi there,"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:16
+msgid ""
+"Here's a helpful cheat-sheet / component library to use when transplanting "
+"the newsletter from the email version to the web version. Feel free to add "
+"whatever you think helps!"
+msgstr ""
+
+#. type: Title ###
+#: 2999-01-01-newsletter-cheat.md:17
+#, no-wrap
+msgid "**Formatting**"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2999-01-01-newsletter-cheat.md:21
+msgid ""
+"Please ensure everything that is in italics or bold in the main newsletter "
+"version is transposed."
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2999-01-01-newsletter-cheat.md:21
+msgid "In terms of URL slug, please use the following formats:"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:23
+msgid "global-newsletter-\\[newsletter number goes here]"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:25
+msgid "xr-unchained-\\[number goes here]"
+msgstr ""
+
+#. type: Bullet: '* '
+#: 2999-01-01-newsletter-cheat.md:27
+msgid ""
+"Please ensure the social description is filled out for the main newsletter "
+"and Unchained. For Unchained, you can use the following: \"Actions from "
+"across the world that we couldn't cram into the newsletter this month.\""
+msgstr ""
+
+#. type: Title ###
+#: 2999-01-01-newsletter-cheat.md:28
+#, no-wrap
+msgid "**Links**"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:31
+msgid ""
+"The Google Doc will have comments in the margin as to where links should be "
+"placed. Based on the date you click the publish button, you can determine "
+"what these should be."
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:33
+msgid "For the main newsletter:"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:35
+msgid ""
+"https://rebellion.global/blog/2021/01/12/global-newsletter-[number goes here/"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:37
+#, no-wrap
+msgid " For Unchained: \n"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:39
+msgid ""
+"https://rebellion.global/blog/2020/11/12/xr-unchained-\\[number goes here]/"
+msgstr ""
+
+#. type: Title ###
+#: 2999-01-01-newsletter-cheat.md:40
+#, no-wrap
+msgid "**Buttons**"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:46
+msgid ""
+"Donate button:\\ [Support the Rebellion](https://chuffed.org/xr/"
+"globalsupport){.xr-button}"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:51
+msgid ""
+"Link to Unchained (don't forget to change the version number!)\\ [XR "
+"Unchained](../xr-unchained-00/){.xr-button}"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:56
+msgid ""
+"Here's a button to subscribe to the newsletter\\ [Subscribe to the "
+"Newsletter](../https://actionnetwork.org/forms/newsletter-sign-up-17){.xr-"
+"button}"
+msgstr ""
+
+#. type: Plain text
+#: 2999-01-01-newsletter-cheat.md:60
+msgid "Link to XR-global news page\\ [news](../../../../../news/)"
+msgstr ""

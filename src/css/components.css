@@ -1,0 +1,105 @@
+img {
+  max-width: none;
+}
+
+::selection {
+  @apply bg-green-500 text-white;
+}
+
+body {
+  @apply bg-gray-100 font-sans;
+}
+
+.h-350px {
+  height: 350px;
+}
+
+.bg-gradient-bottom {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, .05), rgba(0, 0, 0, .3) 70%, rgba(0, 0, 0, .9) 100%);
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.material-design-icon {
+  display: inline-flex;
+  align-self: center;
+  position: relative;
+  height: 1em;
+  width: 1em;
+}
+
+.material-design-icon>.material-design-icon__svg {
+  height: 1em;
+  width: 1em;
+  fill: currentColor;
+}
+
+.mdi-fix>.material-design-icon__svg {
+  position: absolute;
+  bottom: -0.05em;
+}
+
+/* for mastodon feed */
+
+.invisible {
+  font-size: 0;
+  line-height: 0;
+  display: inline-block;
+  width: 0;
+  height: 0;
+}
+
+.ellipsis:after {
+  content: "…";
+}
+
+.status__content {
+  @apply font-serif text-lg leading-normal break-words truncate font-semibold;
+}
+
+.status__content p {
+  @apply whitespace-pre-wrap mb-4;
+}
+
+.status__content p:last-child {
+  @apply mb-0;
+}
+
+.status__content a {
+  @apply font-bold;
+}
+
+.spinner {
+  @apply m-auto flex items-center justify-center;
+}
+
+.spinner>div {
+  @apply m-2 w-8 h-8 bg-blue-300 rounded-full;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.spinner .bounce1 {
+  animation-delay: -0.32s;
+  @apply bg-pink-500;
+}
+
+.spinner .bounce2 {
+  animation-delay: -0.16s;
+  @apply bg-yellow-400;
+}
+
+@keyframes sk-bouncedelay {
+  0%, 80%, 100% {
+    transform: scale(0);
+  }
+  40% {
+    transform: scale(1.0);
+  }
+}
+
+.bg-gradient-bottom {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, .05), rgba(0, 0, 0, .3) 70%, rgba(0, 0, 0, .9) 100%);
+}

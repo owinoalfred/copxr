@@ -1,0 +1,1044 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-09 16:36+0200\n"
+"PO-Revision-Date: 2020-08-25 17:05+0000\n"
+"Last-Translator: AlicjaT <aalicjat@gmail.com>\n"
+"Language-Team: Polish <http://translate.organise.earth/projects/blog-posts/"
+"2020-07-30-lockdown-emissions/pl/>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:13
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: >-\n"
+"  Let’s Breathe Easier: How Lockdown Has Shown that Reduced Emissions Mean\n"
+"  Healthier Lives for Us All\n"
+"slug: lockdown-emissions\n"
+"date: '2020-07-30 13:56'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/pandemic/1st.png\n"
+"seoImage: /assets/uploads/pandemic/1st.png\n"
+msgstr ""
+"lang: pl\n"
+"title: >-\n"
+"  Niech będzie nam łatwiej oddychać: Jak koronawirusowe obostrzenia "
+"udowodniły, \n"
+"  że dzięki obniżeniu emisji wszystkich nas czeka zdrowsze życie\n"
+"slug: lockdown-emissions\n"
+"date: '2020-07-30 13:56'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/pandemic/1st.png\n"
+"seoImage: /assets/uploads/pandemic/1st.png\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:15
+#, no-wrap
+msgid "*Article by Shireen Tawil*\n"
+msgstr "*Tekst: Shireen Tawil*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:17
+msgid ""
+"The first few months of 2020 shook up our lives in a way few of us have ever "
+"experienced. Beginning in China and moving outwards rapidly, lockdowns swept "
+"the world in a domino effect. People were told to stay home, non-essential "
+"businesses were closed, the roaring engines of manufacturing and industry "
+"fell silent, and the streets of cities that never sleep suddenly [echoed "
+"with "
+"emptiness](https://www.nytimes.com/interactive/2020/03/23/world/coronavirus-great-empty.html)."
+msgstr ""
+"W pierwszych miesiącach 2020 roku nasze życie wywróciło się do góry nogami i "
+"ruszyło w kierunku nieznanym większości z nas. Obostrzenia wprowadzono "
+"najpierw w Chinach, ale błyskawicznie pojawiły się też w innych zakątkach "
+"świata. Ludzie mieli nie wychodzić z domów, działały tylko przedsiębiorstwa "
+"oferujące najbardziej niezbędne usługi, umilkł zgiełk fabrycznych maszyn, a "
+"ulice nigdy niezasypiających miast nagle [zaczęły zionąć "
+"pustką](https://www.nytimes.com/interactive/2020/03/23/world/coronavirus-"
+"great-empty.html)."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:19
+msgid ""
+"![Clear sky and water. Venice, Italy. June, "
+"2020](/assets/uploads/pandemic/1st.png)"
+msgstr ""
+"![Czyste niebo i woda. Wenecja, Włochy. Czerwiec 2020 roku.](/assets/uploads/"
+"pandemic/1st.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:21
+#, no-wrap
+msgid "*Clear sky and water. Venice, Italy. June, 2020. Photo by Janou Baton.*\n"
+msgstr ""
+"*Czyste niebo i woda. Wenecja, Włochy. Czerwiec 2020 roku. Zdjęcie: Janou "
+"Baton*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:23
+msgid ""
+"People across the world experienced tremendous grief as hundreds of "
+"thousands lost their lives to COVID-19, and we were forced to accept a ‘new "
+"normal’. The deep pain felt by so many of us at the loss of life cannot be "
+"overstated, and carries a weight that cannot, and should not, be brushed "
+"aside. Without discounting the emotional toll at its source, this abrupt "
+"disruption of the world’s daily rhythms has raised many truths - previously "
+"hidden beneath the hustle and bustle of busy life - up to the surface."
+msgstr ""
+"Ludzi na całym świecie dotknęła okropna tragedia: w wyniku COVID-19 setki "
+"tysięcy osób straciło życie bądź zostało zmuszone do zaakceptowania „nowej "
+"normalności”. Nie da się opisać głębokiego bólu, jaki wielu z nas odczuwa z "
+"powodu straty najbliższych; jest to coś, po czym podnieść się jest "
+"niewyobrażalnie trudno. Chociaż nagłe zakłócenie naszego codziennego życia "
+"wiąże się z ogromnym ciężarem, zobaczyliśmy dzięki temu także wiele prawd, "
+"na które wcześniej w biegu codzienność nie mogliśmy zwrócić uwagi."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:25
+msgid ""
+"This disruption has shattered illusions, [exposing outrageous "
+"inequalities](https://www.theguardian.com/commentisfree/2020/apr/25/covid-19-pandemic-shines-a-light-on-a-new-kind-of-class-divide-and-its-inequalities) "
+"around the world, [revealing the brutality our current socio-economic "
+"structures inflict upon so many "
+"lives](https://www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca). "
+"Among these shattered perceptions is the idea that our air pollution is not "
+"quite so bad. With factories stopped, cars parked, and airplanes grounded, "
+"the skies opened up for us and the waters cleared. The drop in emissions has "
+"thus brought the issue of air pollution to the attention of many in a more "
+"tangible way."
+msgstr ""
+"Zaistniały chaos pozbawił nas złudzeń, [wskazał na niewyobrażalne "
+"nierówności](https://www.theguardian.com/commentisfree/2020/apr/25/covid-19"
+"-pandemic-shines-a-light-on-a-new-kind-of-class-divide-and-its-inequalities) "
+"na świecie i [pozwolił nam zaobserwować, jak bardzo brutalne piętno obecny "
+"system społeczno-ekonomiczny odciska na wielu osobach](https://www.ft.com/"
+"content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca). Jednym z tych utraconych "
+"złudzeń jest to, jakoby otaczające nas zanieczyszczenie powietrza wcale nie "
+"było takie złe. Kiedy zamknęliśmy fabryki, zaparkowaliśmy samochody i "
+"uziemiliśmy samoloty, powitaliśmy błękitne niebo i czyściutką wodę. Spadek "
+"emisji w bardziej namacalny sposób zwrócił uwagę wielu z nas na problem "
+"zanieczyszczenia powietrza."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:27
+msgid ""
+"My terrace in Milan has always confronted me with the dirty air we breathe "
+"here. The pollution is so high that if I don’t scrub the terrace clean "
+"weekly, my children come inside with their hands and feet covered in black "
+"soot. My five-year-old is asthmatic and has been hospitalized twice for "
+"pneumonia - the first time coming just a week shy of his first "
+"birthday. During the 70+ days of lockdown we experienced, I cleaned my "
+"terrace once, around day 10, and it is only now (90 days later) that I need "
+"to give it another clean. The difference in the terrace’s sootiness between "
+"the two periods is startling, and illustrates the impact the drop in "
+"emissions must have had."
+msgstr ""
+"To, jak bardzo zanieczyszczone powietrze codziennie wdychamy, przypomina mi "
+"mój mediolański taras. Jakość powietrza jest tu na tak niskim poziomie, że "
+"jeśli co tydzień nie wyszoruję dokładnie tarasu, moje dzieci wchodzą do domu "
+"ze stopami i rękami pokrytymi czarną sadzą. Mój pięcioletni syn ma astmę i "
+"już dwa razy przebywał w szpitalu z powodu zapalenia płuc – pierwszy raz "
+"zaledwie tydzień przed pierwszymi urodzinami. Podczas trwającego ponad 70 "
+"dni okresu zamknięcia miasta taras umyłam tylko raz, około dziesiątego dnia. "
+"Dopiero teraz (90 dni później) muszę zrobić to znowu. Różnica w ilości sadzy "
+"na tarasie między dwoma myciami jest zaskakująca i doskonale pokazuje, jak "
+"bardzo musiał obniżyć się poziom emisji w mieście."
+
+#. type: Title ##
+#: 2020-07-30-lockdown-emissions.md:28
+#, no-wrap
+msgid "What’s Polluting Our Air in the First Place?"
+msgstr "Co zanieczyszcza nasze powietrze?"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:31
+msgid "![](/assets/uploads/pandemic/2nd.png)"
+msgstr "![](/assets/uploads/pandemic/2nd.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:33
+#, no-wrap
+msgid ""
+"*Exhaust from generators. Beirut, Lebanon. January, 2020. Photo by "
+"author.*\n"
+msgstr ""
+"*Spaliny z generatorów. Bejrut, Liban. Styczeń 2020 roku. Zdjęcie: autorka.*"
+"\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:35
+msgid ""
+"The three biggest contributors to air pollution are particulate matter (PM), "
+"ozone, and household pollutants. Their high presence in the air we breathe "
+"is dangerous to the health of both humans and the planet."
+msgstr ""
+"Trzy czynniki odpowiadające za większość zanieczyszczeń powietrza to pył "
+"zawieszony (PM), ozon i zanieczyszczenia z gospodarstw domowych. Ich wysoki "
+"poziom w powietrzu, które wdychamy, stanowi niebezpieczeństwo zarówno dla "
+"zdrowia ludzi, jak i całej planety."
+
+#. type: Title ###
+#: 2020-07-30-lockdown-emissions.md:36
+#, no-wrap
+msgid "Particulate Matter"
+msgstr "Pył zawieszony"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:39
+msgid ""
+"[PM is a combination of solid particles and liquid "
+"droplets](https://www.epa.gov/pm-pollution/particulate-matter-pm-basics) in "
+"the air. Dust, dirt, soot and smoke are examples of visible forms of PM, "
+"while other particles are so small they can only be seen with a "
+"microscope. PM pollution is made up of two categories: PM10 (PM with a "
+"diameter of 10 micrometers) and PM2.5 (PM with a diameter of 2.5 "
+"micrometers). To put their size in perspective, a human hair has a diameter "
+"of 70 micrometers, meaning it is seven times larger than a PM10 and nearly "
+"30 times larger than a PM2.5."
+msgstr ""
+"[PM to połączenie cząstek stałych i kropelek cieczy](https://www.epa.gov/"
+"pm-pollution/particulate-matter-pm-basics) w powietrzu. Kurz, bród, sadza "
+"czy dym to widoczne gołym okiem przykłady pyłu zawieszonego. Inne cząsteczki "
+"są tak małe, że widać je jedynie pod mikroskopem. Zanieczyszczenie pyłem "
+"zawieszonym można podzielić na dwie kategorie: PM10 (PM o średnicy "
+"dziesięciu mikrometrów) oraz PM2,5 (PM o średnicy 2,5 mikrometrów). Abyśmy "
+"mogli sobie to lepiej wyobrazić: jeden ludzki włos ma średnicę 70 "
+"mikrometrów, czyli siedem razy większą niż PM10 i prawie 30 razy większą niż "
+"PM2,5."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:41
+msgid ""
+"Some particulates are directly emitted, for example from construction sites "
+"or the paving of roads. Others form in the atmosphere through a reaction "
+"between chemicals emitted by power plants, factories, and vehicles."
+msgstr ""
+"Niektóre cząsteczki uwalniane są bezpośrednio do atmosfery, na przykład z "
+"placów budowy albo przy kładzeniu nawierzchni drogowej. Inne kształtują się "
+"dopiero w atmosferze w wyniku reakcji zachodzących między chemikaliami "
+"trafiającymi do atmosfery z elektrowni, fabryk i pojazdów."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:43
+msgid ""
+"![Table displaying the health risks of particulate "
+"matter.](/assets/uploads/pandemic/3rd.png)"
+msgstr ""
+"![Tabela pokazująca negatywne skutki pyłu zawieszonego na zdrowie.](/assets/"
+"uploads/pandemic/3rd.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:45
+#, no-wrap
+msgid ""
+"*<https://www.epa.gov/pm-pollution/health-and-environmental-effects-particulate-matter-pm>, "
+"<https://www.stateofglobalair.org/data/estimate-burden>*\n"
+msgstr ""
+"*<https://www.epa.gov/pm-pollution/health-and-environmental-effects-"
+"particulate-matter-pm>, <https://www.stateofglobalair.org/data/estimate-"
+"burden>*\n"
+
+#. type: Title ###
+#: 2020-07-30-lockdown-emissions.md:46
+#, no-wrap
+msgid "Ozone"
+msgstr "Ozon"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:49
+msgid ""
+"There are two kinds of ozone - stratospheric ozone (the good kind, found in "
+"the atmosphere, which occurs naturally and protects us from the sun’s "
+"ultraviolet rays) and ground ozone (the bad kind, a man-made pollutant "
+"created by a combination of emissions and sunlight - also known as smog - "
+"that increases our risk of respiratory illnesses). A key ingredient in this "
+"pollutant is nitrogen dioxide, or NO2."
+msgstr ""
+"Istnieją dwa rodzaje ozonu: ozon stratosferyczny (czyli „dobry ozon” "
+"naturalnie pojawiający się w atmosferze – chroni nas przez promieniami UV) "
+"oraz ozon przyziemny (czyli sztucznie wytwarzany „zły ozon”, który powstaje "
+"w wyniku reakcji między emisjami a światłem słonecznym i zwiększa ryzyko "
+"chorób dróg oddechowych – ozon ten znamy jako smog). Głównym składnikiem "
+"szkodliwego ozonu jest dwutlenek azotu, czyli NO2."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:51
+msgid ""
+"![Table displaying the health risks of ground "
+"ozone.](/assets/uploads/pandemic/4th.png)"
+msgstr ""
+"![Tabela ilustrująca negatywne skutki na zdrowie ozonu przyziemnego.](/"
+"assets/uploads/pandemic/4th.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:53
+#, no-wrap
+msgid "*<https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-basics>*\n"
+msgstr ""
+"*<https://www.epa.gov/ground-level-ozone-pollution/ground-level-ozone-"
+"basics>*\n"
+
+#. type: Title ###
+#: 2020-07-30-lockdown-emissions.md:54
+#, no-wrap
+msgid "Household Pollutants"
+msgstr "Zanieczyszczenia z gospodarstw domowych"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:57
+msgid ""
+"These can be any number of pollutants: cigarette smoke, fuel for cooking, "
+"cleaning sprays, mosquito repellents, or artificial fragrances. They are "
+"common and vary around the world."
+msgstr ""
+"Zaliczamy do nich między innymi: dym papierosowy, paliwo wykorzystywane przy "
+"gotowaniu, produkty czyszczące, środki odstraszające komary oraz sztuczne "
+"aromaty. Są to produkty ogólnodostępne i różnią się na całym świecie."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:59
+msgid ""
+"![Table displaying the health risks of household "
+"pollutants.](/assets/uploads/pandemic/5th.png)"
+msgstr ""
+"![Tabela przedstawiająca negatywne skutki na zdrowie zanieczyszczeń z "
+"gospodarstw domowych.](/assets/uploads/pandemic/5th.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:61
+#, no-wrap
+msgid ""
+"*<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089137/>, "
+"<https://www.stateofglobalair.org/health>*\n"
+msgstr ""
+"*<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089137/>, "
+"<https://www.stateofglobalair.org/health>*\n"
+
+#. type: Title ##
+#: 2020-07-30-lockdown-emissions.md:62
+#, no-wrap
+msgid "What Do Air Pollutants Do to Our Health?"
+msgstr "Jak zanieczyszczenia powietrza wpływają na nasze zdrowie?"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:65
+msgid ""
+"These three air pollutants contaminate the air we breathe, turning this "
+"vital, life-sustaining resource into one that may also compromise our "
+"health. They each harm our health differently, increasing the risk of "
+"certain health problems. We take an average of 25,000 breaths a day, [giving "
+"us that many chances of breathing PM10, or smaller particles, deep into our "
+"lungs](https://www.who.int/airpollution/news-and-events/how-air-pollution-is-destroying-our-health). "
+"They may even enter our bloodstream."
+msgstr ""
+"Te trzy rodzaje zanieczyszczeń powietrza powodują skażenie powietrza, którym "
+"oddychamy. Zamiast podtrzymywać nas przy życiu, pogarsza ono nasze zdrowie. "
+"Każdy z wymienionych czynników wpływa na nasze zdrowie w inny sposób i "
+"zwiększa ryzyko różnych chorób. Codziennie bierzemy średnio 25 tysięcy "
+"wdechów – [właśnie tyle razy głęboko do naszych płuc mogą dostawać się PM10 "
+"lub mniejsze cząsteczki](https://www.who.int/airpollution/news-and-events/"
+"how-air-pollution-is-destroying-our-health). Mogą nawet docierać do naszej "
+"krwi."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:67
+msgid ""
+"Short-term exposure to ground ozone can increase asthma complications, and "
+"long-term exposure can even increase the risk of death due to Chronic "
+"Obstructive Pulmonary Disease (COPD). Household pollutants have also been "
+"shown to affect our health in the womb, before we are even born. And early "
+"childhood exposures “[tend to have repercussions throughout "
+"life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089137/).”"
+msgstr ""
+"Krótkotrwały kontakt z ozonem przyziemnym może zaostrzyć astmę, a "
+"długotrwały – zwiększyć ryzyko śmiertelności w związku z przewlekłą "
+"obturacyjną chorobą płuc. Wykazano także, że zanieczyszczenia z gospodarstw "
+"domowych mogą wpływać na nasze zdrowie już w łonie matki, jeszcze zanim "
+"przyjdziemy na świat. Kontakt z takimi zanieczyszczeniami we wczesnym "
+"dzieciństwie „[odpokutowujemy zwykle przez całe "
+"życie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5089137/).”"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:69
+msgid "![A spray cleaner.](/assets/uploads/pandemic/6th.jpg)"
+msgstr "![{Produkt czyszczący.](/assets/uploads/pandemic/6th.jpg)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:71
+#, no-wrap
+msgid ""
+"*Spray cleaners are a common household pollutant. Photo by Crystal de "
+"Passilleé-Chabot, unsplash.com.*\n"
+msgstr ""
+"*Produkty czyszczące to często używane w gospodarstwach domowych środki "
+"zanieczyszczające. Zdjęcie:Crystal de Passilleé-Chabot, unsplash.com.*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:73
+msgid ""
+"Beyond the slew of respiratory illnesses caused by pollutants in the air, "
+"there is also an increased occurrence of death, ‘with total air pollution "
+"(PM2.5, ozone, and household pollution) contribut\\[ing] to almost five "
+"million deaths globally - [nearly 1 in 10 "
+"deaths](http://www.stateofglobalair.org/health) - in 2017.’ With [90% of the "
+"world’s "
+"population](https://www.iqair.com/blog/report-over-90-percent-of-global-population-breathes-dangerously-polluted-air) "
+"breathing dangerously polluted air, it is evident that the pollutants we are "
+"pumping into the air are threatening our lives. These levels of air "
+"pollution disproportionately affect the Global South, [low-income "
+"communities](https://www.scmp.com/news/world/americas/article/3094042/how-poverty-making-air-pollution-worse-chiles-temuco), "
+"and [communities of "
+"color](https://www.theguardian.com/commentisfree/2020/apr/17/us-coronavirus-people-of-color-pollution) "
+"- illustrating the link between poverty and health, and the need for climate "
+"justice."
+msgstr ""
+"Poza wywoływaniem chorób układu oddechowego zanieczyszczenia powietrza "
+"przyczyniają się również do większej śmiertelności: „Łącznie "
+"zanieczyszczenie powietrza (PM2,5, ozon oraz zanieczyszczenia z gospodarstw "
+"domowych) w 2017 roku przyczyniło się do prawie 5 mln zgonów na całym "
+"świecie. [To prawie 10% wszystkich zgonów](http://www.stateofglobalair.org/"
+"health)”. [90% światowej populacji](https://www.iqair.com/blog/report-over-90"
+"-percent-of-global-population-breathes-dangerously-polluted-air) oddycha "
+"powietrzem o niebezpiecznie wysokim poziomie zanieczyszczeń. Nie da się "
+"ukryć, że zanieczyszczenia, które wypuszczamy do atmosfery, zagrażają "
+"naszemu życiu. Wysoki poziom zanieczyszczenia nieproporcjonalnie bardziej "
+"dotyka globalne Południe, [społeczności ubogie](https://www.scmp.com/news/"
+"world/americas/article/3094042/how-poverty-making-air-pollution-worse-chiles-"
+"temuco) oraz [osoby niebiałe](https://www.theguardian.com/commentisfree/2020/"
+"apr/17/us-coronavirus-people-of-color-pollution). Wskazuje to na zdecydowaną "
+"zależność między biedą a zdrowiem oraz na potrzebę sprawiedliwości "
+"klimatycznej."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:75
+msgid ""
+"![Table showing number of deaths attributed to air pollution (in thousands), "
+"by country.](/assets/uploads/pandemic/7th.png)"
+msgstr ""
+"![Tabela pokazująca liczbę zgonów z powodu zanieczyszczeń powietrza (w tys.) "
+"z podziałem na kraje.](/assets/uploads/pandemic/7th.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:77
+#, no-wrap
+msgid "*Data Source: <https://www.stateofglobalhealth.org/health>*\n"
+msgstr "*Źródło danych: <https://www.stateofglobalhealth.org/health>*\n"
+
+#. type: Title ##
+#: 2020-07-30-lockdown-emissions.md:78
+#, no-wrap
+msgid "The Fall in Air Pollution Has Shown A Positive Health Impact"
+msgstr "Spadek zanieczyszczenia powietrza ma dobry wpływ na nasze zdrowie"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:81
+msgid ""
+"But during the months that countries went into lockdown, something "
+"extraordinary happened: our air became cleaner - by a lot. Factories stopped "
+"churning out pollutants and road and air traffic basically came to a "
+"standstill. In major cities around the world, [air pollution plummeted as "
+"lockdowns went "
+"on](https://graphics.reuters.com/CLIMATE-CHANGE/CORONAVIRUS-POLLUTION/jznvngjyplm/index.html). "
+"In some cases, it fell far below the last four years’ national average for "
+"that same period of time."
+msgstr ""
+"Ale w czasie obostrzeń w naszych krajach doszło do czegoś niezwykłego: nasze "
+"powietrze stało się czystsze. I to o wiele. Fabryki przestały wypluwać do "
+"atmosfery zanieczyszczenia, a ruch drogowy praktycznie się zatrzymał. W "
+"największych miastach świata [wraz z trwającymi obostrzeniami poziom "
+"zanieczyszczenia powietrza drastycznie zmalał](https://graphics.reuters.com/"
+"CLIMATE-CHANGE/CORONAVIRUS-POLLUTION/jznvngjyplm/index.html). W niektórych "
+"miejscach był niższy niż średnia krajowa z tego okresu z ostatnich czterech "
+"lat."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:83
+msgid ""
+"In Delhi, [PM2.5 rates decreased by 60%, and Los Angeles had its longest "
+"period of ‘clean air’ as defined by WHO "
+"guidelines](https://www.iqair.com/blog/air-quality/report-impact-of-covid-19-on-global-air-quality-earth-day). "
+"Satellite images [have captured the visible difference in air "
+"pollution](https://graphics.reuters.com/CLIMATE-CHANGE/CORONAVIRUS-POLLUTION/jznvngjyplm/index.html) "
+"over the first quarter of 2020 in various cities across the world, and the "
+"change is striking. In Europe, [PM10 dropped "
+"dramatically](https://energyandcleanair.org/air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/), "
+"by an average of 10%, during the 30-day period from March 27 to April 25, "
+"and NO2 decreased by approximately 40% from its average levels."
+msgstr ""
+"W Delhi [poziom stężenia PM2,5 w atmosferze zmalał o 60%, a Los Angeles "
+"przeszło przez najdłuższy okres „czystego powietrza”, zgodnie z definicją "
+"WHO](https://www.iqair.com/blog/air-quality/report-impact-of-covid-19-on-"
+"global-air-quality-earth-day). Na zdjęciach satelitarnych [widać wyraźną "
+"różnicę w poziomie zanieczyszczenia powietrza](https://graphics.reuters.com/"
+"CLIMATE-CHANGE/CORONAVIRUS-POLLUTION/jznvngjyplm/index.html) w wielu "
+"miastach na całym świecie w pierwszym kwartale 2020 roku. Różnica ta jest "
+"zaskakująca. W Europie [poziom stężenia PM10 drastycznie "
+"spadł](https://energyandcleanair.org/"
+"air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/), średnio o 10% "
+"w 30-dniowym okresie od 27 marca do 25 kwietnia, a stężenie dwutlenku azotu "
+"zmalało o 40% względem średniego poziomu."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:85
+msgid ""
+"We have seen huge shifts in energy use too, which have contributed to the "
+"fall in pollutants. During the first quarter of 2020, [non-renewable energy "
+"fell dramatically](https://www.iea.org/reports/global-energy-review-2020), "
+"as demand decreased, and the use of renewable energy increased. Around the "
+"world, [countries shifted away from fossil "
+"fuels:](https://www.theguardian.com/environment/2020/may/17/coal-industry-will-never-recover-after-coronavirus-pandemic-say-experts) "
+"Austria and Sweden closed their last coal power plants; Portugal was "
+"coal-free for at least 2 months; the UK did it for at least 35 days; and the "
+"Netherlands reduced its coal plants by 75% to comply with a court order to "
+"reduce the risks associated with the climate emergency. In a huge boost for "
+"renewable energy, [India, the world's second-biggest coal consumer, is "
+"ditching coal and prioritizing low-cost solar energy for its electricity "
+"needs](https://www.theguardian.com/environment/2020/may/17/coal-industry-will-never-recover-after-coronavirus-pandemic-say-experts). "
+"The change in energy use was so significant that [the oil and gas industry "
+"crashed](https://www.forbes.com/sites/walvanlierop/2020/04/05/after-covid-19-the-oil-industry-will-not-return-to-normal/#6e974022281e), "
+"with experts saying it is unlikely to return to its former standing."
+msgstr ""
+"W naszym zużyciu energii również doszło do ogromnych zmian, dzięki którym "
+"poziom zanieczyszczenia zmalał. W pierwszym kwartale 2020 roku [zużycie "
+"energii z nieodnawialnych źródeł drastycznie spadło](https://www.iea.org/"
+"reports/global-energy-review-2020), ponieważ zmalał na nie popyt. Częściej "
+"korzystano z energii ze źródeł odnawialnych. Na całym świecie [państwa "
+"odchodzą od paliw kopalnych](https://www.theguardian.com/environment/2020/"
+"may/17/coal-industry-will-never-recover-after-coronavirus-pandemic-say-"
+"experts): Austria i Szwecja zamknęły swoje ostatnie elektrownie węglowe; "
+"Portugalia nie korzystała z węgla przez co najmniej dwa miesiące; w Wielkiej "
+"Brytanii okres ten wynosił ponad 35 dni; a w Holandii ograniczono liczbę "
+"elektrowni węglowych o 75%, co odpowiada wyrokowi sądu w sprawie "
+"zmniejszenia zagrożeń związanych z klimatyczną sytuacją alarmową. W ramach "
+"rosnącego wzrostu popularności energii ze źródeł odnawialnych [Indie, drugi "
+"największy konsument węgla na świecie, rezygnuje z niego na rzecz taniej "
+"energii słonecznej](https://www.theguardian.com/environment/2020/may/17/coal-"
+"industry-will-never-recover-after-coronavirus-pandemic-say-experts). Zmiany "
+"w wykorzystaniu energii na świecie były tak ogromne, że [przemysł ropy i "
+"gazu przeżył krach](https://www.forbes.com/sites/walvanlierop/2020/04/05/"
+"after-covid-19-the-oil-industry-will-not-return-to-normal/#6e974022281e). "
+"Eksperci i ekspertki twierdzą, że raczej nie wróci on do poprzedniej pozycji."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:87
+msgid ""
+"![Table showing decrease in air pollution during April 2020 "
+"(weather-corrected and population-weighted values), by "
+"country.](/assets/uploads/pandemic/8th.png)"
+msgstr ""
+"![Tabela pokazująca spadek poziomu zanieczyszczenia powietrza w kwietniu "
+"2020 roku (na wartości miały wpływ pogoda i oddziaływanie ludzkie), z "
+"podziałem na kraje.](/assets/uploads/pandemic/8th.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:89 2020-07-30-lockdown-emissions.md:97
+#, no-wrap
+msgid ""
+"*Data Source: "
+"<https://energyandcleanair.org/air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/>*\n"
+msgstr ""
+"*Źródło danych: <https://energyandcleanair.org/"
+"air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/>*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:91
+msgid ""
+"So, if high levels of pollution are so bad for our health, what happens when "
+"air pollution decreases as it just has, even for a short time? As it turns "
+"out, a lot of illness is avoided and many lives are saved."
+msgstr ""
+"Jeśli wysoki poziom zanieczyszczenia jest tak szkodliwy dla naszego zdrowia, "
+"co stanie się, kiedy zmaleje, jak teraz, nawet na krótki czas? Okazuje się, "
+"że wiele osób uniknie rożnych zachorowań, w tym śmiertelnych."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:93
+msgid ""
+"[One "
+"study](https://energyandcleanair.org/air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/) "
+"looked at the avoided deaths and positive health outcomes in Europe that "
+"came with this drop in air pollution. It found that the decreased air "
+"pollution resulted in avoiding a projected 11,000 early deaths in Europe, "
+"[where nearly 500,000 deaths were attributable to air pollution in "
+"2016](https://energyandcleanair.org/wp/wp-content/uploads/pandemic/2020/04/CREA-Europe-COVID-impacts.pdf)"
+msgstr ""
+"[W jednym badaniu](https://energyandcleanair.org/"
+"air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/) przeanalizowano "
+"liczbę uratowanych żyć oraz pozytywne skutki zdrowotne w Europie, które "
+"przyniósł ze sobą spadek zanieczyszczenia powietrza. Według autora uratowało "
+"to życie około 11 tysiącom osób w Europie, [gdzie prawie 500 tysięcy zgonów "
+"w 2016 roku przypisano skutkom zanieczyszczenia "
+"powietrza](https://energyandcleanair.org/wp/wp-content/uploads/pandemic/2020/"
+"04/CREA-Europe-COVID-impacts.pdf)."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:95
+msgid ""
+"![Tables showing avoided deaths, per "
+"country. ](/assets/uploads/pandemic/9th.png)"
+msgstr ""
+"![Tabela pokazująca liczbę zgonów, których udało się uniknąć, z podziałem na "
+"kraje. ](/assets/uploads/pandemic/9th.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:99
+msgid ""
+"It also found that several key negative health impacts were avoided, "
+"projecting 1.3 million fewer days of work missed due to illness, 6,000 fewer "
+"new cases of asthma in children and nearly 2,000 avoided trips to emergency "
+"rooms due to asthma attacks. Finally, the reduction in air pollution would "
+"mean 575 fewer preterm births."
+msgstr ""
+"W badaniu udowodniono również, że uniknęliśmy kilku kluczowych czynników "
+"wywierających negatywny wpływ na zdrowie ludzkie. W rezultacie pracownicy i "
+"pracownice wzięli o 1,3 mln mniej dni urlopu chorobowego, astmę u dzieci "
+"zdiagnozowano o 6 tys. mniej razy, a 2 tys. osób uniknęło wizyty na "
+"pogotowiu z powodu ataku astmy. Poza tym redukcja zanieczyszczenia powietrza "
+"prawdopodobnie oznaczała 575 mniej przedwczesnych porodów."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:101
+msgid ""
+"![Table showing how various negative health outcomes relate to different "
+"pollutants.](/assets/uploads/10th.png)"
+msgstr ""
+"![Tabela pokazująca różne problemy zdrowotne, na które wpływ mają "
+"zanieczyszczenia.](/assets/uploads/10th.png)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:103
+#, no-wrap
+msgid ""
+"*Source: "
+"<https://energyandcleanair.org/air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/>*\n"
+msgstr ""
+"*Źródło: <https://energyandcleanair.org/"
+"air-pollution-deaths-avoided-in-europe-as-coal-oil-plummet/>*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:105
+msgid ""
+"These findings are crucial for understanding how our health can be improved "
+"by a reduction in air pollution. If we act on this knowledge, asthma-related "
+"hospital visits may decrease; hundreds more pregnancies could be carried to "
+"full-term, avoiding many potential lifelong health problems; and children "
+"could live healthier lives."
+msgstr ""
+"Wyniki badań są kluczowe, by zrozumieć jak bardzo możemy poprawić stan "
+"naszego zdrowia, jeśli ograniczymy zanieczyszczenia powietrza. Działanie "
+"zgodnie z tą wiedzą sprawi, że liczba wizyt w szpitalu z powodu astmy może "
+"zmaleć; setki więcej ciąży może zostać donoszonych do końca, czyli wiele "
+"noworodków uniknie problemów zdrowotnych, które towarzyszyłyby im przez całe "
+"życie; a dzieci będą mogły cieszyć się lepszym zdrowiem."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:107
+msgid ""
+"This case study focuses on the experience of Europe with lower air "
+"pollution, and the projected positive health outcomes. However, based on its "
+"findings, we may hypothesize that similar health improvements would happen "
+"globally with lowered air pollution. Indeed, [one "
+"study](https://edition.cnn.com/2020/03/17/health/china-air-pollution-coronavirus-deaths-intl/index.html) "
+"on China’s reduction in air pollution found that just two months of cleaner "
+"air saved the lives of up to 4,000 children and 73,000 adults. The WHO "
+"estimates that air pollution shortens our lives by a global average of 1 "
+"year and 8 months, and that “[If global air quality met WHO’s Air Quality "
+"guideline for PM2.5 (10 µg/m3), people today would live an average of about "
+"7 months longer.](https://www.stateofglobalair.org/life-expectancy)” The "
+"link is clear—cleaner air means longer, healthier lives for us all."
+msgstr ""
+"Przedmiotem badania sytuacyjnego była Europa przy mniejszej ilości "
+"zanieczyszczenia powietrza oraz związane z tym prognozowane pozytywne skutki "
+"zdrowotne. W oparciu o wyniki możemy przyjąć hipotezę, że przy niższym "
+"poziomie zanieczyszczenia powietrza podobna poprawia zdrowia miałaby miejsce "
+"na całym świecie. Wystarczy spojrzeć na [badanie](https://edition.cnn.com/"
+"2020/03/17/health/china-air-pollution-coronavirus-deaths-intl/index.html) "
+"nad obniżeniem poziomu zanieczyszczeń powietrza w Chinach: wykazało ono, że "
+"tylko dwa miesiące czystszego powietrza uratowały życie aż do 4 tys. dzieci "
+"oraz 73. tys. dorosłych. Według Światowej Organizacji Zdrowia "
+"zanieczyszczenie powietrza skraca nasze życie – światowa średnia wynosi 1 "
+"rok i 8 miesięcy – a [gdyby jakość powietrza na całym świecie była zgodna z "
+"wytycznymi WHO w zakresie stężenia PM2,5 (10 µg/m3), ludzie mogliby żyć "
+"dzisiaj średnio o siedem miesięcy dłużej](https://www.stateofglobalair.org/"
+"life-expectancy). Wnioski nasuwają się same: czystsze powietrze oznacza "
+"dłuższe, zdrowsze życie dla nas wszystkich."
+
+#. type: Title ###
+#: 2020-07-30-lockdown-emissions.md:108
+#, no-wrap
+msgid "Mental Health Benefits"
+msgstr "Korzyści dla zdrowia psychicznego"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:111
+msgid ""
+"In addition to physical health benefits, [the fall in emissions has led to a "
+"renewal in our connection with nature, boosting our mental "
+"health](https://www.bbc.co.uk/news/health-52479763). On a visual level, "
+"people around the world have marveled at what clear skies look like, a "
+"memory that many had lost in recent decades. In India, people have been "
+"[awed by the view of the "
+"Himalayas](https://edition.cnn.com/travel/article/himalayas-visible-lockdown-india-scli-intl/index.html) "
+"for the first time in their lives - a natural wonder usually lost behind "
+"clouds of smog. In personal conversations, my own family members have "
+"delighted in the blue skies over Beirut and in, once again, being able to "
+"see Lebanese mountain ranges that are normally shrouded in smog."
+msgstr ""
+"Poza korzyściami dla naszego zdrowia fizycznego [redukcja emisji odnowiła "
+"nasze kontakty z naturą, co ma pozytywny wpływ na nasze zdrowie "
+"psychiczne](https://www.bbc.co.uk/news/health-52479763). Jeśli chodzi o "
+"doznania wizualne, ludzie na całym świecie zachwycają się czyściutkim niebem "
+"– czymś, co dla wielu w ostatnich dekadach było tylko dalekim wspomnieniem. "
+"Mieszkańcy i mieszkanki Indii po raz pierwszy w życiu [podziwiają widok "
+"Himalajów](https://edition.cnn.com/travel/article/"
+"himalayas-visible-lockdown-india-scli-intl/index.html) – cudu natury, który "
+"zwykle spowijają chmury smogu. Członkowie mojej własnej rodziny mówią mi, że "
+"rozkoszują się widokiem błękitnego bejruckiego nieba i libańskich łańcuchów "
+"górskich, których zwykle nie widać przez smog."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:113
+msgid "![Himalayas, Nepal.](/assets/uploads/pandemic/11th.jpg)"
+msgstr "![Himalaje, Nepal.](/assets/uploads/pandemic/11th.jpg)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:115
+#, no-wrap
+msgid "*Himalayas, Nepal. Photo by Bisesh Gurung, unsplash.com.*\n"
+msgstr "*Himalaje, Nepal. Zdjęcie: Bisesh Gurung, unsplash.com.*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:117
+msgid ""
+"Connecting with nature - whether in real life, online, or through art, by "
+"experiencing the weather, looking at a potted plant on your windowsill, a "
+"hike through the woods, and everything in between, increases mental "
+"wellbeing and one’s relationship to the world around us. These experiences "
+"are linked to [many positive "
+"effects](https://advances.sciencemag.org/content/5/7/eaax0903), including "
+"happiness, imagination, creativity, school performance, improved sleep and "
+"stress reduction. Reduced emissions have literally helped us see the world "
+"around us once again, reconnecting us with our natural surroundings and "
+"boosting our mental health."
+msgstr ""
+"Nawiązywanie relacji z naturą – czy to w prawdziwym życiu czy za pomocą "
+"internetu lub sztuki – poprzez doświadczanie zjawisk pogodowych, patrzenie "
+"na rośliny na parapecie, wędrowanie przez las i nie tylko sprawia, że lepiej "
+"się czujemy i idealniej współgramy z otaczającym nas światem. Te "
+"doświadczenia niosą ze sobą [wiele pozytywnych "
+"skutków](https://advances.sciencemag.org/content/5/7/eaax0903), w tym "
+"poczucie szczęścia, rozwój wyobraźni i kreatywności, osiąganie lepszych "
+"wyników w nauce, spokojniejszy sen oraz obniżenie stresu. Redukcja emisji "
+"pomogła nam dosłownie znów lepiej widzieć otaczający nas świat, ponownie "
+"nawiązać więź z naturą i poprawić nasze zdrowie psychiczne."
+
+#. type: Title ##
+#: 2020-07-30-lockdown-emissions.md:118
+#, no-wrap
+msgid "Breathing Easier: Cleaner Air for a Stronger Future"
+msgstr "Łatwiejsze oddychanie: czystsze powietrze dla silniejszej przyszłości"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:121
+msgid ""
+"The decrease in air pollution during the months of global lockdown has given "
+"us a unique glimpse of what a world with cleaner air could mean: increased "
+"life expectancy, improved quality of life, fewer early deaths, less burdened "
+"healthcare systems, and greater wellbeing. While the results of these "
+"studies are hopeful, they were borne out of a global disaster that brought "
+"grief and pain to many across the world. But, while we cannot draw happiness "
+"from the context in which these findings emerged, it is up to us to learn "
+"our lessons well and apply them to creating a healthier world. As we look "
+"ahead to our eventual pandemic-free future, we must ask ourselves: what "
+"steps can we take to deliberately pursue these health outcomes within the "
+"context of a thriving, better-functioning society?"
+msgstr ""
+"Niższe zanieczyszczenie powietrza podczas miesięcy covidowych ograniczeń na "
+"świecie pozwoliło nam zobaczyć, jak może wyglądać świat z czystszym "
+"powietrzem: dłuższa przewidywana żywotność, mniej przedwczesnych zgonów, "
+"mniejsze obciążenie systemów zdrowia oraz lepsze samopoczucie. Chociaż "
+"wyniki tych badań są przydatne, to mamy do nich dostęp z powodu światowej "
+"katastrofy, która przyniosła wielu z nas ból i cierpienie. Kontekst badań "
+"nie może nas więc cieszyć, ale musimy wyciągać z nich wnioski i użyć ich do "
+"budowania zdrowszego świata. Myśląc o naszej popandemicznej przyszłości, "
+"musimy zadać sobie pytanie: jakie kroki możemy podjąć, aby zapewnić powyższe "
+"korzyści zdrowotne w kontekście silnego, lepiej funkcjonującego "
+"społeczeństwa?"
+
+#. type: Title ###
+#: 2020-07-30-lockdown-emissions.md:122
+#, no-wrap
+msgid "Global Citizens’ Participation"
+msgstr "Obywatelskie uczestnictwo na całym świecie"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:125
+msgid ""
+"It is incumbent upon us to do all we can to lower emissions. The drop in "
+"emissions we experienced during the first quarter of 2020 has been "
+"considerable, but it is not enough. To holistically care for our health as "
+"humans and that of the planet, we need an [annual 7.6 percent drop in "
+"emissions](https://www.scientificamerican.com/article/why-co2-isnt-falling-more-during-a-global-lockdown/), "
+"and they are only projected to fall 5% in 2020. Meeting our goals requires a "
+"creative, positive rethinking of our relationships on a global, national, "
+"and individual level, and of the roles we each play in contributing to "
+"harmful emissions."
+msgstr ""
+"Naszym obowiązkiem jest zrobienie wszystkiego, co w naszej mocy, by obniżyć "
+"emisje. W pierwszym kwartale 2020 roku odczuliśmy ich ogromną redukcję, ale "
+"to nie wystarczy. Abyśmy mogli holistycznie zadbać o nasze zdrowie – zarówno "
+"w kontekście ludzkim, jak i planety – musimy [obniżyć roczne emisje o "
+"7,6%](https://www.scientificamerican.com/article/"
+"why-co2-isnt-falling-more-during-a-global-lockdown/), a w 2020 roku "
+"przewiduje się, że spadek wyniesie 5%. Osiągnięcie naszych celów wymaga "
+"kreatywnej, pozytywnej zmiany myślenia o naszych relacjach na stopniu "
+"światowym, krajowym i osobistym; musimy też zastanowić się nad tym, jaką "
+"rolę każdy z nas odgrywa w dokładaniu się do szkodliwych emisji."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:127
+msgid ""
+"We must redouble our demands for clean energy and lower carbon "
+"emissions. [Since lockdowns have "
+"eased](https://energyandcleanair.org/special-report-on-metro-manila-rebound/), "
+"[around the world emissions have already begun rising "
+"again](https://energyandcleanair.org/pollution-returns-to-european-capitals/), "
+"in [some cases exceeding pre-lockdown "
+"levels](https://www.carbonbrief.org/analysis-chinas-co2-emissions-surged-past-pre-coronavirus-levels-in-may?utm_content=bufferd871f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer). "
+"In the context of the global response to the current pandemic, we have seen "
+"that willing governments are capable of acting quickly to face a threat "
+"head-on and implementing preventative measures to protect their "
+"populations. The capacity is there - it is the will that must be reinforced "
+"through sustained calls for action by the people."
+msgstr ""
+"Należy znacznie nasilić nasze żądania czystej energii i niższych emisji "
+"dwutlenku węgla. [Odkąd poluzowano obostrzenia](https://energyandcleanair."
+"org/special-report-on-metro-manila-rebound/), [emisje zaczęły ponownie "
+"rosnąć na całym świecie](https://energyandcleanair.org/"
+"pollution-returns-to-european-capitals/) – w [niektórych przypadkach do "
+"poziomów wyższych niż przed covidowym okresem "
+"zamknięcia](https://www.carbonbrief.org/analysis-chinas-co2-emissions-surged-"
+"past-pre-coronavirus-levels-in-may?utm_content=bufferd871f&utm_medium=social&"
+"utm_source=twitter.com&utm_campaign=buffer). W kontekście obecnej światowej "
+"pandemii widzimy, że rządy mogą szybko podejmować działania w dobie kryzysu "
+"i wprowadzać środki zapobiegawcze, które mają chronić ludność, jeśli "
+"naprawdę tego chcą. Mamy możliwości – musimy natomiast obudzić w rządzących "
+"chęci, stale nawołując ich do działań."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:129
+msgid "![Rebel in green shirt. ](/assets/uploads/pandemic/12th.jpg)"
+msgstr "![Rebeliant w zielonym swetrze.](/assets/uploads/pandemic/12th.jpg)"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:131
+#, no-wrap
+msgid "*Global Climate Strike, London, UK. photo by Corie Kull, unsplash.com*\n"
+msgstr ""
+"*Światowy Strajk Klimatyczny, Londyn, Wielka Brytania. Zdjęcie: Corie Kull, "
+"unsplash.com*\n"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:133
+msgid ""
+"One way to make sure governments prioritize people over profit is through "
+"the creation of [citizens’ assemblies](https://xrcitizensassembly.uk/). A "
+"citizen’s assembly is a people-led, transparent, democratic body to pressure "
+"governments to follow through on the people’s demands for meaningful action "
+"to protect us from environmental breakdown. They have proven an effective "
+"means of communicating between the people and the government when the two "
+"are faced with a political standstill, [and are gaining growing "
+"support](https://www.theguardian.com/commentisfree/2019/aug/28/climate-crisis-citizens-assembly-extinction-rebellion)."
+msgstr ""
+"Jednym sposobem na zapewnienie, że rządy ponad zyski będą stawiać ludzi, "
+"jest powoływanie [paneli obywatelskich](https://xrcitizensassembly.uk/). "
+"Panel obywatelski to transparenty, demokratyczny organ prowadzony przez "
+"zwykłych ludzi. Jego celem jest wymuszanie na rządach znaczących działań "
+"mających chronić nas przed załamaniem środowiskowym. Organy te okazują się "
+"być efektywnym sposobem na prowadzenie dialogu między ludźmi a rządem w "
+"przypadku sytuacji politycznego zastoju. [Za zakładaniem paneli opowiada się "
+"coraz więcej osób](https://www.theguardian.com/commentisfree/2019/aug/28/"
+"climate-crisis-citizens-assembly-extinction-rebellion)."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:135
+msgid ""
+"Citizens’ assemblies’ potential effectiveness has led to their being adopted "
+"as XR’s third global demand. Emissions control is, moreover, already a key "
+"component of [both France’s citizens’ assembly on "
+"climate](https://www.theguardian.com/world/2020/jan/10/citizens-panels-ready-help-macron-french-climate-policies) "
+"and the [UK’s recently convened citizens’ "
+"assembly](https://www.theguardian.com/environment/2020/may/16/climate-assembly-uk-concludes-in-world-transformed-by-coronavirus). "
+"Governments are accountable to their people, and must be held to this."
+msgstr ""
+"Potencjalna skuteczność paneli obywatelskich sprawiła, że XR uczyniła ich "
+"ustanowienie swoim trzecim globalnym postulatem. Ponadto kontrola emisji "
+"jest już kluczowym elementem w dyskusjach [zarówno francuskiego panelu "
+"obywatelskiego w sprawie klimatu](https://www.theguardian.com/world/2020/jan/"
+"10/citizens-panels-ready-help-macron-french-climate-policies), jak i ["
+"niedawno powołanego brytyjskiego panelu "
+"obywatelskiego](https://www.theguardian.com/environment/2020/may/16/climate-"
+"assembly-uk-concludes-in-world-transformed-by-coronavirus). Rządy ponoszą "
+"odpowiedzialność przed społeczeństwem i powinno to być egzekwowane."
+
+#. type: Title ###
+#: 2020-07-30-lockdown-emissions.md:136
+#, no-wrap
+msgid "Go Green, Go Clean"
+msgstr "Ty też masz wpływ na czyste powietrze"
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:139
+msgid ""
+"While maintaining the pressure on governments to protect our health and the "
+"environment, we can make changes to our own lifestyle and move towards a "
+"healthier way of life. Many of us have rediscovered the beauty of walking or "
+"biking as a way of getting around. From "
+"[Kampala](https://www.urbanet.info/kampalas-inspiring-journey-towards-a-cycling-friendly-city/) "
+"to "
+"[Paris](https://www.forbes.com/sites/carltonreid/2020/04/22/paris-to-create-650-kilometers-of-pop-up-corona-cycleways-for-post-lockdown-travel/#7bf1670754d4), "
+"a number of governments have recently encouraged this zero-emissions mode of "
+"transport with [plans to create more pedestrian walkways and bike "
+"lanes](https://www.washingtonpost.com/climate-solutions/one-way-the-coronavirus-could-transform-europes-cities-more-space-for-bikes/2020/05/08/e57f2dbc-8e40-11ea-9322-a29e75effc93_story.html). "
+"The more we use these services, the fewer emissions we create personally and "
+"the more we encourage governments to invest in this more sustainable kind of "
+"city planning."
+msgstr ""
+"Poza naciskaniem na rządy i wymuszaniem na nich działań mających chronić "
+"nasze zdrowie i środowisko, sami też możemy wprowadzić zmiany do naszej "
+"codzienności i wybrać zdrowszy styl życia. Wielu z nas na nowo odkryło "
+"piękno spacerów i jazdy na rowerze. Od [Kampali](https://www.urbanet.info/"
+"kampalas-inspiring-journey-towards-a-cycling-friendly-city/) po "
+"[Paryż](https://www.forbes.com/sites/carltonreid/2020/04/22/paris-to-create-6"
+"50-kilometers-of-pop-up-corona-cycleways-for-post-lockdown-travel/"
+"#7bf1670754d4), wiele rządów zaczęło niedawno promować te przyjazne dla "
+"środowiska środki transportu i [planuje stworzyć więcej stref dla pieszych i "
+"ścieżek rowerowych](https://www.washingtonpost.com/climate-solutions/"
+"one-way-the-coronavirus-could-transform-europes-cities-more-space-for-bikes/"
+"2020/05/08/e57f2dbc-8e40-11ea-9322-a29e75effc93_story.html). Im częściej "
+"będziemy z nich korzystać, tym mniej emisji będziemy wytwarzać, a nasze "
+"rządy zobaczą, że inwestowanie w bardziej zrównoważone sposoby planowania "
+"miast ma sens."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:141
+msgid ""
+"With public concern over the environmental emergency growing rapidly, some "
+"governments have [slowly introduced laws and "
+"regulations](https://www.theguardian.com/world/2020/jan/30/france-passes-landmark-law-to-stop-unsold-goods-being-thrown-away) "
+"to control our environmental impact. Alarmingly, however, [others have "
+"removed swaths of environmental "
+"regulations](https://www.nytimes.com/interactive/2020/climate/trump-environment-rollbacks.html) "
+"and rules [in a bid to please big "
+"business](https://www.americanprogressaction.org/issues/green/news/2018/08/28/171494/big-oils-central-role-trump-administrations-culture-corruption/)."
+msgstr ""
+"Obywatele i obywatelki coraz bardziej przejmują się alarmem klimatycznym – "
+"niektóre rządy [zaczęły więc powoli wprowadzać ustawy i "
+"przepisy](https://www.theguardian.com/world/2020/jan/30/france-passes-"
+"landmark-law-to-stop-unsold-goods-being-thrown-away) mające kontrolować "
+"wpływ, jaki wywieramy na środowisko. Niepokoi jednak fakt, że [niektóre "
+"wycofały się z przepisów mających chronić środowisko](https://www.nytimes."
+"com/interactive/2020/climate/trump-environment-rollbacks.html), a zamiast "
+"nich [postawiły na ochronę korporacji](https://www.americanprogressaction."
+"org/issues/green/news/2018/08/28/171494/"
+"big-oils-central-role-trump-administrations-culture-corruption/)."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:143
+msgid ""
+"Money clearly talks, and we can use ours to pressure organizations and "
+"businesses to divest from fossil fuels and other polluting industries. After "
+"effective petitioning, [The Royal Shakespeare Company decided to end its "
+"sponsorship by "
+"BP](https://www.theguardian.com/stage/2019/oct/02/royal-shakespeare-company-to-end-bp-sponsorship-deal) "
+"and, similarly, [The National Theatre has agreed to end its Shell membership "
+"this "
+"year](https://www.theguardian.com/stage/2019/oct/04/national-theatre-to-end-shell-sponsorship-deal-from-next-year) "
+"in an effort to go carbon neutral. Successes build on each other, and with "
+"the threat of losing money, businesses may suddenly begin to listen and take "
+"action."
+msgstr ""
+"Pieniądze zdecydowanie mają siłę, a my możemy użyć naszych, by naciskać na "
+"organizacje i przedsiębiorstwa do odejścia od paliw kopalnych i innych "
+"nieprzyjaznych dla środowiska rozwiązań. W wyniku udanej petycji [zespół "
+"teatralny Royal Shakespeare Company zdecydował się zerwać umowę sponsorską z "
+"firmą BP](https://www.theguardian.com/stage/2019/oct/02/royal-shakespeare-"
+"company-to-end-bp-sponsorship-deal). Podobnie było w przypadku [brytyjskiego "
+"Teatru Narodowego, który postanowił zawiesić członkostwo w spółce Shell w "
+"tym roku](https://www.theguardian.com/stage/2019/oct/04/national-theatre-to-"
+"end-shell-sponsorship-deal-from-next-year) i postarać się o swoją "
+"neutralność emisyjną. Sukces jednych zależny jest od drugich – ryzyko utraty "
+"pieniędzy może sprawić, że przedsiębiorstwa zaczną nas słuchać i działać na "
+"rzecz klimatu."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:145
+msgid ""
+"It is our right to demand cleaner air and better health outcomes for "
+"ourselves and future generations. Such a future is within our reach, and it "
+"is within our means to achieve it. Many are now rejecting what was "
+"previously considered acceptable [and don’t want to return to "
+"‘normal’](https://news.sky.com/story/coronavirus-only-9-of-britons-want-life-to-return-to-normal-once-lockdown-is-over-11974459?link_id=0&can_id=225946c11418ea0696b0d4516649addb&source=email-actions-update-whose-streets&email_referrer=email_800288&email_subject=uk-actions-whose-streets)."
+msgstr ""
+"Mamy prawo żądać czystszego powietrza i lepszego stanu zdrowia zarówno dla "
+"siebie, jak i dla przyszłych pokoleń. Taka przyszłość jest na wyciągnięcie "
+"ręki i mamy możliwości, żeby marzenia o niej uczynić czymś realnym. Dzisiaj "
+"wielu z nas odrzuca to, co kiedyś było dopuszczalne, [i nie chce powrotu do "
+"„normalności”](https://news.sky.com/story/coronavirus-only-9-of-britons-want-"
+"life-to-return-to-normal-once-lockdown-is-"
+"over-11974459?link_id=0&can_id=225946c11418ea0696b0d4516649addb&source=email-"
+"actions-update-whose-streets&email_referrer=email_800288&email_subject=uk-"
+"actions-whose-streets)."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:147
+msgid ""
+"We have seen what is possible and must hold governments, industries, and "
+"companies accountable for their roles in causing and enabling air pollution "
+"and the resulting harm to our health. We must also make changes to our own "
+"lifestyles. We can live healthier lives. We can live longer lives. We can "
+"take our loved ones to hospital less often. We can give our children clean "
+"air. This is all possible. This is the moment to make those changes - to "
+"demand those changes - to make clean air ‘the new normal’."
+msgstr ""
+"Zobaczyliśmy, jakie mamy możliwości, i musimy pociągać do odpowiedzialności "
+"rządy, przemysł i przedsiębiorstwa, które zanieczyszczają nasze powietrze "
+"albo biernie na nie patrzą i pozwalają na niszczenie naszego zdrowia. Musimy "
+"także zmienić swój własny styl życia. Możemy żyć zdrowiej. Możemy żyć "
+"dłużej. Możemy rzadziej zabierać naszych bliskich do szpitala. Możemy dać "
+"naszym dzieciom czyste powietrze. To wszystko jest możliwe. Nadszedł czas na "
+"wprowadzenie zmian – na żądanie zmian – tak, by czyste powietrze stało się "
+"czymś zupełnie normalnym."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:149
+msgid ""
+"The findings on emissions’ effects on our health have emerged from a global "
+"tragedy - one we do not wish to ever experience again. Let’s take these "
+"hard-learned lessons and forge a healthier future for us all."
+msgstr ""
+"Wyniki badań na temat wpływów emisji a nasze zdrowie pojawiły się w wyniku "
+"światowej tragedii – tragedii, której nigdy więcej nie chcemy przeżywać. "
+"Niech nauczy nas ona czegoś i stworzy dla nas zdrowszą przyszłość."
+
+#. type: Plain text
+#: 2020-07-30-lockdown-emissions.md:150
+msgid "[Get Involved!](/get-involved/){.xr-button}"
+msgstr "[Dołącz do nas!](/get-involved/){.xr-button}"

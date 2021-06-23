@@ -1,0 +1,334 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-02 16:27+0800\n"
+"PO-Revision-Date: 2021-03-07 17:08+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2021-03-01-climate-action-in-global-solidarity/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:14
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"xrcop: Argentinian activist Esteban on how to build climate action "
+"in\n"
+"  global solidarity \"\n"
+"author: Thomas Widrow\n"
+"slug: climate-action-in-global-solidarity\n"
+"date: 2021-03-01 14:35\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/mendoza-protest.jpg\n"
+"seoImage: /assets/uploads/mendoza-protest.jpg\n"
+"seoTitle: How to Build Climate Action in Global Solidarity\n"
+msgstr ""
+"lang: fr\n"
+"title: \"xrcop: Penser une action de solidarité internationale, d'après "
+"Esteban, \n"
+"  activiste argentin  \"\n"
+"author: Thomas Widrow\n"
+"slug: climate-action-in-global-solidarity\n"
+"date: 2021-03-01 14:35\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/mendoza-protest.jpg\n"
+"seoImage: /assets/uploads/mendoza-protest.jpg\n"
+"seoTitle: Penser une action de solidarité internationale\n"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:18
+msgid ""
+"![](/assets/uploads/0be83634-ebff-40f2-8795-ae86776d99a9.jpg \"Activists "
+"holding a sign\")"
+msgstr ""
+"![](/assets/uploads/0be83634-ebff-40f2-8795-ae86776d99a9.jpg \"Activists "
+"holding a sign\")"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:20
+msgid ""
+"Esteban Servat is an Argentinian scientist who worked in Silicon Valley "
+"before returning to the Mendoza province where he created a self-sustaining "
+"community. Before his arrival, the local community had successfully fought "
+"against mega-mining projects from western multinationals including Coro "
+"Mining and Barrick Gold. Ten years later, the government of Argentina began "
+"sponsoring fracking projects - again for the profit of western "
+"multinationals like BP or Total. These projects destroy Patagonia’s "
+"landscapes and threaten the health livelihoods of its inhabitants by "
+"contaminating precious water sources. Children in areas with fracking wells "
+"are dying of leukemia at a rate three times higher than the national "
+"average. In the face of this threat, Esteban became an activist to stop the "
+"projects."
+msgstr ""
+"Esteban Servat est un scientifique argentin qui travaillait dans la Silicon "
+"Valley avant de retourner dans la province de Mendoza où il a fondé une "
+"communauté autonome. Avant son arrivée, les habitants avaient déjà lutté "
+"avec succès contre les méga-projets extractivistes de multinationales "
+"occidentales, dont Coro Mining et Barrick Gold. Dix ans plus tard, le "
+"gouvernement argentin a commencé à subventionner des projets de forage, "
+"toujours au profit de multinationales occidentales comme BP ou Total. Ces "
+"activités détruisent la Patagonie, et menacent la santé de ses habitants en "
+"contaminant de précieuses sources d'eau. Les enfants des régions où se "
+"trouvent ces forages meurent de leucémie à un rythme trois fois plus élevé "
+"que la moyenne nationale. Face à cette menace, Esteban est devenu un "
+"activiste, militant pour stopper ces projets."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:22
+msgid ""
+"He was forced into exile to Berlin in 2019 after countless attempts at "
+"psychological and physical intimidation."
+msgstr ""
+"Il a été contraint de s'exiler à Berlin en 2019 après d'innombrables "
+"tentatives d'intimidation physique et psychologique."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:24
+msgid "This is his story."
+msgstr "Voici son histoire."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:26
+msgid ""
+"As Esteban dug deeper into the fracking project process, he uncovered a "
+"document that revealed the process’ huge environmental impact. The "
+"government was attempting to bury the evidence and replace the study results "
+"with fakes to make sure the local population would not take action and fight "
+"against the fracking wells."
+msgstr ""
+"En étudiant plus profondément le procédé de fracturation hydraulique du "
+"projet, Esteban a découvert un document qui révèle son énorme impact "
+"environnemental. Le gouvernement tentait d'enterrer les preuves, et de "
+"remplacer les résultats de l'étude par des faux pour s'assurer que la "
+"population locale ne ferait rien, et ne lutterait pas contre les forages."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:28
+msgid ""
+"Having discovered the incriminating document, Esteban and other activists "
+"decided to create Ecoleaks, a website that would host leaked confidential "
+"documents exposing environmental scandals. They then released the document "
+"to the public."
+msgstr ""
+"Après avoir découvert ce document incriminant, Esteban et d'autres militants "
+"ont créé Ecoleaks, un site web qui hébergerait les documents confidentiels "
+"ayant fait l'objet de fuites, et révélant des scandales environnementaux, "
+"puis ils ont publié le document."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:30
+msgid ""
+"Local residents were outraged and organised into the largest anti-fracking "
+"movement in Argentina’s history. This also caused the government to pay "
+"close attention to Esteban’s activism. The government brought trumped-up "
+"criminal cases against Esteban and fellow activists in an attempt to bully "
+"them into silence. Following a mounting campaign of violence against him and "
+"his family, including death threats, Esteban went into exile to Berlin, "
+"Germany."
+msgstr ""
+"La population locale était outrée et s'est organisée pour se constituer en "
+"mouvement anti-fracking le plus important dans l'histoire de l'Argentine. "
+"Cela a aussi amené le gouvernement à se pencher plus particulièrement sur "
+"l'activisme d'Esteban, et à intenter des procès contre lui et d'autres "
+"militants pour tenter de les réduire au silence. Suite à des faits de "
+"violence croissante contre lui et sa famille, y compris des menaces de mort, "
+"Esteban s'est exilé à Berlin, en Allemagne."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:32
+msgid ""
+"Once in Europe, he focused on the responsibility of western countries in the "
+"disaster his community in Argentina was fighting against."
+msgstr ""
+"En Europe, il s'est concentré sur la responsabilité des pays occidentaux "
+"dans la catastrophe contre laquelle luttait sa communauté en Argentine."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:34
+msgid "Enter climate colonialism and global solidarity."
+msgstr "Entre colonialisme climatique et solidarité mondiale."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:36
+msgid ""
+"Esteban uses the example of fracking to show how European countries are "
+"playing a direct role in the destruction of the environment and the people "
+"of front-line communities across the globe."
+msgstr ""
+"Esteban prend l'exemple de la fracturation hydraulique pour illustrer le "
+"rôle direct que jouent les pays européens dans la destruction de "
+"l'environnement et des populations en première ligne dans le monde."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:38
+msgid ""
+"Big oil companies like BP, Total and Shell are actively engaged and even "
+"subsidised by European governments to acquire huge amounts of land in "
+"Argentina to frack for oil when fracking isn’t allowed by those same "
+"governments in their home country. This is a direct continuation of colonial "
+"systems of oppression and extraction of resources. Western countries do not "
+"apply the same standards to their projects in other countries as they do in "
+"their own backyard. This allows them to extract cheaply and enrich "
+"themselves at the expense of front-line communities that suffer the "
+"consequences of these practises."
+msgstr ""
+"De grandes compagnies pétrolières comme BP, Total et Shell s'activent sans "
+"relâche, et sont même subventionnées par les gouvernements européens pour "
+"acquérir de vastes territoires en Argentine afin d'y effectuer des forages "
+"de pétrole, alors que ces gouvernements ne le permettent même pas dans leur "
+"pays. Il s'agit là d'une suite directe des systèmes coloniaux d'oppression "
+"et d'extraction des ressources. Les pays occidentaux n'appliquent pas les "
+"mêmes normes à leurs projets dans d'autres pays que celles qu'ils appliquent "
+"chez eux, ce qui leur permet d'extraire à bas coût, et de s'enrichir aux "
+"dépens des communautés en première ligne qui en subissent les conséquences."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:40
+msgid ""
+"What can Western-based activists do to support front-line struggles in "
+"solidarity?"
+msgstr ""
+"Que peuvent faire les militants occidentaux pour se solidariser et soutenir "
+"les luttes des populations en première ligne ?"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:42
+msgid ""
+"There is a direct link between front-line struggles like the fracking "
+"protests in Mendoza and Western countries. Companies based or owned by "
+"Western countries are the ones doing the damage with the support of their "
+"governments."
+msgstr ""
+"Il y a un lien direct entre ces luttes, comme les protestations anti-"
+"fracking à Mendoza, et les pays occidentaux. Ce sont les entreprises basées "
+"ou détenues par les pays occidentaux qui font ces ravages avec le soutien de "
+"leurs gouvernements."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:44
+msgid ""
+"There are actions that western activists can take at a much lesser cost than "
+"front-line communities because they are closer to the headquarters of those "
+"perpetuating colonial systems and less at risk of persecution for their "
+"activism."
+msgstr ""
+"Il y a des actions que les activistes occidentaux peuvent mener à un coût "
+"bien moindre que les communautés sur place, parce qu'ils sont plus proches "
+"des sièges de ceux qui perpétuent ces systèmes coloniaux, et encourent moins "
+"de risques d'être persécutés pour leur activisme."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:46
+msgid ""
+"European activists for example must organise to force multinational "
+"companies to stop climate colonialism. They must get in touch with "
+"front-line communities that are protesting destructive extraction processes "
+"like fracking and support them by bringing the protest to the companies’ and "
+"complicit governments’ doorsteps."
+msgstr ""
+"Les militants européens devraient par exemple s'organiser pour faire "
+"pression sur les multinationales à mettre fin au colonialisme climatique, "
+"entrer en contact avec les communautés en première ligne qui protestent "
+"contre les activités extractivistes écocidaires comme la fracturation "
+"hydraulique, et les soutenir en protestant aux portes des entreprises et des "
+"gouvernements complices."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:48
+msgid ""
+"And we know this kind of global solidarity works. Have a look at this "
+"inspiring video from the [Shale Must Fall campaign in "
+"Ireland](https://www.youtube.com/watch?v=nP4mxV0YF_0&ab_channel=ShaleMustFall). "
+"If you are a front-line community facing climate colonialism, get in touch "
+"with XR COP to share your story. Tell us how XR groups in Western countries "
+"can support your struggle and we will organise to help you in solidarity."
+msgstr ""
+"Et nous savons que ce type de solidarité mondiale fonctionne. Regardez cette "
+"vidéo inspirante de la campagne [Shale Must Fall en "
+"Irlande](https://www.youtube.com/"
+"watch?v=nP4mxV0YF_0&ab_channel=ShaleMustFall). Si vous faites partie d'une "
+"communauté en première ligne confrontée au colonialisme climatique, vous "
+"pouvez contacter XR COP pour relater votre histoire, nous dire comment les "
+"groupes XR des pays occidentaux peuvent soutenir votre lutte, et nous nous "
+"organiserons pour vous aider en toute solidarité."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:50 2021-03-01-climate-action-in-global-solidarity.md:56
+msgid "———"
+msgstr "———"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:52
+msgid ""
+"Want to know more about Esteban’s activism? [Watch this "
+"interview.](https://www.actvism.org/en/politics/ecoleaks-fracking-colonialism/)"
+msgstr ""
+"Si vous voulez en savoir plus sur l'es activités militantes d'Esteban, vous "
+"pouvez visionner [cette interview.](https://www.actvism.org/en/politics/"
+"ecoleaks-fracking-colonialism/)"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:54
+msgid ""
+"Here’s the link to [Global Witness](https://www.globalwitness.org/en/), an "
+"organisation that documents violence against environmental defenders."
+msgstr ""
+"Voici le lien vers [Global Witness](https://www.globalwitness.org/en/), une "
+"organisation qui documente la violence contre les défenseurs de "
+"l'environnement."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:58
+msgid ""
+"Want to help? XR COP is fundraising to help groups in frontline communities "
+"(mostly in Africa) organise actions on World Water Day to bring attention to "
+"water pollution due to mining and other economic activities as well as the "
+"lack of access to clean water."
+msgstr ""
+"Vous voulez contribuer ? XR COP collecte des fonds destinés à aider les "
+"groupes des communautés qui font face en première ligne (essentiellement en "
+"Afrique) à organiser des actions à l'occasion de la Journée mondiale de "
+"l'eau, et ce afin d'attirer l'attention sur la pollution de l'eau due à "
+"l'exploitation minière et autres activités économiques, ainsi que sur le "
+"manque d'accès à l'eau potable."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:60
+msgid ""
+"We aim to fund all the 20+ groups that have applied. Help us reach our "
+"10,000 euro target before March 15th!"
+msgstr ""
+"Nous espérons pouvoir financer tous les groupes de plus de 20 personnes qui "
+"nous ont sollicité. Aidez-nous à atteindre notre objectif de 10 000 euros "
+"avant le 15 mars !"
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:62
+msgid "Head to <https://opencollective.com/world-water-day-14581f58>."
+msgstr ""
+"Pour cela, rendez-vous sur <https://opencollective.com/world-water-day-"
+"14581f58>."
+
+#. type: Plain text
+#: 2021-03-01-climate-action-in-global-solidarity.md:63
+msgid ""
+"![image about "
+"fundraising](/assets/uploads/d181c90b-6aef-4899-b9d0-44d2f902b328.jpg)"
+msgstr ""
+"![image about fundraising](/assets/uploads/d181c90b-"
+"6aef-4899-b9d0-44d2f902b328.jpg)"

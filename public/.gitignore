@@ -1,0 +1,12 @@
+unusedClientBundle
+**/*.html
+**/*.json
+**/*.css
+**/*.gz
+**/*.br
+js/**
+js-modern/**
+robots.txt
+feed.xml
+rss.xml
+sitemap.txt

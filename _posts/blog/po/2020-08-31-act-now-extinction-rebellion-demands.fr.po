@@ -1,0 +1,461 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-02-10 12:19+0800\n"
+"PO-Revision-Date: 2021-02-10 17:12+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2020-08-31-act-now-extinction-rebellion-demands/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:15
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: \"XR Fundamentals: Act Now\"\n"
+"author: Alison Lowe\n"
+"slug: act-now-extinction-rebellion-demands\n"
+"date: 2020-08-31 18:38\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/IMG_0037.JPG\n"
+"seoImage: /assets/uploads/IMG_0037.JPG\n"
+"seoTitle: \"Extinction Rebellion's 2nd Demand: Act Now\"\n"
+"seoDescription: The future is coming for us — faster than we imagined.\n"
+"  Destruction that was forecast to unfold decades from now is already here.\n"
+msgstr ""
+"lang: fr\n"
+"title: \"L'urgence à agir au cœur des revendications d'XR\"\n"
+"author: Alison Lowe\n"
+"slug: act-now-extinction-rebellion-demands\n"
+"date: '2020-08-31 18:38'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/IMG_0037.JPG\n"
+"seoImage: /assets/uploads/IMG_0037.JPG\n"
+"seoTitle: 'Extinction Rebellion''s 2nd Demand: Act Now'\n"
+"seoDescription: L'avenir ne nous attend pas, il est déjà là. Les ravages "
+"annoncés pour dans des décennies \n"
+"  par des modèles prévisionnels, sont déjà en cours.\n"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:17
+#, no-wrap
+msgid "*Extinction Rebellion demands that governments act now to halt biodiversity loss and reduce greenhouse gas emissions to net zero as soon as possible. Here’s why.* {.hero-text}\n"
+msgstr ""
+"*Extinction Rebellion exige de nos gouvernements qu’ils prennent des mesures "
+"immédiates pour enrayer l’effondrement de la biodiversité, et pour réduire "
+"drastiquement les émissions de gaz à effet de serre, en vue de parvenir à la "
+"neutralité carbone au plus vite. En voici les raisons :*\n"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:19
+msgid ""
+"![Protest sign with XR logo reading The climate is changing, so should we! "
+"#Act now ](/assets/uploads/IMG_0037.JPG)"
+msgstr ""
+"![Protest sign with XR logo reading The climate is changing, so should we! "
+"#Act now ](/assets/uploads/IMG_0037.JPG)"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:21
+#, no-wrap
+msgid "*Photo: Markus Spiske.*\n"
+msgstr "*Photo : Markus Spiske.*\n"
+
+#. type: Title ##
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:22
+#, no-wrap
+msgid "The climate and ecological crisis is already with us"
+msgstr "Nous sommes déjà en pleine crise écologique et climatique"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:25
+msgid ""
+"The future is coming for us — faster than we imagined. Destruction that was "
+"forecast to unfold decades from now is [already here](https://www."
+"nationalgeographic.com/environment/global-warming/global-warming-effects/). "
+"As carbon emissions and global temperatures continue to rise, extreme "
+"weather is becoming both more common and more destructive."
+msgstr ""
+"L'avenir qui nous est malheureusement réservé se manifestera "
+"vraisemblablement plus tôt que nous l'avions imaginé. Les conséquences "
+"désastreuses énoncées dans dans des modèles prévisionnels, et annoncées pour "
+"dans des décennies [ont déjà lieu à l'heure actuelle](https://www."
+"nationalgeographic.com/environment/global-warming/global-warming-effects/). "
+"Les émissions de CO2 et la température moyenne globale continuant "
+"d'augmenter, la fréquence et la gravité des phénomènes météorologiques "
+"extrêmes ne font que s'accroître."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:27
+msgid ""
+"The science is only becoming clearer as the years pass. An ever-growing "
+"number of scientific studies prove two things: the earth is warming and we "
+"are the cause."
+msgstr ""
+"Les années passant ne font qu'illustrer la véracité des rapports "
+"scientifiques relatifs à ces deux questions : Oui la planète se réchauffe, "
+"et oui nous en sommes responsables."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:29
+msgid ""
+"Changes that were predicted years ago — like severe storms, heat waves, and "
+"melting glaciers and ice sheets — are [accelerating](https://www.nytimes."
+"com/2019/12/04/climate/climate-change-acceleration.html). Climate feedback "
+"loops — in which a symptom of climate change, such as more frequent "
+"wildfires, feeds the causes of climate change — are [creating a cascade "
+"effect](https://climaterealityproject.org/blog/how-feedback-loops-are-making-"
+"climate-crisis-worse). And scientists are learning that the earth is even "
+"[more sensitive to increases in carbon emissions](https://www.theguardian."
+"com/environment/2020/jun/13/climate-worst-case-scenarios-clouds-scientists-"
+"global-heating) than they initially thought."
+msgstr ""
+"La fréquence des dérèglements prévus il y a des années tels que ouragans, "
+"vagues de chaleur extrême, fonte des glaciers et de la banquise va "
+"[s'accélérant](https://www.nytimes.com/2019/12/04/climate/climate-change-"
+"acceleration.html). Les boucles de rétroaction -illustrant le fait qu'un "
+"indice du bouleversement climatique, tels que des feux de forêts plus "
+"fréquents, ne fait qu'aggraver le bouleversement climatique- générent des "
+"réactions en chaîne, [un effet domino](https://climaterealityproject.org/"
+"blog/how-feedback-loops-are-making-climate-crisis-worse), et les "
+"scientifiques s'aperçoivent que [la planète est plus sensible à la hausse "
+"des émissions de CO2](https://www.theguardian.com/environment/2020/jun/13/"
+"climate-worst-case-scenarios-clouds-scientists-global-heating) qu'ils ne le "
+"pensaient."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:31
+msgid ""
+"Some of the [most above-average temperatures have been recorded in places "
+"we’d expect to be the coldest](https://www.cnbc.com/2020/06/05/climate-"
+"change-may-2020-is-hottest-month-on-record.html), including parts of "
+"Siberia, Alaska and Antarctica. And for over two decades, the Arctic has "
+"been warming much faster than the rest of the planet. Today, Arctic warming "
+"is happening [at least two and a half times as fast](https://www.nytimes.com/"
+"interactive/2020/04/19/climate/climate-crash-course-1.html) as the global "
+"average."
+msgstr ""
+"[Certaines des températures les plus au-dessus de la moyenne ont été "
+"enregistrées dans les endroits les plus froids](https://www.cnbc."
+"com/2020/06/05/climate-change-may-2020-is-hottest-month-on-record.html), à "
+"savoir en Sibérie, en Alaska, et en Antarctique, et depuis plus de 20 ans, "
+"les températures de l'Arctique ont grimpé bien plus vite que dans le reste "
+"du monde, [au moins deux fois et demi plus vite](https://www.nytimes.com/"
+"interactive/2020/04/19/climate/climate-crash-course-1.html) que la "
+"température moyenne globale."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:33
+msgid ""
+"At the same time, we are going through a mass extinction event. The number "
+"of animals living on the earth has[ fallen by half since the 1970s](https://"
+"www.theguardian.com/environment/2014/sep/29/earth-lost-50-wildlife-in-40-"
+"years-wwf). The extinction rate of species is now thought to be about[ 1,000 "
+"times higher](https://www.newscientist.com/article/dn25645-we-are-killing-"
+"species-at-1000-times-the-natural-rate/) than before humans dominated the "
+"planet. Through pollution, destruction of habitats such as forests and "
+"industrial agriculture, human activity is shrinking the space for all "
+"species to survive."
+msgstr ""
+"Parallèllement, nous sommes entrés dans la 6ème extinction de masse des "
+"espèces. Le nombre d'animaux sur terrre [s'est considérablement réduit "
+"depuis les années 70](https://www.theguardian.com/environment/2014/sep/29/"
+"earth-lost-50-wildlife-in-40-years-wwf). On estime que le taux d'extinction "
+"actuel est [ 1000 fois plus élevé](https://www.newscientist.com/article/"
+"dn25645-we-are-killing-species-at-1000-times-the-natural-rate/) qu'avant "
+"l'ère de la domination de la planète par l'homme. La pollution, la "
+"destruction des habitats, des forêts par exemple, l'agriculture intensive, "
+"et les activités humaines réduisent les zones d'habitat et les chances de "
+"survie de nombreuses espèces, à peau de chagrin."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:35
+msgid ""
+"As we disrupt and kill off species after species of the ecosystem, we are "
+"not only losing what cannot be replaced — we are disrupting the conditions "
+"that make human life itself possible. It is only by allowing nature the "
+"space and protection it needs to survive that the human species can avoid "
+"total ecological collapse and possibly our own extinction."
+msgstr ""
+"En perturbant et condamnant les espèces les unes après les autres à "
+"l'extinction, nous ne perdons pas seulement ce qui est irremplaçable, nous "
+"altérons nos propres conditions de vie sur terre. C'est seulement en "
+"laissant la Nature tranquille, et en la protégeant que l'espèce humaine peut "
+"éviter la perspective d'un effondrement, voire sa propre extinction."
+
+#. type: Title ##
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:36
+#, no-wrap
+msgid "The powerful have blocked progress"
+msgstr "Les dirigeants bloquent les avancées"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:39
+msgid ""
+"Powerful interests who profit from the status quo have blocked meaningful "
+"progress. They have lobbied against[ environmental laws](https://www."
+"theguardian.com/business/2019/mar/22/top-oil-firms-spending-millions-"
+"lobbying-to-block-climate-change-policies-says-report) that would limit "
+"emissions. They’ve made it their goal to make people care less about the "
+"climate and ecological crisis. In 2020 alone,[ fossil fuel companies "
+"contributed around $50 million to politicians](https://www.nytimes.com/"
+"interactive/2020/04/19/climate/climate-crash-course-3.html) in the United "
+"States."
+msgstr ""
+"De puissants intérêts en jeu profitant de ce statu quo bloquent "
+"délibéremment la mise en œuvre de mesures conséquentes. Ils ont fait "
+"pression contre l'adoption de [décrets environnementaux](https://www."
+"theguardian.com/business/2019/mar/22/top-oil-firms-spending-millions-"
+"lobbying-to-block-climate-change-policies-says-report) visant à limiter les "
+"émissions. Ils s'en sont fait une profession de foi, que les gens ne se "
+"préoccupent pas tant d'écologie et de climat. Ne serait-ce qu'en 2020, [des "
+"groupes de l'industrie fossile ont financé des politiciens à hauteur de 50 "
+"millions de dollars](https://www.nytimes.com/interactive/2020/04/19/climate/"
+"climate-crash-course-3.html) aux États-Unis."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:41
+msgid ""
+"But, like the [polar ice caps on a 38C day](https://www.bbc.com/news/science-"
+"environment-53140069), the comfort zone in which denial has been possible is "
+"quickly shrinking. We are living through an ever more undeniable climate "
+"crisis. Without urgent action, the coming decades will bring an increasingly "
+"inhospitable new normal."
+msgstr ""
+"Ceci dit, la marge de déni se rétrécit et perd du terrain, tout comme [les "
+"calottes glaciaires lorsqu'il fait 38°C](https://www.bbc.com/news/science-"
+"environment-53140069). Nous sommes confrontés à une crise écologique et "
+"climatique qu'on ne peut plus que difficilement nier. Si nous ne faisons "
+"rien maintenant, l'inhospitalité de la planète deviendra la norme des "
+"décennies à venir."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:43
+msgid ""
+"We remain on track for man-made temperature increases of more than two "
+"degrees celsius above pre-industrial levels. This was the threshold outlined "
+"in the 2015 Paris Climate Agreement, which world leaders vowed to stay “well "
+"below” because they [deemed it too risky](https://www.nytimes.com/"
+"interactive/2018/12/07/climate/world-emissions-paris-goals-not-on-track."
+"html). A threshold that many scientists have since argued does not go far or "
+"fast enough."
+msgstr ""
+"Nous sommes sur une trajectoire à +2°C de plus par rapport à la moyenne "
+"globale des températures de l'ère pré-industrielle. Nous atteignons le seuil "
+"défini lors de l'Accord de Paris en 2015, seuil vis à vis duquel les "
+"dirigeants de ce monde s'étaient engagés à rester \"bien en dessous\" car "
+"ils l'estimaient [bien trop risqué](https://www.nytimes.com/"
+"interactive/2018/12/07/climate/world-emissions-paris-goals-not-on-track."
+"html). Un seuil dont nous nous rapprochons bien trop vite d'après les "
+"scientifiques."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:45
+msgid ""
+"In fact, five years on, [we’re not yet close to reining in global "
+"temperatures](https://www.nationalgeographic.com/science/2019/11/nations-"
+"miss-paris-targets-climate-driven-weather-events-cost-billions/). Not even "
+"close to meeting the emissions reduction goals that countries set for "
+"themselves, which were already insufficient in their ambition."
+msgstr ""
+"De fait, cinq ans après, [nous sommes loin d'avoir réussi à gérer la hausse "
+"des températures mondiales](https://www.nationalgeographic.com/"
+"science/2019/11/nations-miss-paris-targets-climate-driven-weather-events-"
+"cost-billions/), et même très loin d'atteindre les objectifs de réduction "
+"des émissions que les pays se sont fixés, et qui manquaient déjà d'ambition."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:47
+msgid ""
+"Top climate scientists, including Sir Robert Watson, the former chair of the "
+"Intergovernmental Panel on Climate Change, have said that we’re on track for "
+"catastrophic warming of [3-](https://www.nationalgeographic.com/"
+"science/2019/11/nations-miss-paris-targets-climate-driven-weather-events-"
+"cost-billions/)⁠⁠[4C by the end of the century](https://www.nationalgeographic."
+"com/science/2019/11/nations-miss-paris-targets-climate-driven-weather-events-"
+"cost-billions/)."
+msgstr ""
+"D'éminents climatologues, dont Sir Robert Watson, l'ancien président du GIEC "
+"(Groupe d'Experts Intergouvernemental sur l'évolution du Climat, estiment "
+"que nous sommes sur la trajectoire d'un réchauffement de [3](https://www."
+"nationalgeographic.com/science/2019/11/nations-miss-paris-targets-climate-"
+"driven-weather-events-cost-billions/)⁠⁠[à 4°C d'ici la fin du siècle](https://"
+"www.nationalgeographic.com/science/2019/11/nations-miss-paris-targets-"
+"climate-driven-weather-events-cost-billions/)."
+
+#. type: Title ##
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:48
+#, no-wrap
+msgid "But it’s not too late"
+msgstr "Mais il n'est pas encore trop tard"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:51
+msgid ""
+"We can still create a better future. But only if we urgently demonstrate to "
+"our governments that we do not accept the status quo. A status quo of "
+"irreparable harm to our collective wellbeing and to that of future "
+"generations. A scenario in which those who can least afford it will suffer "
+"the most."
+msgstr ""
+"Nous pouvons toujours envisager un avenir meilleur, mais seulement si nous "
+"parvenons à démontrer à nos gouvernements que nous n'acceptons pas cette "
+"situation de statu quo, qui génèrera des dommages irréversibles pour nous, "
+"et pour les générations à venir. Un scenario dans lequel les personnes les "
+"plus vulnérables seront les premières à en pâtir, et à en subir les "
+"conséquences."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:53
+msgid ""
+"The good news is that climate change’s clear and catastrophic consequences "
+"are at last making it a mainstream concern. The [majority of people surveyed "
+"in a recent poll in 26 countries say climate change is a major threat]"
+"(https://www.pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-"
+"around-the-world-view-climate-change/) to their nation, a drastic increase "
+"from 2013. Technology has also progressed significantly. If introduced now, "
+"low or zero-carbon technologies could help to reduce the emissions generated "
+"by our everyday activities."
+msgstr ""
+"La bonne nouvelle, c'est que les conséquences catastrophiques du dérèglement "
+"climatique sont claires, et sont enfin l'objet d'une préoccupation générale. "
+"[La majorité des personnes interrogées lors d'un récent sondage dans 26 pays "
+"déclarent que le changement climatique est une menace majeure](https://www."
+"pewresearch.org/fact-tank/2019/04/18/a-look-at-how-people-around-the-world-"
+"view-climate-change/) pour leur pays, et ce pourcentage est en nette "
+"augmentation depuis 2013. Les moyens technologiques ont également évolué de "
+"manière significative. Si elles étaient adoptées dès maintenant, les "
+"technologies à faible ou à zéro émission de CO2 contribueraient à réduire "
+"les émissions générées par l'activité humaine au quotidien."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:55
+msgid ""
+"But, while these developments are positive, they are not yet enough. Concern "
+"without action is meaningless. When it comes to the accelerating climate and "
+"ecological crisis, conventional resistance — voting, petitions, lobbying — "
+"is failing to do the job."
+msgstr ""
+"Néanmoins, bien que ces progrès soient positifs, ils ne suffisent pas. Il "
+"nous faut des actes, pas seulement des paroles, et lorsqu'il s'agit de "
+"l'accéleration des dégrations environnementales et climatiques, on constate "
+"que les moyens de lutte traditionnels, via le vote, la signature de "
+"pétitions, ou le lobbying, ne font pas le poids."
+
+#. type: Title ##
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:56
+#, no-wrap
+msgid "Why civil disobedience, why now"
+msgstr "Pourquoi la désobéissance civile, et pourquoi maintenant"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:59
+msgid ""
+"![Young women holding climate change protest signs](/assets/uploads/callum-"
+"shaw-7SE389kUVGw-unsplash.jpg)"
+msgstr ""
+"![Young women holding climate change protest signs](/assets/uploads/callum-"
+"shaw-7SE389kUVGw-unsplash.jpg)"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:61
+#, no-wrap
+msgid "*Photo: Callum Shaw.*\n"
+msgstr "*Photo : Callum Shaw.*\n"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:63
+msgid ""
+"What does work is [mass civil disobedience](https://www.bbc.com/future/"
+"article/20190513-it-only-takes-35-of-people-to-change-the-world). Studies "
+"show that worldwide movements for change that actively engaged 3.5 percent "
+"of the population have been most successful in achieving their goals. It’s "
+"now time to convert mainstream concern into mass mobilisation."
+msgstr ""
+"Ce qui fonctionne, c'est la [désobéissance civile de masse](https://www.bbc."
+"com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world). "
+"Des études illustrent que dans le monde entier, ce sont les mouvements "
+"sociaux luttant pour le changement, et bénéficiant de la participation "
+"active de 3,5 % de la population, qui ont eu le plus tendance à obtenir gain "
+"de cause. Il est donc maintenant temps de convertir cette problématique "
+"d'intérêt général en mobilisation de masse."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:65
+msgid ""
+"Through Extinction Rebellion’s non-violent civil disobedience, people like "
+"you are disrupting business as usual to demand deep decarbonisation. Every "
+"single person who protests is increasing our chances of creating a better "
+"future. Bold actions like occupying roads, blockading bridges and creatively "
+"disrupting the work of banks which finance the climate crisis can capture "
+"government and media attention and change the conversation in ways "
+"conventional resistance hasn’t."
+msgstr ""
+"Grâce aux actions de désobéissance civile non-violente d'XR, des gens comme "
+"vous et moi, des citoyens ordinaires, perturbent ce statu quo, et "
+"revendiquent une profonde décarbonisation de nos systèmes. Chaque personne "
+"qui s'engage augmente le potentiel de création d'un avenir meilleur. Des "
+"actions poussées, occupation de l'espace public, blocages de ponts et autres "
+"perturbations créatives entravent le travail des banques qui financent des "
+"projets écocides, et attirent l'attention des gouvernements et des médias, "
+"tout en permettant de porter le sujet au cœur des conversations et des "
+"débats nationaux, à un niveau qui n'avait pas été atteint jusqu'à maintenant "
+"via des moyens de lutte plus traditionnels."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:67
+msgid ""
+"While some may call our approach extreme, it is [no more than what is "
+"necessary](https://www.afr.com/world/europe/scientists-endorse-mass-civil-"
+"disobedience-to-force-climate-action-20191013-p5309j) — and far less "
+"disruptive than what is coming if we fail to act."
+msgstr ""
+"Bien que certains taxent notre approche d'extrême, nous ne faisons [rien "
+"d'autre que ce qui s'avère nécessaire](https://www.afr.com/world/europe/"
+"scientists-endorse-mass-civil-disobedience-to-force-climate-action-20191013-"
+"p5309j), et les dérangements que nous pouvons provoquer ne sont "
+"littéralement rien par rapport à ceux qui nous attendent si nous n'agissons "
+"pas maintenant."
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:69
+msgid ""
+"Thanks to a growing community of rebels worldwide, the movement is gaining "
+"strength and shifting the conversation, but we need your help to reach "
+"critical mass. The window of opportunity is getting smaller but is still "
+"very real. Can you help us avoid climate and ecological catastrophe and "
+"create a better future?"
+msgstr ""
+"Grâce à l'essor de la communité de rebelles dans le monde, notre mouvement "
+"se développe et réussit à détourner la conversation auprès de l'opinion "
+"publique, mais nous avons besoin de vous pour parvenir à mobiliser une masse "
+"critique de la population. Notre marge de manœuvre se rétrécit, mais nous "
+"pouvons encore faire quelque chose. Voulez-vous nous aider à éviter une "
+"catastrophe écologique et climatique et à créer un avenir meilleur ?"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:71
+#, no-wrap
+msgid "**Act now.** [](https://rebellion.global/groups/#countries)[](/get-involved/)\n"
+msgstr "**Agissons maintenant !** [](https://rebellion.global/groups/#countries)[](/get-involved/)\n"
+
+#. type: Plain text
+#: 2020-08-31-act-now-extinction-rebellion-demands.md:72
+msgid ""
+"[Join the rebellion](https://rebellion.global/get-involved/){.xr-button}"
+msgstr "[Rejoignez-nous !](https://rebellion.global/get-involved/){.xr-button}"

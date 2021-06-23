@@ -1,0 +1,486 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-26 20:46+0200\n"
+"PO-Revision-Date: 2020-10-08 07:45+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: Italian <http://translate.organise.earth/projects/"
+"press-releases/2020-08-20-the-troublemaker/it/>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:10
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: Oscar-winning production company releases film about extinction rebellion\n"
+"slug: the-troublemaker\n"
+"date: '2020-08-25 11:03'\n"
+"published: true\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/03-TM-THUMB-IMAGE-RED-BRIGADE.jpg\n"
+msgstr ""
+"lang: it\n"
+"title: Una produzione cinematografica già vincitrice di un premio Oscar "
+"rilascia un film riguardo Extinction Rebellion\n"
+"slug: the-troublemaker\n"
+"date: '2020-08-25 11:03'\n"
+"published: false\n"
+"categories:\n"
+"  - press\n"
+"seoImage: /assets/uploads/03-TM-THUMB-IMAGE-RED-BRIGADE.jpg\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:13
+#, no-wrap
+msgid "<iframe style=\"width: 100%; height: 25rem; max-height: 50vh; margin: 1.25rem 0;\" src=\"https://player.vimeo.com/video/443364512?title=0&byline=0&portrait=0\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe>\n"
+msgstr ""
+"<iframe style=\"width: 100%; height: 25rem; max-height: 50vh; margin: "
+"1.25rem 0;\" src=\"https://player.vimeo.com/video/"
+"443364512?title=0&byline=0&portrait=0\" frameborder=\"0\" allow=\"autoplay; "
+"fullscreen\" allowfullscreen></iframe>\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:15
+msgid ""
+"Oscar Winning UK production company PASSION PICTURES and multi-award winning "
+"filmmaker SASHA SNOW team up to produce a 2 year independent production "
+"about Extinction Rebellion."
+msgstr ""
+"Casa di produzione premio Oscar britannica PASSION PICTURES e regista "
+"pluripremiato, SASHA SNOW, si uniscono per produrre una produzione "
+"independente di 2 anni su Extinction Rebellion."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:17
+msgid ""
+"Available to [watch for FREE](https://vimeo.com/443364512) until Thursday 27 "
+"August at 2100 UTC, afterwards available to watch for a small fee [On Demand]"
+"(https://vimeo.com/ondemand/thetroublemaker)."
+msgstr ""
+"Disponibile a [guardare GRATIS](https://vimeo.com/443364512) fino a giovedì "
+"27 agosto alle 2100 UTC, in seguito disponibile a guardare a pagamento [On "
+"Demand](https://vimeo.com/ondemand/thetroublemaker)."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:19
+msgid ""
+"Available with French, Spanish, Italian or German subtitles and with English "
+"closed captions."
+msgstr ""
+"Disponibile con sottotitoli in francese, spagnolo, italiano o tedesco e "
+"inglese."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:21
+#, no-wrap
+msgid "**Contacts**\n"
+msgstr "**Contatti**\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:23
+msgid "Email:media@rebellion.global"
+msgstr "Email:media@rebellion.global"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:25
+msgid "Phone: +447802530272 /+447472916283"
+msgstr "Tel: +447802530272 /+447472916283"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:27
+msgid ""
+"[Facebook](https://www.facebook.com/ExtinctionRebellion/) | [Instagram]"
+"(https://www.instagram.com/extinctionrebellion/) |[Twitter](https://twitter."
+"com/ExtinctionR) |[ Media Assets](https://show.pics.io/xr-global-media-"
+"resources-public/) | [Donate](https://chuffed.org/pay/campaign/62932)"
+msgstr ""
+"[Facebook](https://www.facebook.com/ExtinctionRebellion/) | "
+"[Instagram](https://www.instagram.com/extinctionrebellion/) "
+"|[Twitter](https://twitter.com/ExtinctionR) |[ Media "
+"Assets](https://show.pics.io/xr-global-media-resources-public/) | "
+"[Donazioni](https://chuffed.org/pay/campaign/62932)"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:29
+msgid "\\#TheTroublemaker #WeWantToLive #ExtinctionRebellion #ActNow"
+msgstr "\\#TheTroublemaker #WeWantToLive #ExtinctionRebellion #ActNow"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:31
+#, no-wrap
+msgid "**“I don’t want my children to look back and think I led a frivolous life and then just abandoned them. I want them to know I did everything I possibly could.” - Sylvia Dell**\n"
+msgstr ""
+"**“Non voglio che i miei figli guardino indietro e pensino che ho di aver "
+"condotto una vita frivola e poi li ho abbandonati. Voglio che sappiano che "
+"ho fatto tutto il possibile.” – Sylvia Dell**\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:33
+#, no-wrap
+msgid "**“The essence of what is human is the ability to make a decision, a conscious decision on what is right in life, regardless of the consequences.” - Roger Hallam (XR Co-Founder)**\n"
+msgstr ""
+"**“L'essenza di ciò che è umano è la capacità di prendere una decisione, una "
+"decisione cosciente su ciò che è.” - Roger Hallam (XR Co-Founder)**\n"
+
+#. type: Bullet: '* '
+#: 2020-08-20-the-troublemaker.md:38
+msgid ""
+"Released worldwide on Friday August 21st in 5 languages via VideoOnDemand, "
+"one week before the beginning of the next round of organised mass civil "
+"disobedience in the UK & worldwide"
+msgstr ""
+"Rilasciato in tutto il mondo venerdì 21 agosto in 5 lingue tramite "
+"Videoondemand, una settimana prima del inizio del prossimo ciclo di "
+"disobbedienza civile organizzata di massa nel Regno Unito e nel mondo."
+
+#. type: Bullet: '* '
+#: 2020-08-20-the-troublemaker.md:38
+msgid ""
+"‘The Troublemaker’ is a 57-minute documentary film that delves deep into the "
+"ideas and emotions behind the international wave of civil protest, born in "
+"the face of the unfolding climate crisis"
+msgstr ""
+"‘The Troublemaker” è un documentario di 57 minuti che approfondisce le idee "
+"e le emozioni dietro l'ondata internazionale di protesta civile, nata di "
+"fronte alla crisi climatica in corso."
+
+#. type: Bullet: '* '
+#: 2020-08-20-the-troublemaker.md:38
+msgid ""
+"‘The Troublemaker’ follows the personal awakening of two people as they "
+"learn to accept the reality of climate breakdown and decide to do something "
+"about it"
+msgstr ""
+"‘The Troublemaker’ segue il risveglio personale di due persone mentre "
+"imparano ad accettare la realtà del clima e decidere di fare qualcosa al "
+"riguardo."
+
+#. type: Bullet: '* '
+#: 2020-08-20-the-troublemaker.md:38
+msgid "[FILM TRAILER](https://www.thetroublemakermovie.com/preview)"
+msgstr "[TRAILER DEL FILM](https://www.thetroublemakermovie.com/preview)"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:41
+#, no-wrap
+msgid ""
+"  [FILM WEBSITE](https://www.thetroublemakermovie.com/)\n"
+"* [HIGH RESOLUTION STILLS](https://wetransfer.com/downloads/a513836f278418bc51407e0ee562b5d120200817094530/ce33200e73a46f61d89cc8f7aa7ef44220200817094554/426100)\n"
+msgstr ""
+"  [SITO WEB DEL FILM](https://www.thetroublemakermovie.com/)\n"
+"* [IMMAGINI AD ALTA RISOLUZIONE](https://wetransfer.com/downloads/"
+"a513836f278418bc51407e0ee562b5d120200817094530/"
+"ce33200e73a46f61d89cc8f7aa7ef44220200817094554/426100)\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:43
+msgid ""
+"Oscar winning UK production company PASSION PICTURES and multi-award-winning "
+"documentary filmmaker SASHA SNOW have today released “The Troublemaker”, a 2-"
+"year independent production about EXTINCTION REBELLION."
+msgstr ""
+"La casa di produzione premio Oscar britannica PASSION PICTURES e il regista "
+"pluripremiato, SASHA SNOW, hanno rilasciato oggi il “Troublemaker”, una "
+"produzione independente di 2 anni su Extinction Rebellion."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:45
+msgid ""
+"As a society, and as individuals, we have always been defined by how we "
+"react in the face of a crisis. This is the archetypal story played out on a "
+"global scale, presenting the opportunity for self-discovery if we are "
+"prepared to face up to the existential threat."
+msgstr ""
+"Come società, e come individui, siamo sempre stati definiti da come reagiamo "
+"di fronte a una crisi. Questa è la storia archetipica giocata su scala "
+"globale, che sta presentando l'opportunità di auto-scoperta se siamo pronti "
+"ad affrontare la minaccia esistenziale."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:47
+msgid ""
+"Roger Hallam’s reputation as the eponymous ‘Troublemaker’ is a double-edged "
+"sword, praised by some and vilified by many inside and outside of Extinction "
+"Rebellion. Whatever your opinion of the man, it cannot be denied that his "
+"journey from organic farmer, to social science theorist and one-time co-"
+"founder of XR, to ‘political independent’, makes him a uniquely interesting "
+"place to start a story of ideas. This is especially true given the "
+"prevailing context of political weakness and cynicism."
+msgstr ""
+"La reputazione di Roger Hallam come l'eponimo Troublemaker' è una spada a "
+"doppio taglio, lodata da alcuni e diffamato da molti all'interno e al di "
+"fuori di Extinction Rebellion. Qualunque sia la sua opinione sull'uomo, non "
+"si può negare che il suo viaggio da un tempo agricoltore biologico, al "
+"teorico delle scienze sociali e cofondatore di XR, al ‘political independent’"
+", lo rende un luogo particolarmente interessante per iniziare una storia di "
+"idee. Ciò è particolarmente vero dato il contesto prevalente di debolezza "
+"politica e cinismo."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:49
+msgid ""
+"The film uses not one but TWO prophetic voices as channels for raising this "
+"challenge. Roger is the voice of committed belief in the civil disobedience "
+"model of social change, a model that has achieved spectacular results in "
+"recent history. But through the journey of SYLVIA DELL, retired mother of 4 "
+"from South Devon, we get a glimpse of how this model can play out in the "
+"life of an apparently ‘ordinary’, law-abiding citizen."
+msgstr ""
+"Il film utilizza non una ma DUE voci profetiche come canali per sollevare "
+"questa sfida. Roger è la voce della fede impegnata nel modello di "
+"disobbedienza civile del cambiamento sociale, un modello che ha raggiunto "
+"risultati spettacolari nella storia recente. Pero, attraverso il viaggio di "
+"SYLVIA DELL, pensionata madre di 4 da South Devon, diamo un'occhiata a come "
+"questo modello può svolgersi nella vita di un cittadino apparentemente "
+"'ordinario', rispettoso della legge."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:51
+msgid ""
+"‘The Troublemaker’ scratches the niggling itch that is lurking in many of "
+"our brains about the extinction of planetary systems that seems to be going "
+"on all around us, and the dawning realisation that something has to be done."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:53
+msgid ""
+"Ultimately the film poses a simple question: with the consensus of informed "
+"opinion declaring a ‘climate emergency’, is it morally acceptable to sit "
+"back and do nothing?"
+msgstr ""
+"Alla fine il film pone una semplice domanda: con il consenso di opinione "
+"informata che dichiara ‘un'emergenza climatica’, sia moralmente accettabile "
+"sedersi e non fare nulla?"
+
+#. type: Title ###
+#: 2020-08-20-the-troublemaker.md:54
+#, no-wrap
+msgid "Director's Statement"
+msgstr "Dichiarazione del Direttore"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:57
+#, no-wrap
+msgid "**[SASHA SNOW](https://www.sashasnow.com/)**\n"
+msgstr "**[SASHA SNOW](https://www.sashasnow.com/)**\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:59
+#, no-wrap
+msgid "**“As a filmmaker I have spent the last 20 years exploring our fractured and self-destructive relationship with the natural world, looking for stories and people that might inspire us to change.**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:61
+#, no-wrap
+msgid "**I have always been interested in visionary individuals that attempt to stir society from passive acceptance and who are prepared to suffer for their ideas in the process.**\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:63
+msgid ""
+"Between 2007-2015 I chased the ghost of GRANT HADWIN, an expert logger "
+"driven to an extreme protest and a perverse ‘crime against nature’."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:65
+msgid ""
+"Grant drowned in mysterious circumstances while kayaking to his own trial."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:67
+msgid ""
+"It was with the same unresolved curiosity that I approached Roger Hallam, co-"
+"founder of the then-nascent environmental protest movement ‘Extinction "
+"Rebellion’ (XR)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:69
+msgid ""
+"I am an ‘outsider’ to XR, and have been careful to retain my independence, "
+"working to craft a story about the ideas and emotions that are driving the "
+"fledgling ‘rebellion’ on our streets, and not to be deflected or distracted "
+"by the personalities and politics inevitably involved with such a project."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:71
+msgid ""
+"‘The Troublemaker’ is the result of this 20 month journey, supported all the "
+"way by the editorial wisdom of the team at Passion Pictures, one of the "
+"finest independent production companies in the U.K.”"
+msgstr ""
+"The Troublemaker\" è il risultato di questo viaggio di 20 mesi, sostenuto "
+"fino in fondo dalla saggezza editoriale del team di Passion Pictures, una "
+"delle migliori case di produzione indipendenti del Regno Unito.\""
+
+#. type: Title ###
+#: 2020-08-20-the-troublemaker.md:72
+#, no-wrap
+msgid "About the Production Company"
+msgstr "Informazioni sulla società di produzione"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:75
+#, no-wrap
+msgid "**With three Oscars, three BAFTAs, and numerous Emmy awards, [PASSION PICTURES](http://www.passion-pictures.com/)is a global production company with a worldwide reputation for its feature documentaries, landmark television productions, animation and commercials.**\n"
+msgstr ""
+"**Con tre Oscar, tre BAFTA e numerosi premi Emmy, [PASSION "
+"PICTURES](http://www.passion-pictures.com/)è una società di produzione "
+"globale con una reputazione mondiale per i suoi documentari, le sue "
+"produzioni televisive di riferimento, animazione e spot pubblicitari.**\n"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:77
+msgid ""
+"Notable titles include: Academy Award-winning **One Day in September** | "
+"Academy Award-nominated **Restrepo** | Academy shortlisted **The Tillman "
+"Story** (Winner: Best Historical Doc Emmy 2012) | BAFTA-winning **The "
+"Imposter** | Academy Award and BAFTA-winning **Searching For Sugar Man** | "
+"Emmy and Golden Panda winning **My Life as a Turkey** | and the Netflix "
+"original and Academy Award-nominated **Winter On Fire.**"
+msgstr ""
+"Notable titles include: Academy Award-winning **One Day in September** | "
+"Academy Award-nominated **Restrepo** | Academy shortlisted **The Tillman "
+"Story** (Winner: Best Historical Doc Emmy 2012) | BAFTA-winning **The "
+"Imposter** | Academy Award and BAFTA-winning **Searching For Sugar Man** | "
+"Emmy and Golden Panda winning **My Life as a Turkey** | and the Netflix "
+"original and Academy Award-nominated **Winter On Fire.**"
+
+#. type: Title ###
+#: 2020-08-20-the-troublemaker.md:78
+#, no-wrap
+msgid "About Extinction Rebellion"
+msgstr "Sulla Extinction Rebellion"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:81
+msgid ""
+"Time has almost entirely run out to address the ecological crisis which is "
+"upon us, including the 6th mass species extinction, global pollution, and "
+"abrupt, runaway climate change. Societal collapse and mass death are seen as "
+"inevitable by scientists and other credible voices, if rapid action is not "
+"taken."
+msgstr ""
+"Il tempo è quasi interamente scaduto per affrontare la crisi ecologica che "
+"si sta verificando, tra cui la sesta estinzione di massa delle specie, "
+"l'inquinamento globale e il brusco e incontrollabile cambiamento climatico. "
+"Il collasso sociale e la morte di massa sono visti come inevitabili dagli "
+"scienziati e da altre voci credibili, se non si interviene rapidamente."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:83
+msgid ""
+"Extinction Rebellion believes it is a citizen’s duty to rebel, using "
+"peaceful civil disobedience, when faced with criminal inactivity by their "
+"Government."
+msgstr ""
+"Extinction Rebellio crede che sia dovere del cittadino ribellarsi, usando la "
+"disobbedienza civile non violente, di fronte all'inattività criminale del "
+"proprio governo."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:85
+msgid "Extinction Rebellion’s key demands are:"
+msgstr "Le nostre richieste sono:"
+
+#. type: Bullet: '1. '
+#: 2020-08-20-the-troublemaker.md:89
+msgid ""
+"Government must tell the truth by declaring a climate and ecological "
+"emergency, working with other institutions to communicate the urgency for "
+"change."
+msgstr ""
+"Il governo deve dire la verità dichiarando un'emergenza climatica ed "
+"ecologica, lavorando con altre istituzioni per comunicare l'urgenza del "
+"cambiamento."
+
+#. type: Bullet: '2. '
+#: 2020-08-20-the-troublemaker.md:89
+msgid ""
+"Government must act now to halt biodiversity loss and reduce greenhouse gas "
+"emissions to net zero as soon as possible."
+msgstr ""
+"Il governo deve agire ora per arrestare la perdita di biodiversità e ridurre "
+"le emissioni di gas serra a zero netto entro il 2025."
+
+#. type: Bullet: '3. '
+#: 2020-08-20-the-troublemaker.md:89
+msgid ""
+"Government must create and be led by the decisions of a Citizens’ Assembly "
+"on climate and ecological justice."
+msgstr ""
+"Che il governo costituisca e sia guidato dalle decisioni di un’assemblea di "
+"cittadini/e sulle misure da attuare e sulla giustizia climatica ed ecologica."
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:91
+msgid ""
+"[Why Rebel?](https://rebellion.global/why-rebel/) | [Extinction Rebellion in "
+"Numbers](https://docs.google.com/document/"
+"d/11E9MUhXWyxweCDKwJqBRZEDLGam268iwUqVAAUG8dus/) | [This Is Not A Drill: An "
+"Extinction Rebellion Handbook](https://www.penguin.co.uk/books/314/314671/"
+"this-is-not-a-drill/9780141991443.html)"
+msgstr ""
+"[Perché ribellarsi ?](https://rebellion.global/why-rebel/) | [Extinction "
+"Rebellion in Numbers](https://docs.google.com/document/d/"
+"11E9MUhXWyxweCDKwJqBRZEDLGam268iwUqVAAUG8dus/) | [This Is Not A Drill: An "
+"Extinction Rebellion Handbook](https://www.penguin.co.uk/books/314/314671/"
+"this-is-not-a-drill/9780141991443.html)"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:94
+msgid "\\ Get Involved"
+msgstr "\\ Partecipa"
+
+#. type: Bullet: '* '
+#: 2020-08-20-the-troublemaker.md:97
+msgid ""
+"Take your first steps to [become a rebel.](https://rebellion.global/get-"
+"involved/)"
+msgstr ""
+"I primi passi per [diventare un ribelle.](https://rebellion.global/"
+"get-involved/)"
+
+#. type: Bullet: '* '
+#: 2020-08-20-the-troublemaker.md:97
+msgid ""
+"While your time and energy are of most importance, if you are financially "
+"able to donate money, [see our Crowdfunder](https://chuffed.org/pay/"
+"campaign/62932)."
+msgstr ""
+"Questa Ribellione ha bisogno del vostro sostegno. Se non potete partecipare "
+"personalmente, potete fare una [donazione](https://chuffed.org/project/"
+"xrinternational)."
+
+#. type: Title ###
+#: 2020-08-20-the-troublemaker.md:98
+#, no-wrap
+msgid "About Rising Up!"
+msgstr "Informazioni sulla Rising Up!"
+
+#. type: Plain text
+#: 2020-08-20-the-troublemaker.md:100
+msgid ""
+"Extinction Rebellion emerged from the Rising Up! network, which promotes a "
+"fundamental change of our political and economic system to one which "
+"maximises well-being and minimises harm. Change needs to be nurtured in a "
+"culture of reverence, gratitude and inclusion while the tools of civil "
+"disobedience and direct action are used to express our collective power."
+msgstr ""

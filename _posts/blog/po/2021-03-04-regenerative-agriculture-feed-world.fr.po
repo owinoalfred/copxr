@@ -1,0 +1,990 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2021-03-08 16:23+0800\n"
+"PO-Revision-Date: 2021-03-09 12:47+0000\n"
+"Last-Translator: grovsoper <translations@organise.earth>\n"
+"Language-Team: French <http://translate.organise.earth/projects/blog-posts/"
+"2021-03-04-regenerative-agriculture-feed-world/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 3.11.2\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:16
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: What is regenerative agriculture and can it feed the world?\n"
+"author: Neil Simpson\n"
+"slug: regenerative-agriculture-feed-world\n"
+"date: 2021-03-04 17:21\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/raddish.jpg\n"
+"seoImage: /assets/uploads/raddish.jpg\n"
+"seoTitle: Our mainstream agricultural system is at war with nature, but "
+"there is\n"
+"  another way.\n"
+"seoDescription: Our mainstream agricultural system is at war with "
+"nature. Is\n"
+"  there another way? Discover a hopeful alternative in our new article.\n"
+msgstr ""
+"lang: fr\n"
+"title: Qu'est-ce que l'agriculture régénérative ? Peut-elle nourrir la "
+"planète ?\n"
+"author: Neil Simpson\n"
+"slug: regenerative-agriculture-feed-world\n"
+"date: 2021-03-04 17:21\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/raddish.jpg\n"
+"seoImage: /assets/uploads/raddish.jpg\n"
+"seoTitle: L'agriculture conventionnelle fait la guerre à l'environnement, "
+"mais il y a \n"
+"  des alternatives. \n"
+"seoDescription: L'agriculture conventionnelle fait la guerre à "
+"l'environnement. Y a\n"
+"  t-il d'autres solutions ? Découvrez une alternative prometteuse dans cet "
+"article.\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:20
+msgid ""
+"![A hand holds two radishes with soil-covered roots that have just been "
+"harvested](/assets/uploads/raddish.jpg)"
+msgstr ""
+"![A hand holds two radishes with soil-covered roots that have just been "
+"harvested](/assets/uploads/raddish.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:22
+#, no-wrap
+msgid "*© Pexels Skitterphoto*\n"
+msgstr "*© Pexels Skitterphoto*\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:24
+msgid ""
+"Regenerative agriculture. It’s not a phrase that’s easy to spell or "
+"pronounce, is it? Nevertheless, it’s a phrase that is set to become "
+"increasingly familiar. Why? Because life depends on it. Our current "
+"intensive agriculture methods are unsustainable; they destroy ecosystems and "
+"diminish biodiversity. Regenerative agriculture heals this damage and "
+"strengthens food security."
+msgstr ""
+"L'agriculture régénérative. Ce n'est pas évident à prononcer, n'est-ce pas ? "
+"Pourtant, c'est une expression qui va devenir de plus en plus courante. "
+"Pourquoi ? Parce que la vie en dépend. Nos méthodes actuelles d'agriculture "
+"intensive ne sont pas durables, elles ravagent les écosystèmes et détruisent "
+"la biodiversité. L'agriculture régénérative (ou régénératrice) permet de "
+"réparer ces dégats, et de renforcer la sécurité alimentaire."
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:25
+#, no-wrap
+msgid "Farming to a dead end"
+msgstr "L'agriculture est dans une impasse"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:28
+msgid ""
+"[Just like over half of the "
+"world](https://www.un.org/development/desa/en/news/population/2018-revision-of-world-urbanization-prospects.html), "
+"I have lived my life separated from agriculture in urban environments. What "
+"do I really know about how my food arrives on my plate? Food packaging and "
+"advertising show me happy images of green patchwork landscapes and colourful "
+"farming machines ploughing golden fields of lined-up crops. [Roughly "
+"one-third of the world’s food is wasted every "
+"year](https://www.unenvironment.org/thinkeatsave/get-informed/worldwide-food-waste), "
+"which, too, seems to suggest that food is plentiful."
+msgstr ""
+"[Tout comme plus de la moitié du monde](https://www.un.org/development/desa/"
+"en/news/population/2018-revision-of-world-urbanization-prospects.html), j'ai "
+"vécu en milieu urbain, loin de toute considération agricole. Que sais-je "
+"vraiment sur la façon dont ce que je mange arrive dans mon assiette ? Les "
+"emballages alimentaires et les publicités me montrent des images heureuses "
+"de patchwork de paysages verts, et d'engins agricoles colorés labourant des "
+"champs dorés en sillons bien alignés. [Environ un tiers de la nourriture "
+"mondiale est gaspillée chaque année](https://www.unenvironment.org/"
+"thinkeatsave/get-informed/worldwide-food-waste), ce qui semble également "
+"suggérer que la nourriture ne manque pas."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:30
+msgid ""
+"There’s no doubt that industrial agriculture has produced fantastic amounts "
+"of food for decades, with each technical innovation introducing another way "
+"to reduce human effort while increasing production: tractors replaced "
+"horses, and then combine harvesters replaced tractors. We identified "
+"nitrogen, phosphorus, and potassium as the elements of plant growth, then "
+"created synthetic fertilisers from them. We also discovered herbicides and "
+"pesticides, with which farmers could kill weeds and destructive insects by "
+"simply spraying them. The industrialisation of farming was a shining example "
+"of human ingenuity."
+msgstr ""
+"L'agriculture industrielle a sans aucun doute permis de produire d'énormes "
+"quantités de nourriture ces dernières décennies, chaque progrès technique "
+"réduisant l'effort humain tout en augmentant la production : les tracteurs "
+"ont remplacé les chevaux, puis les moissonneuses-batteuses ont remplacé les "
+"tracteurs. Nous avons identifié l'azote, le phosphore et le potassium comme "
+"les éléments de la croissance des plantes, puis nous avons créé des intrants "
+"de synthèse à partir de ces éléments. Nous avons également découvert "
+"herbicides et pesticides, avec lesquels les agriculteurs pouvaient éradiquer "
+"mauvaises herbes, et indésirables en les pulvérisant tout simplement. "
+"L'industrialisation de l'agriculture a été un brillant exemple de "
+"l'ingéniosité humaine."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:32
+msgid ""
+"So, what’s the problem? The problem is that our short-term farming solutions "
+"are cooking up long-term disasters."
+msgstr ""
+"Donc, quel est le problème ? Le problème est que nos solutions agricoles à "
+"court terme nous mijotent des catastrophes à long terme."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:34
+msgid ""
+"![Aerial view of grain being picked from a field by a harvester and a "
+"tractor](/assets/uploads/fields.jpg)"
+msgstr ""
+"![Aerial view of grain being picked from a field by a harvester and a "
+"tractor](/assets/uploads/fields.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:36
+#, no-wrap
+msgid "*© Pexels & Tom Fisk*\n"
+msgstr "*© Pexels & Tom Fisk*\n"
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:37
+#, no-wrap
+msgid "Monocultures"
+msgstr "Les monocultures"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:40
+msgid ""
+"Our intensive farming practices have covered Earth in monocultures: fields "
+"dedicated to growing only one plant. After all, if you make more money from "
+"growing corn, why would you plant anything else? It’s logical from an "
+"economic perspective to intensify farming until all obstacles to the final "
+"crop are removed, such as weeds, or hungry insects. In business, greater "
+"efficiency equals greater profits, so of course we have intensified our "
+"agriculture."
+msgstr ""
+"Nos pratiques d'agriculture intensive ont couvert la Terre de monocultures : "
+"des champs de culture d'une seule plante. Après tout, quand on gagne plus "
+"d'argent en ne cultivant que du maïs, pourquoi semer autre chose ? "
+"Économiquequement parlant, c'est logique de passer à l'agriculture intensive "
+"jusqu'à éliminer tous les obstacles à la récolte finale, tels que mauvaises "
+"herbes ou insectes affamés. Dans le monde des affaires, être plus efficace, "
+"signifie engranger plus de profits, et c'est évidemment pour cela que nous "
+"avons intensifié notre agriculture."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:42
+msgid ""
+"Unfortunately, monocultures decrease the number of natural interactions "
+"between different living organisms, because most of them have been removed, "
+"or killed with chemicals, for the sake of the crop. In other words, "
+"monocultures reduce biodiversity. In the 2020 David Attenborough documentary "
+"*[Extinction: The Facts](https://www.imdb.com/title/tt13099124/)*, soil "
+"ecologist Richard Bardgett explains: ‘Soil should be teeming with life. One "
+"of the most important things that animals in the soil do is to break down "
+"organic matter, which is used for plant growth.’ Monoculture farming crushes "
+"these ecological relationships."
+msgstr ""
+"Malheureusement, les monocultures réduisent le nombre d'interactions "
+"naturelles entre les différents organismes vivants, la plupart d'entre eux "
+"ayant été éliminés, ou éradiqués par des produits chimiques, pour le bien "
+"des cultures. En d'autres termes, les monocultures détruisent la "
+"biodiversité. Dans le documentaire de David Attenborough de 2020 *["
+"Extinction : les faits](https://www.imdb.com/title/tt13099124/)*, "
+"l'écologiste du sol Richard Bardgett explique que \"le sol devrait être "
+"plein de vie. L'une des choses les plus importantes que font les animaux "
+"dans le sol est de décomposer la matière organique, nécessaire à la "
+"croissance des plantes\". La monoculture annihile ces relations écologiques."
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:43
+#, no-wrap
+msgid "Unhealthy habits"
+msgstr "De mauvaises habitudes"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:46
+msgid ""
+"We often engage with natural processes as problems to be fixed: we dig up "
+"and turn soil before sowing seeds, which degrades the soil and releases "
+"greenhouse gases that would naturally stay underground; we clear unwanted "
+"plants after harvesting, which exposes bare earth to harsh weather and "
+"erosion. Then, as degraded soil cannot retain as much water as healthy "
+"soils, we experience unnecessary droughts."
+msgstr ""
+"Nous considérons souvent les processus naturels comme des problèmes à "
+"résoudre, nous creusons et retournons la terre avant de semer, ce qui "
+"dendommage les sols, et libère des gaz à effet de serre qui seraient sinon "
+"naturellement restés sous terre, nous arrachons les plantes indésirables "
+"après la récolte, ce qui expose la terre nue à des conditions climatiques "
+"difficiles, et à l'érosion. Et puis, comme les sols dégradés ne peuvent pas "
+"retenir autant d'eau que des sols sains, nous nous retrouvons avec des "
+"terres inutilement asséchées."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:48
+msgid ""
+"Intensive agriculture is at war with nature. What happens when you suppress "
+"your natural instincts for the sake of productivity? For example, if I "
+"worked in an office for 12 hours every day, didn’t go outside for a break, "
+"nor even made time to stop and eat a healthy lunch, I would probably get "
+"more work done. But in the long-term, I’d also become stressed, unhealthy "
+"and miserable. This is what intensive agriculture is doing to soil."
+msgstr ""
+"L'agriculture intensive fait la guerre à la nature. Que se passe-t-il "
+"lorsque vous supprimez vos instincts naturels au nom de la productivité ? "
+"Par exemple, si je travaillais dans un bureau pendant 12 heures chaque jour, "
+"si je ne sortais pas pour faire des pauses, et que je ne prenais même pas le "
+"temps de m'arrêter pour manger un repas sain, j'aurais probablement plus de "
+"travail, mais à long terme, je serais aussi stressé, malheureux, et en "
+"mauvaise santé. C'est ce que l'agriculture intensive inflige aux sols."
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:49
+#, no-wrap
+msgid "Soil loss"
+msgstr "La dégradation des sols"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:52
+msgid ""
+"As you’ve probably realised, this is bad news. During a World Soil Day 2014 "
+"event in Rome, Dutch activist Volkert Engelsman, an Organic Ambassador for "
+"[IFOAM Organics International](https://www.ifoam.bio/about-us), said ‘[we "
+"are losing 30 soccer fields of soil every minute, mostly due to intensive "
+"farming](https://www.reuters.com/article/food-soil-farming-idUSL6N0TP30P20141205).’ "
+"In *Extinction: The Facts*, Robert Watson (then the Chair of the "
+"[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem "
+"Services](https://ipbes.net/)) says, ‘food production in some parts of the "
+"world is going down, due to soil degradation and a changing climate’."
+msgstr ""
+"Comme vous l'avez probablement compris, c'est une mauvaise nouvelle. Lors de "
+"la Journée mondiale des sols en 2014 à Rome, l'activiste néerlandais Volkert "
+"Engelsman, ambassadeur de l'agriculture biologique pour [IFOAM Organics "
+"International](https://www.ifoam.bio/about-us), a déclaré : \"[nous perdons "
+"30 terrains de football par minute, essentiellement à cause de l'agriculture "
+"intensive](https://www.reuters.com/article/food-soil-farming-"
+"idUSL6N0TP30P20141205). Dans *Extinction : Les faits*, Robert Watson (alors "
+"président de la [plateforme intergouvernementale scientifique et politique "
+"sur la biodiversité et les services écosystémiques](https://ipbes.net/)) "
+"déclare que \"la production alimentaire dans certaines régions du monde est "
+"en baisse, en raison de la dégradation des sols, et du dérèglement "
+"climatique\"."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:54
+msgid ""
+"The upper layer of soil in which plants grow is called topsoil. The speed at "
+"which topsoil builds in the natural world depends on numerous factors, such "
+"as topography and climate, but it appears to take [approximately 500 years "
+"to grow one inch of "
+"topsoil](https://www.soils.org/about-soils/basics/). Remember this — I’ll "
+"come back to it later."
+msgstr ""
+"On appelle la couche supérieure du sol dans laquelle poussent les plantes, "
+"la terre végétale. La vitesse à laquelle la couche arable se forme dans la "
+"nature dépend de nombreux facteurs, tels que topographie et climat, mais il "
+"semble qu'il faille [environ 500 ans pour générer un pouce (2,5cm)de terre "
+"arable](https://www.soils.org/about-soils/basics/). Retenez cette info, j'y "
+"reviendrai plus tard."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:56
+msgid ""
+"If we continue with our current, widespread intensive agriculture practices, "
+"we will increasingly endanger our food supplies."
+msgstr ""
+"Si nous continuons avec ces pratiques agricoles intensives largement "
+"répandues, nous mettrons de plus en plus en danger nos réserves alimentaires."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:58
+msgid ""
+"![Recently harvested root vegetables being sprayed clean by a man with a "
+"hose pipe](/assets/uploads/893cd6cb-cf87-4522-83d8-4080bd7c5f51.jpg)"
+msgstr ""
+"![Recently harvested root vegetables being sprayed clean by a man with a "
+"hose pipe](/assets/uploads/893cd6cb-cf87-4522-83d8-4080bd7c5f51.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:60
+#, no-wrap
+msgid "*© Pexels & Taryn Elliott*\n"
+msgstr "*© Pexels & Taryn Elliott*\n"
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:61
+#, no-wrap
+msgid "How does regenerative agriculture help?"
+msgstr "En quoi l'agriculture régénérative peut-elle aider ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:64
+msgid ""
+"Farmers who use regenerative farming methods cooperate with nature. They "
+"grow plants using methods that revive ecosystems. These methods are complex "
+"and various, because each is unique to the ecosystem, soil characteristics "
+"and climate of a farm."
+msgstr ""
+"Les agriculteurs qui utilisent des méthodes d'agriculture régénérative "
+"coopèrent avec la nature. Ils cultivent des plantes en utilisant des "
+"méthodes qui ravivent les écosystèmes. Ces méthodes sont complexes et "
+"variées, chacune étant propre à l'écosystème, aux caractéristiques du sol, "
+"et au climat sur une exploitation agricole."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:66
+msgid "Some common regenerative agriculture principles, however, include:"
+msgstr "Ceci dit, voici quelques principes de l'agriculture régénérative :"
+
+#. type: Bullet: '* '
+#: 2021-03-04-regenerative-agriculture-feed-world.md:68
+msgid "Create permacultures"
+msgstr "Créer des permacultures"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:71
+#, no-wrap
+msgid ""
+"  * A permaculture is an ecosystem that is self-sufficient and "
+"sustainable.\n"
+"* Carefully manage animal grazing\n"
+msgstr ""
+"  * Une permaculture est un écosystème autosuffisant et durable.\n"
+"* Gérer soigneusement le pâturage des animaux\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:74
+#, no-wrap
+msgid ""
+"  * Livestock should gradually move across the land to graze and fertilise "
+"the soil, rather than staying in one place to degrade soil and be fed from "
+"troughs.\n"
+"* Go organic\n"
+msgstr ""
+"  * Le bétail devrait se évoluer progressivement sur les terres pour brouter "
+"et fertiliser le sol, plutôt que de rester au même endroit, ce qui dégrade "
+"les sols, et dêtre nourris dans des mangeoires.\n"
+"* Se convertir à l'agriculture biologique\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:77
+#, no-wrap
+msgid ""
+"  * No use of synthetic, chemical fertilisers nor herbicides.\n"
+"* Grow ‘cover’ crops\n"
+msgstr ""
+"  * Pas d'utilisation d'engrais de synthèses, d'intrants chimiques ou "
+"d'herbicides.\n"
+"* Semer des cultures de couverture\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:80
+#, no-wrap
+msgid ""
+"  * Winter-friendly crops are grown between harvests to cover and protect "
+"the soil and increase its nutrient density.\n"
+"* Compost\n"
+msgstr ""
+"  * Des cultures d'hiver sont produites entre les récoltes pour couvrir et "
+"protéger le sol, et augmenter sa densité nutritive.\n"
+"* Composter\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:83
+#, no-wrap
+msgid ""
+"  * Anything grown that cannot be used is returned to the soil.\n"
+"* Reduce or eliminate tillage\n"
+msgstr ""
+"  * Tout ce qui est cultivé et qui ne peut être utilisé retourne à la terre."
+"\n"
+"* Réduire ou éliminer le travail du sol\n"
+
+#. type: Bullet: '  * '
+#: 2021-03-04-regenerative-agriculture-feed-world.md:86
+msgid "Tillage is the process of digging up soil in preparation for growing crops."
+msgstr ""
+"Le labour est un processus qui consiste à retourner le sol avant de semer."
+
+#. type: Bullet: '  * '
+#: 2021-03-04-regenerative-agriculture-feed-world.md:86
+msgid ""
+"Tillage disrupts soil, reduces its ability to retain water and nutrients, "
+"and increases erosion."
+msgstr ""
+"Le labour perturbe l'équilibre des sols, réduit leur capacité à retenir "
+"l'eau et les nutriments, et augmente les phénomènes d'érosion."
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:87
+#, no-wrap
+msgid "How does regenerative agriculture work in practice?"
+msgstr "L'agriculture régénérative, comment ça fonctionne concrètement ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:90
+msgid ""
+"Was all that information a bit overwhelming? I’m a lifelong city boy with no "
+"agricultural experience, so I know how you feel. I recently lived on a small "
+"farm called Witchwood, however, which is a great example of regenerative "
+"agriculture in action."
+msgstr ""
+"Ça fait beaucoup d'informations à la fois ? Je suis un citadin de longue "
+"date sans expérience agricole, donc je sais ce que vous ressentez, mais j'ai "
+"récemment vécu dans une petite ferme appelée Witchwood, un excellent modèle "
+"d'agriculture régénérative en pratique."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:92
+msgid ""
+"![Aerial view of Witchwood farm in Goongerah, East Gippsland, Australia, "
+"including trees, sheds and a solar panel ](/assets/uploads/farm.jpg)"
+msgstr ""
+"![Aerial view of Witchwood farm in Goongerah, East Gippsland, Australia, "
+"including trees, sheds and a solar panel ](/assets/uploads/farm.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:94
+#, no-wrap
+msgid "*© Jill Redwood*\n"
+msgstr "*© Jill Redwood*\n"
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:95
+#, no-wrap
+msgid "Witchwood, Goongerah"
+msgstr "Witchwood, Goongerah"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:98
+msgid ""
+"Witchwood farm (above) is a 22-acre farm in the small valley community of "
+"Goongerah, 340km east of Melbourne, Australia. Witchwood is owned by Jill "
+"Redwood, who also fights to protect the area’s high biodiversity with "
+"[Environment East Gippsland](http://www.eastgippsland.net.au/)."
+msgstr ""
+"La ferme de Witchwood est une ferme de 11 hectares, située dans la vallée de "
+"la petite commune de Goongerah, à 340 km à l'est de Melbourne, en Australie. "
+"Witchwood est la propriété de Jill Redwood, qui se bat également pour "
+"protéger la riche biodiversité de la région avec [Environment East "
+"Gippsland](http://www.eastgippsland.net.au/)."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:100
+msgid ""
+"When Jill bought the land in 1983 it was a bare, lifeless field. She "
+"gradually added trees, gardens, and fences, creating an organic farm with "
+"chickens, geese, goats, and horses. Jill lives as sustainably as possible, "
+"which has influenced Witchwood’s design."
+msgstr ""
+"Lorsque Jill a acheté le terrain en 1983, c'était un champ nu et sans vie. "
+"Elle y a progressivement ajouté des arbres, des jardins et des clôtures, "
+"créant ainsi une ferme biologique avec des poulets, des oies, des chèvres et "
+"des chevaux. Jill vit le plus durablement possible, et c'est ce qui a "
+"influencé la conception de Witchwood."
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:101
+#, no-wrap
+msgid "Witchwood’s basic rules"
+msgstr "Les règles de base à Witchwood"
+
+#. type: Bullet: '* '
+#: 2021-03-04-regenerative-agriculture-feed-world.md:104
+msgid "Don’t use chemicals"
+msgstr "On n'utilise pas de produits chimiques"
+
+#. type: Bullet: '  * '
+#: 2021-03-04-regenerative-agriculture-feed-world.md:108
+msgid "Allow complex soil ecosystems to interact as nature intended."
+msgstr ""
+"On laisse aux écosystèmes complexes du sol la possibilité d'interagir comme "
+"prévu par la nature."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:108
+#, no-wrap
+msgid ""
+"  * Chemicals kill natural bacteria that benefit soil, roots, and carbon "
+"capture.\n"
+"* Don’t overgraze\n"
+msgstr ""
+"  * Les produits chimiques tuent les bactéries naturelles qui enrichissent "
+"le sol, les racines, et facilitent le stockage du CO2. \n"
+"* Pas de surpâturage\n"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:111
+#, no-wrap
+msgid ""
+"  * Allow grass to grow, die down, and create soil.\n"
+"* Don’t export manure\n"
+msgstr ""
+"  * On laisse l'herbe pousser, et se faner sur place, pour régénérer le sol."
+"\n"
+"* On n'exporte pas de fumier\n"
+
+#. type: Bullet: '  * '
+#: 2021-03-04-regenerative-agriculture-feed-world.md:113
+msgid "Keep it on the farm for soil nourishment."
+msgstr "On le garde à la ferme pour amender les sols."
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:114
+#, no-wrap
+msgid "How did Jill do it?"
+msgstr "Comment Jill a-t-elle fait ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:117
+msgid ""
+"I arrived on Jill’s beautiful farm after Melbourne’s long 2020 COVID-19 "
+"lockdown. Jill has worked hard to create an environment of thriving "
+"ecosystems and organic ingredients, but her journey was quite simple."
+msgstr ""
+"Je suis arrivé sur le magnifique site de la ferme de Jill après le long "
+"confinement à Melbourne dû au COVID-19 en 2020. Jill a travaillé dur pour "
+"créer un environnement d'écosystèmes florissants, et de produits "
+"biologiques, mais son parcours a été assez simple."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:119
+msgid ""
+"‘When I got here, the degraded soil was hard and I didn’t find many worms’ "
+"explains Jill. ‘That was the first thing to fix, so I planted loads of "
+"native and European trees — they’re both useful. It felt obvious to use "
+"natural methods, which seemed to work well. Nature can do the job of "
+"chemicals, sprays and artificial fertilisers, if you give her a chance.’"
+msgstr ""
+"Quand je suis arrivée ici, le sol était pauvre, dur et il y avait très peu "
+"de lombrics\", explique Jill. \"C'était la première chose à régler, alors "
+"j'ai planté beaucoup d'arbres, des espèces endémiques et européennes, toutes "
+"deux utiles. Il m'a semblé évident d'avoir recours à des méthodes "
+"naturelles, qui avaient l'air de bien fonctionner. La nature peut faire le "
+"travail des produits chimiques, des sprays et des engrais artificiels, si "
+"vous lui en laissez l'opportunité.\""
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:120
+#, no-wrap
+msgid "OK, but is regenerative agriculture practical on a bigger scale?"
+msgstr ""
+"Ok, mais est-ce que l'agriculture régénérative est envisageable à plus "
+"grande échelle ?"
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:122
+#, no-wrap
+msgid "Brown’s Ranch, North Dakota"
+msgstr "Le Ranch des Brown, Dakota du Nord"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:125
+msgid ""
+"[Brown’s Ranch](https://brownsranch.us/) is a 5,000-acre farm in the "
+"USA. During the mid-1990s, owners Gabe and Shelly Brown suffered four years "
+"of weather-related crop failure and began experimenting with no-till "
+"farming, to retain soil moisture and reduce fuel costs. Next, the farm "
+"stopped using man-made fertilisers, fungicides, and pesticides and started "
+"growing a wider variety of crops. The movement of cattle between pastures "
+"was also changed, so that each pasture is left empty after grazing to "
+"regenerate for at least 360 days."
+msgstr ""
+"[Brown's Ranch](https://brownsranch.us/) est une ferme de 2500 hectares aux "
+"États-Unis. Dans les années 1990, les propriétaires, Gabe et Shelly Brown, "
+"ont essuyé quatre ans de mauvaises récoltes dues aux conditions climatiques, "
+"et ont commencé à expérimenter la culture sans labour, afin de conserver "
+"l'humidité du sol, et de réduire les coûts de carburant. Puis, ils ont cessé "
+"d'utiliser engrais, fongicides et pesticides artificiels, et commencé à "
+"cultiver une plus grande variété de plantes. Ils ont aussi modifié leur "
+"système de pâturage, faisant en sorte qu'une fois qu'une pâture avait été "
+"broutée, elle était laissée au repos pour se régénérer pendant au moins 360 "
+"jours."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:127
+msgid ""
+"As a result, Brown’s Ranch is now a successful business that sells ‘cash "
+"crops’, such as corn and wheat, as well as grass-fed beef, pork, lamb and "
+"chicken, honey, vegetables and fruit. Gabe Brown is building North America’s "
+"regenerative agriculture movement with [Understanding "
+"Ag](https://understandingag.com/who-we-are) and he claims that the farm’s "
+"regeneration has produced [‘several "
+"inches’](https://www.amazon.com.au/Dirt-Soil-Gabe-Brown/dp/1603587632) of "
+"topsoil in 20 years."
+msgstr ""
+"Brown's Ranch est depuis une ferme en plein essor qui vend des cultures de "
+"rente (ou cultures commerciales), comme le maïs et le blé, ainsi que du "
+"bœuf, du porc, de l'agneau et du poulet nourris à l'herbe, du miel, des "
+"légumes et des fruits. Gabe Brown développe le mouvement de l'agriculture "
+"régénérative en Amérique du Nord grâce à [Understanding "
+"Ag](https://understandingag.com/who-we-are), et il affirme que la "
+"régénération de sa ferme a produit [\"plusieurs pouces\""
+"](https://www.amazon.com.au/Dirt-Soil-Gabe-Brown/dp/1603587632) de terre "
+"arable en 20 ans."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:129
+msgid ""
+"![A line of young green leaves emerge from dark "
+"soil](/assets/uploads/shoots.jpg)"
+msgstr ""
+"![A line of young green leaves emerge from dark soil](/assets/uploads/"
+"shoots.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:131
+#, no-wrap
+msgid "*© Pexels & Kaboompics.com*\n"
+msgstr "*© Pexels & Kaboompics.com*\n"
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:132
+#, no-wrap
+msgid "Can regenerative agriculture feed the world?"
+msgstr "L'agriculture régénérative peut-elle nourrir la planète ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:135
+msgid ""
+"I have experienced the many benefits of regenerative agriculture for myself, "
+"but I fear it might be less efficient than intensive agriculture: it’s no "
+"coincidence that population numbers exploded alongside the rise of intensive "
+"agriculture. Can we really feed this many humans — and more — without "
+"fertilisers, herbicides or monocultures?"
+msgstr ""
+"J'ai personnellement fait l'expérience des nombreux bénéfices de "
+"l'agriculture régénérative, mais je crains qu'elle ne soit moins efficace "
+"que l'agriculture intensive : ce n'est pas un hasard si le nombre "
+"d'habitants a explosé parallèlement à l'essor de l'agriculture intensive. "
+"Pouvons-nous vraiment nourrir autant d'êtres humains, qui plus est, sans "
+"avoir recours à des intrants chimiques, des herbicides ou de la monoculture ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:137
+msgid ""
+"One of the largest-ever scientific analyses of regenerative agriculture "
+"attempted to answer this question in November 2020. The *American journal "
+"Science Advances* analysed 41,946 comparisons between ‘diversified’ "
+"(regenerative) and ‘simplified’ (intensive) agriculture practices. Its "
+"results are in the title: *[Agricultural diversification promotes multiple "
+"ecosystem services without compromising "
+"yield](https://advances.sciencemag.org/content/6/45/eaba1715.full)*."
+msgstr ""
+"L'une des plus importantes études scientifiques jamais menées sur "
+"l'agriculture régénérative a tenté de répondre à cette question en novembre "
+"2020. La revue américaine _Science Advances_* a analysé 41 946 comparaisons "
+"entre les pratiques agricoles \"diversifiées\" (régénératives) et \""
+"simplifiées\" (intensives). Les résultats figurent ici : *[La "
+"diversification agricole favorise de multiples services écosystémiques sans "
+"compromettre les rendements](https://advances.sciencemag.org/content/6/45/"
+"eaba1715.full)*."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:139
+msgid ""
+"The brains at *Science Advances* concluded that, overall, farmers do not "
+"experience a reduction in crop yields when they adopt regenerative "
+"agriculture practices. The study also underlines that every farm requires "
+"its own balanced combination of these practises in order to achieve the best "
+"results, which is one of the biggest challenges facing farmers who wish to "
+"switch."
+msgstr ""
+"Les chercheurs de *Science Advances* ont conclu que, dans l'ensemble, les "
+"agriculteurs n'essuient pas de baisse des rendements lorsqu'ils passent à "
+"des pratiques d'agriculture régénérative. L'étude souligne également que "
+"chaque exploitation agricole a besoin de sa propre combinaison équilibrée de "
+"ces pratiques afin d'obtenir les meilleurs résultats, ce qui constitue l'un "
+"des plus grands enjeux auxquels doivent faire face les agriculteurs qui "
+"souhaitent se reconvertir."
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:140
+#, no-wrap
+msgid "What about the economics?"
+msgstr "Qu'en est-il de l'aspect économique ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:143
+msgid ""
+"Crop yields should not be the sole criterion by which we judge the viability "
+"of regenerative agriculture, especially not its economic viability. More "
+"crops do not automatically result in more money for farmers. In the case of "
+"Brown’s Ranch, Gabe Brown claims that after years of financial strife the "
+"ranch now generates 100 USD profit per acre, per year. ‘If you build a "
+"healthy farm ecosystem, you’re going to be resilient’, says Gabe."
+msgstr ""
+"Le rendement des cultures ne devrait pas être le seul critère à l'aune "
+"duquel nous devrions juger de la viabilité de l'agriculture régénérative, et "
+"encore moins de sa viabilité économique. S'adonner à diverses cultures ne "
+"signifie pas nécessairement une augmentation des revenus des agriculteurs. "
+"Dans le cas de Brown's Ranch, Gabe Brown affirme qu'après des années de "
+"difficultés financières, le ranch génère désormais 100 USD de bénéfice par "
+"acre et par an. \"Quand on dévelope un écosystème agricole sain, on devient "
+"plus résilient\", d'après lui."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:145
+msgid ""
+"In 2017, [Project Drawdown](https://drawdown.org/) released *Drawdown: The "
+"Most Comprehensive Plan Ever Proposed to Reverse Global Warming*. The book "
+"assesses and ranks every global heating solution available. If implemented "
+"together, these solutions would cause global greenhouse gas emissions to "
+"peak, then decline — ‘drawdown’. Editor [Paul "
+"Hawken](https://en.wikipedia.org/wiki/Paul_Hawken) and a team of nearly 70 "
+"researchers compiled the book, then an advisory board of 120 people "
+"including climatologists, biologists, economists, and financial analysts "
+"validated the facts. *Drawdown* concludes that ‘regenerative agriculture "
+"could provide a 1.9 trillion USD financial return by 2050 \\[globally], on "
+"an investment of 57 billion USD.’"
+msgstr ""
+"En 2017, [Project Drawdown](https://drawdown.org/) a publié *Drawdown : Le "
+"plan le plus complet jamais proposé pour enrayer le réchauffement climatique*"
+". Cette publication évalue et classe toutes les solutions disponiblespour "
+"lutter contre le réchauffement. Si elles étaient mises en œuvre "
+"parallèlement, cela entraînerait un pic des émissions de gaz à effet de "
+"serre, puis leur diminution, le \"drawdown\", leur réduction. L'éditeur ["
+"Paul Hawken](https://en.wikipedia.org/wiki/Paul_Hawken), ainsi qu'une équipe "
+"de près de 70 chercheurs se sont penchés sur cette publication, et un groupe "
+"de 120 personnes incluant des climatologues, des biologistes, des "
+"économistes ,et des analystes financiers ont validé ses dires, concluant que "
+"* \"l'agriculture régénérative pourrait générer 1,9 trillion de dollars US "
+"d'ici 2050 \\[au niveau mondial], sur un investissement de 57 milliards de "
+"dollars US.\""
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:147
+msgid "![Cheerios breakfast cereal](/assets/uploads/cheerios.jpg)"
+msgstr "![Cheerios breakfast cereal](/assets/uploads/cheerios.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:149
+#, no-wrap
+msgid "*© Pexels Pixabay*\n"
+msgstr "*© Pexels Pixabay*\n"
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:150
+#, no-wrap
+msgid "General Mills"
+msgstr "General Mills"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:153
+msgid ""
+"1.9 trillion USD is a very large pie, so it’s unsurprising that massive food "
+"companies want a slice. General Mills plans to bring [regenerative "
+"agriculture to one million acres of land by "
+"2030](https://www.generalmills.com/en/Responsibility/Sustainability/Regenerative-agriculture). "
+"If General Mills sounds familiar, it’s probably because this huge company is "
+"behind brands including Cheerios, Häagen-Dazs, Wanchai Ferry, Yoplait, and "
+"Betty Crocker."
+msgstr ""
+"1,9 trillionde dollars représente un gros gâteau. Pas étonnant que les "
+"multinationales alimentaires en veuillent une part. _General Mills_ prévoit "
+"d'étendre les pratiques de [l'agriculture régénératrice à un demi million "
+"d'hectares d'ici 2030](https://www.generalmills.com/en/Responsibility/"
+"Sustainability/Regenerative-agriculture). Si le nom de _General Mills_ vous "
+"dit quelque chose, c'est sûrement parce que cet énorme groupe détient des "
+"marques telles que Cheerios, Häagen-Dazs, Wanchai Ferry, Yoplait et Betty "
+"Crocker."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:155
+msgid ""
+"The North American company is promoting many of the ideas I have covered, "
+"with its ‘six core principles’. These principles are very similar to those "
+"used at Witchwood and Brown’s Ranch, such as minimal soil disturbance, the "
+"need to keep soil covered, and the integration of livestock."
+msgstr ""
+"La compagnie nord-américaine encourage un grand nombre des pratiques que "
+"j'ai relaté, dont \"six principes fondamentaux\". Ces principes sont très "
+"similaires à ceux utilisés à Witchwood et Brown's Ranch, tels qu'une "
+"intervention minimale sur les sols, la nécessité de maintenir la terre à "
+"couvert, et la gestion des pâtures."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:157
+msgid ""
+"General Mills is also investing in research, such as a long-term study of "
+"cover-crop benefits at the University of Manitoba."
+msgstr ""
+"_General Mills_ investit aussi dans la recherche, finançant par exemple une "
+"étude à long terme sur les avantages des cultures de couverture à "
+"l'Université du Manitoba."
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:158
+#, no-wrap
+msgid "Regeneration race"
+msgstr "La course à la régénération"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:161
+msgid ""
+"General Mills’ plans suggest that sustainable farming practices are "
+"spreading, but is this a global trend? *Project Drawdown* attempted to "
+"answer this mighty difficult question in 2017, estimating that the amount of "
+"land on which regenerative agriculture is practised would increase from 108 "
+"million acres to one billion by 2050 (for context, in 2016 it was estimated "
+"that [12 billion acres, or 4.87 billion hectares, were dedicated to "
+"agricultural purposes "
+"worldwide](https://ourworldindata.org/land-use#total-agricultural-land-use))."
+msgstr ""
+"Les projets de General Mills sous-entendent que ces pratiques agricoles "
+"durables se répandent, mais s'agit-il bien d'une tendance globale ? *Project "
+"Drawdown* a tenté de répondre à cette question ô combien ardue en 2017, et "
+"estimé que la superficie des terres cultivées en agriculture régénérative "
+"passerait d'environ 50 millions à 500 millions d'hectares d'ici 2050 (à "
+"titre de repère, en 2016, on estimait que [les terres agricoles s'étendaient "
+"sur près de 5 milliards d'hectares dans le monde](https://ourworldindata.org/"
+"land-use#total-agricultural-land-use))."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:163
+#, no-wrap
+msgid ""
+"*Project Drawdown*’s (conservative) estimate was based on the speed with "
+"which organic farming has been embraced globally, combined with the "
+"expectation that farmers currently incorporating one or two regenerative "
+"agriculture practises will eventually abandon all degenerative practises (as "
+"Gabe Brown did at Brown’s Ranch). Furthermore, *Project Drawdown* predicts "
+"that 424 million acres of abandoned, degraded farmland could be restored "
+"using regenerative agriculture by 2050.\n"
+msgstr ""
+"L'estimation timide de *Project Drawdown* s'est basée sur la rapidité avec "
+"laquelle l'agriculture biologique a été adoptée au niveau mondial, combinée "
+"à l'espoir que les agriculteurs qui intègrent actuellement une ou deux "
+"pratiques d'agriculture régénérative finiront par abandonner toutes les "
+"pratiques dégénératives (ce qu'a fait Gabe Brown dans son ranch). De plus, *"
+"Project Drawdown* estime que 200 millions d'hectares de terres agricoles "
+"dégradées et abandonnées pourraient être ravivées grâce à l'agriculture "
+"régénérative d'ici 2050.\n"
+
+#. type: Title ###
+#: 2021-03-04-regenerative-agriculture-feed-world.md:164
+#, no-wrap
+msgid "What else needs to change?"
+msgstr "Que faudrait-il encore changer ?"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:167
+msgid ""
+"Trying to judge regenerative agriculture’s global potential is a colossal "
+"task, but its economics, crop yield and scalability all show "
+"promise. Agriculture, however, is just one part of our global food system, "
+"in which many improvements must be made."
+msgstr ""
+"Tenter d'évaluer le potentiel mondial de l'agriculture régénératrice n'est "
+"pas facile, mais les aspects économiques, de rendement des cultures, et "
+"d'adaptabilité sont tous très prometteurs. L'agriculture n'est cependant "
+"qu'un élément de notre système alimentaire mondial, dans lequel il nous faut "
+"changer encore beaucoup de choses."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:169
+msgid ""
+"The [World Resources Institute](https://www.wri.org/) highlighted this in "
+"its 2018 report, *[Creating a Sustainable Food "
+"Future](https://www.wri.org/publication/creating-sustainable-food-future)*. "
+"As well as stating the importance of many regenerative agriculture "
+"principles, the report concluded that reductions in food waste, a shift to "
+"sustainable diets, the restoration of peatlands, and improved wild fishery "
+"management were all vital to securing a sustainable food future."
+msgstr ""
+"Le [World Resources Institute](https://www.wri.org/) l'a souligné dans son "
+"rapport de 2018, *[Creating a Sustainable Food Future](https://www.wri.org/"
+"publication/creating-sustainable-food-future)(Pour un avenir alimentaire "
+"durable)*. En plus d'insister sur l'importance de nombreux principes de "
+"l'agriculture régénératrice, le rapport conclut que la réduction du "
+"gaspillage alimentaire, le passage à des régimes alimentaires durables, la "
+"préservation des tourbières, et l'amélioration de la gestion de la pêche "
+"sauvage sont autant d'éléments essentiels pour garantir un avenir "
+"alimentaire durable."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:171
+msgid ""
+"![A male rice farmer carries harvested rice as he walks alongside a sunny "
+"rice paddy](/assets/uploads/876534c6-020f-442c-bb93-833a8f5e5965.jpg)"
+msgstr ""
+"![A male rice farmer carries harvested rice as he walks alongside a sunny "
+"rice paddy](/assets/uploads/876534c6-020f-442c-bb93-833a8f5e5965.jpg)"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:173
+msgid "© Pexels Pixabay"
+msgstr "© Pexels Pixabay"
+
+#. type: Title ##
+#: 2021-03-04-regenerative-agriculture-feed-world.md:174
+#, no-wrap
+msgid "Soil salvation"
+msgstr "Sauver les sols"
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:177
+msgid ""
+"The global food system is complex enough to make your brain explode, but two "
+"hard facts are at its core: without healthy soil, food struggles to grow; "
+"without food, humans cannot exist. Our overwhelmingly widespread intensive "
+"farming methods are threatening soil health across the world."
+msgstr ""
+"Le système alimentaire mondial est extrêmement complexe à cerner, mais il "
+"faut retenir deux choses : on produit difficilement de la nourriture sur des "
+"terres dégradées, et les humains ne peuvent pas vivre sans s'alimenter. Nos "
+"méthodes d'agriculture intensive, largement répandues, menacent la santé des "
+"sols dans le monde entier."
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:179
+msgid ""
+"[The Soil Science Society of "
+"America](https://www.soils.org/about-soils/basics/) says one inch of topsoil "
+"can take several hundred years or more to develop. Regenerative agriculture "
+"defies such limitations: Gabe Brown produced several inches in 20 years; "
+"Jill Redwood told me she has found forgotten gardening tools at Witchwood "
+"‘covered by five or six inches of soil.’"
+msgstr ""
+"D'après la [_Soil Science Society of America](https://www.soils.org/"
+"about-soils/basics/), un pouce de terre arable peut mettre plusieurs "
+"centaines d'années à se développer. L'agriculture régénérative relève le "
+"défi de tels délais : Gabe Brown a réussi à en développer plusieurs "
+"centimètres en 20 ans, Jill Redwood m'a dit qu'elle avait trouvé des outils "
+"de jardinage oubliés à Witchwood \"recouverts de cinq ou six pouces de terre."
+"\""
+
+#. type: Plain text
+#: 2021-03-04-regenerative-agriculture-feed-world.md:180
+msgid ""
+"We are not destined to fail. Regenerative agriculture is further proof that "
+"if humanity works with nature, instead of against it, we can build a "
+"healthier and brighter world."
+msgstr ""
+"Nous ne sommes pas condamnés à l'échec. L'agriculture régénérative est une "
+"preuve supplémentaire que si l'humanité coopère avec la nature, au lieu de "
+"la juguler, nous pouvons bâtir un monde plus sain et plus heureux."

@@ -1,0 +1,739 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-03-22 11:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:13
+#, no-wrap
+msgid ""
+"layout: page-small-width\n"
+"lang: en\n"
+"title: \"Rebel Daily 3: They gave their lives\"\n"
+"slug: rebel-daily-3\n"
+"date: 2019-10-10 01:00:00 +0200\n"
+"categories:\n"
+"  - blog\n"
+"published: true\n"
+"image: /assets/img/blog/2019/10/10/Talia-Woodin-@taltakingpics2-min.jpg\n"
+"header-class: \"bg-black text-light-gray\"\n"
+"banner: /assets/img/blog/2019/10/10/Talia-Woodin-@taltakingpics2-min.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:16
+msgid "October 10, 2019 by Extinction Rebellion"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:18
+#, no-wrap
+msgid "<p><strong>Empathy begins at home.</strong>&nbsp;Many of those reading this will, in the past days and months, have fought, grafted and struggled to build&nbsp;<strong>spaces where human beings can come together, support one another in a shared sense of loving grief</strong>. Grief for the damage we see all around us;&nbsp;<strong>grief for the future we fear for our children or ourselves</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:20
+#, no-wrap
+msgid "<p>For many, it’s only by means of this hard-won togetherness that our eyes can be opened to another harsh truth: that&nbsp;<strong>the emergency is not a future prospect, but is in fact&nbsp;<a href=\"http://www.resumenlatinoamericano.org/2019/10/09/argentina-mujeres-originarias-ocupan-ministerio-del-interior-no-nos-vamos-a-ir-hasta-que-nos-reciba-el-ministro-nos-estan-violando-nos-estan-matando-fotosvideos-comunicado-la-rebelio/?fbclid=IwAR3Kf5kufawQIm6ZLAyGBN_Ud5OZYEd4oSG94E_kZmHNEux6X2XBPgRLYYE\">a fact of life</a>&nbsp;for countless people and communities around the world, and has been for decades.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:22
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh5.googleusercontent.com/Z8LyQGwvQ0dGUJlI18poNvnWPH8t_6kpbxnaE4i9MyNLWLylUu_XkSQDFzN_fvP9O_xBqTbNqM_bX1JV9T-um62AgErc9G9BpSnNuXSqUfoxJbGcbv2zVXrNx8BG46_f-HZ4PqG5\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:24
+#, no-wrap
+msgid "<p>With their own conditions stable for now,&nbsp;<strong>XR communities in Paris and London joined in a wave of solidarity for fallen Earth Defenders: those for whom standing up for life and for the natural world has meant death.&nbsp;</strong>The idea of this supportive wave came from<strong>&nbsp;XR&nbsp;</strong><strong>Argentina</strong>, but was taken up as far away as&nbsp;<strong>Dublin</strong>,&nbsp;<strong>Cape Town</strong>&nbsp;and&nbsp;<strong>Islamabad</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:26
+#, no-wrap
+msgid "<p>Empathy begins at home –&nbsp;<strong>but it doesn’t end there</strong>. It takes us&nbsp;<strong>beyond borders, beyond divisions, to a greater understanding of the immensity of what’s at stake</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:28
+#, no-wrap
+msgid "<p>We must follow it:&nbsp;<strong>it’s only with a global, collective moment of awakening that we can hope to face this crisis.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:30
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://i0.wp.com/can2-prod.s3.amazonaws.com/uploads/data/000/330/889/original/westpapua-min.jpeg?ssl=1\" alt=\"\" data-recalc-dims=\"1\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:32
+#, no-wrap
+msgid "<p><em>If you’d like to help, please check out our&nbsp;</em><em><a href=\"https://rebellion.global/groups/\">guide</a>&nbsp;and learn more&nbsp;<a href=\"https://rebellion.global/about-us/\">about XR</a>.</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:34
+#, no-wrap
+msgid "<p><em>To connect to rebels in your local area, get in touch with your&nbsp;<a href=\"https://www.google.com/maps/d/u/0/viewer?mid=11jUqqjTHMThksd4KbvGGzb3I3Cr3PkBl&amp;ll=17.821118924190483%2C44.751279836926756&amp;z=2&amp;fbclid=IwAR0BmJ-XiMmTSWCtraZGtGVvQKdEwQftQgQha9w0yzQdXJSgs6pq6o8OwdA\">nearest XR group</a>. If there’s no active group near you,&nbsp;<a href=\"https://rebellion.earth/wp-content/uploads/2019/04/How-to-start-a-local-Extinction-Rebellion-group.pdf\">you can start your own</a>!</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:36
+#, no-wrap
+msgid "<p><em>If you’d like to see previous newsletter issues, you can find them&nbsp;<a href=\"https://rebellion.global/newsletters/\">here</a>.</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:38 2019-10-10-rebel-daily-3.md:398
+#, no-wrap
+msgid "<p><em><strong>As we enter this crucial phase in human history, our Rebellion will need money to make sure our message is heard. Anything you can&nbsp;<a href=\"https://chuffed.org/project/xrinternational\">give</a>&nbsp;is appreciated.</strong></em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:40
+#, no-wrap
+msgid "<a href=\"https://chuffed.org/project/xrinternational\" style=\"background-color:#ED9BC4;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:23px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\" rel=\"noopener noreferrer\">Support the Rebellion</a>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:42
+#, no-wrap
+msgid "<h2><a>Contents</a></h2>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:44
+#, no-wrap
+msgid "<ul><li><a href=\"https://actionnetwork.org/emails/rebel-daily-3-they-gave-their-lives/write#Action-Highlights\">Action Highlights</a></li><li><a href=\"https://actionnetwork.org/emails/rebel-daily-3-they-gave-their-lives/write#XR-Unchained\">XR Unchained</a></li><li><a href=\"https://actionnetwork.org/emails/rebel-daily-3-they-gave-their-lives/write#Announcements\">Announcements</a></li></ul>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:46
+#, no-wrap
+msgid "<h3><a>Action Highlights</a> &nbsp;</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:48
+#, no-wrap
+msgid "<h3>Day of the Defenders</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:50
+#, no-wrap
+msgid "<p><strong>9 OCT | Buenos Aires, Santiago, Islamabad, Dublin, Cape Town, London</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:52
+#, no-wrap
+msgid "<p><strong>Last year, 164 activists were killed in the Global South for trying to defend their lands from corporate extractivism.</strong>&nbsp;Yesterday, rebels all over the world held vigils to honour them,&nbsp;<strong>coming together in a global solidarity action</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:54
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh3.googleusercontent.com/QjyEmn2dM2urlwNxAZd7eM2noakGuLJePt5XHyT_IIsBPUdQ_FUqg4wv761W28-TY5zXl5LdbtHUCXP4QgVfsSfuPA_0V2JtLJfAnpHOo5KHMbDkOkMXC8ebZoHIUFTp0xirPgls\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:56
+#, no-wrap
+msgid "<p>In&nbsp;<strong>Buenos Aires</strong>, a large group walked to the UN building, each member dressed in black, holding a candle, and&nbsp;<strong>carrying a sign bearing the name of one of the 164 murdered activists</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:58
+#, no-wrap
+msgid "<p>They read out a statement and&nbsp;<strong>knelt on the pavement to write the names of the fallen activists on the ground in chalk</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:60
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/xpJfHQuQE8fI2sB_qa2xhIoflTS_yTGJIvG0i6VGFAEaEy69xKDTDOIfUIH3WqvaHyfULwiwJMCcr4EoQseTLkxExMlNrMwUR5y6GFS5-sChNN_2NIIoLBjUcO-d-JvXXjSD2i7N\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:62
+#, no-wrap
+msgid "<p>In&nbsp;<strong>Santiago</strong>, rebels took part in<strong>&nbsp;a solemn procession</strong>&nbsp;which brought them to the main historical square Plaza de Armas. They held a&nbsp;<strong>vigil to commemorate the 164</strong>, first by&nbsp;<strong>speaking out every name in turn</strong>&nbsp;and then by&nbsp;<strong>observing a minute’s silence</strong>&nbsp;in which to contemplate the incredible sacrifice that had been made.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:64
+#, no-wrap
+msgid "<p>In&nbsp;<strong>Islamabad</strong>, rebels silently constructed a gallows outside the National Press Club and staged the hanging of two rebels who stood precariously on blocks of ice. Behind them stood a large&nbsp;<strong>sign listing the names of the 164</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:67
+#, no-wrap
+msgid ""
+"<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/jkLCnGARZZzFDH7qCch93wFIRQqaF1RLMn1easJU8vVtNn5YJ4810OwzEZGe-fWVcftbdQLO-QSVtyhtcI82jZsJW7d_sDZILHxegKNGlkPHVFbA2GuQoPui1WKKe4Mr6FaGNOT3\" alt=\"\"></figure>\n"
+"<p>In&nbsp;<strong>Dublin</strong>, rebels knelt outside the main gates of the Coal Marketing Company with their&nbsp;<strong>hands covered in fake blood</strong>. CMC has coordinated the sale and delivery of&nbsp;<strong>over 450 million tonnes of coal from Cerrejón</strong>, a vast open-pit coal mine in Colombia.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:69
+#, no-wrap
+msgid "<p>In&nbsp;<strong>Cape Town</strong>,&nbsp;<a href=\"https://www.youtube.com/watch?v=TJACyo0UFIQ&amp;feature=youtu.be\">a solemn street vigil was held</a>&nbsp;where rebels listened to speeches and stood to remember those who gave their lives.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:72
+#, no-wrap
+msgid ""
+"<p>In&nbsp;<strong>London</strong>, 164 rebels held a procession ending in a die-in at Trafalgar Square, the name-bearing signs resting on their bodies.</p>\n"
+"<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/Px1wu-PzQUndnTLwMYQmneEZ0hAlOIBukitF7hXW8pU1odL5B7czF8xjB9y2dLjRDTNnsxtcZc7EedHO5RFvyObZmDuq_pbAv8zkXNZipttmgzB3SPaoR1wMg_4XZj8SzWMTwpuf\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:74
+#, no-wrap
+msgid "<p>The figure of&nbsp;<strong>164 deaths</strong>&nbsp;is only an estimate.&nbsp;<strong>The real figure is likely to be much higher.&nbsp;</strong>Two indigenous activists are murdered every week for defending their lands from Western extractivist corporations, and<strong>&nbsp;their names are rarely known</strong>&nbsp;<strong>widely</strong>&nbsp;around the world.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:76
+#, no-wrap
+msgid "<p><strong>Today at least, the fallen defenders were remembered all around the planet they fought to save.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:78
+#, no-wrap
+msgid "<h3>Four Bridges and a Die-in</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:80
+#, no-wrap
+msgid "<p><strong>9 OCT | Berlin, Germany</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:82
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/a0zIy_abr_AhQdRpY76_8-016BQsVjFldJx_rut60E1FNlw7Iu0fofMVFnP-PQazqVRHDBM6rNDxw00pm_IzJr4eOc14Ru70xXzAhPJcCYmUASrBIysIDGEw9bUHXMrZ6b5A5Nu0\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:84
+#, no-wrap
+msgid "<p><strong>Day three of Berlin’s Rebellion saw an old blockade fall but many new ones spring up to take its place.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:86
+#, no-wrap
+msgid "<p>The&nbsp;<strong>Big Star</strong>&nbsp;roundabout blockade, XR Berlin’s longest standing act of disruption, was finally cleared out yesterday.&nbsp;<strong>Rebels made sure to leave the area spotless</strong>, with only defiant chalk graffiti remaining as the&nbsp;<strong>traffic returned after a 58-hour break</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:88
+#, no-wrap
+msgid "<p>But by the early hours of the morning,&nbsp;<strong>300 rebels had already blocked the Marschallbrücke bridge beside the Reichstag, locking onto a giant wooden life raft.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:90
+#, no-wrap
+msgid "<p>And to the East,&nbsp;<strong>a serious blockade had begun on the four-lane Mühlendammbrücke bridge</strong>.&nbsp;<strong>1,500 rebels&nbsp;</strong>turned up just in time for the rush-hour traffic. It took until the afternoon for the police to clear what was a particularly high-energy yet peaceful demonstration.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:92
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh3.googleusercontent.com/VSe0cOPKJYM7khtgpApRwiE1zCiUvYT9dcYrP35O_6t8pdQ8EsdFs86nsW8L_rRRmso32O5Wj6WkYiYeM7_yTvICaXkZqc2524ZMtrmPJwCahbMy6JSEGzfQ3tSorycqbBFBCyHB\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:94
+#, no-wrap
+msgid "<p>Not content with blockading two major bridges, rebels<strong>&nbsp;set upon taking two more</strong>, and traffic in the city centre was brought to a near standstill. There was also&nbsp;<strong>a die-in outside the Chancellery</strong>, Angela Merkel’s office, for good measure.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:98
+#, no-wrap
+msgid "<p>To top off a big day,&nbsp;<strong>XR Youth blockaded a major junction in the busy shopping zone of Kurfurstendamm</strong>, demanding an end to business-as-usual and rampant consumerism. For the many shoppers passing through, the message will have been hard to miss.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:102
+#, no-wrap
+msgid "<h3>London</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:106
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh6.googleusercontent.com/htkXj1-BV5D4VE2C7pygDlS_-YKU_f2M2Ic4Cqb6qbB0qpiELAe-biZ9_oifV68sFO7-HWyeycZL-1nfuJ9XCCYfI-Zuty000YHgbjvLRudLiu1i1Hp1aDympWMxNOwYmmTSNgWj\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:110
+#, no-wrap
+msgid "<p><strong>In a grim metaphor for the ongoing extermination and extinction of so much of our planet’s natural life</strong>, the police are picking rebels off the street with steady assurance –&nbsp;<strong>92 year-olds and&nbsp;</strong><strong><a href=\"https://metro.co.uk/2019/10/09/police-kettle-giant-pink-octopus-march-trafalgar-square-10889223/\">Pink Octopi</a></strong>&nbsp;alike have been removed.&nbsp;<br></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:114
+#, no-wrap
+msgid "<p>Authorities act in accordance with&nbsp;<strong>laws designed not to protect the wellbeing of citizens, but to uphold power and protect an insatiable growth-based status quo</strong>.&nbsp;<br></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:118
+#, no-wrap
+msgid "<p><strong>Arrests</strong>&nbsp;in this rebellion (over 600 and counting) were very much expected.&nbsp;<strong>More of a shock is the police tactic of&nbsp;<a href=\"https://www.facebook.com/watch/?v=2464175430481370\">forcefully confiscating</a>&nbsp;shelter, food and water, and&nbsp;<a href=\"https://www.facebook.com/story.php?story_fbid=536601430502010&amp;id=401847960644025\">anything that might allow disabled people to conveniently participate</a>.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:122
+#, no-wrap
+msgid "<p>In its eagerness to drown out our message of bad news, the government seems happy to&nbsp;<a href=\"https://www.facebook.com/watch/?v=2464175430481370\">give up its duty of care</a>, and in doing so threaten the paramount right to protest.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:126
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh6.googleusercontent.com/M1BKM4ye37fkOban4RlEJBpCgvBuJarMMtl0A4U4mveZeVQnXKEOuDlJlF-gvKZyXHGUn5JF5FC4l_9cv8Q_llJD6QZhCh4mbWwHjYv3sjvuwnKTn_pUdhZDHMETl4tmqawJhaTA\" alt=\"\"><figcaption> <em>A wheelchair…really?</em> </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:130
+#, no-wrap
+msgid "<p>Despite this treatment, rebels have&nbsp;<strong>risen magnificently to the occasion and continue to show profound resilience and courage.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:134
+#, no-wrap
+msgid "<p>Day 3 saw<strong>&nbsp;a litany of creative, democratic, informed, inclusive and visionary outpourings of the rebellious spirit</strong>:&nbsp;<a href=\"https://www.youtube.com/watch?v=8yAIIC_pHSA&amp;feature=youtu.be\">mothers nursed their infants</a>,&nbsp;<strong>Youth</strong>&nbsp;and&nbsp;<strong>Elders</strong>&nbsp;came together for a theatrical ‘die in’, Gail Bradbrook and Geroge Monbiot spoke, and we have&nbsp;<strong><a href=\"https://actionnetwork.org/forms/keep-it-grounded-city-airport?source=direct_link&amp;\">big plans for City Airport</a>&nbsp;today</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:138
+#, no-wrap
+msgid "<p>The PM’s dad is certainly&nbsp;<a href=\"https://www.bbc.co.uk/news/uk-49987567\">impressed</a>, and Benedict Cumberbatch joined us for the night. But most significantly,&nbsp;<strong>over 400 MPs came to&nbsp;<a href=\"https://www.facebook.com/extinctionrebellionnorth/videos/718607281885037/\">collect a young tree to plant</a>&nbsp;from us</strong>. ‘[Extinction Rebellion] has changed the conversation’, claims Ed Miliband.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:142
+#, no-wrap
+msgid "<p><strong>And we’re going to keep changing it. Whatever it takes.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:146
+#, no-wrap
+msgid "<p><em>Please come along to our&nbsp;unifying&nbsp;<strong>march on Saturday</strong> as we gather to express our&nbsp;grief&nbsp;for the loss of life on our planet. <strong>Beginning in St James Park at 1.30pm</strong> and ending in Russell&nbsp;Square.</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:150
+#, no-wrap
+msgid "<p><strong><em>For a fuller update with news from all the sites, <a href=\"https://rebellion.earth/2019/10/10/london-rebellion-day-3/\">read more here</a></em></strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:154
+#, no-wrap
+msgid "<p><strong><em>London rebels, check out our&nbsp;<a href=\"https://rebellion.earth/2019/10/06/rebellion-needs-uk/\">Rebellion Needs page</a>&nbsp;for practical ways you can help rebels on the ground right now and other essential info.&nbsp;<br></em></strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:158
+#, no-wrap
+msgid "<p><em>And for real-time rebellion, tune into our brand new&nbsp;<a href=\"http://www.sohoradiolondon.com/player/culture\">rebel radio</a>! You can call in, from wherever you are, on +44 7367 900650.</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:162
+#, no-wrap
+msgid "<h3>Broadening perspectives in Paris</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:166
+#, no-wrap
+msgid "<p><strong>09 OCT | Place de Chatelet and beyond, Paris, France</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:170
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh3.googleusercontent.com/EPS7IfupAzO0FYC4ApSittSurhgHU-ebCDy8PxzNTJcla3gUfIncEhAMIUD3fo_hGEiw5V-PPohulkbLvnYv9HdQQk6d3kPHPAf4AWO_Cq_xqhcJ12nxEbwv_2m-eDG3RoXo759B\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:174
+#, no-wrap
+msgid "<p>Still&nbsp;<strong>no arrests</strong>&nbsp;in Paris today. Rebels from the&nbsp;<strong>Place de Chatelet&nbsp;</strong>tried to tickle the police and expand their area onto the busy Rue de Rivoli, block the private spaces of a nearby McDonalds and Louis Vuitton shop – but&nbsp;<strong>nothing prompted a police response</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:178
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/fFILThp4QBSEvkCFWrdNV4LyqZhbrtsRDWe8Lbd9jLTqymQ7wd8BG2OJpUaVkvwlz0T0qikEiD4F1aD7qNcpKcmUTFDLB3lm6AX-WbsgHFWHnJTkMvwE_ivNSAMNhIYtfLIpYi50\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:182
+#, no-wrap
+msgid "<p>Beyond actions, the day was one of reflection and horizon-expanding.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:186
+#, no-wrap
+msgid "<p>We had a visit from&nbsp;<strong>two indigenous activists from Cauca in Colombia, María and Samuel</strong>. They thanked French rebels for joining the struggle for Mother Nature and encouraged them to continue, but reminded us that<strong>&nbsp;their activist struggle back home is not only for Nature but for their communities and lives.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:190
+#, no-wrap
+msgid "<p>According to Samuel, in the past month,&nbsp;<strong>47 indigenous</strong>&nbsp;representatives or guards have been killed in the Cauca region alone.&nbsp;<strong>Every day there is a rebellion, and the question of life or death is an ever-present concern.&nbsp;</strong>Our day ended with a tribute and silent procession.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:194
+#, no-wrap
+msgid "<p><strong>The environmental revolution will be built on solidarity and intercultural bonds, or it will not be built at all.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:198
+#, no-wrap
+msgid "<p><em>For more from XR France, check out their wonderful&nbsp;<a href=\"https://docs.google.com/document/d/1tufzfaUQgjOhrFpPtGz_w88CCoCJJ90J920VXvtYzEs/edit\">Gazette</a>.</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:202
+#, no-wrap
+msgid "<h3>Chile calls for change</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:206
+#, no-wrap
+msgid "<p><strong>6- 8 OCT | Santiago, Chile</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:210
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh6.googleusercontent.com/kIe1fogUO6AreD6-lDz-pvXunL2556zKOMgKQg3rOBCYvUcxXupcjeyrDx6EIGInMAC54RB0RBpOnBgy7jvrAFf_fWXrk_5Nv0HLcx1utBu-rX3g9qYAiZweoLo-JQVaoC5ip5-z\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:214
+#, no-wrap
+msgid "<p><strong>Rebels in Santiago have been standing up and lying down in defense of the planet</strong>.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:218
+#, no-wrap
+msgid "<p>Chilean rebels held<strong>&nbsp;a family friendly die-in at Persa Bío Bío</strong>,&nbsp;<strong>a blockade at Alameda Av</strong>., one of the busiest streets of the city, and&nbsp;<strong>a protest against the fast fashion industry</strong>&nbsp;in Costanera Centre Mall.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:222
+#, no-wrap
+msgid "<p>On Saturday 12th, there will be a march on<strong>&nbsp;“El día del Encuentro de Dos Mundos” [Two Worlds Meeting),</strong>&nbsp;the remembrance day of Christopher Columbus arriving in America in 1492.&nbsp;&nbsp;</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:226
+#, no-wrap
+msgid "<p><strong>Rebels will be there to ensure that the accompanying legacy of colonialism, genocide and ecocide is not forgotten.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:230
+#, no-wrap
+msgid "<h3>South Africa Toxic Gas at Oil &amp; Power Conference</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:234
+#, no-wrap
+msgid "<p><strong>9 OCT | Cape Town, South Africa</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:238
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/UfB7S0YQ-w2ffesMD9tZf4q_X3vnBIh7dBPsRbAIO_YYlQYRIxgYWagW-iqazv6YR5l4fbbM61t4q79uV-pH3ZpdrFATFJnbmX0LvQcJjN4GRFuTNsfc67kVDJDu1EGcH_O_-DfF\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:242
+#, no-wrap
+msgid "<p><strong>XR Cape Town</strong>&nbsp;and&nbsp;<strong>XR Winelands</strong>&nbsp;took non-violent direct action yesterday against the&nbsp;<strong>‘Africa Oil and Power’ conference.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:246
+#, no-wrap
+msgid "<p><strong>The die-in performance involved rebels suffocating in vibrant clouds of ‘toxic’ gas</strong>, and was staged to draw attention to the crimes against humanity and the ecocide that the conference is facilitating.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:250
+#, no-wrap
+msgid "<p>On its&nbsp;<a href=\"https://africaoilandpower.com/event/aop-2019/\">website</a>&nbsp;the conference boasts of being a “platform” for countries across Africa to present&nbsp;<strong>oil exploration and other fossil fuel projects</strong>&nbsp;and “get deals signed”.&nbsp;<strong>No mention is made of the suffering stored up for the world’s most vulnerable with each new project undertaken.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:254
+#, no-wrap
+msgid "<p>These omissions are especially conspicuous given the&nbsp;<strong>susceptibility of sub-Saharan Africa to climate breakdown</strong>, a topic that South Africa’s government and media has resolutely failed to tackle.&nbsp;<strong>This is still a landscape where new gas finds are celebrated and talk of ‘clean coal’ is left unquestioned.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:258
+#, no-wrap
+msgid "<h3>XR Quebec Party for the Planet</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:262
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh5.googleusercontent.com/UKGkgYxKPnxBn9QGl-f-Dp2zRzb6d6t-iJ_QbkLx1_1ADv53wP36eG-wO8qTGVAHsGiqpUCWeBKIc6MfP2ewER2nZ6v4IX2mxfhrGff_pCMNuw41eKs9Sq7sbNrkjPaof79ppKkm\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:266
+#, no-wrap
+msgid "<p>The IPCC report, published on 8th October 2018, was supposed to mark a ‘line in the sand’ on climate action.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:270
+#, no-wrap
+msgid "<p><strong>A year later, XR Quebec organized a birthday party</strong>&nbsp;on a busy intersection in the heart of downtown to highlight how government inaction had crossed that very line. And what a party it was!&nbsp;<strong>200 people came together for a celebration of life and rebellion</strong>, with vegan cake, XR birthday hats and live music!</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:274
+#, no-wrap
+msgid "<p>But the symbolism didn’t end there: the original report was&nbsp;<strong>brought together by 40 countries</strong>, and it happened that&nbsp;<strong>40 rebels were arrested</strong>&nbsp;because they refused to end the party when told.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:278
+#, no-wrap
+msgid "<p>The&nbsp;<strong>arrestable support team</strong>&nbsp;didn’t miss a beat, providing&nbsp;<strong>pillows, legal advice and healthy snacks to the brave rebels!</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:282
+#, no-wrap
+msgid "<h3>XR Australia</h3>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:286
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh6.googleusercontent.com/a05wuBVVARIlhe8cBhjq9BIXQNIN-HRz7fmSZEQ5pRAmC-eAq5Ghcfshc7l0q5k6-j_EjdCJm__BDBV9JYCG2Duc217W3npj_Z9d3uzQ4Qp6pJgPFzrKxBdtqPrRswb0NMB660SM\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:290
+#, no-wrap
+msgid "<p><strong>At least 148 rebels have been arrested in Australia&nbsp;</strong>since the start of the Spring Rebellion.<a href=\"https://ausrebellion.earth/local-groups/\">&nbsp;48 XR groups</a>&nbsp;are taking part in non-violent direct action across the country.&nbsp;</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:294
+#, no-wrap
+msgid "<p><strong>Rebels are committed to disrupt until their government listens and acts! &nbsp;</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:298
+#, no-wrap
+msgid "<p>In&nbsp;<strong>Melbourne</strong>, rebels held a silent vigil on the steps of state parliament before marching through the city, blocking Flinders Street, before being forcibly removed by police. On Wednesday, a<a href=\"https://www.facebook.com/XRAustralia/videos/502154847303219/\">&nbsp;civil DISCO-Bedience</a>&nbsp;took place with rebels of all ages getting funky.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:302
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh4.googleusercontent.com/CAdw0laJjF7p-uxjjslPHEWn087n0HjRBcYPBkXx5r9Dv0oPu6iAQLvhaA8lH28nqIwc7nRwMsdCUL9jbHcwlJzta82NOZvdTYPmrVmihNzEpYSYmSEJ5qHJq8rITWH0lVkVYIrF\" alt=\"\"></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:306
+#, no-wrap
+msgid "<p>On Wednesday,&nbsp;<strong>Tasmania</strong>&nbsp;ramped up actions with a<a href=\"https://www.facebook.com/XRAustralia/videos/419867922033746/?eid=ARBjJqtqLTtzNlHhlDK1XQqbtxAY2bVTxiRDLUx9xXJmLsBhGTxeariObKztI2ZNmWatEogPyGE5vmEA\">&nbsp;Funeral for Life in Nipaluna / Hobart</a>&nbsp;to represent the generations that won’t exist because of inaction on climate change.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:310
+#, no-wrap
+msgid "<p>In an<a href=\"https://www.sydneycriminallawyers.com.au/blog/sydneys-rebellion-heats-up-an-interview-with-extinction-rebellions-elly-baxter/?fbclid=IwAR2jq6GqS_ramBsvzcRFm7XR77xp78WlnJT3FCB6TYlLOBqWZQv4g_c2oO8\">&nbsp;interview</a>, Elly Baxter mentioned: “The cornerstone of democracy is the right to protest. The government is supposed to report to us, the people. At the moment, they’re reporting to&nbsp;<strong>fossil fuel companies</strong>, and vested interests. And it’s not good enough”.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:314
+#, no-wrap
+msgid "<h2>XR Unchained</h2>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:318
+#, no-wrap
+msgid "<p><em>See more of the beautiful and courageous action from the International Rebellion in&nbsp;<a href=\"https://rebellion.earth/2019/10/10/xr-unchained-3/\">XR Unchained</a>. There is so much to tell.</em></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:322
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh3.googleusercontent.com/sqEayaWg4ODciefqxpJ-HTheoln9kqPo54lt1T7PiQMFGAJg_7xOMVk4HSp311FCsxpXGs-XK6TAh4kX-o2z34-0wwyuzpNXNgegXS1Jltiub2srJHYqCRDdfYMggY-3iuNy7ZeP\" alt=\"\"><figcaption><strong> Madrid</strong>&nbsp;rebels put on a solemn but artistic funeral performance. </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:326
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh5.googleusercontent.com/cwm1KMKJfa2dLjf6PO8NMUOCdbuh9VYUXOgtcaC5X98BCxX9GR-dEdxdCz3vPpwJ9f-yYPPAgt_lmim3a12BEqN9nZmQHibmQdu8YVI_OV4ZNLICCyRdVKWwCAmk4dieGdikdJ6O\" alt=\"\"><figcaption> In a moving performance in&nbsp;<strong>Pakistan</strong>, rebels in nooses stand on melting blocks of ice, as the time runs out to save ourselves. </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:330
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh6.googleusercontent.com/dpcEbKFMNH22AiyMxEUQAX6-e8Jp5Fr3iKus1VqJr7vZg6Xlf1ix7oQ37FYJLPwRxFxYwjxc2heHv2-eTBgWf4sYd-eFsICIrp_kA4fh-7pDF9HE-lLkwpnQZf9O2RkpJMFMi2Pb\" alt=\"\"><figcaption> Babies are held high at an emotional mothers’&nbsp;<a href=\"https://www.youtube.com/watch?v=8yAIIC_pHSA&amp;feature=youtu.be\">nurse-in</a>&nbsp;in&nbsp;<strong>London</strong>. </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:334
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh5.googleusercontent.com/rCA-AdA2FmWGm3RuuBaHKDBk-hxZIPRyZ6ao4M1FllWB95sO3kkbSByvrQCvKsdd0xKPngBTIZwygi9ZYj-eYwRbZDz3Gh6FM-Kh1x_AmOqCQoig9tVS0s_93etPlC3dYT0bZ1yE\" alt=\"\"><figcaption> <strong>Chicago</strong>&nbsp;youths dressed in black stage a die-into draw attention to the emergency. </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:338
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh3.googleusercontent.com/hVk1DmNTTf05zyhI4MG2aIPCQqrVH27iZm8mS1BxazkVkQ7sKDqaq9s_heXKZxdX8PRv1jTAFY7IPHa10FtUCNMm8K_ld4u44qQ1inISqKoCySLZNtrNiv-RErnQQrwpu5Pz6n7C\" alt=\"\"><figcaption> A hunger striker gets checked over in&nbsp;<strong>Rome</strong>. 15 rebels are sitting in front of the Parliament building with placards but the politicians are ignoring them. </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:342
+#, no-wrap
+msgid "<table class=\"wp-block-table\"><tbody><tr><td><div>          <a style=\"background-color:#14AA37;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:22px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\" rel=\"noopener noreferrer\" href=\"https://rebellion.earth/2019/10/10/xr-unchained-3/\">Discover XR Unchained</a>   </div><br></td></tr></tbody></table>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:346
+#, no-wrap
+msgid "<h2><a>Announcements</a></h2>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:350
+#, no-wrap
+msgid "<h2>XR Content</h2>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:354
+#, no-wrap
+msgid "<ul><li>Rebels explain why they are prepared to be arrested for the cause in a striking<a href=\"https://www.theguardian.com/environment/2019/oct/07/extinction-rebellion-arrestables-photo-essay\">&nbsp;photo essay</a></li><li><a href=\"https://www.facebook.com/watch/?v=1394983137318783\">Inspiring scenes in Austria</a>&nbsp;as the rebels transform a bridge</li><li>XR UK’s<a href=\"https://www.youtube.com/watch?v=HO4zkZtBZDo&amp;feature=youtu.be\">&nbsp;rebel nursing mothers</a>&nbsp;on the BBC</li><li>Aussie rebels&nbsp;<a href=\"https://www.instagram.com/p/B3ZQsFLH4X-/?igshid=x6w2ml4ml8kj\">flashmob to ‘Stayin’ Alive’&nbsp;</a>in Melbourne</li><li>Enjoy Jonathan Pie’s<a href=\"https://www.facebook.com/pg/JonathanPieReporter/videos/?ref=page_internal\">&nbsp;hilarious take</a>&nbsp;on the debate surrounding Extinction Rebellion – ‘Do you want to be a hypocrite or an arsehole?’</li><li>In light of today’s<a href=\"https://www.theguardian.com/environment/2019/oct/09/revealed-20-firms-third-carbon-emissions\">&nbsp;report</a>&nbsp;that just 20 fossil fuel companies have produced 35% of the carbon dioxide and methane since 1965,<a href=\"https://www.theguardian.com/commentisfree/2019/oct/09/polluters-climate-crisis-fossil-fuel\">&nbsp;George Monbiot</a>&nbsp;encourages everyone to change the system and join Extinction Rebellion.</li></ul>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:358
+#, no-wrap
+msgid "<h2>Humans of XR</h2>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:362
+#, no-wrap
+msgid "<figure class=\"wp-block-image\"><img class=\"img-fluid\" src=\"https://lh5.googleusercontent.com/9N5DUs0mXZngW87KF2C1SuNWPpG50oS4cCaCS9gGAvT-BH9b-KzcS8t8eM0qDUrjHnX6vT47NSO5V3q-Ex1HIqj_2igKbpzaYC11X0aacFTa6fnbC_6bAlO6QZQSrIupUpV2Js42\" alt=\"\"><figcaption> <strong>Raj, 56, retired Physics lecturer</strong>  </figcaption></figure>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:366
+#, no-wrap
+msgid "<p>‘<strong>We need workers eventually to take industrial strike action</strong>, that’s why there’s XR trades unionists meeting here on the 12th October. That will be the next big step, when ordinary organised workers actually take on board the slogan&nbsp;<strong>‘A living wage on a liveable planet’.</strong></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:370
+#, no-wrap
+msgid "<p><strong>I’m not an Arrestable today because I am a person of colour, and I have a bit of an antagonistic relationship with the police.&nbsp;</strong>I’d loath to do a nice chit-chat with the Police, I’ll leave that to the white rebels who are backing me.&nbsp;<br></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:374
+#, no-wrap
+msgid "<p>It’s fantastic that here in London they’ve got&nbsp;<strong>climate refugees from the global south</strong>&nbsp;at the centre of their arguments, because it is&nbsp;<strong>people of colour that are impacted adversely</strong>.’</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:378
+#, no-wrap
+msgid "<p><em>We are receiving amazing human stories and we want to know yours. To read more – or to write your own –<strong>&nbsp;join our&nbsp;</strong></em><a href=\"https://www.facebook.com/groups/468678977056685/\"><em><strong>Facebook group.</strong></em></a></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:382
+#, no-wrap
+msgid "<p>———–</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:386
+#, no-wrap
+msgid "<h2>Thank you</h2>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:390
+#, no-wrap
+msgid "<p>Thank you for reading! Stay strong, rebels, your energy is so valued.</p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:394
+#, no-wrap
+msgid "<p>If you have any questions or queries, please get in touch at&nbsp;<a href=\"mailto:xr-newsletter@protonmail.com\">xr-newsletter@protonmail.com</a>.&nbsp;<br></p>\n"
+msgstr ""
+
+#. type: Plain text
+#: 2019-10-10-rebel-daily-3.md:412
+#, no-wrap
+msgid ""
+"<table class=\"wp-block-table\"><tbody><tr><td><div>\n"
+"  <!--[if mso]>\n"
+"  <v:rect xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:w=\"urn:schemas-microsoft-com:office:word\" href=\"https://chuffed.org/project/xrinternational\" style=\"height:50px;v-text-anchor:middle;width:280px;\" stroke=\"f\" fillcolor=\"#ED9BC4\">\n"
+"    <w:anchorlock/>\n"
+"    <center>\n"
+"  <![endif]-->\n"
+"      <a href=\"https://chuffed.org/project/xrinternational\" style=\"background-color:#ED9BC4;color:#ffffff;display:block;font-family:Helvetica,Arial,sans-serif;font-size:23px;line-height:50px;height:50px;text-align:center;font-weight:bold;text-decoration:none;width:280px;-webkit-text-size-adjust:none;\" rel=\"noopener noreferrer\">Support the Rebellion</a>\n"
+"  <!--[if mso]>\n"
+"    </center>\n"
+"  </v:rect>\n"
+"<![endif]-->\n"
+"</div></td></tr></tbody></table>\n"
+msgstr ""

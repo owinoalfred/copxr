@@ -1,0 +1,9 @@
+#
+# This file is used by rsync to prevent some files/directories from being
+# exported to the target servers.
+#
+- .git*
+- README/
+- README.md
+- unusedClientBundle
+- *~

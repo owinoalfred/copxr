@@ -1,0 +1,1009 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2020-08-24 16:41+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:11
+#, no-wrap
+msgid ""
+"lang: en\n"
+"title: 'Global Newsletter #42'\n"
+"slug: newsletter-42\n"
+"date: '2020-08-24 12:11'\n"
+"published: true\n"
+"categories:\n"
+"  - blog\n"
+"image: /assets/uploads/newsletter42-image10.jpg\n"
+"seoImage: /assets/uploads/newsletter42-image10.jpg\n"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:13
+msgid "![](/assets/uploads/newsletter42-image10.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:15
+msgid "Photo: XR Israel"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:17
+msgid "Dear rebels,"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:19
+msgid ""
+"Every day we move closer and closer to a state of irreversible climate "
+"chaos, ridden with sickness, greed and desperation. Or – we can choose to "
+"move toward global societal change and a world we want to live in. The "
+"choice is ours.Don’t feed the system, feed the future."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:21
+msgid ""
+"Today we bring you exciting but incipient news of planned Rebellions all "
+"over the world. From Poland to Australia, through September and into early "
+"October, with more dates being added all the time.It's going down. We are "
+"all rising up! (Re)connect with your local group "
+"[here](https://rebellion.global/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:23
+msgid ""
+"This month we focus on actions across Asia and the Middle East. It’s "
+"heartening to see members of XR using their energy in collaboration with "
+"other movements and organizations to move towards a common goal."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:25
+msgid ""
+"In Turkey, rebels are working hard to support the [protection of Mount "
+"Ida](https://twitter.com/yokolus_isyani/status/1287450564217929728?s%3D21) "
+"from a Canadian gold miner. While in Israel,[rebels helped blockade "
+"parliament](https://www.haaretz.com/israel-news/.premium-activists-briefly-block-knesset-in-protest-over-law-limiting-government-oversight-1.9011615) "
+"and cut coal use."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:27
+msgid ""
+"We look to Helsinki where rebels have just finished a [12 day hunger "
+"strike](https://newsnowfinland.fi/domestic/climate-change-campaigners-end-12-day-helsinki-hunger-strike). "
+"Also we cover the Indigenous Emergency action, highlighting the plight of "
+"Indigenous cultures across the world during these times of crisis "
+"andstruggle."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:29
+msgid "![](/assets/uploads/newsletter42-image1.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:31
+msgid "From the XR Global Blog"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:33
+msgid ""
+"With less than a week to go before the Rebellion begins in the UK, the "
+"energy is high and rebels are hard at work. Have you seen the awesome "
+"[September Action "
+"Pack](https://docs.google.com/presentation/d/1ii8qT4ndMPhDESaMpQIXqb3d7tkFyHgWimxsG5uDoxs/edit%23slide%3Did.p)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:35
+msgid ""
+"Finally, in our Must Read section we publish a selection of posts from the "
+"[XR Global Blog](https://rebellion.global/news/). The Blog publishes weekly "
+"articles which shine a light on the threats that face us and the new tactics "
+"being used to fight the climate crisis."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:37
+msgid ""
+"As ever, be sure to browse our [Unchained](../xr-unchained-17) for a "
+"selection of all the excellent and juicy actions we couldn't fit in these "
+"pages."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:39
+msgid ""
+"If you’d like to help, please check out our "
+"[website](https://rebellion.global)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:41
+msgid ""
+"To connect to rebels in your local area, get in touch with your [nearest XR "
+"group](https://rebellion.global/branches/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:43
+msgid ""
+"If you’d like to see previous newsletter issues, you can find them "
+"[here](https://rebellion.global/news/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:45
+msgid ""
+"This Rebellion needs your support. If you can’t give time, consider giving "
+"[money](https://chuffed.org/project/xrinternational)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:47 2020-08-24-newsletter-42.md:328
+msgid ""
+"[Support the "
+"Rebellion](https://chuffed.org/project/xrinternational){.xr-button}"
+msgstr ""
+
+#. type: Title #
+#: 2020-08-24-newsletter-42.md:48
+#, no-wrap
+msgid "Action Highlights"
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:52
+#, no-wrap
+msgid "In Defence of Mountains"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:55
+msgid "26 JUL | Istanbul, Turkey"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:57
+msgid "![](/assets/uploads/newsletter42-image18.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:59
+msgid ""
+"Rebels from XR Turkey joined [hundreds of protestors in "
+"Istanbul](https://twitter.com/yokolus_isyani/status/1287450564217929728?s%3D21) "
+"to condemn theviolent arrest of environmental activists trying to reach "
+"Mount Idato protect it from mining."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:61
+msgid ""
+"The mountain has been devastated by a Canadian gold mine which has raised "
+"hundreds of thousands of trees and used cyanide to extract the gold."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:63
+msgid ""
+"A coach-load of activists from Istanbul were blocked by police and then "
+"arrested, while activists in nearby Çanakkale had [their press conference "
+"stormed by "
+"police](https://www.sozcu.com.tr/2020/gundem/kazdaglari-mucadelesi-anilacakti-eylemler-bir-hafta-sure-ile-yasaklandi-5952725/amp/) "
+"for apparently breaching Covid-19 guidelines.Over 20 activists were fined "
+"and jailed overnight."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:65
+msgid "![](/assets/uploads/newsletter42-image7.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:67
+msgid ""
+"Police storm an Ekoloji Birliği (Union of Ecology) press conference in "
+"Çanakkale Photo: SÖZCÜ"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:69
+msgid ""
+"Last year the mine was the site of [huge "
+"protests](https://twitter.com/KazDagSavunmasi/status/1291053094378364931?s%3D20)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:71
+msgid ""
+"A small group of those protestors have stayed on the mountain ever since, "
+"[using "
+"drones](https://twitter.com/KazdaglarK/status/1263150220914962434?s%3D20) to "
+"check the gold mine doesn’t restart operations. Authorities have fined them "
+"for their ‘illegal accommodation’ to the tune of thousands of dollars - but "
+"the protestors remain. The arrested activists had intended to join them to "
+"mark the 1st anniversary of those original protests."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:73
+msgid ""
+"A recent report by TEMA, a Turkish environmental group, uncovered that [79% "
+"of Mount "
+"Ida](http://bianet.org/english/environment/228230-report-on-ida-mountains-79-percent-of-the-region-is-mining-licensed) "
+"has been licensed for mining by the government."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:75
+msgid ""
+"XR Turkey and members of Mount Ida solidarity groups have vowed to not let "
+"repression and detentions stop them from defending the mountain."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:78
+#, no-wrap
+msgid "Israeli Rebels Blockade Parliament"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:81
+msgid "21 JUL | Jerusalem, Israel"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:83
+msgid "![](/assets/uploads/newsletter42-image20.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:85
+msgid ""
+"In Israel a group of brave rebelsblocked one of 3 roads leading to the "
+"parliament,the Knesset, while the other 2 roads were simultaneously [blocked "
+"by other "
+"movements.](https://www.haaretz.com/israel-news/.premium-activists-briefly-block-knesset-in-protest-over-law-limiting-government-oversight-1.9011615)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:87
+msgid ""
+"In a remarkable display of non-violent civil disobedience, they physically "
+"blocked access to the Knesset to prevent an anti-democratic law from "
+"passing, which would reduce parliament’s power to supervise the government’s "
+"actions, using the Coronaviruspandemicas a cover. All roads were "
+"aggressively cleared by the police. One rebel was arrested."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:89
+msgid "Check out our [Unchained](../xr-unchained-17) from XR Israel recently."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:92
+#, no-wrap
+msgid "Taiwan’s Clean Air Parade"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:95
+msgid "8 AUG| Taichung, Taiwan"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:97
+msgid ""
+"On Saturday 8 August, XR Taiwan rebels joined other environmental groups on "
+"the streets of Taichung City in central Taiwan, to call on the government to "
+"[cut air pollution and coal "
+"use](https://www.taipeitimes.com/News/taiwan/archives/2020/08/09/2003741371). "
+"The city is home to Taiwan’s largest coal-fired power plant."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:99
+msgid "![](/assets/uploads/newsletter42-image4.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:101
+msgid "Photo: Su Chin-feng, Taipei Times"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:103
+msgid ""
+"The protestors gathered in front of the city government’s municipal building "
+"before setting off on a march. The parade was led by Yeh Guang-perng, "
+"chairman of Air Clean Taiwan, and Mayor Lin Shih-hsien, who dressed as "
+"[trees to highlight the climate and ecological "
+"emergency](https://focustaiwan.tw/photos/20200808ENP0001m)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:105
+msgid ""
+"The Mayordeclared aclimate emergency for the first time in Taiwan.“This year "
+"is the most crucial time for people to choose a future of sustainability or "
+"extinction,” he told The Taipei Times."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:107
+msgid ""
+"The protestors urged the government to do the same, to promote green "
+"policies and shift to a net-zero carbon economy ."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:110
+#, no-wrap
+msgid "Indigenous Emergency"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:113
+msgid "9 AUG | London, UK, and Worldwide"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:115
+msgid "![](/assets/uploads/newsletter42-image9.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:117
+msgid ""
+"The steps of Trafalgar Squareturned red with fake blood, and the fountain "
+"neon green, as rebels declared an Indigenous Emergency in London. Banners "
+"displayed the motto ‘Genocide = Ecocide’, and people painted one hand red, "
+"one green, to highlight the plight of Indigenous Tribes in Brazil. Actions "
+"also took place in Spain, "
+"[Portugal](https://www.instagram.com/tv/CDqwKwanhXR/?igshid%3Defk3am9qfxpg), "
+"and the US. Five rebels were arrested."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:119
+msgid ""
+"[706 indigenous "
+"people](http://emergenciaindigena.apib.info/en/dados-covid-19-novo/) says "
+"“We denounce \\[the federal indigenous health service’s] lack of "
+"transparency and institutional racism anddemand respect for our rights.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:121
+msgid ""
+"Indigenous tribes’ first contact with foreign infectious diseases (including "
+"influenza) was during the European colonial invasion in the 15th century, "
+"which wiped out92% of the indigenous population."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:123
+msgid ""
+"You can [donate to APIB](http://apib.info/donate/?lang%3Den) so they can buy "
+"food, medicine and hygiene materials."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:126
+#, no-wrap
+msgid "Helsinki Hunger Strike"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:129
+msgid "10-21AUG | Helsinki, Finland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:131
+msgid "![](/assets/uploads/newsletter42-image6.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:133
+msgid ""
+"Rebels in the Finish capital have just ended their [hunger strike after an "
+"impressive 12 "
+"days](https://newsnowfinland.fi/domestic/climate-change-campaigners-end-12-day-helsinki-hunger-strike). "
+"They were calling on the Finnishgovernment to stepup stop delaying action on "
+"climate change."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:135
+msgid ""
+"In true XR style, the Kansalaistori camp - just outside the parliament -was "
+"a cheerful place full of colour, music and conversion.With many supportive "
+"passersby stopping to talk and learn about the CEE."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:137
+msgid ""
+"Despite the laudable claims ofFinland's centre-left government, the "
+"unfortunate truth is that over the past year there has beennothing but "
+"procrastination on the climate crisis.Finland continues to subsidise burning "
+"peat and domestic flights, and the state owned power company, Fortum, just "
+"opened a [new coal power station in "
+"Germany](https://www.powermag.com/germany-brings-last-new-coal-plant-online/)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:139
+msgid ""
+"Rebels said: ‘We have been inspired by the many people who have voiced their "
+"support, both privately and publicly. Over the past couple of weeks, we have "
+"also had a chance to talk with many politicians, including the minister for "
+"the environment and climate.’"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:141
+msgid ""
+"‘We are ending the hunger strike on our own terms, at a moment of our own "
+"choice. This is not a luxury that many people across the world "
+"enjoy. Realistic action will require uncomfortable changes to our lives, but "
+"if the alternative is catastrophic climate change,the choice should be "
+"clear.Our struggle continues.’"
+msgstr ""
+
+#. type: Title #
+#: 2020-08-24-newsletter-42.md:144
+#, no-wrap
+msgid "XR Unchained"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:147
+msgid ""
+"Who would have thought that we’d have too many actions for one newsletter? "
+"You amaze us, rebels. Keep it up! Please have a read of the full [XR "
+"Unchained](../xr-unchained-17) for more beautiful and courageous actions we "
+"couldn’t fit in this issue."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:149
+msgid "12 AUG | Tel Aviv, Israel"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:151
+msgid "![](/assets/uploads/newsletter42-image3.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:153
+msgid ""
+"Disguised as pigs, rebels opened a desk at the entrance to the offices of "
+"the[Psagot Investment "
+"House](https://en.wikipedia.org/wiki/Psagot_Investment_House) they so love "
+"to wallow in. They love it so much that they investover abillion and a half "
+"shekels in it."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:155
+msgid ""
+"“Psagot Investment House... is behaving selfishly and gluttonously devouring "
+"the rest of the carbon budget that we all have left. This return is going to "
+"cost us blood.”"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:157
+msgid "15 JUL | Boston, USA"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:159
+msgid "![](images/image11.jpg)![](/assets/uploads/newsletter42-image11.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:161
+msgid ""
+"Rebels staged a die-inoutsidethe Federal Reserve building in Boston to "
+"demand our government end fossil fuel bailouts and invest in renewables! The "
+"boat they used to block traffic had written \"Climate Emergency\" on one "
+"side and \"Just Transition\" on the other. Photos: Paul Rifkin & Skip Schiel"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:163
+msgid "10 AUG | Vistula River, Poland"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:165
+msgid "![](/assets/uploads/newsletter42-image8.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:167
+msgid ""
+"It is the longest river in Poland. It is of great importance in every corner "
+"of the country. As children, we sang songs about her and listened to her "
+"legends. The [Vistula](https://en.wikipedia.org/wiki/Vistula), queen of "
+"Polish rivers, is drying up due to climate change and disastrous corporate "
+"and human actions."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:169
+msgid ""
+"On 10 August, in the light of the setting sun and by the symbolic statue of "
+"the Warsaw Mermaid, XR Warsaw and a broad range of animal, youth, and "
+"environmental activists witnessed the Vistula’s funeral."
+msgstr ""
+
+#. type: Title #
+#: 2020-08-24-newsletter-42.md:172
+#, no-wrap
+msgid "Upcoming"
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:174
+#, no-wrap
+msgid "New Global Rebellion Dates"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:177
+msgid "Upcoming | Worldwide"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:179
+msgid "![](/assets/uploads/newsletter42-image5.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:181
+msgid "Time to get excited, rebels.The next waves of Rebellion are underway!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:183
+msgid ""
+"We’ll update you with further details as soon as we have them, but for now "
+"here is a quick rundown of upcoming events all over the world. Wherever you "
+"are, whoever you are, [get involved.](https://rebellion.global/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:185
+msgid ""
+"25 August: [XR "
+"Argentina](https://www.facebook.com/XRargentina/posts/920940698374941)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:187
+msgid "27 August: [XR Sweden](http://www.facebook.com/events/299727408099714)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:189
+msgid "1 September: [XR UK](https://www.facebook.com/events/901209047010625)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:191
+msgid "5 September: [XR Poland](https://www.facebook.com/events/883838282111419/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:193
+msgid ""
+"7 September: [XR New York "
+"City](https://www.facebook.com/events/758536381572046/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:195
+msgid "16 September: [XR Denmark](https://www.facebook.com/events/576974796298204/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:197
+msgid ""
+"18 September: [XR "
+"Netherlands](https://www.facebook.com/events/3297820580282351/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:199
+msgid ""
+"20 September: [XR "
+"Switzerland](https://www.facebook.com/events/298744868019378/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:201
+msgid "21 September: [XR Norway](https://www.facebook.com/events/708977793214004/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:203
+msgid "26 September: [XR Austria](https://www.facebook.com/events/727495894649948/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:205
+msgid "1 October: [XR Finland](https://elokapina.fi/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:207
+msgid ""
+"5 October: [XR "
+"Italy](https://www.facebook.com/watch/?v%3D1642318482603498%26extid%3DCBGLkzAH69dy4Mdg)"
+msgstr ""
+
+#. type: Title #
+#: 2020-08-24-newsletter-42.md:210
+#, no-wrap
+msgid "Announcements"
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:214
+#, no-wrap
+msgid "XR Africa News"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:217
+msgid "![](/assets/uploads/newsletter42-image19.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:219
+msgid ""
+"With stories from the Global South and beyond. The XR Africa News team are "
+"doing [wonderful "
+"work](https://shoutout.wix.com/so/52NE0TpjJ?link_id%3D0%26can_id%3D98ce4f77506fbdc41e07f5173ac785e9%26source%3Demail-newsletter-no2%26email_referrer%3Demail_882591%26email_subject%3Dxr-africa-media-newsletter-issue-no2%23/main)."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:222
+#, no-wrap
+msgid "The Troublemaker"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:225
+msgid "![](/assets/uploads/newsletter42-image17.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:227
+msgid "[The Troublemaker](https://www.thetroublemakermovie.com) for the link."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:229
+msgid ""
+"The film follows the personal awakenings of two people as they accept the "
+"reality of climate and ecological breakdown and decide to do something about "
+"it."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:231
+msgid ""
+"The first is Roger Hallam, praised and vilified by many both inside and "
+"outside of Extinction Rebellion. From organic farmer to social science "
+"theorist and one-time co-founder of XR, Hallam recently stepped away from "
+"any formal role in XR to form his own political party."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:233
+msgid ""
+"The other protagonist is Sylvia Dell, retired mother of 4 from South Devon, "
+"UK. Through Sylvia, we get a glimpse of how ecological activism can play out "
+"in the life of an apparently ‘ordinary’, law-abiding citizen."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:236
+#, no-wrap
+msgid "Join XR Global Support"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:239
+msgid "![](/assets/uploads/newsletter42-image12.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:241
+msgid "Want to supportXR groups around the world?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:243
+msgid ""
+"Global Support is a support body for XR groups, facilitating the flow of "
+"resources and material between groups and offering support in the form of "
+"trainings, funding, and more."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:245
+msgid ""
+"Groups with open roles include: Media & Messaging, Arts, Tech, SOS, Finance "
+"and Fundraising, Participative Democracy, Partnerships, Systems Development, "
+"Trainings"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:247
+msgid ""
+"Fill in [this "
+"form](https://forms.organise.earth/index.php?r%3Dsurvey/index%26sid%3D433164%26lang%3Den) "
+"or get in touch: XRInt-onboarding@protonmail.com."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:250
+#, no-wrap
+msgid "Global Finance Team. Volunteers Needed!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:253
+msgid "![](/assets/uploads/newsletter42-image15.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:255
+msgid ""
+"Join the team that keeps the lights on in the Extinction Rebellion Global "
+"Support movement! We’re looking for help with: raising funds, designing "
+"grant rounds to XR groups, data gathering and communications, and report "
+"writing."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:257
+msgid ""
+"Background in finance not necessary but you need to be "
+"numerate. Understanding of the Global South context is highly desirable. Get "
+"in touch: xrint-finance@protonmail.com"
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:260
+#, no-wrap
+msgid "Global Social Media. Volunteers Needed!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:263
+msgid "![](/assets/uploads/newsletter42-image14.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:265
+msgid ""
+"The Global Support Social Media Team are looking for volunteers to help grow "
+"XR's impact all over the world andamplify the diverse voices of our "
+"beautiful movement.We are looking for enthusiastic people to join our "
+"dynamic team and harness the power of social media to change the world for "
+"the better."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:267
+msgid ""
+"If you have previous social media experience or think that you've got what "
+"it takes to create eye-catching content, we'd love you to hear from you! Get "
+"in touch: socialmedia@rebellion.global"
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:270
+#, no-wrap
+msgid "XR Global Youtube Recruiting!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:273
+msgid "![](/assets/uploads/newsletter42-image2.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:275
+msgid ""
+"Can you help us find the best XR video content and help diversify the "
+"stories that we share?Join our YouTube team as a Global Content Hunter!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:277
+msgid ""
+"And if you have experience of managing big accounts, a good understanding of "
+"metrics and can help grow our YouTube channel... maybe you could go for the "
+"Coordinator role!"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:279
+msgid ""
+"Read more details about roles needed [here](https://xrb.link/s4in63W8N) and "
+"contact us at: XRglobalvideo@protonmail.com"
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:282
+#, no-wrap
+msgid "XR Podcast"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:285
+msgid "![](/assets/uploads/newsletter42-image22.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:287
+msgid ""
+"Check out the latest from XR Podcast. This week's podcast focuses on the new "
+"book 'Who Killed Berta Caceres' by Nina Lakhani which is a compelling "
+"thriller-like read based on the murder of the brave indigenous Berta. She "
+"died fighting the development of a dam using World Bank funding in her "
+"region in Honduras."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:289
+msgid ""
+"Listen "
+"[here](https://podcasts.apple.com/gb/podcast/extinction-rebellion-podcast/id1456115700?i%3D1000486326119)."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:292
+#, no-wrap
+msgid "Writers Rebel"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:295
+msgid "![](/assets/uploads/newsletter42-image13.jpg)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:297
+msgid ""
+"Writers Rebel uses the power of words to claim a safer, fairer future for "
+"all the planet’s inhabitants – human and non-human. Keep an eye on their "
+"blog for all the latest posts."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:299
+msgid "Read it [here.](https://writersrebel.com/category/read/)"
+msgstr ""
+
+#. type: Title #
+#: 2020-08-24-newsletter-42.md:302
+#, no-wrap
+msgid "Must Reads"
+msgstr ""
+
+#. type: Title ####
+#: 2020-08-24-newsletter-42.md:304
+#, no-wrap
+msgid "Latest News from Rebellion.global"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:307
+msgid ""
+"The blog at the [XR Global](https://rebellion.global) websitefocuses on the "
+"facts about the crisis as they are. You don’t have to be an expert to read "
+"them – but by reading them, you might just be on your way to becoming an "
+"expert."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:309
+msgid ""
+"[6 Ways That Pandemics and the Environment are "
+"Inseparable](https://rebellion.global/blog/2020/07/22/pandemics-environment/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:311
+msgid ""
+"Climate change and COVID-19 are linked. And if we don’t work quickly, this "
+"pandemic is just a warm-up for something worse. Great art from XR Comic "
+"Science helps break it down and make it accessible to even your least "
+"environmentally-minded friends and family."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:313
+msgid ""
+"[How Lockdown Has Shown That Reduced Emissions Mean Healthier Lives For Us "
+"All](https://rebellion.global/blog/2020/07/30/lockdown-emissions/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:315
+msgid ""
+"In places that went under lockdown due to COVID-19, reduced emissions led to "
+"fewer premature births, asthma attacks and other health issues. How can we "
+"continue the reduced emissions without the horror of a global disaster?"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:317
+msgid ""
+"[The Poisoning of Lake Erie: A Case for Granting Rights to "
+"Nature](https://rebellion.global/blog/2020/05/05/nature-rights/)"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:319
+msgid ""
+"Activists are fighting for Lake Erie through a unique legal means: by "
+"getting legal standing for the lake, just like humans have legal "
+"standing. It’s not as farfetched as it seems. Dive into the arguments "
+"activists are making and learn about the environmentalists on three "
+"continents that have done the same with varying degrees of success."
+msgstr ""
+
+#. type: Title ###
+#: 2020-08-24-newsletter-42.md:322
+#, no-wrap
+msgid "Thank you"
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:325
+msgid ""
+"Thank you for reading. Even in lockdown, there’s so much exciting stuff "
+"going on in the movement that we barely have time to write this "
+"sign-off. Keep up the good work! If you have any questions or queries, "
+"please get in touch at "
+"[xr-newsletter@protonmail.com](mailto:xr-newsletter@protonmail.com)."
+msgstr ""
+
+#. type: Plain text
+#: 2020-08-24-newsletter-42.md:327
+msgid ""
+"We are in a crucial phase of human history, and our Rebellion needs money to "
+"make our message heard. Anything you can "
+"[give](https://chuffed.org/project/xrinternational) is appreciated."
+msgstr ""
