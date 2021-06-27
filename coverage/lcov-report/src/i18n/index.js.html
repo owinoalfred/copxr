@@ -23,30 +23,30 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">87.5% </span>
+                <span class="strong">0% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>7/8</span>
+                <span class='fraction'>0/8</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">50% </span>
+                <span class="strong">0% </span>
                 <span class="quiet">Branches</span>
-                <span class='fraction'>2/4</span>
+                <span class='fraction'>0/4</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">100% </span>
+                <span class="strong">0% </span>
                 <span class="quiet">Functions</span>
-                <span class='fraction'>1/1</span>
+                <span class='fraction'>0/1</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">87.5% </span>
+                <span class="strong">0% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>7/8</span>
+                <span class='fraction'>0/8</span>
             </div>
         
             
@@ -55,7 +55,7 @@
             Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
         </p>
     </div>
-    <div class='status-line high'></div>
+    <div class='status-line low'></div>
     <pre><table class="coverage">
 <tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
 <a name='L2'></a><a href='#L2'>2</a>
@@ -89,16 +89,16 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
-<span class="cline-any cline-yes">1x</span>
-<span class="cline-any cline-yes">12x</span>
-<span class="cline-any cline-yes">12x</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
@@ -107,26 +107,26 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import VueI18n from 'vue-i18n';
 import { languages } from './config';
 import getChoiceIndex from './getChoiceIndex';
 &nbsp;
-export const messages = {}
-for (const lang of languages) {
-    try {
-        messages[lang] = require('./' + lang + '.json') || <span class="branch-1 cbranch-no" title="branch not covered" >{ locale: lang }</span>
+export const messages = <span class="cstat-no" title="statement not covered" >{}</span>
+<span class="cstat-no" title="statement not covered" >for (const lang of languages) {</span>
+<span class="cstat-no" title="statement not covered" >    try {</span>
+<span class="cstat-no" title="statement not covered" >        messages[lang] = require('./' + lang + '.json') || { locale: lang }</span>
     } catch (e) {
 <span class="cstat-no" title="statement not covered" >        messages[lang] = { locale: lang }</span>
     }
 }
 &nbsp;
-VueI18n.prototype.getChoiceIndex = getChoiceIndex;
+<span class="cstat-no" title="statement not covered" >VueI18n.prototype.getChoiceIndex = getChoiceIndex;</span>
 &nbsp;
 export let i18n;
 &nbsp;
@@ -134,13 +134,13 @@ export let i18n;
  * Use the i18n instance for the specified language
  * @param {'en'|'nl'|'fr'|'es'|'pl'|'pt'|'ru'|'zh'|'sv'|'el'|'xh'} lang 
  */
-export default function(lang) {
-    i18n = new VueI18n({
-        locale: lang || <span class="branch-1 cbranch-no" title="branch not covered" >'en',</span>
+export default <span class="fstat-no" title="function not covered" >fu</span>nction(lang) {
+<span class="cstat-no" title="statement not covered" >    i18n = new VueI18n({</span>
+        locale: lang || 'en',
         fallbackLocale: 'en',
         messages,
     })
-    return i18n;
+<span class="cstat-no" title="statement not covered" >    return i18n;</span>
 }</pre></td></tr></table></pre>
 
                 <div class='push'></div><!-- for sticky footer -->
@@ -148,7 +148,7 @@ export default function(lang) {
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
-                at Sun Jun 27 2021 12:44:00 GMT+0300 (East Africa Time)
+                at Sun Jun 27 2021 14:06:39 GMT+0300 (East Africa Time)
             </div>
         </div>
         <script src="../../prettify.js"></script>
