@@ -161,11 +161,11 @@
 </template>
 
 <script>
-import MapSSR from "@/modules/map/MapSSR";
+
 
 export default {
     components: {
-        MapSSR,
+
     },
     computed: {
         groupsCount() {
