@@ -23,9 +23,9 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>0/8</span>
+                <span class='fraction'>8/8</span>
             </div>
         
             
@@ -37,16 +37,16 @@
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Functions</span>
-                <span class='fraction'>0/3</span>
+                <span class='fraction'>3/3</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>0/8</span>
+                <span class='fraction'>8/8</span>
             </div>
         
             
@@ -55,7 +55,7 @@
             Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
         </p>
     </div>
-    <div class='status-line low'></div>
+    <div class='status-line high'></div>
     <pre><table class="coverage">
 <tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
 <a name='L2'></a><a href='#L2'>2</a>
@@ -93,25 +93,25 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">276x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">276x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">276x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">276x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">277x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import getLanguageFromRoute from './getLanguageFromRoute'
 import getRegex from './getRegex'
@@ -119,27 +119,27 @@ import getRegex from './getRegex'
 /**
  * From our { route: filePath } map, make an array of routes with a correct regex
  */
-export default function <span class="fstat-no" title="function not covered" >makeRoutes(</span>pathToFileMap) {
+export default function makeRoutes(pathToFileMap) {
     // parse and recreate config for use
-    const routes = <span class="cstat-no" title="statement not covered" >Object.keys(pathToFileMap).map(<span class="fstat-no" title="function not covered" >fu</span>nction (path) {</span>
-        const modulePath = <span class="cstat-no" title="statement not covered" >pathToFileMap[path]</span>
+    const routes = Object.keys(pathToFileMap).map(function (path) {
+        const modulePath = pathToFileMap[path]
 &nbsp;
-        const language = <span class="cstat-no" title="statement not covered" >getLanguageFromRoute(path)</span>
+        const language = getLanguageFromRoute(path)
 &nbsp;
         // /world/:country/:city creates a regex that can find match these :params via regex groups
-        const regex = <span class="cstat-no" title="statement not covered" >getRegex(path)</span>
+        const regex = getRegex(path)
 &nbsp;
-<span class="cstat-no" title="statement not covered" >        return makeRoute(path, regex, modulePath, language)</span>
+        return makeRoute(path, regex, modulePath, language)
     })
 &nbsp;
     // Add our 404 page as a wildcard
-<span class="cstat-no" title="statement not covered" >    routes.push(makeRoute('*', /.*/, 'src/pages/404.vue', 'en'))</span>
+    routes.push(makeRoute('*', /.*/, 'src/pages/404.vue', 'en'))
 &nbsp;
-<span class="cstat-no" title="statement not covered" >    return routes</span>
+    return routes
 }
 &nbsp;
-function <span class="fstat-no" title="function not covered" >makeRoute(</span>path, regex, modulePath, language) {
-<span class="cstat-no" title="statement not covered" >    return { path, regex, modulePath, language }</span>
+function makeRoute(path, regex, modulePath, language) {
+    return { path, regex, modulePath, language }
 }
 &nbsp;</pre></td></tr></table></pre>
 
@@ -148,7 +148,7 @@ function <span class="fstat-no" title="function not covered" >makeRoute(</span>p
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
-                at Sun Jun 27 2021 14:06:39 GMT+0300 (East Africa Time)
+                at Sun Jun 27 2021 17:07:59 GMT+0300 (East Africa Time)
             </div>
         </div>
         <script src="../../../../prettify.js"></script>

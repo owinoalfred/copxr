@@ -23,30 +23,30 @@
         <div class='clearfix'>
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">88.24% </span>
                 <span class="quiet">Statements</span>
-                <span class='fraction'>0/17</span>
+                <span class='fraction'>15/17</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">85.71% </span>
                 <span class="quiet">Branches</span>
-                <span class='fraction'>0/14</span>
+                <span class='fraction'>12/14</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">100% </span>
                 <span class="quiet">Functions</span>
-                <span class='fraction'>0/2</span>
+                <span class='fraction'>2/2</span>
             </div>
         
             
             <div class='fl pad1y space-right2'>
-                <span class="strong">0% </span>
+                <span class="strong">88.24% </span>
                 <span class="quiet">Lines</span>
-                <span class='fraction'>0/17</span>
+                <span class='fraction'>15/17</span>
             </div>
         
             
@@ -55,7 +55,7 @@
             Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
         </p>
     </div>
-    <div class='status-line low'></div>
+    <div class='status-line high'></div>
     <pre><table class="coverage">
 <tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
 <a name='L2'></a><a href='#L2'>2</a>
@@ -99,77 +99,77 @@
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">7x</span>
+<span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">7x</span>
 <span class="cline-any cline-no">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">7x</span>
+<span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">7x</span>
+<span class="cline-any cline-yes">3x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">4x</span>
+<span class="cline-any cline-yes">4x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
+<span class="cline-any cline-yes">4x</span>
 <span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">4x</span>
+<span class="cline-any cline-yes">3x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">import { parseISO } from '@/util/date'
 import { isBefore } from 'date-fns'
 &nbsp;
-export default function <span class="fstat-no" title="function not covered" >getSortedPostsInLanguage(</span>posts, preferredLanguage) {
-    const postsBySlug = <span class="cstat-no" title="statement not covered" >{}</span>
+export default function getSortedPostsInLanguage(posts, preferredLanguage) {
+    const postsBySlug = {}
 &nbsp;
     // we have articles in both translated (lang='es') and in English
     // prefer other language if it is the current language we are rendering
-<span class="cstat-no" title="statement not covered" >    for (const key in posts) {</span>
-        const item = <span class="cstat-no" title="statement not covered" >posts[key]</span>
+    for (const key in posts) {
+        const item = posts[key]
 &nbsp;
-<span class="cstat-no" title="statement not covered" >        if (!item.published &amp;&amp; process.env.APP_ENV === 'production') {</span>
+        <span class="missing-if-branch" title="if path not taken" >I</span>if (!item.published &amp;&amp; process.env.APP_ENV === 'production') {
 <span class="cstat-no" title="statement not covered" >            continue </span>// these are filtered out in production
         }
 &nbsp;
         // does not exist yet - and is in the default language
-<span class="cstat-no" title="statement not covered" >        if (!postsBySlug[item.slug] &amp;&amp; item.lang === 'en') {</span>
-<span class="cstat-no" title="statement not covered" >            postsBySlug[item.slug] = item</span>
+        if (!postsBySlug[item.slug] &amp;&amp; item.lang === 'en') {
+            postsBySlug[item.slug] = item
         }
 &nbsp;
         // does exist or does not exist, doesn't matter, we want our language to show
-<span class="cstat-no" title="statement not covered" >        if (item.lang === preferredLanguage) {</span>
-<span class="cstat-no" title="statement not covered" >            postsBySlug[item.slug] = item</span>
+        if (item.lang === preferredLanguage) {
+            postsBySlug[item.slug] = item
         }
     }
 &nbsp;
     // turn to an Array and sort these by date
-<span class="cstat-no" title="statement not covered" >    return Object.values(postsBySlug).sort(<span class="fstat-no" title="function not covered" >(a</span>, b) =&gt; {</span>
-        const dateA = <span class="cstat-no" title="statement not covered" >parseISO(a.date)</span>
-        const dateB = <span class="cstat-no" title="statement not covered" >parseISO(b.date)</span>
+    return Object.values(postsBySlug).sort((a, b) =&gt; {
+        const dateA = parseISO(a.date)
+        const dateB = parseISO(b.date)
         
-<span class="cstat-no" title="statement not covered" >        if (isBefore(dateA, dateB)) {</span>
+        <span class="missing-if-branch" title="if path not taken" >I</span>if (isBefore(dateA, dateB)) {
 <span class="cstat-no" title="statement not covered" >            return 1</span>
-        } else <span class="cstat-no" title="statement not covered" >if (isBefore(dateB, dateA)) {</span>
-<span class="cstat-no" title="statement not covered" >            return -1</span>
+        } else if (isBefore(dateB, dateA)) {
+            return -1
         }
-<span class="cstat-no" title="statement not covered" >        return 0</span>
+        return 0
     })
 }</pre></td></tr></table></pre>
 
@@ -178,7 +178,7 @@ export default function <span class="fstat-no" title="function not covered" >get
             <div class='footer quiet pad2 space-top1 center small'>
                 Code coverage generated by
                 <a href="https://istanbul.js.org/" target="_blank">istanbul</a>
-                at Sun Jun 27 2021 14:06:39 GMT+0300 (East Africa Time)
+                at Sun Jun 27 2021 17:07:59 GMT+0300 (East Africa Time)
             </div>
         </div>
         <script src="../../../prettify.js"></script>
